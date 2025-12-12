@@ -42,7 +42,7 @@ def main():
                        help="LLM backend type")
     parser.add_argument("--model", type=str, default="gpt-4o",
                        help="Model name (for OpenAI/vLLM)")
-    parser.add_argument("--api-key", type=str, default="sk-8uvYteMJdJ5YdwlJD0m2nCGnGvoWGqXmtcy5WW1zeWEKuKCi",
+    parser.add_argument("--api-key", type=str, default=None,
                        help="OpenAI API key (or set OPENAI_API_KEY env var)")
     parser.add_argument("--api-base", type=str, default="http://localhost:8000/v1",
                        help="vLLM server API base URL")
