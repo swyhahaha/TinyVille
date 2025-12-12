@@ -6,10 +6,13 @@ for simulating emergent language in zero-sum game environments.
 """
 
 from abc import ABC, abstractmethod
-from typing import List, Dict, Any, Optional, Tuple
+from typing import List, Dict, Any, Optional, Tuple, TYPE_CHECKING
 from enum import Enum
 
 from .memory import MemoryStream, AbstractSymbolMemory
+
+if TYPE_CHECKING:
+    from ..core.protocol import Message, Observation, Action
 
 
 class AgentRole(Enum):
@@ -252,6 +255,37 @@ class BaseAgent(ABC):
             Total reward value
         """
         pass
+    
+    # ==================== Core Interaction (for World integration) ====================
+    
+    def act(self, 
+            observations: List['Observation'],
+            messages: List['Message'],
+            env_state: Dict[str, Any]) -> Tuple[Optional['Action'], Optional['Message']]:
+        """
+        Core interaction method called by World each timestep.
+        
+        This is the primary entry point for agent behavior in the simulation.
+        Subclasses should override this method to implement their logic.
+        
+        Args:
+            observations: List of observations received this timestep
+            messages: List of messages received from other agents
+            env_state: Current environment state (may be filtered by agent's view)
+            
+        Returns:
+            Tuple of (action, outgoing_message)
+            - action: Action to perform (or None)
+            - outgoing_message: Message to send (or None)
+            
+        Note:
+            Default implementation raises NotImplementedError.
+            Agents integrating with World must implement this method.
+        """
+        raise NotImplementedError(
+            "Subclass must implement act() for World integration. "
+            "This method should process observations/messages and return (action, message)."
+        )
 
 
 class TeamAgent(BaseAgent):
