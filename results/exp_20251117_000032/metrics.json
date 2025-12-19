@@ -1,0 +1,9 @@
+{
+  "cross_team_mi": 0.17014337384877987,
+  "compositionality": 0.7483922208283573,
+  "symbol_reuse": 1.0,
+  "shared_vocab_size": 4,
+  "team_a_unique": 5,
+  "team_b_unique": 1,
+  "efficiency": 0.1894273127753304
+}

@@ -1,0 +1,2917 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "pairing": {
+        "gope": "badobo",
+        "badobo": "gope",
+        "kotevo": "fubuga",
+        "fubuga": "kotevo"
+      },
+      "chat": [
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "gope",
+          "partner": "badobo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "badobo",
+          "partner": "gope",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kotevo",
+          "partner": "fubuga",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "fubuga",
+          "partner": "kotevo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "gope",
+          "partner": "badobo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "badobo",
+          "partner": "gope",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kotevo",
+          "partner": "fubuga",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "fubuga",
+          "partner": "kotevo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "pairing": {
+        "gope": "badobo",
+        "badobo": "gope",
+        "kotevo": "fubuga",
+        "fubuga": "kotevo"
+      },
+      "chat": [
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "gope",
+          "partner": "badobo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "badobo",
+          "partner": "gope",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kotevo",
+          "partner": "fubuga",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "fubuga",
+          "partner": "kotevo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "gope",
+          "partner": "badobo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "badobo",
+          "partner": "gope",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kotevo",
+          "partner": "fubuga",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "fubuga",
+          "partner": "kotevo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "pairing": {
+        "gope": "badobo",
+        "badobo": "gope",
+        "kotevo": "fubuga",
+        "fubuga": "kotevo"
+      },
+      "chat": [
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "gope",
+          "partner": "badobo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "badobo",
+          "partner": "gope",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kotevo",
+          "partner": "fubuga",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "fubuga",
+          "partner": "kotevo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "gope",
+          "partner": "badobo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "badobo",
+          "partner": "gope",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kotevo",
+          "partner": "fubuga",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "fubuga",
+          "partner": "kotevo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "pairing": {
+        "badobo": "fubuga",
+        "fubuga": "badobo",
+        "gope": "kotevo",
+        "kotevo": "gope"
+      },
+      "chat": [
+        {
+          "sender": "gope",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "gope",
+          "partner": "kotevo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "badobo",
+          "partner": "fubuga",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kotevo",
+          "partner": "gope",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "fubuga",
+          "partner": "badobo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "gope",
+          "partner": "kotevo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "badobo",
+          "partner": "fubuga",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kotevo",
+          "partner": "gope",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "fubuga",
+          "partner": "badobo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "pairing": {
+        "gope": "kotevo",
+        "kotevo": "gope",
+        "badobo": "fubuga",
+        "fubuga": "badobo"
+      },
+      "chat": [
+        {
+          "sender": "gope",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "gope",
+          "partner": "kotevo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "badobo",
+          "partner": "fubuga",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kotevo",
+          "partner": "gope",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "fubuga",
+          "partner": "badobo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "gope",
+          "partner": "kotevo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "badobo",
+          "partner": "fubuga",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kotevo",
+          "partner": "gope",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "fubuga",
+          "partner": "badobo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "pairing": {
+        "kotevo": "badobo",
+        "badobo": "kotevo",
+        "gope": "fubuga",
+        "fubuga": "gope"
+      },
+      "chat": [
+        {
+          "sender": "gope",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "gope",
+          "partner": "fubuga",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "badobo",
+          "partner": "kotevo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kotevo",
+          "partner": "badobo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "fubuga",
+          "partner": "gope",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "gope",
+          "partner": "fubuga",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "badobo",
+          "partner": "kotevo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kotevo",
+          "partner": "badobo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "fubuga",
+          "partner": "gope",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "pairing": {
+        "gope": "badobo",
+        "badobo": "gope",
+        "kotevo": "fubuga",
+        "fubuga": "kotevo"
+      },
+      "chat": [
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "gope",
+          "partner": "badobo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "badobo",
+          "partner": "gope",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kotevo",
+          "partner": "fubuga",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "fubuga",
+          "partner": "kotevo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "gope",
+          "partner": "badobo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "badobo",
+          "partner": "gope",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kotevo",
+          "partner": "fubuga",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "fubuga",
+          "partner": "kotevo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "pairing": {
+        "fubuga": "badobo",
+        "badobo": "fubuga",
+        "gope": "kotevo",
+        "kotevo": "gope"
+      },
+      "chat": [
+        {
+          "sender": "gope",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "gope",
+          "partner": "kotevo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "badobo",
+          "partner": "fubuga",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kotevo",
+          "partner": "gope",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "fubuga",
+          "partner": "badobo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "gope",
+          "partner": "kotevo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "badobo",
+          "partner": "fubuga",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kotevo",
+          "partner": "gope",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "fubuga",
+          "partner": "badobo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "pairing": {
+        "fubuga": "gope",
+        "gope": "fubuga",
+        "badobo": "kotevo",
+        "kotevo": "badobo"
+      },
+      "chat": [
+        {
+          "sender": "gope",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "gope",
+          "partner": "fubuga",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "badobo",
+          "partner": "kotevo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kotevo",
+          "partner": "badobo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "fubuga",
+          "partner": "gope",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "gope",
+          "partner": "fubuga",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "badobo",
+          "partner": "kotevo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kotevo",
+          "partner": "badobo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "fubuga",
+          "partner": "gope",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "pairing": {
+        "kotevo": "gope",
+        "gope": "kotevo",
+        "badobo": "fubuga",
+        "fubuga": "badobo"
+      },
+      "chat": [
+        {
+          "sender": "gope",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "gope",
+          "partner": "kotevo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "badobo",
+          "partner": "fubuga",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kotevo",
+          "partner": "gope",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "fubuga",
+          "partner": "badobo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "gope",
+          "partner": "kotevo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "badobo",
+          "partner": "fubuga",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kotevo",
+          "partner": "gope",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "fubuga",
+          "partner": "badobo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "pairing": {
+        "gope": "badobo",
+        "badobo": "gope",
+        "kotevo": "fubuga",
+        "fubuga": "kotevo"
+      },
+      "chat": [
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "gope",
+          "partner": "badobo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "badobo",
+          "partner": "gope",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kotevo",
+          "partner": "fubuga",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "fubuga",
+          "partner": "kotevo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "gope",
+          "partner": "badobo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "badobo",
+          "partner": "gope",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kotevo",
+          "partner": "fubuga",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "fubuga",
+          "partner": "kotevo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "pairing": {
+        "gope": "badobo",
+        "badobo": "gope",
+        "kotevo": "fubuga",
+        "fubuga": "kotevo"
+      },
+      "chat": [
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "gope",
+          "partner": "badobo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "badobo",
+          "partner": "gope",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kotevo",
+          "partner": "fubuga",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "fubuga",
+          "partner": "kotevo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "gope",
+          "partner": "badobo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "badobo",
+          "partner": "gope",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kotevo",
+          "partner": "fubuga",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "fubuga",
+          "partner": "kotevo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "pairing": {
+        "gope": "badobo",
+        "badobo": "gope",
+        "kotevo": "fubuga",
+        "fubuga": "kotevo"
+      },
+      "chat": [
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "gope",
+          "partner": "badobo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "badobo",
+          "partner": "gope",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kotevo",
+          "partner": "fubuga",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "fubuga",
+          "partner": "kotevo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "gope",
+          "partner": "badobo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "badobo",
+          "partner": "gope",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kotevo",
+          "partner": "fubuga",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "fubuga",
+          "partner": "kotevo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "pairing": {
+        "kotevo": "badobo",
+        "badobo": "kotevo",
+        "gope": "fubuga",
+        "fubuga": "gope"
+      },
+      "chat": [
+        {
+          "sender": "gope",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gope",
+          "receiver": "fubuga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "badobo",
+          "receiver": "kotevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kotevo",
+          "receiver": "badobo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fubuga",
+          "receiver": "gope",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "gope",
+          "partner": "fubuga",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "badobo",
+          "partner": "kotevo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kotevo",
+          "partner": "badobo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "fubuga",
+          "partner": "gope",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "gope",
+          "partner": "fubuga",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "badobo",
+          "partner": "kotevo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kotevo",
+          "partner": "badobo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "fubuga",
+          "partner": "gope",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    }
+  ],
+  "final_scores": {
+    "team_a": {
+      "provisional": 14,
+      "penalty": 3,
+      "final": 11,
+      "by_resource": {
+        "fruit": 4,
+        "fish": 1,
+        "water": 2,
+        "grain": 3,
+        "meat": 4
+      }
+    },
+    "team_b": {
+      "provisional": 14,
+      "penalty": 2,
+      "final": 12,
+      "by_resource": {
+        "fruit": 3,
+        "water": 2,
+        "meat": 4,
+        "grain": 2,
+        "fish": 3
+      }
+    }
+  },
+  "vocabulary": {
+    "gake": "hello",
+    "poto": "goodbye",
+    "vuke": "please",
+    "ganeti": "thanks",
+    "maveza": "yes",
+    "mesu": "no",
+    "fera": "and",
+    "tade": "I",
+    "lonako": "you",
+    "pipo": "have",
+    "zugubu": "want",
+    "kevima": "give",
+    "somosu": "meat",
+    "loki": "grain",
+    "senila": "water",
+    "rebinu": "fruit",
+    "menifu": "fish",
+    "lomupo": "much",
+    "lutu": "question"
+  },
+  "allocations": {
+    "alice": {
+      "fruit": 2,
+      "fish": 1,
+      "water": 1,
+      "grain": 0,
+      "meat": 3
+    },
+    "bob": {
+      "grain": 3,
+      "fruit": 2,
+      "meat": 1,
+      "fish": 0,
+      "water": 1
+    },
+    "carol": {
+      "fruit": 1,
+      "water": 1,
+      "meat": 3,
+      "grain": 2,
+      "fish": 0
+    },
+    "dave": {
+      "fish": 3,
+      "grain": 0,
+      "meat": 1,
+      "fruit": 2,
+      "water": 1
+    }
+  },
+  "pairings": [
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "bob": "dave",
+      "dave": "bob",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "alice": "carol",
+      "carol": "alice",
+      "bob": "dave",
+      "dave": "bob"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "dave": "bob",
+      "bob": "dave",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "dave": "alice",
+      "alice": "dave",
+      "bob": "carol",
+      "carol": "bob"
+    },
+    {
+      "carol": "alice",
+      "alice": "carol",
+      "bob": "dave",
+      "dave": "bob"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    }
+  ],
+  "name_map": {
+    "alice": "gope",
+    "bob": "badobo",
+    "carol": "kotevo",
+    "dave": "fubuga"
+  }
+}

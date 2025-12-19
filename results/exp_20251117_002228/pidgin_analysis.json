@@ -1,0 +1,158 @@
+{
+  "detected": true,
+  "shared_vocabulary_size": 10,
+  "stable_pidgin_tokens": [
+    "tok9",
+    "tok15",
+    "tok11",
+    "tok10",
+    "tok8",
+    "tok12",
+    "tok7",
+    "tok14",
+    "tok6",
+    "tok13"
+  ],
+  "pidgin_semantics": {
+    "tok9": [
+      [
+        "is_trap:False",
+        0.2
+      ],
+      [
+        "shape:square",
+        0.100990099009901
+      ],
+      [
+        "shape:circle",
+        0.09900990099009901
+      ]
+    ],
+    "tok15": [
+      [
+        "is_trap:False",
+        0.2
+      ],
+      [
+        "shape:square",
+        0.1
+      ],
+      [
+        "shape:circle",
+        0.1
+      ]
+    ],
+    "tok11": [
+      [
+        "is_trap:False",
+        0.2
+      ],
+      [
+        "shape:square",
+        0.1011764705882353
+      ],
+      [
+        "shape:circle",
+        0.0988235294117647
+      ]
+    ],
+    "tok10": [
+      [
+        "is_trap:False",
+        0.2
+      ],
+      [
+        "shape:square",
+        0.10120481927710843
+      ],
+      [
+        "shape:circle",
+        0.09879518072289156
+      ]
+    ],
+    "tok8": [
+      [
+        "is_trap:False",
+        0.2
+      ],
+      [
+        "shape:square",
+        0.1
+      ],
+      [
+        "shape:circle",
+        0.1
+      ]
+    ],
+    "tok12": [
+      [
+        "is_trap:False",
+        0.2
+      ],
+      [
+        "shape:square",
+        0.1031578947368421
+      ],
+      [
+        "shape:circle",
+        0.0968421052631579
+      ]
+    ],
+    "tok7": [
+      [
+        "is_trap:False",
+        0.2
+      ],
+      [
+        "shape:square",
+        0.10095238095238095
+      ],
+      [
+        "shape:circle",
+        0.09904761904761905
+      ]
+    ],
+    "tok14": [
+      [
+        "is_trap:False",
+        0.2
+      ],
+      [
+        "shape:square",
+        0.1010989010989011
+      ],
+      [
+        "shape:circle",
+        0.0989010989010989
+      ]
+    ],
+    "tok6": [
+      [
+        "is_trap:False",
+        0.2
+      ],
+      [
+        "shape:circle",
+        0.10270270270270271
+      ],
+      [
+        "shape:square",
+        0.0972972972972973
+      ]
+    ],
+    "tok13": [
+      [
+        "is_trap:False",
+        0.2
+      ],
+      [
+        "shape:square",
+        0.10120481927710843
+      ],
+      [
+        "shape:circle",
+        0.09879518072289156
+      ]
+    ]
+  }
+}

@@ -1,0 +1,2917 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "pairing": {
+        "tafu": "kefagu",
+        "kefagu": "tafu",
+        "suli": "ginuki",
+        "ginuki": "suli"
+      },
+      "chat": [
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafu",
+          "partner": "kefagu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kefagu",
+          "partner": "tafu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "suli",
+          "partner": "ginuki",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "ginuki",
+          "partner": "suli",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "tafu",
+          "partner": "kefagu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kefagu",
+          "partner": "tafu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "suli",
+          "partner": "ginuki",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "ginuki",
+          "partner": "suli",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "pairing": {
+        "tafu": "kefagu",
+        "kefagu": "tafu",
+        "suli": "ginuki",
+        "ginuki": "suli"
+      },
+      "chat": [
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafu",
+          "partner": "kefagu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kefagu",
+          "partner": "tafu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "suli",
+          "partner": "ginuki",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "ginuki",
+          "partner": "suli",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "tafu",
+          "partner": "kefagu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kefagu",
+          "partner": "tafu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "suli",
+          "partner": "ginuki",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "ginuki",
+          "partner": "suli",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "pairing": {
+        "tafu": "kefagu",
+        "kefagu": "tafu",
+        "suli": "ginuki",
+        "ginuki": "suli"
+      },
+      "chat": [
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafu",
+          "partner": "kefagu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kefagu",
+          "partner": "tafu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "suli",
+          "partner": "ginuki",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "ginuki",
+          "partner": "suli",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "tafu",
+          "partner": "kefagu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kefagu",
+          "partner": "tafu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "suli",
+          "partner": "ginuki",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "ginuki",
+          "partner": "suli",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "pairing": {
+        "suli": "tafu",
+        "tafu": "suli",
+        "kefagu": "ginuki",
+        "ginuki": "kefagu"
+      },
+      "chat": [
+        {
+          "sender": "tafu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafu",
+          "partner": "suli",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kefagu",
+          "partner": "ginuki",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "suli",
+          "partner": "tafu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "ginuki",
+          "partner": "kefagu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "tafu",
+          "partner": "suli",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kefagu",
+          "partner": "ginuki",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "suli",
+          "partner": "tafu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "ginuki",
+          "partner": "kefagu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "pairing": {
+        "suli": "kefagu",
+        "kefagu": "suli",
+        "tafu": "ginuki",
+        "ginuki": "tafu"
+      },
+      "chat": [
+        {
+          "sender": "tafu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafu",
+          "partner": "ginuki",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kefagu",
+          "partner": "suli",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "suli",
+          "partner": "kefagu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "ginuki",
+          "partner": "tafu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "tafu",
+          "partner": "ginuki",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kefagu",
+          "partner": "suli",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "suli",
+          "partner": "kefagu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "ginuki",
+          "partner": "tafu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "pairing": {
+        "tafu": "kefagu",
+        "kefagu": "tafu",
+        "suli": "ginuki",
+        "ginuki": "suli"
+      },
+      "chat": [
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafu",
+          "partner": "kefagu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kefagu",
+          "partner": "tafu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "suli",
+          "partner": "ginuki",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "ginuki",
+          "partner": "suli",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "tafu",
+          "partner": "kefagu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kefagu",
+          "partner": "tafu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "suli",
+          "partner": "ginuki",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "ginuki",
+          "partner": "suli",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "pairing": {
+        "suli": "tafu",
+        "tafu": "suli",
+        "kefagu": "ginuki",
+        "ginuki": "kefagu"
+      },
+      "chat": [
+        {
+          "sender": "tafu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafu",
+          "partner": "suli",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kefagu",
+          "partner": "ginuki",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "suli",
+          "partner": "tafu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "ginuki",
+          "partner": "kefagu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "tafu",
+          "partner": "suli",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kefagu",
+          "partner": "ginuki",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "suli",
+          "partner": "tafu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "ginuki",
+          "partner": "kefagu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "pairing": {
+        "tafu": "kefagu",
+        "kefagu": "tafu",
+        "suli": "ginuki",
+        "ginuki": "suli"
+      },
+      "chat": [
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafu",
+          "partner": "kefagu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kefagu",
+          "partner": "tafu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "suli",
+          "partner": "ginuki",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "ginuki",
+          "partner": "suli",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "tafu",
+          "partner": "kefagu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kefagu",
+          "partner": "tafu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "suli",
+          "partner": "ginuki",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "ginuki",
+          "partner": "suli",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "pairing": {
+        "ginuki": "kefagu",
+        "kefagu": "ginuki",
+        "tafu": "suli",
+        "suli": "tafu"
+      },
+      "chat": [
+        {
+          "sender": "tafu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafu",
+          "partner": "suli",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kefagu",
+          "partner": "ginuki",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "suli",
+          "partner": "tafu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "ginuki",
+          "partner": "kefagu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "tafu",
+          "partner": "suli",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kefagu",
+          "partner": "ginuki",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "suli",
+          "partner": "tafu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "ginuki",
+          "partner": "kefagu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "pairing": {
+        "kefagu": "suli",
+        "suli": "kefagu",
+        "tafu": "ginuki",
+        "ginuki": "tafu"
+      },
+      "chat": [
+        {
+          "sender": "tafu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafu",
+          "partner": "ginuki",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kefagu",
+          "partner": "suli",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "suli",
+          "partner": "kefagu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "ginuki",
+          "partner": "tafu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "tafu",
+          "partner": "ginuki",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kefagu",
+          "partner": "suli",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "suli",
+          "partner": "kefagu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "ginuki",
+          "partner": "tafu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "pairing": {
+        "tafu": "kefagu",
+        "kefagu": "tafu",
+        "suli": "ginuki",
+        "ginuki": "suli"
+      },
+      "chat": [
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafu",
+          "partner": "kefagu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kefagu",
+          "partner": "tafu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "suli",
+          "partner": "ginuki",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "ginuki",
+          "partner": "suli",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "tafu",
+          "partner": "kefagu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kefagu",
+          "partner": "tafu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "suli",
+          "partner": "ginuki",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "ginuki",
+          "partner": "suli",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "pairing": {
+        "tafu": "ginuki",
+        "ginuki": "tafu",
+        "kefagu": "suli",
+        "suli": "kefagu"
+      },
+      "chat": [
+        {
+          "sender": "tafu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafu",
+          "partner": "ginuki",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kefagu",
+          "partner": "suli",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "suli",
+          "partner": "kefagu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "ginuki",
+          "partner": "tafu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "tafu",
+          "partner": "ginuki",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kefagu",
+          "partner": "suli",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "suli",
+          "partner": "kefagu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "ginuki",
+          "partner": "tafu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "pairing": {
+        "tafu": "kefagu",
+        "kefagu": "tafu",
+        "suli": "ginuki",
+        "ginuki": "suli"
+      },
+      "chat": [
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafu",
+          "partner": "kefagu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kefagu",
+          "partner": "tafu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "suli",
+          "partner": "ginuki",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "ginuki",
+          "partner": "suli",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "tafu",
+          "partner": "kefagu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kefagu",
+          "partner": "tafu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "suli",
+          "partner": "ginuki",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "ginuki",
+          "partner": "suli",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "pairing": {
+        "suli": "tafu",
+        "tafu": "suli",
+        "kefagu": "ginuki",
+        "ginuki": "kefagu"
+      },
+      "chat": [
+        {
+          "sender": "tafu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tafu",
+          "receiver": "suli",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kefagu",
+          "receiver": "ginuki",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "suli",
+          "receiver": "tafu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "ginuki",
+          "receiver": "kefagu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafu",
+          "partner": "suli",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kefagu",
+          "partner": "ginuki",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "suli",
+          "partner": "tafu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "ginuki",
+          "partner": "kefagu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "tafu",
+          "partner": "suli",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kefagu",
+          "partner": "ginuki",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "suli",
+          "partner": "tafu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "ginuki",
+          "partner": "kefagu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    }
+  ],
+  "final_scores": {
+    "team_a": {
+      "provisional": 14,
+      "penalty": 2,
+      "final": 12,
+      "by_resource": {
+        "fish": 2,
+        "fruit": 3,
+        "grain": 2,
+        "water": 3,
+        "meat": 4
+      }
+    },
+    "team_b": {
+      "provisional": 14,
+      "penalty": 3,
+      "final": 11,
+      "by_resource": {
+        "fruit": 3,
+        "meat": 2,
+        "water": 2,
+        "fish": 2,
+        "grain": 5
+      }
+    }
+  },
+  "vocabulary": {
+    "neke": "hello",
+    "sopida": "goodbye",
+    "dilape": "please",
+    "sunefo": "thanks",
+    "liroti": "yes",
+    "pizaki": "no",
+    "gegu": "and",
+    "roza": "I",
+    "ritimo": "you",
+    "zeli": "have",
+    "rerazo": "want",
+    "bozu": "give",
+    "teme": "meat",
+    "kunadu": "grain",
+    "dureka": "water",
+    "vetosu": "fruit",
+    "fimo": "fish",
+    "nufema": "much",
+    "pezugu": "question"
+  },
+  "allocations": {
+    "alice": {
+      "fish": 2,
+      "fruit": 0,
+      "grain": 1,
+      "water": 1,
+      "meat": 3
+    },
+    "bob": {
+      "fruit": 3,
+      "meat": 1,
+      "water": 2,
+      "fish": 0,
+      "grain": 1
+    },
+    "carol": {
+      "fruit": 0,
+      "meat": 1,
+      "water": 2,
+      "fish": 1,
+      "grain": 3
+    },
+    "dave": {
+      "fruit": 3,
+      "grain": 2,
+      "meat": 1,
+      "water": 0,
+      "fish": 1
+    }
+  },
+  "pairings": [
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "carol": "alice",
+      "alice": "carol",
+      "bob": "dave",
+      "dave": "bob"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "carol": "alice",
+      "alice": "carol",
+      "bob": "dave",
+      "dave": "bob"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "dave": "bob",
+      "bob": "dave",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "bob": "carol",
+      "carol": "bob",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "dave",
+      "dave": "alice",
+      "bob": "carol",
+      "carol": "bob"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "carol": "alice",
+      "alice": "carol",
+      "bob": "dave",
+      "dave": "bob"
+    }
+  ],
+  "name_map": {
+    "alice": "tafu",
+    "bob": "kefagu",
+    "carol": "suli",
+    "dave": "ginuki"
+  }
+}

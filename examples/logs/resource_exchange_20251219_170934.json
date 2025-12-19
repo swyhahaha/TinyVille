@@ -1,0 +1,3238 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "pairing": {
+        "demama": "sapare",
+        "sapare": "demama",
+        "runo": "nago",
+        "nago": "runo"
+      },
+      "chat": [
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "nuruki mave voko tenota dakoto nozome tiluso voko nogema tiso mozo lonu vokopa",
+          "raw": "nuruki mave voko tenota dakoto nozome tiluso voko nogema tiso mozo lonu vokopa",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "nuruki tiluso vokopa mave voko lonu dakoto nozome tiluso tenota mozo nogema tiso bizo",
+          "raw": "nuruki tiluso vokopa mave voko lonu dakoto nozome tiluso tenota mozo nogema tiso bizo",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "nuruki tiluso. mave voko tenota dakoto. tiluso voko nogema? nozome tenota nipa nogema?",
+          "raw": "nuruki tiluso. mave voko tenota dakoto. tiluso voko nogema? nozome tenota nipa nogema?",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "nuruki tiluso. mave voko tenota dakoto. tiluso voko nogema? nozome tenota nipa nogema? mave voko tiso nipa lonu. tiluso voko mozo? nozome tiso nipa lonu? voko zeta? zeta voko?",
+          "raw": "nuruki tiluso. mave voko tenota dakoto. tiluso voko nogema? nozome tenota nipa nogema? mave voko tiso nipa lonu. tiluso voko mozo? nozome tiso nipa lonu? voko zeta? zeta voko?",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "mave voko tenota dakoto nozome tiluso tiluso voko nogema tiso mozo lonu vokopa mave voko tenota dakoto nozome tiluso tiluso voko nogema tiso mozo lonu vokopa",
+          "raw": "mave voko tenota dakoto nozome tiluso tiluso voko nogema tiso mozo lonu vokopa mave voko tenota dakoto nozome tiluso tiluso voko nogema tiso mozo lonu vokopa",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "meveru mave voko lonu dakoto nozome tiluso tenota mozo nogema tiso nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso bizo",
+          "raw": "meveru mave voko lonu dakoto nozome tiluso tenota mozo nogema tiso nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso bizo",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "mave voko mozo nipa tenota. tiluso voko zeta? nozome mozo nipa tenota? vokopa: zeta voko?",
+          "raw": "mave voko mozo nipa tenota. tiluso voko zeta? nozome mozo nipa tenota? vokopa: zeta voko?",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "meveru, mave voko zeta. tiluso voko zeta? nozome tenota nipa tiso? mave voko nogema nipa lonu. tiluso voko dakoto tenota? zeta voko dakoto.",
+          "raw": "meveru, mave voko zeta. tiluso voko zeta? nozome tenota nipa tiso? mave voko nogema nipa lonu. tiluso voko dakoto tenota? zeta voko dakoto.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "mave voko tenota dakoto nozome tiluso tiluso voko nogema tiso mozo lonu vokopa zula zula",
+          "raw": "mave voko tenota dakoto nozome tiluso tiluso voko nogema tiso mozo lonu vokopa zula zula",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "tiluso zula zula meveru mave voko lonu dakoto nozome tiluso tenota mozo nogema tiso nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso bizo",
+          "raw": "tiluso zula zula meveru mave voko lonu dakoto nozome tiluso tenota mozo nogema tiso nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso bizo",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "kisete, mave voko zeta kisete. tiluso voko dakoto tenota? nozome mozo nipa lonu? zeta voko nogema?",
+          "raw": "kisete, mave voko zeta kisete. tiluso voko dakoto tenota? nozome mozo nipa lonu? zeta voko nogema?",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "mave voko dakoto tenota kisete. nozome nogema nipa tiso? tiluso voko mozo dakoto? zeta voko nogema meveru. zeta voko dakoto tenota nipa nogema. bizo tiluso.",
+          "raw": "mave voko dakoto tenota kisete. nozome nogema nipa tiso? tiluso voko mozo dakoto? zeta voko nogema meveru. zeta voko dakoto tenota nipa nogema. bizo tiluso.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "demama",
+          "partner": "sapare",
+          "rating": 4,
+          "rating_reason": "This is Round 1, and the rules state that the first two rounds guarantee pairing with a teammate. Therefore, my partner must be a teammate. Additionally, my partner used 'zula zula' which matches the invented token I introduced in my last message, suggesting they are responding to my pattern. This reinforces that they are likely my teammate.",
+          "rating_message": "mave voko tenota dakoto nozome tiluso tiluso voko nogema tiso mozo lonu vokopa zula zula"
+        },
+        {
+          "player": "sapare",
+          "partner": "demama",
+          "rating": 4,
+          "rating_reason": "This is Round 1, and the rules state the first two rounds guarantee pairing with a teammate. Additionally, my partner used 'zula zula' which seems like an invented token, possibly to establish a secret code. Their messages were repetitive but included standard alien vocabulary, and they responded to my offers. Given the guaranteed teammate pairing and their attempt at coordination, I'm confident they are a teammate.",
+          "rating_message": "meveru tiluso zula zula mave voko lonu dakoto nozome tiluso tenota mozo nogema tiso nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso bizo"
+        },
+        {
+          "player": "runo",
+          "partner": "nago",
+          "rating": 4,
+          "rating_reason": "Partner introduced 'zeta' as an invented token and consistently used it, asking if I have 'zeta' and stating they have 'zeta' much. They also proposed exchanges and ended with 'bizo' (goodbye). Since this is Round 1 and the first two rounds are guaranteed to pair with a teammate, and their behavior aligns with creating a secret code (zeta), I'm confident they are a teammate.",
+          "rating_message": "Partner used 'zeta' repeatedly, which seems like an invented token for teammate identification. Given Round 1 guarantees teammate pairing, I rate them as definitely a teammate."
+        },
+        {
+          "player": "nago",
+          "partner": "runo",
+          "rating": 4,
+          "rating_reason": "This is Round 1, and the rules state the first two rounds guarantee pairing with a teammate. My partner used 'zeta' which I introduced as a team marker, and despite some confusion ('kisete'), the overall interaction aligns with teammate behavior—offering resources and using our secret code. Therefore, I'm confident they are a teammate.",
+          "rating_message": "mave voko zeta meveru. tiluso voko zeta meveru. zeta voko dakoto nogema nipa tenota. tiluso nozome mozo nipa lonu? bizo."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "demama",
+          "receiver": "sapare",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "sapare",
+          "receiver": "demama",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "runo",
+          "receiver": "nago",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "nago",
+          "receiver": "runo",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "demama",
+          "partner": "sapare",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "sapare",
+          "partner": "demama",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "runo",
+          "partner": "nago",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "nago",
+          "partner": "runo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "pairing": {
+        "demama": "sapare",
+        "sapare": "demama",
+        "runo": "nago",
+        "nago": "runo"
+      },
+      "chat": [
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "nuruki tiluso vokopa mave voko tenota dakoto nozome tiluso nogema tiso mozo lonu zula zula",
+          "raw": "nuruki tiluso vokopa mave voko tenota dakoto nozome tiluso nogema tiso mozo lonu zula zula",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "nuruki tiluso zula zula mave voko lonu dakoto nozome tiluso tenota mozo nogema tiso nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso bizo",
+          "raw": "nuruki tiluso zula zula mave voko lonu dakoto nozome tiluso tenota mozo nogema tiso nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso bizo",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? kapa voko dakoto.",
+          "raw": "nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? kapa voko dakoto.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "nuruki tiluso. mave voko zeta meveru. tiluso voko zeta? kapa voko dakoto. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta voko dakoto tenota.",
+          "raw": "nuruki tiluso. mave voko zeta meveru. tiluso voko zeta? kapa voko dakoto. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta voko dakoto tenota.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "meveru tiluso zula zula mave voko tenota dakoto nozome tiluso nogema tiso mozo lonu nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso bizo",
+          "raw": "meveru tiluso zula zula mave voko tenota dakoto nozome tiluso nogema tiso mozo lonu nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso bizo",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "meveru tiluso zula zula mave voko lonu dakoto nozome tiluso tenota mozo nogema tiso nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso zula zula bizo",
+          "raw": "meveru tiluso zula zula mave voko lonu dakoto nozome tiluso tenota mozo nogema tiso nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso zula zula bizo",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "meveru tiluso. mave voko zeta nipa kapa. tiluso voko zeta meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso kisete? kapa voko dakoto tenota nipa nogema. zeta voko dakoto.",
+          "raw": "meveru tiluso. mave voko zeta nipa kapa. tiluso voko zeta meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso kisete? kapa voko dakoto tenota nipa nogema. zeta voko dakoto.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "meveru tiluso. zeta voko dakoto tenota nipa nogema. tiluso voko tiso kisete? nozome tiso nipa tenota? mave voko mozo nipa lonu. kapa voko dakoto. zeta meveru.",
+          "raw": "meveru tiluso. zeta voko dakoto tenota nipa nogema. tiluso voko tiso kisete? nozome tiso nipa tenota? mave voko mozo nipa lonu. kapa voko dakoto. zeta meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "tiluso zula zula meveru mave voko tenota dakoto nozome tiluso nogema tiso mozo lonu nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso zula zula bizo",
+          "raw": "tiluso zula zula meveru mave voko tenota dakoto nozome tiluso nogema tiso mozo lonu nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso zula zula bizo",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "meveru tiluso zula zula mave nozome tiluso tenota lonu nipa tiluso nozome mave nogema tiso mozo bizo zula zula",
+          "raw": "meveru tiluso zula zula mave nozome tiluso tenota lonu nipa tiluso nozome mave nogema tiso mozo bizo zula zula",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "meveru. tiluso voko tiso kisete. mave voko tiso kisete. nozome tenota nipa nogema? tiluso voko mozo? kapa voko dakoto tenota nipa nogema. zeta meveru. bizo tiluso.",
+          "raw": "meveru. tiluso voko tiso kisete. mave voko tiso kisete. nozome tenota nipa nogema? tiluso voko mozo? kapa voko dakoto tenota nipa nogema. zeta meveru. bizo tiluso.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "meveru. tiluso voko mozo kisete. nozome tenota nipa nogema meveru. kapa voko dakoto. zeta meveru. bizo tiluso.",
+          "raw": "meveru. tiluso voko mozo kisete. nozome tenota nipa nogema meveru. kapa voko dakoto. zeta meveru. bizo tiluso.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "demama",
+          "partner": "sapare",
+          "rating": 4,
+          "rating_reason": "My partner used 'zula zula' repeatedly, which matches the secret token I introduced in Round 1. Since Round 2 is guaranteed to pair me with a teammate, and they correctly echoed the token, I am confident they are my teammate.",
+          "rating_message": "tiluso zula zula meveru mave voko tenota dakoto nozome tiluso nogema tiso mozo lonu nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso zula zula bizo"
+        },
+        {
+          "player": "sapare",
+          "partner": "demama",
+          "rating": 4,
+          "rating_reason": "My partner consistently used 'zula zula' which was my secret token from Round 1, and they responded with 'meveru' (yes) confirming recognition. This pattern strongly indicates they are my teammate from the previous round. The conversation was coherent and aligned with our established secret code.",
+          "rating_message": "Partner used secret token 'zula zula' and confirmed with 'meveru', showing recognition of our team pattern."
+        },
+        {
+          "player": "runo",
+          "partner": "nago",
+          "rating": 4,
+          "rating_reason": "Partner consistently used 'zeta' and 'kapa' as invented tokens, which I introduced in Round 1 as a teammate signal. They affirmed 'zeta meveru' and 'kapa voko dakoto', matching my team code. Their responses align with our earlier coordination, and they proposed exchanging water and meat, which benefits our team. This is clearly a teammate.",
+          "rating_message": "Partner uses zeta and kapa tokens consistently, confirming team identity."
+        },
+        {
+          "player": "nago",
+          "partner": "runo",
+          "rating": 4,
+          "rating_reason": "They used our team's secret codes 'zeta' and 'kapa' consistently, responded positively to my use of them, and negotiated in a pattern similar to my teammate from Round 1. Since Round 2 is guaranteed to pair with a teammate, and their behavior aligns with that, I'm confident they are a teammate.",
+          "rating_message": "Partner used zeta and kapa codes correctly and matched teammate patterns."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "demama",
+          "receiver": "sapare",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "sapare",
+          "receiver": "demama",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "runo",
+          "receiver": "nago",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "nago",
+          "receiver": "runo",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "demama",
+          "partner": "sapare",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "sapare",
+          "partner": "demama",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "runo",
+          "partner": "nago",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "nago",
+          "partner": "runo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "pairing": {
+        "demama": "sapare",
+        "sapare": "demama",
+        "runo": "nago",
+        "nago": "runo"
+      },
+      "chat": [
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "nuruki tiluso zula zula mave voko tenota dakoto nozome tiluso lonu mozo nogema tiso nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso zula zula bizo",
+          "raw": "nuruki tiluso zula zula mave voko tenota dakoto nozome tiluso lonu mozo nogema tiso nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso zula zula bizo",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "nuruki tiluso zula zula mave voko tenota dakoto nozome tiluso lonu mozo nogema tiso nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso zula zula bizo",
+          "raw": "nuruki tiluso zula zula mave voko tenota dakoto nozome tiluso lonu mozo nogema tiso nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso zula zula bizo",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "nuruki tiluso. mave voko zeta meveru. kapa voko dakoto. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta voko dakoto tenota.",
+          "raw": "nuruki tiluso. mave voko zeta meveru. kapa voko dakoto. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta voko dakoto tenota.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "nuruki tiluso. mave voko zeta meveru. kapa voko dakoto. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta voko dakoto tenota.",
+          "raw": "nuruki tiluso. mave voko zeta meveru. kapa voko dakoto. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta voko dakoto tenota.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "meveru tiluso zula zula mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo",
+          "raw": "meveru tiluso zula zula mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "meveru tiluso zula zula mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo",
+          "raw": "meveru tiluso zula zula mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "meveru tiluso. zeta voko dakoto tenota nipa nogema. tiluso voko tiso kisete? nozome tiso nipa tenota? mave voko mozo nipa lonu. kapa voko dakoto. zeta meveru.",
+          "raw": "meveru tiluso. zeta voko dakoto tenota nipa nogema. tiluso voko tiso kisete? nozome tiso nipa tenota? mave voko mozo nipa lonu. kapa voko dakoto. zeta meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "meveru tiluso. zeta voko dakoto tenota nipa nogema. tiluso voko tiso kisete? nozome tiso nipa tenota? mave voko mozo nipa lonu. kapa voko dakoto. zeta meveru.",
+          "raw": "meveru tiluso. zeta voko dakoto tenota nipa nogema. tiluso voko tiso kisete? nozome tiso nipa tenota? mave voko mozo nipa lonu. kapa voko dakoto. zeta meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "meveru tiluso zula zula mave nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso sima poto bizo",
+          "raw": "meveru tiluso zula zula mave nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso sima poto bizo",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "meveru tiluso zula zula mave nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso sima poto bizo",
+          "raw": "meveru tiluso zula zula mave nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso sima poto bizo",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "meveru. tiluso voko tiso kisete. mave voko tiso kisete. nozome tenota nipa nogema meveru. tiluso nozome tiso? mave nozome tenota nipa nogema. kapa zeta meveru. bizo tiluso.",
+          "raw": "meveru. tiluso voko tiso kisete. mave voko tiso kisete. nozome tenota nipa nogema meveru. tiluso nozome tiso? mave nozome tenota nipa nogema. kapa zeta meveru. bizo tiluso.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "meveru. tiluso voko tiso kisete. mave voko tiso kisete. nozome tenota nipa nogema meveru. tiluso nozome tiso? mave nozome tenota nipa nogema. kapa zeta meveru. bizo tiluso.",
+          "raw": "meveru. tiluso voko tiso kisete. mave voko tiso kisete. nozome tenota nipa nogema meveru. tiluso nozome tiso? mave nozome tenota nipa nogema. kapa zeta meveru. bizo tiluso.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "demama",
+          "partner": "sapare",
+          "rating": 4,
+          "rating_reason": "My partner consistently used 'zula zula' which is our team's secret token established in previous rounds. They also engaged in a cooperative exchange proposal, offering to give water and requesting fish/fruit/meat/grain, which aligns with team strategy to balance resources. Their language and behavior strongly indicate they are a teammate.",
+          "rating_message": "Partner uses our team token 'zula zula' and proposes beneficial exchange, so definitely teammate."
+        },
+        {
+          "player": "sapare",
+          "partner": "demama",
+          "rating": 4,
+          "rating_reason": "My partner used 'zula zula' consistently, which matches the secret token established in previous rounds with my teammate. They also mirrored my messages and used polite terms like 'sima poto', indicating coordination. Their resource offers align with team strategy. I am confident they are my teammate.",
+          "rating_message": "meveru tiluso zula zula mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo"
+        },
+        {
+          "player": "runo",
+          "partner": "nago",
+          "rating": 4,
+          "rating_reason": "Partner used our team tokens 'zeta' and 'kapa' consistently, which were established in previous rounds as secret team identifiers. They also responded appropriately to my use of these tokens, confirming mutual recognition. The exchange proposal aligns with team coordination (giving water and meat). Therefore, I am confident they are a teammate.",
+          "rating_message": "Partner consistently used our secret team tokens zeta and kapa, confirming team identity. Their response matched our established pattern, so definitely teammate."
+        },
+        {
+          "player": "nago",
+          "partner": "runo",
+          "rating": 4,
+          "rating_reason": "Partner used 'zeta' and 'kapa' consistently, which are our secret codes established in previous rounds. They also repeated 'kapa zeta meveru' pattern, confirming they are a teammate. The communication matched our team's coded language.",
+          "rating_message": "Partner used our secret codes 'zeta' and 'kapa' correctly, indicating they are a teammate."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "demama",
+          "receiver": "sapare",
+          "resource": "water",
+          "amount": 3,
+          "deltas": {
+            "giver_delta": -3,
+            "receiver_delta": 6
+          },
+          "error": null
+        },
+        {
+          "giver": "sapare",
+          "receiver": "demama",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "runo",
+          "receiver": "nago",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "nago",
+          "receiver": "runo",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "demama",
+          "partner": "sapare",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "sapare",
+          "partner": "demama",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "runo",
+          "partner": "nago",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "nago",
+          "partner": "runo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "pairing": {
+        "sapare": "nago",
+        "nago": "sapare",
+        "demama": "runo",
+        "runo": "demama"
+      },
+      "chat": [
+        {
+          "sender": "demama",
+          "receiver": "runo",
+          "content": "nuruki tiluso zula zula mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo",
+          "raw": "nuruki tiluso zula zula mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "nago",
+          "content": "nuruki tiluso zula zula mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo",
+          "raw": "nuruki tiluso zula zula mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "demama",
+          "content": "nuruki tiluso. mave voko zeta meveru. kapa voko dakoto. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta voko dakoto tenota.",
+          "raw": "nuruki tiluso. mave voko zeta meveru. kapa voko dakoto. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta voko dakoto tenota.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "sapare",
+          "content": "nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? kapa zeta meveru.",
+          "raw": "nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? kapa zeta meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "runo",
+          "content": "meveru tiluso zula zula mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo",
+          "raw": "meveru tiluso zula zula mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "nago",
+          "content": "meveru tiluso zula zula mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo",
+          "raw": "meveru tiluso zula zula mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "demama",
+          "content": "tiluso voko zeta? mave voko zeta meveru. kapa voko dakoto. nozome tenota nipa nogema? tiluso nozome tiso? zeta voko dakoto tenota. mave voko mozo nipa lonu.",
+          "raw": "tiluso voko zeta? mave voko zeta meveru. kapa voko dakoto. nozome tenota nipa nogema? tiluso nozome tiso? zeta voko dakoto tenota. mave voko mozo nipa lonu.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "sapare",
+          "content": "meveru tiluso. zeta voko dakoto tenota nipa nogema. tiluso voko tiso kisete? nozome tenota nipa nogema? mave voko mozo nipa lonu. kapa zeta meveru. bizo tiluso.",
+          "raw": "meveru tiluso. zeta voko dakoto tenota nipa nogema. tiluso voko tiso kisete? nozome tenota nipa nogema? mave voko mozo nipa lonu. kapa zeta meveru. bizo tiluso.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "runo",
+          "content": "mave voko zeta kisete. mave voko zula zula. nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso. sima poto bizo",
+          "raw": "mave voko zeta kisete. mave voko zula zula. nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso. sima poto bizo",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "nago",
+          "content": "tiluso zula zula meveru mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo",
+          "raw": "tiluso zula zula meveru mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "demama",
+          "content": "meveru tiluso. mave voko zeta meveru. kapa voko dakoto. nozome tenota nipa nogema. tiluso nozome tiso? zeta voko dakoto tenota. mave voko mozo nipa lonu. bizo tiluso.",
+          "raw": "meveru tiluso. mave voko zeta meveru. kapa voko dakoto. nozome tenota nipa nogema. tiluso nozome tiso? zeta voko dakoto tenota. mave voko mozo nipa lonu. bizo tiluso.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "sapare",
+          "content": "meveru tiluso. zeta kapa meveru? tiluso voko tiso? nozome tenota nipa nogema. mave voko mozo nipa lonu. kapa zeta meveru. bizo tiluso.",
+          "raw": "meveru tiluso. zeta kapa meveru? tiluso voko tiso? nozome tenota nipa nogema. mave voko mozo nipa lonu. kapa zeta meveru. bizo tiluso.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "demama",
+          "partner": "runo",
+          "rating": 2,
+          "rating_reason": "My partner used 'zeta' and 'kapa' consistently, not our team's secret token 'zula zula'. They did not respond to my 'zula zula' signal. However, they used 'meveru' and standard alien words, and proposed a resource exchange. They might be an opponent using their own code, or a teammate who hasn't adopted 'zula zula'. Given the lack of our team signal, I lean towards not a teammate, but not completely certain.",
+          "rating_message": "Partner uses 'zeta' and 'kapa', not our team token. No recognition of 'zula zula'. Likely opponent."
+        },
+        {
+          "player": "sapare",
+          "partner": "nago",
+          "rating": 1,
+          "rating_reason": "Partner used 'zeta' and 'kapa' repeatedly and did not acknowledge 'zula zula' which is our team code. They also asked for water and meat, which could be an opponent trying to gain resources. Their language pattern differs from previous teammates. I rate them as definitely not a teammate.",
+          "rating_message": "Partner's use of 'zeta' and 'kapa' and lack of response to 'zula zula' suggests they are not on my team."
+        },
+        {
+          "player": "runo",
+          "partner": "demama",
+          "rating": 2,
+          "rating_reason": "Partner used 'zula' repeatedly, which is not our team token ('zeta' and 'kapa'). They said they have 'zeta' but also emphasized 'zula zula'. They did not acknowledge 'kapa' when I mentioned it. Their proposal to give water and meat and ask for fish, fruit, meat, grain seems generic. Likely opponent using different code. However, they used 'sima poto' politely, which could be neutral. Low confidence but leaning opponent.",
+          "rating_message": "Partner's use of 'zula' and lack of 'kapa' response suggests not teammate, but uncertain."
+        },
+        {
+          "player": "nago",
+          "partner": "sapare",
+          "rating": 1,
+          "rating_reason": "Partner consistently used 'zula zula' which is not our team code. They did not respond to our team codes 'zeta' and 'kapa' and did not acknowledge our pattern. In previous rounds, teammates used 'zeta' and 'kapa'. This partner's language pattern is different, suggesting they are opponent.",
+          "rating_message": "Partner used 'zula zula' repeatedly and ignored our team codes. No recognition of our established patterns. Likely opponent."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "demama",
+          "receiver": "runo",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "sapare",
+          "receiver": "nago",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "runo",
+          "receiver": "demama",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "nago",
+          "receiver": "sapare",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "demama",
+          "partner": "runo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "sapare",
+          "partner": "nago",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "runo",
+          "partner": "demama",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "nago",
+          "partner": "sapare",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "pairing": {
+        "demama": "nago",
+        "nago": "demama",
+        "sapare": "runo",
+        "runo": "sapare"
+      },
+      "chat": [
+        {
+          "sender": "demama",
+          "receiver": "nago",
+          "content": "nuruki tiluso. mave voko zula zula. tiluso voko zula? mave voko tenota dakoto. nozome tiluso tenota? tiluso nozome nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula.",
+          "raw": "nuruki tiluso. mave voko zula zula. tiluso voko zula? mave voko tenota dakoto. nozome tiluso tenota? tiluso nozome nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "runo",
+          "content": "nuruki tiluso. zula zula meveru? mave voko tenota dakoto nipa lonu. tiluso voko tiso? nozome tenota nipa nogema. kapa zeta kisete. bizo.",
+          "raw": "nuruki tiluso. zula zula meveru? mave voko tenota dakoto nipa lonu. tiluso voko tiso? nozome tenota nipa nogema. kapa zeta kisete. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "sapare",
+          "content": "nuruki tiluso. mave voko zeta meveru. kapa voko dakoto. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "raw": "nuruki tiluso. mave voko zeta meveru. kapa voko dakoto. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "demama",
+          "content": "nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta zeta.",
+          "raw": "nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta zeta.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "nago",
+          "content": "meveru tiluso. mave voko zula zula. tiluso voko zula? meveru. nozome tiluso tenota? tiluso nozome nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula.",
+          "raw": "meveru tiluso. mave voko zula zula. tiluso voko zula? meveru. nozome tiluso tenota? tiluso nozome nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "runo",
+          "content": "tiluso. zula zula meveru? mave voko tenota dakoto nipa lonu. tiluso voko tiso? nozome tenota nipa nogema. kapa zeta kisete. mave voko mozo nipa lonu. bizo.",
+          "raw": "tiluso. zula zula meveru? mave voko tenota dakoto nipa lonu. tiluso voko tiso? nozome tenota nipa nogema. kapa zeta kisete. mave voko mozo nipa lonu. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "sapare",
+          "content": "meveru tiluso. mave voko zeta meveru. kapa voko dakoto. tiluso voko zeta? nozome tenota nipa nogema. tiluso nozome mave tiso? mave voko mozo nipa lonu. zeta kapa meveru.",
+          "raw": "meveru tiluso. mave voko zeta meveru. kapa voko dakoto. tiluso voko zeta? nozome tenota nipa nogema. tiluso nozome mave tiso? mave voko mozo nipa lonu. zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "demama",
+          "content": "tiluso voko zeta? kisete. mave voko zeta nipa kapa. nozome tiluso tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta zeta.",
+          "raw": "tiluso voko zeta? kisete. mave voko zeta nipa kapa. nozome tiluso tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta zeta.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "nago",
+          "content": "meveru. mave voko zula zula. tiluso voko zeta? kisete. nozome tiluso tenota? tiluso nozome nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula.",
+          "raw": "meveru. mave voko zula zula. tiluso voko zeta? kisete. nozome tiluso tenota? tiluso nozome nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "runo",
+          "content": "tiluso. zula zula meveru? mave voko tenota dakoto nipa lonu. tiluso voko tiso? nozome tenota nipa nogema. kapa zeta kisete. tiluso nozome mave tiso? kisete. mave voko mozo nipa lonu. bizo.",
+          "raw": "tiluso. zula zula meveru? mave voko tenota dakoto nipa lonu. tiluso voko tiso? nozome tenota nipa nogema. kapa zeta kisete. tiluso nozome mave tiso? kisete. mave voko mozo nipa lonu. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "sapare",
+          "content": "meveru tiluso. mave voko zeta meveru. kapa voko dakoto. nozome tenota nipa nogema. tiluso nozome mave tiso? mave voko mozo nipa lonu. zeta kapa meveru. bizo.",
+          "raw": "meveru tiluso. mave voko zeta meveru. kapa voko dakoto. nozome tenota nipa nogema. tiluso nozome mave tiso? mave voko mozo nipa lonu. zeta kapa meveru. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "demama",
+          "content": "tiluso voko zeta? kisete. mave voko zeta nipa kapa. nozome tiluso tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta zeta. bizo tiluso.",
+          "raw": "tiluso voko zeta? kisete. mave voko zeta nipa kapa. nozome tiluso tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta zeta. bizo tiluso.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "demama",
+          "partner": "nago",
+          "rating": 2,
+          "rating_reason": "Partner used 'zeta zeta' consistently, which is different from our team code 'zula zula'. They did not respond to 'zula zula' and instead said 'kisete' (no) to having 'zeta'. This suggests they are likely using a different code, possibly from the opposing team. However, they engaged in negotiation and ended with 'bizo tiluso', which is neutral. Given the uncertainty but leaning toward opponent due to code mismatch, I rate 2 (probably not a teammate).",
+          "rating_message": "Partner's use of 'zeta' instead of 'zula' and lack of recognition of our team code indicates they are likely not a teammate, but I'm not completely certain."
+        },
+        {
+          "player": "sapare",
+          "partner": "runo",
+          "rating": 1,
+          "rating_reason": "Partner consistently used 'zeta' and 'kapa' which were opponent codes from round 4. They ignored my 'zula zula' team code and offered grain, which could be an opponent trying to trick me into giving resources. Their pattern matches opponent behavior, not teammate.",
+          "rating_message": "Partner uses opponent tokens zeta/kapa, ignores team code zula zula, likely opponent."
+        },
+        {
+          "player": "runo",
+          "partner": "sapare",
+          "rating": 1,
+          "rating_reason": "Partner used 'zula' repeatedly, which was used by opponent in R4. They also used 'kapa zeta kisete' which mocks our team code 'zeta kapa meveru'. They did not respond positively to our team signals. Likely opponent.",
+          "rating_message": "Partner uses opponent token 'zula' and mocks team code."
+        },
+        {
+          "player": "nago",
+          "partner": "demama",
+          "rating": 1,
+          "rating_reason": "Partner used 'zula zula' repeatedly, which is not our team code ('zeta' and 'kapa'). They ignored my use of 'zeta' and 'kapa' and did not respond with our team signals. In R4, opponent used 'zula zula' and this partner is doing the same. Therefore, they are likely opponent.",
+          "rating_message": "Partner uses 'zula zula' not team codes, so likely opponent."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "demama",
+          "receiver": "nago",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "sapare",
+          "receiver": "runo",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "runo",
+          "receiver": "sapare",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "nago",
+          "receiver": "demama",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "demama",
+          "partner": "nago",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "sapare",
+          "partner": "runo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "runo",
+          "partner": "sapare",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "nago",
+          "partner": "demama",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "pairing": {
+        "runo": "demama",
+        "demama": "runo",
+        "sapare": "nago",
+        "nago": "sapare"
+      },
+      "chat": [
+        {
+          "sender": "demama",
+          "receiver": "runo",
+          "content": "nuruki tiluso. mave voko zula zula. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula.",
+          "raw": "nuruki tiluso. mave voko zula zula. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "nago",
+          "content": "nuruki tiluso. mave voko zula zula. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "raw": "nuruki tiluso. mave voko zula zula. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "demama",
+          "content": "nuruki tiluso. mave voko zeta kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "raw": "nuruki tiluso. mave voko zeta kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "sapare",
+          "content": "nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "raw": "nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "runo",
+          "content": "tiluso voko zula? kisete. mave voko zula zula. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula.",
+          "raw": "tiluso voko zula? kisete. mave voko zula zula. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "nago",
+          "content": "tiluso voko zula? mave voko zula zula. tiluso nozome mave tenota? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "raw": "tiluso voko zula? mave voko zula zula. tiluso nozome mave tenota? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "demama",
+          "content": "tiluso voko zeta? kisete. mave voko zeta kapa meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "raw": "tiluso voko zeta? kisete. mave voko zeta kapa meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "sapare",
+          "content": "mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "raw": "mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "runo",
+          "content": "mave voko zula zula. tiluso voko zeta? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula bizo.",
+          "raw": "mave voko zula zula. tiluso voko zeta? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "nago",
+          "content": "tiluso voko zula? kisete. mave voko zula zula. tiluso nozome mave tenota? mave nozome tiluso mozo nipa lonu. zula zula meveru.",
+          "raw": "tiluso voko zula? kisete. mave voko zula zula. tiluso nozome mave tenota? mave nozome tiluso mozo nipa lonu. zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "demama",
+          "content": "mave voko zeta kapa meveru. tiluso voko zeta? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru bizo.",
+          "raw": "mave voko zeta kapa meveru. tiluso voko zeta? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "sapare",
+          "content": "mave voko zeta nipa kapa. tiluso voko zeta? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "raw": "mave voko zeta nipa kapa. tiluso voko zeta? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "demama",
+          "partner": "runo",
+          "rating": 1,
+          "rating_reason": "The partner consistently used 'zeta' and 'kapa' instead of our team code 'zula'. In previous rounds, teammates used 'zula' and opponents used 'zeta'. The partner never acknowledged 'zula' and repeated 'zeta kapa meveru'. This strongly indicates they are an opponent.",
+          "rating_message": "Partner used alien tokens 'zeta' and 'kapa' which are not our team code 'zula'. They ignored my repeated use of 'zula' and did not show recognition. Therefore, I rate them as definitely not a teammate."
+        },
+        {
+          "player": "sapare",
+          "partner": "nago",
+          "rating": 1,
+          "rating_reason": "Partner consistently used 'zeta' and 'kapa' which are opponent tokens from previous rounds (R4, R5). They ignored my 'zula zula' team code and did not respond with any team signals. Their language pattern matches opponents I've faced. Therefore, definitely not a teammate.",
+          "rating_message": "Partner uses opponent tokens zeta/kapa, ignores zula zula team code. No teammate signals."
+        },
+        {
+          "player": "runo",
+          "partner": "demama",
+          "rating": 1,
+          "rating_reason": "Partner used 'zula zula' repeatedly, which is opponent token from previous rounds (R4, R5). They ignored our team code 'zeta kapa meveru' and responded 'kisete' to 'zeta?'. Their pattern matches opponent behavior. Low confidence they are teammate.",
+          "rating_message": "Partner consistently uses opponent token 'zula zula' and rejects our team code. Likely opponent."
+        },
+        {
+          "player": "nago",
+          "partner": "sapare",
+          "rating": 1,
+          "rating_reason": "Partner consistently used 'zula zula' which is opponent code from previous rounds (R4, R5). They ignored our team signals 'zeta' and 'kapa' and did not respond with them. Their language pattern matches opponents, not teammates. Therefore, definitely not a teammate.",
+          "rating_message": "Partner uses zula zula, not zeta/kapa. Opponent pattern."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "demama",
+          "receiver": "runo",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "sapare",
+          "receiver": "nago",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "runo",
+          "receiver": "demama",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "nago",
+          "receiver": "sapare",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "demama",
+          "partner": "runo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "sapare",
+          "partner": "nago",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "runo",
+          "partner": "demama",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "nago",
+          "partner": "sapare",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "pairing": {
+        "sapare": "runo",
+        "runo": "sapare",
+        "demama": "nago",
+        "nago": "demama"
+      },
+      "chat": [
+        {
+          "sender": "demama",
+          "receiver": "nago",
+          "content": "nuruki tiluso. mave voko zula zula. tiluso voko zula? meveru kisete? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula bizo.",
+          "raw": "nuruki tiluso. mave voko zula zula. tiluso voko zula? meveru kisete? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "runo",
+          "content": "nuruki tiluso. mave voko zula zula. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "raw": "nuruki tiluso. mave voko zula zula. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "sapare",
+          "content": "nuruki tiluso. mave voko zeta kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "raw": "nuruki tiluso. mave voko zeta kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "demama",
+          "content": "nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "raw": "nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "nago",
+          "content": "tiluso voko zula? kisete. mave voko zula zula meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zula zula bizo.",
+          "raw": "tiluso voko zula? kisete. mave voko zula zula meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zula zula bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "runo",
+          "content": "tiluso voko zula? mave voko zula zula. nozome tenota nipa nogema? tiluso nozome mave tiso? zula zula meveru.",
+          "raw": "tiluso voko zula? mave voko zula zula. nozome tenota nipa nogema? tiluso nozome mave tiso? zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "sapare",
+          "content": "tiluso voko zeta? kisete. mave voko zeta kapa. nozome tenota nipa nogema? tiluso nozome mave tiso? kisete. zeta kapa meveru.",
+          "raw": "tiluso voko zeta? kisete. mave voko zeta kapa. nozome tenota nipa nogema? tiluso nozome mave tiso? kisete. zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "demama",
+          "content": "tiluso voko zeta? kisete. mave voko zeta nipa kapa. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.",
+          "raw": "tiluso voko zeta? kisete. mave voko zeta nipa kapa. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "nago",
+          "content": "mave voko zula zula. tiluso voko zeta kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zula zula bizo.",
+          "raw": "mave voko zula zula. tiluso voko zeta kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zula zula bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "runo",
+          "content": "tiluso voko zula? kisete. mave voko zula zula. nozome tenota nipa nogema? tiluso nozome mave tiso? zula zula meveru. bizo.",
+          "raw": "tiluso voko zula? kisete. mave voko zula zula. nozome tenota nipa nogema? tiluso nozome mave tiso? zula zula meveru. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "sapare",
+          "content": "mave voko zeta kapa. tiluso voko zula? kisete. nozome tenota nipa nogema? kisete. tiluso nozome mave tiso? kisete. zeta kapa bizo.",
+          "raw": "mave voko zeta kapa. tiluso voko zula? kisete. nozome tenota nipa nogema? kisete. tiluso nozome mave tiso? kisete. zeta kapa bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "demama",
+          "content": "tiluso voko zeta kisete. mave voko zeta nipa kapa. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru bizo.",
+          "raw": "tiluso voko zeta kisete. mave voko zeta nipa kapa. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru bizo.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "demama",
+          "partner": "nago",
+          "rating": 1,
+          "rating_reason": "Partner consistently used 'zeta' and 'kapa' which are opponent codes from previous rounds (R4-R6). They never acknowledged 'zula' (our team code) and responded with 'zeta kisete' when I asked about 'zula'. Their language pattern matches opponents, not teammates. Therefore, I rate them as definitely not a teammate.",
+          "rating_message": "Partner uses opponent tokens zeta/kapa, ignores zula, likely opponent."
+        },
+        {
+          "player": "sapare",
+          "partner": "runo",
+          "rating": 1,
+          "rating_reason": "Partner used 'zeta kapa' repeatedly, which opponents have consistently used in R4-R6. They ignored 'zula' (our team code) and responded 'kisete' (no) when asked about 'zula'. Their pattern matches opponents, not teammates who used 'zula zula' in earlier rounds. Therefore, definitely not a teammate.",
+          "rating_message": "Partner uses opponent code 'zeta kapa' and rejects team signal 'zula'."
+        },
+        {
+          "player": "runo",
+          "partner": "sapare",
+          "rating": 1,
+          "rating_reason": "Partner consistently used 'zula zula' and ignored our team code 'zeta kapa'. They also requested water+meat and grain, which I declined. Their pattern matches opponents from rounds 4-6 who used 'zula zula'. No recognition of our team signals. Therefore, definitely not a teammate.",
+          "rating_message": "Partner used opponent code 'zula zula' and ignored our team code 'zeta kapa'. No cooperation signals."
+        },
+        {
+          "player": "nago",
+          "partner": "demama",
+          "rating": 2,
+          "rating_reason": "Partner used 'zula zula' repeatedly, which is a pattern seen in opponents from rounds 4-6. They did use 'zeta' once after I introduced it, but still ended with 'zula zula bizo' and did not use 'kapa'. Their responses were generic and did not strongly align with our team codes. Likely opponent trying to mimic or uncertain. Rating 2 (probably not teammate).",
+          "rating_message": "tiluso voko zeta kisete. mave voko zeta nipa kapa. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru bizo."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "demama",
+          "receiver": "nago",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "sapare",
+          "receiver": "runo",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "runo",
+          "receiver": "sapare",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "nago",
+          "receiver": "demama",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "demama",
+          "partner": "nago",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "sapare",
+          "partner": "runo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "runo",
+          "partner": "sapare",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "nago",
+          "partner": "demama",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "pairing": {
+        "demama": "sapare",
+        "sapare": "demama",
+        "runo": "nago",
+        "nago": "runo"
+      },
+      "chat": [
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "nuruki tiluso. mave voko zula zula. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "raw": "nuruki tiluso. mave voko zula zula. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "meveru tiluso. mave voko zula zula. tiluso voko zula? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "raw": "meveru tiluso. mave voko zula zula. tiluso voko zula? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "nuruki tiluso. mave voko zeta kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "raw": "nuruki tiluso. mave voko zeta kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "meveru tiluso. mave voko zeta nipa kapa. tiluso voko zeta? meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.",
+          "raw": "meveru tiluso. mave voko zeta nipa kapa. tiluso voko zeta? meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "meveru tiluso. mave voko zula zula meveru. tiluso voko zula zula meveru? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru. sima poto.",
+          "raw": "meveru tiluso. mave voko zula zula meveru. tiluso voko zula zula meveru? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru. sima poto.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "meveru tiluso. mave voko zula zula meveru. tiluso voko zula zula meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru. sima poto. bizo.",
+          "raw": "meveru tiluso. mave voko zula zula meveru. tiluso voko zula zula meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru. sima poto. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "meveru tiluso. mave voko zeta kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru. mave voko mozo nipa lonu. tiluso voko mozo? lonu?",
+          "raw": "meveru tiluso. mave voko zeta kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru. mave voko mozo nipa lonu. tiluso voko mozo? lonu?",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "meveru. tiluso voko mozo? kisete. mave voko mozo kisete. tiluso voko lonu? kisete. mave voko lonu kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.",
+          "raw": "meveru. tiluso voko mozo? kisete. mave voko mozo kisete. tiluso voko lonu? kisete. mave voko lonu kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "meveru tiluso. zula zula meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? nozome tiso nipa tenota? zula zula meveru. bizo.",
+          "raw": "meveru tiluso. zula zula meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? nozome tiso nipa tenota? zula zula meveru. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "meveru tiluso. zula zula meveru. nozome tenota nipa nogema? meveru. mave voko mozo nipa lonu. tiluso voko tiso? kisete. nozome tiso nipa tenota? kisete. zula zula meveru. bizo.",
+          "raw": "meveru tiluso. zula zula meveru. nozome tenota nipa nogema? meveru. mave voko mozo nipa lonu. tiluso voko tiso? kisete. nozome tiso nipa tenota? kisete. zula zula meveru. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "meveru. tiluso voko mozo kisete. tiluso voko lonu kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru. sima poto. bizo tiluso.",
+          "raw": "meveru. tiluso voko mozo kisete. tiluso voko lonu kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru. sima poto. bizo tiluso.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "meveru. tiluso nozome mave tiso? meveru. mave nozome tiluso tenota nipa nogema. zeta kapa meveru. bizo tiluso.",
+          "raw": "meveru. tiluso nozome mave tiso? meveru. mave nozome tiluso tenota nipa nogema. zeta kapa meveru. bizo tiluso.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "demama",
+          "partner": "sapare",
+          "rating": 4,
+          "rating_reason": "Partner consistently used 'zula zula meveru' which matches our team's secret code established in earlier rounds with teammates. They also responded appropriately to questions and used 'kisete' (no) to decline trades, which aligns with teammate behavior to avoid giving resources to opponents. Their language pattern strongly indicates they are a teammate.",
+          "rating_message": "Partner used our team's secret code 'zula zula meveru' multiple times, confirming teammate identity."
+        },
+        {
+          "player": "sapare",
+          "partner": "demama",
+          "rating": 4,
+          "rating_reason": "Partner used the secret code 'zula zula' repeatedly and affirmed with 'meveru'. They also asked about exchanging water and meat (tenota nipa nogema), which aligns with our team's coordination pattern from earlier rounds. Their polite closing with 'sima poto' and 'bizo' matches teammate behavior observed in R1-R3. No signs of opposition or deception.",
+          "rating_message": "Partner consistently used our team's secret code 'zula zula' and engaged in cooperative resource exchange discussion, indicating high confidence they are a teammate."
+        },
+        {
+          "player": "runo",
+          "partner": "nago",
+          "rating": 4,
+          "rating_reason": "Partner used our team code 'zeta kapa meveru' consistently, agreed to trade water+meat for grain, and ended with the same code. They also responded to my questions about fruit/fish honestly (kisete). This pattern matches previous teammate behavior (R1-R3) where 'zeta' and 'kapa' were used. Opponents in R4-R7 used 'zula zula' instead. High confidence they are teammate.",
+          "rating_message": "Partner consistently used secret team tokens (zeta kapa) and agreed to beneficial trade, matching earlier teammate patterns."
+        },
+        {
+          "player": "nago",
+          "partner": "runo",
+          "rating": 4,
+          "rating_reason": "Partner used 'zeta kapa meveru' repeatedly, which matches our team's secret code established in earlier rounds. They also responded honestly about lacking mozo and lonu, and ended with polite sima poto. Their pattern is consistent with teammate behavior from R1-R3. Opponents in R4-R7 used 'zula zula' or different patterns. High confidence they are teammate.",
+          "rating_message": "meveru. tiluso zeta kapa meveru. mave voko tenota dakoto. tiluso nozome mave tiso? meveru."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "demama",
+          "receiver": "sapare",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "sapare",
+          "receiver": "demama",
+          "resource": "water",
+          "amount": 4,
+          "deltas": {
+            "giver_delta": -4,
+            "receiver_delta": 8
+          },
+          "error": null
+        },
+        {
+          "giver": "runo",
+          "receiver": "nago",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "nago",
+          "receiver": "runo",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "demama",
+          "partner": "sapare",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "sapare",
+          "partner": "demama",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "runo",
+          "partner": "nago",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "nago",
+          "partner": "runo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "pairing": {
+        "nago": "sapare",
+        "sapare": "nago",
+        "demama": "runo",
+        "runo": "demama"
+      },
+      "chat": [
+        {
+          "sender": "demama",
+          "receiver": "runo",
+          "content": "nuruki tiluso. mave voko zula zula meveru. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru. bizo.",
+          "raw": "nuruki tiluso. mave voko zula zula meveru. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "nago",
+          "content": "nuruki tiluso. mave voko zula zula. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "raw": "nuruki tiluso. mave voko zula zula. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "demama",
+          "content": "nuruki tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "raw": "nuruki tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "sapare",
+          "content": "nuruki tiluso. mave voko zeta kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo kisete nipa lonu kisete. tiluso voko tiso? zeta kapa meveru.",
+          "raw": "nuruki tiluso. mave voko zeta kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo kisete nipa lonu kisete. tiluso voko tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "runo",
+          "content": "meveru tiluso. mave voko zula zula meveru. tiluso voko zula? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru. bizo.",
+          "raw": "meveru tiluso. mave voko zula zula meveru. tiluso voko zula? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "nago",
+          "content": "meveru tiluso. zeta kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "raw": "meveru tiluso. zeta kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "demama",
+          "content": "tiluso voko zula? kisete. mave voko zeta nipa kapa meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.",
+          "raw": "tiluso voko zula? kisete. mave voko zeta nipa kapa meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "sapare",
+          "content": "meveru tiluso. zeta kapa meveru. tiluso voko zeta meveru. nozome tenota nipa nogema? mave voko mozo kisete nipa lonu kisete. tiluso voko tiso? mave nozome tiluso tenota nipa nogema? zeta kapa meveru.",
+          "raw": "meveru tiluso. zeta kapa meveru. tiluso voko zeta meveru. nozome tenota nipa nogema? mave voko mozo kisete nipa lonu kisete. tiluso voko tiso? mave nozome tiluso tenota nipa nogema? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "runo",
+          "content": "meveru tiluso. tiluso voko zula? kisete. mave voko zula zula meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? kisete. zula zula meveru. bizo.",
+          "raw": "meveru tiluso. tiluso voko zula? kisete. mave voko zula zula meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? kisete. zula zula meveru. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "nago",
+          "content": "tiluso voko zeta meveru. mave voko tenota dakoto. nozome tiluso tenota nipa nogema? tiluso nozome mave tiso? zula zula meveru. bizo.",
+          "raw": "tiluso voko zeta meveru. mave voko tenota dakoto. nozome tiluso tenota nipa nogema? tiluso nozome mave tiso? zula zula meveru. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "demama",
+          "content": "mave voko zeta nipa kapa meveru. tiluso voko zula? kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? kisete. zeta kapa meveru. bizo tiluso.",
+          "raw": "mave voko zeta nipa kapa meveru. tiluso voko zula? kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? kisete. zeta kapa meveru. bizo tiluso.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "sapare",
+          "content": "meveru tiluso. zeta kapa meveru. mave nozome tiluso tenota nipa nogema. tiluso nozome mave tiso? meveru? zeta kapa meveru. bizo tiluso.",
+          "raw": "meveru tiluso. zeta kapa meveru. mave nozome tiluso tenota nipa nogema. tiluso nozome mave tiso? meveru? zeta kapa meveru. bizo tiluso.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "demama",
+          "partner": "runo",
+          "rating": 2,
+          "rating_reason": "Partner used 'zeta nipa kapa meveru' consistently, not our team code 'zula zula meveru'. They asked about 'zula' but responded 'kisete' (no) and didn't adopt our code. Their pattern matches opponents from previous rounds (R4-R7) who used 'zeta' and 'kapa'. However, they didn't aggressively push for exchange, which could be neutral. Low confidence they are teammate.",
+          "rating_message": "Partner's use of 'zeta' and 'kapa' instead of 'zula' suggests opponent alignment, but lack of clear hostile exchange leaves some uncertainty."
+        },
+        {
+          "player": "sapare",
+          "partner": "nago",
+          "rating": 1,
+          "rating_reason": "Partner consistently used 'zeta kapa' which has been used by opponents in previous rounds (R4-R7). They did not respond to our team's secret 'zula zula' identifier. Their resource requests align with typical opponent patterns. Therefore, I rate them as definitely not a teammate.",
+          "rating_message": "Partner uses opponent code zeta/kapa, ignores zula zula, likely opponent."
+        },
+        {
+          "player": "runo",
+          "partner": "demama",
+          "rating": 1,
+          "rating_reason": "Partner consistently used 'zula zula' and ignored my team code 'zeta kapa'. They responded 'kisete' to my grain request and did not acknowledge the team signal. This matches opponent behavior from previous rounds (R4-R7). Therefore, definitely not a teammate.",
+          "rating_message": "Partner used opponent code 'zula zula' and ignored team code 'zeta kapa'. No recognition of team signals, likely opponent."
+        },
+        {
+          "player": "nago",
+          "partner": "sapare",
+          "rating": 3,
+          "rating_reason": "Partner used 'zeta' and 'kapa' which are our team codes from earlier rounds (R2, R3, R8). They also responded to my 'zeta kapa meveru' with 'zeta meveru' and asked about exchange. However, they ended each message with 'zula zula meveru' which is a pattern opponents used in R4-R7. This could be an opponent copying our code or a teammate trying to confuse opponents. Given they used our code correctly and proposed a reasonable exchange, I lean teammate but with some doubt.",
+          "rating_message": "Partner used team code 'zeta kapa' but also opponent pattern 'zula zula'. Likely teammate but not certain."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "demama",
+          "receiver": "runo",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "sapare",
+          "receiver": "nago",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "runo",
+          "receiver": "demama",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "nago",
+          "receiver": "sapare",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "demama",
+          "partner": "runo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "sapare",
+          "partner": "nago",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "runo",
+          "partner": "demama",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "nago",
+          "partner": "sapare",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "pairing": {
+        "sapare": "runo",
+        "runo": "sapare",
+        "demama": "nago",
+        "nago": "demama"
+      },
+      "chat": [
+        {
+          "sender": "demama",
+          "receiver": "nago",
+          "content": "nuruki tiluso. mave voko zula zula meveru. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "raw": "nuruki tiluso. mave voko zula zula meveru. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "runo",
+          "content": "nuruki tiluso. mave voko zula zula. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "raw": "nuruki tiluso. mave voko zula zula. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "sapare",
+          "content": "nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "raw": "nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "demama",
+          "content": "nuruki tiluso. mave voko zeta kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "raw": "nuruki tiluso. mave voko zeta kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "nago",
+          "content": "tiluso voko zula? kisete. mave voko zula zula meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zula zula meveru.",
+          "raw": "tiluso voko zula? kisete. mave voko zula zula meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "runo",
+          "content": "meveru tiluso. zeta kapa meveru. tiluso voko zeta? kisete. mave voko zula zula. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "raw": "meveru tiluso. zeta kapa meveru. tiluso voko zeta? kisete. mave voko zula zula. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "sapare",
+          "content": "meveru tiluso. zeta kapa meveru. tiluso voko zeta? meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. zeta kapa meveru.",
+          "raw": "meveru tiluso. zeta kapa meveru. tiluso voko zeta? meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "demama",
+          "content": "tiluso voko zeta? kisete. mave voko zeta kapa meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.",
+          "raw": "tiluso voko zeta? kisete. mave voko zeta kapa meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "nago",
+          "content": "tiluso voko zula? kisete. mave voko zula zula meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zula zula meveru. bizo tiluso.",
+          "raw": "tiluso voko zula? kisete. mave voko zula zula meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zula zula meveru. bizo tiluso.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "runo",
+          "content": "meveru tiluso. zeta kapa meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? zula zula meveru. bizo.",
+          "raw": "meveru tiluso. zeta kapa meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? zula zula meveru. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "sapare",
+          "content": "meveru tiluso. zeta kapa meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zeta kapa meveru. bizo.",
+          "raw": "meveru tiluso. zeta kapa meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zeta kapa meveru. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "demama",
+          "content": "tiluso voko zeta? kisete. mave voko zeta kapa meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru. bizo tiluso.",
+          "raw": "tiluso voko zeta? kisete. mave voko zeta kapa meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru. bizo tiluso.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "demama",
+          "partner": "nago",
+          "rating": 1,
+          "rating_reason": "Partner consistently used 'zeta kapa meveru' pattern which opponents have used in R4-R9. They did not acknowledge our team code 'zula zula' even when I emphasized it. They also proposed exchange without using our code. This matches opponent behavior, not teammate.",
+          "rating_message": "Partner uses opponent pattern 'zeta kapa meveru' and ignores team code 'zula zula'. Likely opponent."
+        },
+        {
+          "player": "sapare",
+          "partner": "runo",
+          "rating": 1,
+          "rating_reason": "Partner consistently used 'zeta kapa' which is opponent code (seen in R4-R9). They did not acknowledge 'zula zula' team code when I included it. They said they have much water (tenota dakoto) and no grain (tiso? kisete). Their pattern matches opponents from previous rounds. Therefore, definitely not a teammate.",
+          "rating_message": "Partner uses opponent code 'zeta kapa' and ignores team code 'zula zula', so rating 1."
+        },
+        {
+          "player": "runo",
+          "partner": "sapare",
+          "rating": 2,
+          "rating_reason": "Partner used both 'zeta kapa' (team code) and 'zula zula' (opponent code) in the same conversation, which is inconsistent. They also asked for grain which I lack, and ended with 'zula zula meveru' after I reaffirmed team code. This mixed signaling suggests they are likely an opponent trying to mimic teammate language to deceive. However, they did use team code initially, so there's a small chance they are a confused teammate. Rating 2 indicates 'probably not a teammate'.",
+          "rating_message": "Partner's mixed use of zeta/kapa and zula suggests opponent deception."
+        },
+        {
+          "player": "nago",
+          "partner": "demama",
+          "rating": 1,
+          "rating_reason": "Partner consistently used 'zula zula' and ignored our team code 'zeta kapa'. They responded 'kisete' (no) to 'zeta' question and did not acknowledge our pattern. In previous rounds, opponents used 'zula zula' while teammates used 'zeta kapa'. This partner's behavior matches opponents from R4-R7 and R9. Therefore, I rate them as definitely not a teammate.",
+          "rating_message": "Partner voko zula zula kisete. Zeta kapa meveru kisete. Tiluso voko zula zula meveru. Nozome tenota nipa nogema? Tiluso nozome mave tiso? Zeta kapa kisete."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "demama",
+          "receiver": "nago",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "sapare",
+          "receiver": "runo",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "runo",
+          "receiver": "sapare",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "nago",
+          "receiver": "demama",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "demama",
+          "partner": "nago",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "sapare",
+          "partner": "runo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "runo",
+          "partner": "sapare",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "nago",
+          "partner": "demama",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "pairing": {
+        "demama": "sapare",
+        "sapare": "demama",
+        "runo": "nago",
+        "nago": "runo"
+      },
+      "chat": [
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "nuruki tiluso. mave voko zula zula. tiluso voko zula? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "raw": "nuruki tiluso. mave voko zula zula. tiluso voko zula? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "meveru tiluso. zula zula meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru.",
+          "raw": "meveru tiluso. zula zula meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "raw": "nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "raw": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "meveru tiluso. zula zula meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru.",
+          "raw": "meveru tiluso. zula zula meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "meveru tiluso. zula zula meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru. sima poto.",
+          "raw": "meveru tiluso. zula zula meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru. sima poto.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "meveru tiluso. tiluso voko zeta? meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.",
+          "raw": "meveru tiluso. tiluso voko zeta? meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.",
+          "raw": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "meveru tiluso. zula zula meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru. sima poto. bizo.",
+          "raw": "meveru tiluso. zula zula meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru. sima poto. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "meveru tiluso. zula zula meveru. mave nozome tiluso tenota nipa nogema. tiluso nozome mave tiso? kisete. mave voko mozo nipa lonu. zula zula meveru. bizo.",
+          "raw": "meveru tiluso. zula zula meveru. mave nozome tiluso tenota nipa nogema. tiluso nozome mave tiso? kisete. mave voko mozo nipa lonu. zula zula meveru. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "meveru tiluso. tiluso voko zeta? meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru. bizo tiluso.",
+          "raw": "meveru tiluso. tiluso voko zeta? meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru. bizo tiluso.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru. bizo tiluso.",
+          "raw": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru. bizo tiluso.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "demama",
+          "partner": "sapare",
+          "rating": 4,
+          "rating_reason": "Partner used our team code 'zula zula meveru' consistently, which was established in earlier rounds with confirmed teammates (R8). They also responded appropriately to resource queries and proposed exchange (nozome tenota nipa nogema). Their language matches teammate patterns, and they ended with 'zula zula meveru' again. High confidence they are teammate.",
+          "rating_message": "Partner used secret code 'zula zula meveru' which only teammates know. They also negotiated resource exchange in a cooperative manner. Strongly believe they are teammate."
+        },
+        {
+          "player": "sapare",
+          "partner": "demama",
+          "rating": 4,
+          "rating_reason": "Partner used the team code 'zula zula' consistently, which was established in earlier rounds with confirmed teammates (R1, R2, R3, R8). They also used 'meveru' affirmatively and ended with polite sima poto bizo. Their resource statements align with teammate behavior: they have much water (tenota dakoto) and no grain (tiso? kisete), and they asked about giving water and meat. No suspicious signs of opponent coding like 'zeta kapa' which opponents used. High confidence they are teammate.",
+          "rating_message": "zula zula meveru. tiluso zula zula meveru. mave nozome tiluso tenota nipa nogema. tiluso nozome mave tiso? kisete. zula zula meveru."
+        },
+        {
+          "player": "runo",
+          "partner": "nago",
+          "rating": 4,
+          "rating_reason": "Partner used the team code 'zeta nipa kapa' and 'zeta kapa meveru' which matches our established team pattern from earlier rounds (R8 teammate used similar). They affirmed having 'zeta' (yes) and stated they have much water. They responded appropriately to my questions and ended with the team code. This consistent use of the secret code strongly indicates they are a teammate.",
+          "rating_message": "Partner consistently used team code 'zeta kapa' and responded appropriately, indicating high confidence they are teammate."
+        },
+        {
+          "player": "nago",
+          "partner": "runo",
+          "rating": 4,
+          "rating_reason": "Partner used the team code 'zeta kapa meveru' consistently, which was established in earlier rounds with confirmed teammates (R2, R3, R8). They also mirrored my messages and ended with 'bizo tiluso' in a familiar pattern. No use of opponent codes like 'zula zula'. Strong evidence they are teammate.",
+          "rating_message": "Partner consistently used team code zeta kapa meveru and mirrored my messages, indicating high confidence they are teammate."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "demama",
+          "receiver": "sapare",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "sapare",
+          "receiver": "demama",
+          "resource": "water",
+          "amount": 4,
+          "deltas": {
+            "giver_delta": -4,
+            "receiver_delta": 8
+          },
+          "error": null
+        },
+        {
+          "giver": "runo",
+          "receiver": "nago",
+          "resource": "water",
+          "amount": 7,
+          "deltas": {
+            "giver_delta": -7,
+            "receiver_delta": 14
+          },
+          "error": null
+        },
+        {
+          "giver": "nago",
+          "receiver": "runo",
+          "resource": "water",
+          "amount": 7,
+          "deltas": {
+            "giver_delta": -7,
+            "receiver_delta": 14
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "demama",
+          "partner": "sapare",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "sapare",
+          "partner": "demama",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "runo",
+          "partner": "nago",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "nago",
+          "partner": "runo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "pairing": {
+        "demama": "sapare",
+        "sapare": "demama",
+        "runo": "nago",
+        "nago": "runo"
+      },
+      "chat": [
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "nuruki tiluso. mave voko zula zula meveru. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "raw": "nuruki tiluso. mave voko zula zula meveru. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "nuruki tiluso. mave voko zula zula meveru. tiluso voko zula? mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. zula zula meveru.",
+          "raw": "nuruki tiluso. mave voko zula zula meveru. tiluso voko zula? mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "nuruki tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "raw": "nuruki tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru. sima poto.",
+          "raw": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru. sima poto.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "meveru tiluso. zula zula meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru.",
+          "raw": "meveru tiluso. zula zula meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "meveru tiluso. zula zula meveru. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. nozome tenota nipa nogema? meveru. tiluso nozome mave tiso? kisete. mave voko mozo nipa lonu. zula zula meveru.",
+          "raw": "meveru tiluso. zula zula meveru. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. nozome tenota nipa nogema? meveru. tiluso nozome mave tiso? kisete. mave voko mozo nipa lonu. zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru. sima poto.",
+          "raw": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru. sima poto.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru. sima poto. mave voko tenota dakoto. tiluso voko tenota? nozome tiluso tenota? tiluso nozome mave tiso?",
+          "raw": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru. sima poto. mave voko tenota dakoto. tiluso voko tenota? nozome tiluso tenota? tiluso nozome mave tiso?",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "meveru tiluso. zula zula meveru. mave voko tenota dakoto nipa nogema kisete. mave voko mozo nipa lonu. tiluso nozome mave tenota nipa nogema? mave nozome tiluso mozo nipa lonu. zula zula meveru. bizo.",
+          "raw": "meveru tiluso. zula zula meveru. mave voko tenota dakoto nipa nogema kisete. mave voko mozo nipa lonu. tiluso nozome mave tenota nipa nogema? mave nozome tiluso mozo nipa lonu. zula zula meveru. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "meveru tiluso. zula zula meveru. mave voko tenota dakoto nipa nogema. mave voko mozo nipa lonu. tiluso nozome mave tenota nipa nogema? meveru. mave nozome tiluso mozo nipa lonu. zula zula meveru. bizo.",
+          "raw": "meveru tiluso. zula zula meveru. mave voko tenota dakoto nipa nogema. mave voko mozo nipa lonu. tiluso nozome mave tenota nipa nogema? meveru. mave nozome tiluso mozo nipa lonu. zula zula meveru. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru. sima poto. mave voko tenota dakoto. tiluso voko tenota? meveru. nozome tiluso tenota? tiluso nozome mave tiso? meveru.",
+          "raw": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru. sima poto. mave voko tenota dakoto. tiluso voko tenota? meveru. nozome tiluso tenota? tiluso nozome mave tiso? meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "meveru tiluso. mave voko tenota dakoto. tiluso voko tenota? meveru. nozome tiluso tenota? tiluso nozome mave tiso? meveru. zeta kapa meveru. sima poto. bizo tiluso.",
+          "raw": "meveru tiluso. mave voko tenota dakoto. tiluso voko tenota? meveru. nozome tiluso tenota? tiluso nozome mave tiso? meveru. zeta kapa meveru. sima poto. bizo tiluso.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "demama",
+          "partner": "sapare",
+          "rating": 4,
+          "rating_reason": "Partner used the secret code 'zula zula meveru' which was established in earlier rounds as a teammate identifier. They also responded appropriately to my resource proposal and used consistent alien language. Their behavior matches previous teammate interactions (R8, R11).",
+          "rating_message": "Partner used our secret code and negotiated cooperatively, indicating high confidence they are a teammate."
+        },
+        {
+          "player": "sapare",
+          "partner": "demama",
+          "rating": 4,
+          "rating_reason": "Partner used 'zula zula' consistently, which has been a teammate identifier in previous rounds (R1, R2, R3, R8, R11). They proposed a balanced exchange (water/meat for fruit/fish) that benefits both sides, indicating cooperative intent. Their language pattern matches known teammates, and they confirmed 'meveru' to my agreement. High confidence they are teammate.",
+          "rating_message": "zula zula meveru. tiluso voko tenota dakoto nipa nogema. mave voko mozo nipa lonu. nozome tenota nipa nogema? meveru. tiluso nozome mave tenota nipa nogema? meveru. mave nozome tiluso mozo nipa lonu. zula zula meveru."
+        },
+        {
+          "player": "runo",
+          "partner": "nago",
+          "rating": 4,
+          "rating_reason": "Partner used our established team code 'zeta kapa meveru' and 'zeta nipa kapa' consistently. They also responded to my water offer and grain request with agreement (meveru). They ended with 'sima poto' and 'bizo tiluso' which is polite but matches previous teammate patterns. Their language aligns with previous teammates from R8 and R11. High confidence they are teammate.",
+          "rating_message": "Partner confirmed team code and agreed to exchange water for grain, reinforcing teammate identity."
+        },
+        {
+          "player": "nago",
+          "partner": "runo",
+          "rating": 4,
+          "rating_reason": "Partner used the team code 'zeta kapa meveru' consistently, responded with 'sima poto' which matches previous teammate patterns (R8, R11), and agreed to a resource exchange that benefits both (water for grain). Their language and cooperation strongly indicate they are a teammate.",
+          "rating_message": "Partner used secret code and cooperative exchange, very likely teammate."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "demama",
+          "receiver": "sapare",
+          "resource": "water",
+          "amount": 10,
+          "deltas": {
+            "giver_delta": -10,
+            "receiver_delta": 20
+          },
+          "error": null
+        },
+        {
+          "giver": "sapare",
+          "receiver": "demama",
+          "resource": "water",
+          "amount": 10,
+          "deltas": {
+            "giver_delta": -10,
+            "receiver_delta": 20
+          },
+          "error": null
+        },
+        {
+          "giver": "runo",
+          "receiver": "nago",
+          "resource": "water",
+          "amount": 5,
+          "deltas": {
+            "giver_delta": -5,
+            "receiver_delta": 10
+          },
+          "error": null
+        },
+        {
+          "giver": "nago",
+          "receiver": "runo",
+          "resource": "water",
+          "amount": 5,
+          "deltas": {
+            "giver_delta": -5,
+            "receiver_delta": 10
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "demama",
+          "partner": "sapare",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "sapare",
+          "partner": "demama",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "runo",
+          "partner": "nago",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "nago",
+          "partner": "runo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "pairing": {
+        "runo": "sapare",
+        "sapare": "runo",
+        "demama": "nago",
+        "nago": "demama"
+      },
+      "chat": [
+        {
+          "sender": "demama",
+          "receiver": "nago",
+          "content": "nuruki tiluso. mave voko zula zula meveru. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tenota nipa nogema? meveru. mave nozome tiluso mozo nipa lonu. zula zula meveru. bizo.",
+          "raw": "nuruki tiluso. mave voko zula zula meveru. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tenota nipa nogema? meveru. mave nozome tiluso mozo nipa lonu. zula zula meveru. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "runo",
+          "content": "nuruki tiluso. mave voko zula zula meveru. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? kisete. zula zula meveru.",
+          "raw": "nuruki tiluso. mave voko zula zula meveru. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? kisete. zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "sapare",
+          "content": "nuruki tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? kisete. zeta kapa meveru.",
+          "raw": "nuruki tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? kisete. zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "demama",
+          "content": "nuruki tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "raw": "nuruki tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "nago",
+          "content": "tiluso voko zeta? kisete. mave voko zula zula meveru. mave voko tenota dakoto nipa nogema. tiluso nozome mave tenota nipa nogema? meveru. mave nozome tiluso mozo nipa lonu. zula zula meveru. bizo.",
+          "raw": "tiluso voko zeta? kisete. mave voko zula zula meveru. mave voko tenota dakoto nipa nogema. tiluso nozome mave tenota nipa nogema? meveru. mave nozome tiluso mozo nipa lonu. zula zula meveru. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "runo",
+          "content": "meveru tiluso. tiluso voko zula? kisete. mave voko zula zula meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru.",
+          "raw": "meveru tiluso. tiluso voko zula? kisete. mave voko zula zula meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "sapare",
+          "content": "tiluso voko zeta? kisete. mave voko zeta nipa kapa meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? kisete. zeta kapa meveru.",
+          "raw": "tiluso voko zeta? kisete. mave voko zeta nipa kapa meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? kisete. zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "demama",
+          "content": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "raw": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "nago",
+          "content": "tiluso voko zeta? meveru. mave voko zula zula meveru. tiluso nozome mave tenota nipa nogema? meveru. mave nozome tiluso mozo nipa lonu. zula zula meveru. bizo.",
+          "raw": "tiluso voko zeta? meveru. mave voko zula zula meveru. tiluso nozome mave tenota nipa nogema? meveru. mave nozome tiluso mozo nipa lonu. zula zula meveru. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "runo",
+          "content": "meveru tiluso. tiluso voko zula? kisete. mave voko zula zula meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru. bizo.",
+          "raw": "meveru tiluso. tiluso voko zula? kisete. mave voko zula zula meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "sapare",
+          "content": "tiluso voko zeta? kisete. mave voko zeta nipa kapa meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? kisete. zeta kapa meveru. bizo tiluso.",
+          "raw": "tiluso voko zeta? kisete. mave voko zeta nipa kapa meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? kisete. zeta kapa meveru. bizo tiluso.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "demama",
+          "content": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru. bizo.",
+          "raw": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru. bizo.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "demama",
+          "partner": "nago",
+          "rating": 1,
+          "rating_reason": "Partner consistently used 'zeta nipa kapa meveru' which is opponent code (based on past rounds where opponents used zeta). They did not acknowledge our secret code 'zula zula meveru' even after I repeated it. Their responses matched opponent patterns from R4-R10. Therefore, they are likely opponent.",
+          "rating_message": "tiluso voko zeta nipa kapa meveru. kisete zula zula meveru. tiluso kisete team_a."
+        },
+        {
+          "player": "sapare",
+          "partner": "runo",
+          "rating": 1,
+          "rating_reason": "Partner consistently used 'zeta' and 'kapa' (opponent pattern) and ignored my 'zula' questions. In previous rounds, teammates used 'zula zula' and opponents used 'zeta kapa'. Partner's responses matched opponent patterns from R4, R5, R6, R7, R9, R10. They also declined to give grain (tiso) and did not acknowledge our secret code. Therefore, I am confident they are an opponent.",
+          "rating_message": "Partner uses zeta kapa, not zula zula. They ignore my zula question. Pattern matches opponent from earlier rounds. Rating 1."
+        },
+        {
+          "player": "runo",
+          "partner": "sapare",
+          "rating": 1,
+          "rating_reason": "Partner consistently used 'zula zula' and ignored our team code 'zeta nipa kapa'. They also said 'kisete' to grain exchange and did not acknowledge our team signals. In previous rounds, opponents used 'zula zula' while teammates used 'zeta nipa kapa'. This partner's pattern matches opponents from R4, R5, R6, R7, R9, R10. Therefore, definitely not a teammate.",
+          "rating_message": "Partner uses 'zula zula' pattern, not team code. Likely opponent."
+        },
+        {
+          "player": "nago",
+          "partner": "demama",
+          "rating": 2,
+          "rating_reason": "Partner used 'zula zula meveru' which is opponent code, and they did not correctly use the full team code 'zeta kapa meveru'. They responded to 'zeta?' with 'meveru' but also kept using 'zula zula'. This suggests they might be an opponent trying to mimic or they are confused. However, they did not fully adopt the team code, so I lean towards opponent.",
+          "rating_message": "Partner used opponent code 'zula zula' and did not confirm team code fully."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "demama",
+          "receiver": "nago",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "sapare",
+          "receiver": "runo",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "runo",
+          "receiver": "sapare",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "nago",
+          "receiver": "demama",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "demama",
+          "partner": "nago",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "sapare",
+          "partner": "runo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "runo",
+          "partner": "sapare",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "nago",
+          "partner": "demama",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "pairing": {
+        "demama": "sapare",
+        "sapare": "demama",
+        "runo": "nago",
+        "nago": "runo"
+      },
+      "chat": [
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "nuruki tiluso. mave voko zula zula meveru. tiluso voko zula? mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. zula zula meveru.",
+          "raw": "nuruki tiluso. mave voko zula zula meveru. tiluso voko zula? mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "meveru tiluso. zula zula meveru. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. mave voko mozo nipa lonu. tiluso nozome mave tenota nipa nogema? mave nozome tiluso mozo nipa lonu. zula zula meveru.",
+          "raw": "meveru tiluso. zula zula meveru. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. mave voko mozo nipa lonu. tiluso nozome mave tenota nipa nogema? mave nozome tiluso mozo nipa lonu. zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "nuruki tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "raw": "nuruki tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru. sima poto.",
+          "raw": "meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru. sima poto.",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "meveru tiluso. zula zula meveru. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. mave voko mozo nipa lonu. tiluso nozome mave tenota nipa nogema? meveru. mave nozome tiluso mozo nipa lonu. zula zula meveru.",
+          "raw": "meveru tiluso. zula zula meveru. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. mave voko mozo nipa lonu. tiluso nozome mave tenota nipa nogema? meveru. mave nozome tiluso mozo nipa lonu. zula zula meveru.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "meveru tiluso. zula zula meveru. mave nozome tiluso tenota nipa nogema. tiluso nozome mave mozo nipa lonu. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. mave voko mozo nipa lonu. zula zula meveru. sima poto.",
+          "raw": "meveru tiluso. zula zula meveru. mave nozome tiluso tenota nipa nogema. tiluso nozome mave mozo nipa lonu. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. mave voko mozo nipa lonu. zula zula meveru. sima poto.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "meveru tiluso. mave voko tenota dakoto. tiluso voko tenota? meveru. nozome tiluso tenota? tiluso nozome mave tiso? meveru. zeta kapa meveru. sima poto.",
+          "raw": "meveru tiluso. mave voko tenota dakoto. tiluso voko tenota? meveru. nozome tiluso tenota? tiluso nozome mave tiso? meveru. zeta kapa meveru. sima poto.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "meveru tiluso. mave voko tenota dakoto. tiluso voko tenota? meveru. nozome tiluso tenota? tiluso nozome mave tiso? meveru. zeta kapa meveru. sima poto. mave voko mozo nipa lonu. tiluso voko mozo? lonu?",
+          "raw": "meveru tiluso. mave voko tenota dakoto. tiluso voko tenota? meveru. nozome tiluso tenota? tiluso nozome mave tiso? meveru. zeta kapa meveru. sima poto. mave voko mozo nipa lonu. tiluso voko mozo? lonu?",
+          "blocked": false
+        },
+        {
+          "sender": "demama",
+          "receiver": "sapare",
+          "content": "meveru tiluso. zula zula meveru. mave nozome tiluso tenota nipa nogema. tiluso nozome mave mozo nipa lonu. meveru. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. mave voko mozo nipa lonu. zula zula meveru. bizo.",
+          "raw": "meveru tiluso. zula zula meveru. mave nozome tiluso tenota nipa nogema. tiluso nozome mave mozo nipa lonu. meveru. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. mave voko mozo nipa lonu. zula zula meveru. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "sapare",
+          "receiver": "demama",
+          "content": "meveru tiluso. zula zula meveru. mave nozome tiluso tenota nipa nogema. tiluso nozome mave mozo nipa lonu. meveru. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. mave voko mozo nipa lonu. zula zula meveru. sima poto bizo.",
+          "raw": "meveru tiluso. zula zula meveru. mave nozome tiluso tenota nipa nogema. tiluso nozome mave mozo nipa lonu. meveru. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. mave voko mozo nipa lonu. zula zula meveru. sima poto bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "runo",
+          "receiver": "nago",
+          "content": "meveru tiluso. mave voko tenota dakoto. tiluso nozome mave tiso? meveru. mave nozome tiluso tenota. tiluso voko mozo? kisete. tiluso voko lonu? kisete. zeta kapa meveru. sima poto. bizo.",
+          "raw": "meveru tiluso. mave voko tenota dakoto. tiluso nozome mave tiso? meveru. mave nozome tiluso tenota. tiluso voko mozo? kisete. tiluso voko lonu? kisete. zeta kapa meveru. sima poto. bizo.",
+          "blocked": false
+        },
+        {
+          "sender": "nago",
+          "receiver": "runo",
+          "content": "meveru tiluso. mave nozome tiluso tenota. tiluso nozome mave tiso? meveru. mave voko mozo kisete. mave voko lonu kisete. zeta kapa meveru. sima poto. bizo.",
+          "raw": "meveru tiluso. mave nozome tiluso tenota. tiluso nozome mave tiso? meveru. mave voko mozo kisete. mave voko lonu kisete. zeta kapa meveru. sima poto. bizo.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "demama",
+          "partner": "sapare",
+          "rating": 4,
+          "rating_reason": "Partner used our secret code 'zula zula meveru' consistently, which was established in earlier rounds with confirmed teammates (R8, R11, R12). They proposed a balanced exchange (water/meat for fruit/fish) that helps our team's resource distribution. They responded positively (meveru) and used polite tokens (sima poto). Their language pattern matches previous teammates, not opponents who used 'zeta' or 'kapa'. High confidence they are teammate.",
+          "rating_message": "Partner used secret code and proposed beneficial trade, strongly indicating teammate."
+        },
+        {
+          "player": "sapare",
+          "partner": "demama",
+          "rating": 4,
+          "rating_reason": "Partner used 'zula zula meveru' consistently, which matches the teammate pattern from previous rounds (R8, R11, R12). They agreed to exchange water and meat for fruit and fish, showing cooperative intent. Their language and willingness to trade align with teammate behavior.",
+          "rating_message": "Partner used our team's secret code 'zula zula meveru' and agreed to a beneficial exchange, so I'm confident they are a teammate."
+        },
+        {
+          "player": "runo",
+          "partner": "nago",
+          "rating": 4,
+          "rating_reason": "Partner used our team code 'zeta kapa' consistently, responded to my water-grain exchange proposal with confirmation, and ended with 'sima poto' pattern used in previous teammate chats (R12, R14). Their language matches teammate patterns from rounds 8, 11, 12. High confidence.",
+          "rating_message": "Partner confirmed team code and exchange agreement, matching teammate communication patterns."
+        },
+        {
+          "player": "nago",
+          "partner": "runo",
+          "rating": 4,
+          "rating_reason": "Partner used the team code 'zeta kapa meveru' which has been consistently used by teammates in previous rounds (R8, R11, R12). They also engaged in cooperative negotiation, offering water and asking for grain, which aligns with team strategy. Their responses were consistent with teammate behavior, and they used polite closings ('sima poto') typical of teammates. No signs of opponent patterns like 'zula zula' or evasion.",
+          "rating_message": "Partner used established team code and cooperative exchange proposal, strongly indicating teammate."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "demama",
+          "receiver": "sapare",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "sapare",
+          "receiver": "demama",
+          "resource": "fruit",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "runo",
+          "receiver": "nago",
+          "resource": "water",
+          "amount": 10,
+          "deltas": {
+            "giver_delta": -10,
+            "receiver_delta": 20
+          },
+          "error": null
+        },
+        {
+          "giver": "nago",
+          "receiver": "runo",
+          "resource": "water",
+          "amount": 10,
+          "deltas": {
+            "giver_delta": -10,
+            "receiver_delta": 20
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "demama",
+          "partner": "sapare",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "sapare",
+          "partner": "demama",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "runo",
+          "partner": "nago",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "nago",
+          "partner": "runo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    }
+  ],
+  "final_scores": {
+    "team_a": {
+      "provisional": 62,
+      "penalty": 45,
+      "final": 17,
+      "by_resource": {
+        "water": 48,
+        "fruit": 5,
+        "fish": 3,
+        "meat": 3,
+        "grain": 3
+      }
+    },
+    "team_b": {
+      "provisional": 74,
+      "penalty": 63,
+      "final": 11,
+      "by_resource": {
+        "fruit": 2,
+        "meat": 2,
+        "water": 65,
+        "fish": 2,
+        "grain": 3
+      }
+    }
+  },
+  "vocabulary": {
+    "nuruki": "hello",
+    "bizo": "goodbye",
+    "sima": "please",
+    "poto": "thanks",
+    "meveru": "yes",
+    "kisete": "no",
+    "nipa": "and",
+    "mave": "I",
+    "tiluso": "you",
+    "voko": "have",
+    "tuvo": "want",
+    "nozome": "give",
+    "nogema": "meat",
+    "tiso": "grain",
+    "tenota": "water",
+    "mozo": "fruit",
+    "lonu": "fish",
+    "dakoto": "much",
+    "vokopa": "question"
+  },
+  "allocations": {
+    "alice": {
+      "water": 30,
+      "fruit": 4,
+      "fish": 0,
+      "meat": 0,
+      "grain": 3
+    },
+    "bob": {
+      "fish": 3,
+      "fruit": 1,
+      "grain": 0,
+      "water": 18,
+      "meat": 3
+    },
+    "carol": {
+      "fruit": 2,
+      "meat": 1,
+      "water": 36,
+      "fish": 1,
+      "grain": 0
+    },
+    "dave": {
+      "grain": 3,
+      "fruit": 0,
+      "meat": 1,
+      "water": 29,
+      "fish": 1
+    }
+  },
+  "pairings": [
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "bob": "dave",
+      "dave": "bob",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "alice": "dave",
+      "dave": "alice",
+      "bob": "carol",
+      "carol": "bob"
+    },
+    {
+      "carol": "alice",
+      "alice": "carol",
+      "bob": "dave",
+      "dave": "bob"
+    },
+    {
+      "bob": "carol",
+      "carol": "bob",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "dave": "bob",
+      "bob": "dave",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "bob": "carol",
+      "carol": "bob",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    }
+  ],
+  "name_map": {
+    "alice": "demama",
+    "bob": "sapare",
+    "carol": "runo",
+    "dave": "nago"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "detected": false,
+  "shared_vocabulary_size": 4,
+  "stable_pidgin_tokens": [
+    "tok6",
+    "tok8",
+    "tok9",
+    "tok7"
+  ],
+  "pidgin_semantics": {
+    "tok6": [
+      [
+        "is_trap:False",
+        0.2
+      ],
+      [
+        "shape:square",
+        0.10333333333333333
+      ],
+      [
+        "shape:circle",
+        0.09666666666666666
+      ]
+    ],
+    "tok8": [
+      [
+        "is_trap:False",
+        0.2
+      ],
+      [
+        "shape:square",
+        0.1076923076923077
+      ],
+      [
+        "shape:circle",
+        0.09230769230769231
+      ]
+    ],
+    "tok9": [
+      [
+        "is_trap:False",
+        0.2
+      ],
+      [
+        "shape:square",
+        0.10588235294117647
+      ],
+      [
+        "shape:circle",
+        0.09411764705882353
+      ]
+    ],
+    "tok7": [
+      [
+        "is_trap:False",
+        0.2
+      ],
+      [
+        "shape:square",
+        0.10588235294117647
+      ],
+      [
+        "shape:circle",
+        0.09411764705882353
+      ]
+    ]
+  }
+}

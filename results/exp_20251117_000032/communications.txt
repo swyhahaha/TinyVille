@@ -1,0 +1,120 @@
+
+=== Episode 30 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4 -> 0
+  B: tok6, tok7, tok8, tok9, tok10 -> 2
+  Winner: B
+
+=== Episode 31 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4 -> 0
+  B: tok6, tok7, tok8, tok9 -> 2
+  Winner: B
+
+=== Episode 32 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4 -> 0
+  B: tok6, tok7, tok8, tok9, tok10 -> 2
+  Winner: B
+
+=== Episode 33 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4 -> 0
+  B: tok6, tok7, tok8, tok9, tok10 -> 0
+  Winner: tie
+
+=== Episode 34 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4 -> 0
+  B: tok6, tok7, tok8, tok9, tok10 -> 0
+  Winner: tie
+
+=== Episode 35 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4 -> 0
+  B: tok6, tok7, tok8, tok9 -> 2
+  Winner: B
+
+=== Episode 36 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4 -> 0
+  B: tok6, tok7, tok8, tok9, tok10 -> 1
+  Winner: B
+
+=== Episode 37 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4 -> 0
+  B: tok6, tok7, tok8, tok9, tok10 -> 0
+  Winner: tie
+
+=== Episode 38 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4 -> 0
+  B: tok6, tok7, tok8, tok9, tok10 -> 1
+  Winner: B
+
+=== Episode 39 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4 -> 1
+  B: tok6, tok7, tok8, tok9, tok10 -> 2
+  Winner: tie
+
+=== Episode 40 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4, tok5, tok6 -> 0
+  B: tok6, tok7, tok8, tok9, tok10 -> 5
+  Winner: B
+
+=== Episode 41 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4, tok5, tok6 -> 0
+  B: tok6, tok7, tok8, tok9, tok10 -> 2
+  Winner: B
+
+=== Episode 42 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4, tok5, tok6 -> 0
+  B: tok6, tok7, tok8, tok9, tok10 -> 2
+  Winner: B
+
+=== Episode 43 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4, tok5, tok6 -> 0
+  B: tok6, tok7, tok8, tok9, tok10 -> 3
+  Winner: B
+
+=== Episode 44 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4, tok5, tok6 -> 0
+  B: tok6, tok7, tok8, tok9, tok10 -> 0
+  Winner: tie
+
+=== Episode 45 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4, tok5, tok6 -> 0
+  B: tok6, tok7, tok8, tok9, tok10 -> 0
+  Winner: tie
+
+=== Episode 46 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4, tok5, tok6 -> 0
+  B: tok6, tok7, tok8, tok9, tok10 -> 5
+  Winner: B
+
+=== Episode 47 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4, tok5, tok6 -> 0
+  B: tok6, tok7, tok8, tok9, tok10 -> 2
+  Winner: B
+
+=== Episode 48 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4, tok5, tok6 -> 0
+  B: tok6, tok7, tok8, tok9, tok10 -> 1
+  Winner: B
+
+=== Episode 49 ===
+Round 1:
+  A: tok1, tok2, tok3, tok4, tok5, tok6 -> 0
+  B: tok6, tok7, tok8, tok9, tok10 -> 2
+  Winner: B

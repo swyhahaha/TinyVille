@@ -1,0 +1,402 @@
+[
+  {
+    "episode_id": 0,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -60,
+    "team_b_reward": 48,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 1,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -10,
+    "team_b_reward": 40,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 2,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": 10,
+    "team_b_reward": 30,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 3,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -1,
+    "team_b_reward": 7,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 4,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -11,
+    "team_b_reward": 37,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 5,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": 25,
+    "team_b_reward": 27,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 6,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -29,
+    "team_b_reward": 22,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 7,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": 15,
+    "team_b_reward": 21,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 8,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -60,
+    "team_b_reward": 60,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 9,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -69,
+    "team_b_reward": 57,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 10,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -60,
+    "team_b_reward": 51,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 11,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -12,
+    "team_b_reward": 31,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 12,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": 6,
+    "team_b_reward": 12,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 13,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -18,
+    "team_b_reward": 37,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 14,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": 18,
+    "team_b_reward": 24,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 15,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -18,
+    "team_b_reward": 37,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 16,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": 2,
+    "team_b_reward": 18,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 17,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": 1,
+    "team_b_reward": 12,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 18,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": 2,
+    "team_b_reward": 27,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 19,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -40,
+    "team_b_reward": 47,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 20,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -53,
+    "team_b_reward": 50,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 21,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": 3,
+    "team_b_reward": 24,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 22,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": 10,
+    "team_b_reward": 24,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 23,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -33,
+    "team_b_reward": 50,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 24,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -6,
+    "team_b_reward": 3,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 25,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -6,
+    "team_b_reward": 22,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 26,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -7,
+    "team_b_reward": 18,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 27,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -25,
+    "team_b_reward": 19,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 28,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -75,
+    "team_b_reward": 57,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 29,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": 7,
+    "team_b_reward": 27,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 30,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -60,
+    "team_b_reward": 54,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 31,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": 24,
+    "team_b_reward": 30,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 32,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -69,
+    "team_b_reward": 39,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 33,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": 6,
+    "team_b_reward": 21,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 34,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": 9,
+    "team_b_reward": 30,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 35,
+    "winner": "A",
+    "num_rounds": 3,
+    "team_a_reward": 12,
+    "team_b_reward": 9,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 36,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -12,
+    "team_b_reward": 40,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 37,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": 11,
+    "team_b_reward": 27,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 38,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -46,
+    "team_b_reward": 44,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 39,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -69,
+    "team_b_reward": 51,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 40,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": 6,
+    "team_b_reward": 30,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 41,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -36,
+    "team_b_reward": 41,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 42,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -11,
+    "team_b_reward": 18,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 43,
+    "winner": "A",
+    "num_rounds": 3,
+    "team_a_reward": 19,
+    "team_b_reward": 15,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 44,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": 16,
+    "team_b_reward": 24,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 45,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": 9,
+    "team_b_reward": 13,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 46,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -11,
+    "team_b_reward": 37,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 47,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -14,
+    "team_b_reward": 40,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 48,
+    "winner": "B",
+    "num_rounds": 3,
+    "team_a_reward": -62,
+    "team_b_reward": 54,
+    "converged_round": 2
+  },
+  {
+    "episode_id": 49,
+    "winner": "A",
+    "num_rounds": 3,
+    "team_a_reward": 18,
+    "team_b_reward": 15,
+    "converged_round": 2
+  }
+]

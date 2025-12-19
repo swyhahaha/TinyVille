@@ -1,0 +1,123 @@
+{
+  "experiment_name": "Resource Scramble - Pidgin Emergence",
+  "description": "Zero-sum game with information asymmetry to study language emergence",
+  
+  "llm": {
+    "model": "deepseek-chat",
+    "temperature": 0.7,
+    "max_tokens": 150,
+    "api_key_env": "DEEPSEEK_API_KEY"
+  },
+  
+  "vocabulary": {
+    "size": 20,
+    "max_message_length": 5,
+    "tokens": ["tok1", "tok2", "tok3", "tok4", "tok5", "tok6", "tok7", "tok8", "tok9", "tok10",
+               "tok11", "tok12", "tok13", "tok14", "tok15", "tok16", "tok17", "tok18", "tok19", "tok20"]
+  },
+  
+  "teams": {
+    "team_a": {
+      "name": "Location Holders",
+      "knowledge": "resource_locations",
+      "initial_vocab_range": [0, 15],
+      "description": "Knows x,y coordinates but not attributes"
+    },
+    "team_b": {
+      "name": "Attribute Holders", 
+      "knowledge": "resource_attributes",
+      "initial_vocab_range": [5, 20],
+      "description": "Knows color, shape, value, trap status but not locations"
+    }
+  },
+  
+  "environment": {
+    "type": "resource_scramble",
+    "features": {
+      "colors": ["red", "blue", "green"],
+      "shapes": ["circle", "square"]
+    },
+    "value_range": [1, 10],
+    "trap_probability": 0.3
+  },
+  
+  "curriculum": {
+    "phases": [
+      {
+        "phase_id": 1,
+        "num_resources": 4,
+        "feature_dimensions": 2,
+        "success_threshold": 0.8,
+        "min_episodes": 20
+      },
+      {
+        "phase_id": 2,
+        "num_resources": 6,
+        "feature_dimensions": 2,
+        "success_threshold": 0.8,
+        "min_episodes": 30
+      },
+      {
+        "phase_id": 3,
+        "num_resources": 8,
+        "feature_dimensions": 2,
+        "success_threshold": 0.85,
+        "min_episodes": 40
+      }
+    ]
+  },
+  
+  "game": {
+    "max_rounds_per_episode": 10,
+    "total_episodes": 100,
+    "zero_sum": true,
+    "rewards": {
+      "correct_choice_bonus": 10,
+      "incorrect_choice_penalty": -10,
+      "invalid_message_penalty": -5
+    }
+  },
+  
+  "analysis": {
+    "metrics": [
+      "cross_team_mutual_information",
+      "compositionality_score",
+      "symbol_reuse_rate",
+      "communication_efficiency"
+    ],
+    "pidgin_detection": {
+      "min_shared_tokens": 3,
+      "stability_window": 10,
+      "min_usage_count": 5
+    }
+  },
+  
+  "output": {
+    "base_dir": "./results",
+    "save_every_n_episodes": 10,
+    "export_formats": ["json", "txt"],
+    "generate_visualizations": false
+  },
+  
+  "experimental_variants": {
+    "toy_setting": {
+      "description": "Quick test with minimal episodes",
+      "total_episodes": 20,
+      "vocabulary_size": 15,
+      "phase_1_resources": 3
+    },
+    "full_setting": {
+      "description": "Full experimental run",
+      "total_episodes": 100,
+      "vocabulary_size": 20,
+      "phase_1_resources": 4
+    },
+    "hard_setting": {
+      "description": "Challenging variant with larger vocabulary",
+      "total_episodes": 150,
+      "vocabulary_size": 30,
+      "max_message_length": 7,
+      "phase_1_resources": 6
+    }
+  }
+}
