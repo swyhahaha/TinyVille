@@ -1,0 +1,541 @@
+======================================================================
+Resource Exchange Transcript - resource_exchange_20251219_170934.json
+======================================================================
+Total rounds: 14
+Vocabulary size: 19
+
+Final scores:
+  team_a: provisional=62, penalty=45, final=17
+  team_b: provisional=74, penalty=63, final=11
+
+--- Round 1 ---
+Pairing: {'demama': 'sapare', 'sapare': 'demama', 'runo': 'nago', 'nago': 'runo'}
+Chat:
+  demama -> sapare: nuruki mave voko tenota dakoto nozome tiluso voko nogema tiso mozo lonu vokopa
+    meaning: hello I have water much give you have meat grain fruit fish question
+  sapare -> demama: nuruki tiluso vokopa mave voko lonu dakoto nozome tiluso tenota mozo nogema tiso bizo
+    meaning: hello you question I have fish much give you water fruit meat grain goodbye
+  runo -> nago: nuruki tiluso. mave voko tenota dakoto. tiluso voko nogema? nozome tenota nipa nogema?
+    meaning: hello [tiluso.] I have water [dakoto.] you have [nogema?] give water and [nogema?]
+  nago -> runo: nuruki tiluso. mave voko tenota dakoto. tiluso voko nogema? nozome tenota nipa nogema? mave voko tiso nipa lonu. tiluso voko mozo? nozome tiso nipa lonu? voko zeta? zeta voko?
+    meaning: hello [tiluso.] I have water [dakoto.] you have [nogema?] give water and [nogema?] I have grain and [lonu.] you have [mozo?] give grain and [lonu?] have [zeta?] [zeta] [voko?]
+  demama -> sapare: mave voko tenota dakoto nozome tiluso tiluso voko nogema tiso mozo lonu vokopa mave voko tenota dakoto nozome tiluso tiluso voko nogema tiso mozo lonu vokopa
+    meaning: I have water much give you you have meat grain fruit fish question I have water much give you you have meat grain fruit fish question
+  sapare -> demama: meveru mave voko lonu dakoto nozome tiluso tenota mozo nogema tiso nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso bizo
+    meaning: yes I have fish much give you water fruit meat grain and you have water much give I fish fruit meat grain goodbye
+  runo -> nago: mave voko mozo nipa tenota. tiluso voko zeta? nozome mozo nipa tenota? vokopa: zeta voko?
+    meaning: I have fruit and [tenota.] you have [zeta?] give fruit and [tenota?] [vokopa:] [zeta] [voko?]
+  nago -> runo: meveru, mave voko zeta. tiluso voko zeta? nozome tenota nipa tiso? mave voko nogema nipa lonu. tiluso voko dakoto tenota? zeta voko dakoto.
+    meaning: [meveru,] I have [zeta.] you have [zeta?] give water and [tiso?] I have meat and [lonu.] you have much [tenota?] [zeta] have [dakoto.]
+  demama -> sapare: mave voko tenota dakoto nozome tiluso tiluso voko nogema tiso mozo lonu vokopa zula zula
+    meaning: I have water much give you you have meat grain fruit fish question [zula] [zula]
+  sapare -> demama: tiluso zula zula meveru mave voko lonu dakoto nozome tiluso tenota mozo nogema tiso nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso bizo
+    meaning: you [zula] [zula] yes I have fish much give you water fruit meat grain and you have water much give I fish fruit meat grain goodbye
+  runo -> nago: kisete, mave voko zeta kisete. tiluso voko dakoto tenota? nozome mozo nipa lonu? zeta voko nogema?
+    meaning: [kisete,] I have [zeta] [kisete.] you have much [tenota?] give fruit and [lonu?] [zeta] have [nogema?]
+  nago -> runo: mave voko dakoto tenota kisete. nozome nogema nipa tiso? tiluso voko mozo dakoto? zeta voko nogema meveru. zeta voko dakoto tenota nipa nogema. bizo tiluso.
+    meaning: I have much water [kisete.] give meat and [tiso?] you have fruit [dakoto?] [zeta] have meat [meveru.] [zeta] have much water and [nogema.] goodbye [tiluso.]
+Exchange:
+  demama -> sapare: 1 water (giverΔ=-1, recvΔ=2)
+  sapare -> demama: 2 water (giverΔ=-2, recvΔ=4)
+  runo -> nago: 1 water (giverΔ=-1, recvΔ=2)
+  nago -> runo: 1 water (giverΔ=-1, recvΔ=2)
+Feedback:
+  demama: partner_team=teammate, rating=None, given={}, received={}
+  sapare: partner_team=teammate, rating=None, given={}, received={}
+  runo: partner_team=teammate, rating=None, given={}, received={}
+  nago: partner_team=teammate, rating=None, given={}, received={}
+
+--- Round 2 ---
+Pairing: {'demama': 'sapare', 'sapare': 'demama', 'runo': 'nago', 'nago': 'runo'}
+Chat:
+  demama -> sapare: nuruki tiluso vokopa mave voko tenota dakoto nozome tiluso nogema tiso mozo lonu zula zula
+    meaning: hello you question I have water much give you meat grain fruit fish [zula] [zula]
+  sapare -> demama: nuruki tiluso zula zula mave voko lonu dakoto nozome tiluso tenota mozo nogema tiso nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso bizo
+    meaning: hello you [zula] [zula] I have fish much give you water fruit meat grain and you have water much give I fish fruit meat grain goodbye
+  runo -> nago: nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? kapa voko dakoto.
+    meaning: hello [tiluso.] I have [zeta] and [kapa.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [kapa] have [dakoto.]
+  nago -> runo: nuruki tiluso. mave voko zeta meveru. tiluso voko zeta? kapa voko dakoto. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta voko dakoto tenota.
+    meaning: hello [tiluso.] I have [zeta] [meveru.] you have [zeta?] [kapa] have [dakoto.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] have much [tenota.]
+  demama -> sapare: meveru tiluso zula zula mave voko tenota dakoto nozome tiluso nogema tiso mozo lonu nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso bizo
+    meaning: yes you [zula] [zula] I have water much give you meat grain fruit fish and you have water much give I fish fruit meat grain goodbye
+  sapare -> demama: meveru tiluso zula zula mave voko lonu dakoto nozome tiluso tenota mozo nogema tiso nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso zula zula bizo
+    meaning: yes you [zula] [zula] I have fish much give you water fruit meat grain and you have water much give I fish fruit meat grain [zula] [zula] goodbye
+  runo -> nago: meveru tiluso. mave voko zeta nipa kapa. tiluso voko zeta meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso kisete? kapa voko dakoto tenota nipa nogema. zeta voko dakoto.
+    meaning: yes [tiluso.] I have [zeta] and [kapa.] you have [zeta] [meveru.] give water and [nogema?] I have fruit and [lonu.] you have grain [kisete?] [kapa] have much water and [nogema.] [zeta] have [dakoto.]
+  nago -> runo: meveru tiluso. zeta voko dakoto tenota nipa nogema. tiluso voko tiso kisete? nozome tiso nipa tenota? mave voko mozo nipa lonu. kapa voko dakoto. zeta meveru.
+    meaning: yes [tiluso.] [zeta] have much water and [nogema.] you have grain [kisete?] give grain and [tenota?] I have fruit and [lonu.] [kapa] have [dakoto.] [zeta] [meveru.]
+  demama -> sapare: tiluso zula zula meveru mave voko tenota dakoto nozome tiluso nogema tiso mozo lonu nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso zula zula bizo
+    meaning: you [zula] [zula] yes I have water much give you meat grain fruit fish and you have water much give I fish fruit meat grain [zula] [zula] goodbye
+  sapare -> demama: meveru tiluso zula zula mave nozome tiluso tenota lonu nipa tiluso nozome mave nogema tiso mozo bizo zula zula
+    meaning: yes you [zula] [zula] I give you water fish and you give I meat grain fruit goodbye [zula] [zula]
+  runo -> nago: meveru. tiluso voko tiso kisete. mave voko tiso kisete. nozome tenota nipa nogema? tiluso voko mozo? kapa voko dakoto tenota nipa nogema. zeta meveru. bizo tiluso.
+    meaning: [meveru.] you have grain [kisete.] I have grain [kisete.] give water and [nogema?] you have [mozo?] [kapa] have much water and [nogema.] [zeta] [meveru.] goodbye [tiluso.]
+  nago -> runo: meveru. tiluso voko mozo kisete. nozome tenota nipa nogema meveru. kapa voko dakoto. zeta meveru. bizo tiluso.
+    meaning: [meveru.] you have fruit [kisete.] give water and meat [meveru.] [kapa] have [dakoto.] [zeta] [meveru.] goodbye [tiluso.]
+Exchange:
+  demama -> sapare: 2 water (giverΔ=-2, recvΔ=4)
+  sapare -> demama: 2 water (giverΔ=-2, recvΔ=4)
+  runo -> nago: 2 water (giverΔ=-2, recvΔ=4)
+  nago -> runo: 2 water (giverΔ=-2, recvΔ=4)
+Feedback:
+  demama: partner_team=teammate, rating=None, given={}, received={}
+  sapare: partner_team=teammate, rating=None, given={}, received={}
+  runo: partner_team=teammate, rating=None, given={}, received={}
+  nago: partner_team=teammate, rating=None, given={}, received={}
+
+--- Round 3 ---
+Pairing: {'demama': 'sapare', 'sapare': 'demama', 'runo': 'nago', 'nago': 'runo'}
+Chat:
+  demama -> sapare: nuruki tiluso zula zula mave voko tenota dakoto nozome tiluso lonu mozo nogema tiso nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso zula zula bizo
+    meaning: hello you [zula] [zula] I have water much give you fish fruit meat grain and you have water much give I fish fruit meat grain [zula] [zula] goodbye
+  sapare -> demama: nuruki tiluso zula zula mave voko tenota dakoto nozome tiluso lonu mozo nogema tiso nipa tiluso voko tenota dakoto nozome mave lonu mozo nogema tiso zula zula bizo
+    meaning: hello you [zula] [zula] I have water much give you fish fruit meat grain and you have water much give I fish fruit meat grain [zula] [zula] goodbye
+  runo -> nago: nuruki tiluso. mave voko zeta meveru. kapa voko dakoto. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta voko dakoto tenota.
+    meaning: hello [tiluso.] I have [zeta] [meveru.] [kapa] have [dakoto.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] have much [tenota.]
+  nago -> runo: nuruki tiluso. mave voko zeta meveru. kapa voko dakoto. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta voko dakoto tenota.
+    meaning: hello [tiluso.] I have [zeta] [meveru.] [kapa] have [dakoto.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] have much [tenota.]
+  demama -> sapare: meveru tiluso zula zula mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo
+    meaning: yes you [zula] [zula] I have water much and I have fish no give you water much and you give I fish fruit meat grain [zula] [zula] goodbye
+  sapare -> demama: meveru tiluso zula zula mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo
+    meaning: yes you [zula] [zula] I have water much and I have fish no give you water much and you give I fish fruit meat grain [zula] [zula] goodbye
+  runo -> nago: meveru tiluso. zeta voko dakoto tenota nipa nogema. tiluso voko tiso kisete? nozome tiso nipa tenota? mave voko mozo nipa lonu. kapa voko dakoto. zeta meveru.
+    meaning: yes [tiluso.] [zeta] have much water and [nogema.] you have grain [kisete?] give grain and [tenota?] I have fruit and [lonu.] [kapa] have [dakoto.] [zeta] [meveru.]
+  nago -> runo: meveru tiluso. zeta voko dakoto tenota nipa nogema. tiluso voko tiso kisete? nozome tiso nipa tenota? mave voko mozo nipa lonu. kapa voko dakoto. zeta meveru.
+    meaning: yes [tiluso.] [zeta] have much water and [nogema.] you have grain [kisete?] give grain and [tenota?] I have fruit and [lonu.] [kapa] have [dakoto.] [zeta] [meveru.]
+  demama -> sapare: meveru tiluso zula zula mave nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso sima poto bizo
+    meaning: yes you [zula] [zula] I give you water much and you give I fish fruit meat grain please thanks goodbye
+  sapare -> demama: meveru tiluso zula zula mave nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso sima poto bizo
+    meaning: yes you [zula] [zula] I give you water much and you give I fish fruit meat grain please thanks goodbye
+  runo -> nago: meveru. tiluso voko tiso kisete. mave voko tiso kisete. nozome tenota nipa nogema meveru. tiluso nozome tiso? mave nozome tenota nipa nogema. kapa zeta meveru. bizo tiluso.
+    meaning: [meveru.] you have grain [kisete.] I have grain [kisete.] give water and meat [meveru.] you give [tiso?] I give water and [nogema.] [kapa] [zeta] [meveru.] goodbye [tiluso.]
+  nago -> runo: meveru. tiluso voko tiso kisete. mave voko tiso kisete. nozome tenota nipa nogema meveru. tiluso nozome tiso? mave nozome tenota nipa nogema. kapa zeta meveru. bizo tiluso.
+    meaning: [meveru.] you have grain [kisete.] I have grain [kisete.] give water and meat [meveru.] you give [tiso?] I give water and [nogema.] [kapa] [zeta] [meveru.] goodbye [tiluso.]
+Exchange:
+  demama -> sapare: 3 water (giverΔ=-3, recvΔ=6)
+  sapare -> demama: 2 water (giverΔ=-2, recvΔ=4)
+  runo -> nago: 2 water (giverΔ=-2, recvΔ=4)
+  nago -> runo: 2 water (giverΔ=-2, recvΔ=4)
+Feedback:
+  demama: partner_team=teammate, rating=None, given={}, received={}
+  sapare: partner_team=teammate, rating=None, given={}, received={}
+  runo: partner_team=teammate, rating=None, given={}, received={}
+  nago: partner_team=teammate, rating=None, given={}, received={}
+
+--- Round 4 ---
+Pairing: {'sapare': 'nago', 'nago': 'sapare', 'demama': 'runo', 'runo': 'demama'}
+Chat:
+  demama -> runo: nuruki tiluso zula zula mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo
+    meaning: hello you [zula] [zula] I have water much and I have fish no give you water much and you give I fish fruit meat grain [zula] [zula] goodbye
+  sapare -> nago: nuruki tiluso zula zula mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo
+    meaning: hello you [zula] [zula] I have water much and I have fish no give you water much and you give I fish fruit meat grain [zula] [zula] goodbye
+  runo -> demama: nuruki tiluso. mave voko zeta meveru. kapa voko dakoto. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta voko dakoto tenota.
+    meaning: hello [tiluso.] I have [zeta] [meveru.] [kapa] have [dakoto.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] have much [tenota.]
+  nago -> sapare: nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? kapa zeta meveru.
+    meaning: hello [tiluso.] I have [zeta] and [kapa.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [kapa] [zeta] [meveru.]
+  demama -> runo: meveru tiluso zula zula mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo
+    meaning: yes you [zula] [zula] I have water much and I have fish no give you water much and you give I fish fruit meat grain [zula] [zula] goodbye
+  sapare -> nago: meveru tiluso zula zula mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo
+    meaning: yes you [zula] [zula] I have water much and I have fish no give you water much and you give I fish fruit meat grain [zula] [zula] goodbye
+  runo -> demama: tiluso voko zeta? mave voko zeta meveru. kapa voko dakoto. nozome tenota nipa nogema? tiluso nozome tiso? zeta voko dakoto tenota. mave voko mozo nipa lonu.
+    meaning: you have [zeta?] I have [zeta] [meveru.] [kapa] have [dakoto.] give water and [nogema?] you give [tiso?] [zeta] have much [tenota.] I have fruit and [lonu.]
+  nago -> sapare: meveru tiluso. zeta voko dakoto tenota nipa nogema. tiluso voko tiso kisete? nozome tenota nipa nogema? mave voko mozo nipa lonu. kapa zeta meveru. bizo tiluso.
+    meaning: yes [tiluso.] [zeta] have much water and [nogema.] you have grain [kisete?] give water and [nogema?] I have fruit and [lonu.] [kapa] [zeta] [meveru.] goodbye [tiluso.]
+  demama -> runo: mave voko zeta kisete. mave voko zula zula. nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso. sima poto bizo
+    meaning: I have [zeta] [kisete.] I have [zula] [zula.] give you water much and you give I fish fruit meat [tiso.] please thanks goodbye
+  sapare -> nago: tiluso zula zula meveru mave voko tenota dakoto nipa mave voko lonu kisete nozome tiluso tenota dakoto nipa tiluso nozome mave lonu mozo nogema tiso zula zula bizo
+    meaning: you [zula] [zula] yes I have water much and I have fish no give you water much and you give I fish fruit meat grain [zula] [zula] goodbye
+  runo -> demama: meveru tiluso. mave voko zeta meveru. kapa voko dakoto. nozome tenota nipa nogema. tiluso nozome tiso? zeta voko dakoto tenota. mave voko mozo nipa lonu. bizo tiluso.
+    meaning: yes [tiluso.] I have [zeta] [meveru.] [kapa] have [dakoto.] give water and [nogema.] you give [tiso?] [zeta] have much [tenota.] I have fruit and [lonu.] goodbye [tiluso.]
+  nago -> sapare: meveru tiluso. zeta kapa meveru? tiluso voko tiso? nozome tenota nipa nogema. mave voko mozo nipa lonu. kapa zeta meveru. bizo tiluso.
+    meaning: yes [tiluso.] [zeta] [kapa] [meveru?] you have [tiso?] give water and [nogema.] I have fruit and [lonu.] [kapa] [zeta] [meveru.] goodbye [tiluso.]
+Exchange:
+  demama -> runo: 2 water (giverΔ=-2, recvΔ=4)
+  sapare -> nago: 0 water (giverΔ=0, recvΔ=0)
+  runo -> demama: 0 water (giverΔ=0, recvΔ=0)
+  nago -> sapare: 0 water (giverΔ=0, recvΔ=0)
+Feedback:
+  demama: partner_team=opponent, rating=None, given={}, received={}
+  sapare: partner_team=opponent, rating=None, given={}, received={}
+  runo: partner_team=opponent, rating=None, given={}, received={}
+  nago: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 5 ---
+Pairing: {'demama': 'nago', 'nago': 'demama', 'sapare': 'runo', 'runo': 'sapare'}
+Chat:
+  demama -> nago: nuruki tiluso. mave voko zula zula. tiluso voko zula? mave voko tenota dakoto. nozome tiluso tenota? tiluso nozome nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula.
+    meaning: hello [tiluso.] I have [zula] [zula.] you have [zula?] I have water [dakoto.] give you [tenota?] you give [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula.]
+  sapare -> runo: nuruki tiluso. zula zula meveru? mave voko tenota dakoto nipa lonu. tiluso voko tiso? nozome tenota nipa nogema. kapa zeta kisete. bizo.
+    meaning: hello [tiluso.] [zula] [zula] [meveru?] I have water much and [lonu.] you have [tiso?] give water and [nogema.] [kapa] [zeta] [kisete.] [bizo.]
+  runo -> sapare: nuruki tiluso. mave voko zeta meveru. kapa voko dakoto. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.
+    meaning: hello [tiluso.] I have [zeta] [meveru.] [kapa] have [dakoto.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.]
+  nago -> demama: nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta zeta.
+    meaning: hello [tiluso.] I have [zeta] and [kapa.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [zeta.]
+  demama -> nago: meveru tiluso. mave voko zula zula. tiluso voko zula? meveru. nozome tiluso tenota? tiluso nozome nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula.
+    meaning: yes [tiluso.] I have [zula] [zula.] you have [zula?] [meveru.] give you [tenota?] you give [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula.]
+  sapare -> runo: tiluso. zula zula meveru? mave voko tenota dakoto nipa lonu. tiluso voko tiso? nozome tenota nipa nogema. kapa zeta kisete. mave voko mozo nipa lonu. bizo.
+    meaning: [tiluso.] [zula] [zula] [meveru?] I have water much and [lonu.] you have [tiso?] give water and [nogema.] [kapa] [zeta] [kisete.] I have fruit and [lonu.] [bizo.]
+  runo -> sapare: meveru tiluso. mave voko zeta meveru. kapa voko dakoto. tiluso voko zeta? nozome tenota nipa nogema. tiluso nozome mave tiso? mave voko mozo nipa lonu. zeta kapa meveru.
+    meaning: yes [tiluso.] I have [zeta] [meveru.] [kapa] have [dakoto.] you have [zeta?] give water and [nogema.] you give I [tiso?] I have fruit and [lonu.] [zeta] [kapa] [meveru.]
+  nago -> demama: tiluso voko zeta? kisete. mave voko zeta nipa kapa. nozome tiluso tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta zeta.
+    meaning: you have [zeta?] [kisete.] I have [zeta] and [kapa.] give you water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [zeta.]
+  demama -> nago: meveru. mave voko zula zula. tiluso voko zeta? kisete. nozome tiluso tenota? tiluso nozome nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula.
+    meaning: [meveru.] I have [zula] [zula.] you have [zeta?] [kisete.] give you [tenota?] you give [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula.]
+  sapare -> runo: tiluso. zula zula meveru? mave voko tenota dakoto nipa lonu. tiluso voko tiso? nozome tenota nipa nogema. kapa zeta kisete. tiluso nozome mave tiso? kisete. mave voko mozo nipa lonu. bizo.
+    meaning: [tiluso.] [zula] [zula] [meveru?] I have water much and [lonu.] you have [tiso?] give water and [nogema.] [kapa] [zeta] [kisete.] you give I [tiso?] [kisete.] I have fruit and [lonu.] [bizo.]
+  runo -> sapare: meveru tiluso. mave voko zeta meveru. kapa voko dakoto. nozome tenota nipa nogema. tiluso nozome mave tiso? mave voko mozo nipa lonu. zeta kapa meveru. bizo.
+    meaning: yes [tiluso.] I have [zeta] [meveru.] [kapa] have [dakoto.] give water and [nogema.] you give I [tiso?] I have fruit and [lonu.] [zeta] [kapa] [meveru.] [bizo.]
+  nago -> demama: tiluso voko zeta? kisete. mave voko zeta nipa kapa. nozome tiluso tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta zeta. bizo tiluso.
+    meaning: you have [zeta?] [kisete.] I have [zeta] and [kapa.] give you water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [zeta.] goodbye [tiluso.]
+Exchange:
+  demama -> nago: 0 water (giverΔ=0, recvΔ=0)
+  sapare -> runo: 0 water (giverΔ=0, recvΔ=0)
+  runo -> sapare: 0 water (giverΔ=0, recvΔ=0)
+  nago -> demama: 0 water (giverΔ=0, recvΔ=0)
+Feedback:
+  demama: partner_team=opponent, rating=None, given={}, received={}
+  sapare: partner_team=opponent, rating=None, given={}, received={}
+  runo: partner_team=opponent, rating=None, given={}, received={}
+  nago: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 6 ---
+Pairing: {'runo': 'demama', 'demama': 'runo', 'sapare': 'nago', 'nago': 'sapare'}
+Chat:
+  demama -> runo: nuruki tiluso. mave voko zula zula. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula.
+    meaning: hello [tiluso.] I have [zula] [zula.] you have [zula?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula.]
+  sapare -> nago: nuruki tiluso. mave voko zula zula. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.
+    meaning: hello [tiluso.] I have [zula] [zula.] you have [zula?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula] [meveru.]
+  runo -> demama: nuruki tiluso. mave voko zeta kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.
+    meaning: hello [tiluso.] I have [zeta] [kapa] [meveru.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.]
+  nago -> sapare: nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.
+    meaning: hello [tiluso.] I have [zeta] and [kapa.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.]
+  demama -> runo: tiluso voko zula? kisete. mave voko zula zula. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula.
+    meaning: you have [zula?] [kisete.] I have [zula] [zula.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula.]
+  sapare -> nago: tiluso voko zula? mave voko zula zula. tiluso nozome mave tenota? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.
+    meaning: you have [zula?] I have [zula] [zula.] you give I [tenota?] I have fruit and [lonu.] you have [tiso?] [zula] [zula] [meveru.]
+  runo -> demama: tiluso voko zeta? kisete. mave voko zeta kapa meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.
+    meaning: you have [zeta?] [kisete.] I have [zeta] [kapa] [meveru.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.]
+  nago -> sapare: mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.
+    meaning: I have [zeta] and [kapa.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.]
+  demama -> runo: mave voko zula zula. tiluso voko zeta? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula bizo.
+    meaning: I have [zula] [zula.] you have [zeta?] [kisete.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula] [bizo.]
+  sapare -> nago: tiluso voko zula? kisete. mave voko zula zula. tiluso nozome mave tenota? mave nozome tiluso mozo nipa lonu. zula zula meveru.
+    meaning: you have [zula?] [kisete.] I have [zula] [zula.] you give I [tenota?] I give you fruit and [lonu.] [zula] [zula] [meveru.]
+  runo -> demama: mave voko zeta kapa meveru. tiluso voko zeta? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru bizo.
+    meaning: I have [zeta] [kapa] [meveru.] you have [zeta?] [kisete.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] yes [bizo.]
+  nago -> sapare: mave voko zeta nipa kapa. tiluso voko zeta? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.
+    meaning: I have [zeta] and [kapa.] you have [zeta?] [kisete.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.]
+Exchange:
+  demama -> runo: 0 water (giverΔ=0, recvΔ=0)
+  sapare -> nago: 0 water (giverΔ=0, recvΔ=0)
+  runo -> demama: 0 water (giverΔ=0, recvΔ=0)
+  nago -> sapare: 0 water (giverΔ=0, recvΔ=0)
+Feedback:
+  demama: partner_team=opponent, rating=None, given={}, received={}
+  sapare: partner_team=opponent, rating=None, given={}, received={}
+  runo: partner_team=opponent, rating=None, given={}, received={}
+  nago: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 7 ---
+Pairing: {'sapare': 'runo', 'runo': 'sapare', 'demama': 'nago', 'nago': 'demama'}
+Chat:
+  demama -> nago: nuruki tiluso. mave voko zula zula. tiluso voko zula? meveru kisete? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula bizo.
+    meaning: hello [tiluso.] I have [zula] [zula.] you have [zula?] yes [kisete?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula] [bizo.]
+  sapare -> runo: nuruki tiluso. mave voko zula zula. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.
+    meaning: hello [tiluso.] I have [zula] [zula.] you have [zula?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula] [meveru.]
+  runo -> sapare: nuruki tiluso. mave voko zeta kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.
+    meaning: hello [tiluso.] I have [zeta] [kapa.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.]
+  nago -> demama: nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.
+    meaning: hello [tiluso.] I have [zeta] and [kapa.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.]
+  demama -> nago: tiluso voko zula? kisete. mave voko zula zula meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zula zula bizo.
+    meaning: you have [zula?] [kisete.] I have [zula] [zula] [meveru.] give water and [nogema?] you give I [tiso?] [zula] [zula] [bizo.]
+  sapare -> runo: tiluso voko zula? mave voko zula zula. nozome tenota nipa nogema? tiluso nozome mave tiso? zula zula meveru.
+    meaning: you have [zula?] I have [zula] [zula.] give water and [nogema?] you give I [tiso?] [zula] [zula] [meveru.]
+  runo -> sapare: tiluso voko zeta? kisete. mave voko zeta kapa. nozome tenota nipa nogema? tiluso nozome mave tiso? kisete. zeta kapa meveru.
+    meaning: you have [zeta?] [kisete.] I have [zeta] [kapa.] give water and [nogema?] you give I [tiso?] [kisete.] [zeta] [kapa] [meveru.]
+  nago -> demama: tiluso voko zeta? kisete. mave voko zeta nipa kapa. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.
+    meaning: you have [zeta?] [kisete.] I have [zeta] and [kapa.] give water and [nogema?] you give I [tiso?] [zeta] [kapa] [meveru.]
+  demama -> nago: mave voko zula zula. tiluso voko zeta kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zula zula bizo.
+    meaning: I have [zula] [zula.] you have [zeta] [kisete.] give water and [nogema?] you give I [tiso?] [zula] [zula] [bizo.]
+  sapare -> runo: tiluso voko zula? kisete. mave voko zula zula. nozome tenota nipa nogema? tiluso nozome mave tiso? zula zula meveru. bizo.
+    meaning: you have [zula?] [kisete.] I have [zula] [zula.] give water and [nogema?] you give I [tiso?] [zula] [zula] [meveru.] [bizo.]
+  runo -> sapare: mave voko zeta kapa. tiluso voko zula? kisete. nozome tenota nipa nogema? kisete. tiluso nozome mave tiso? kisete. zeta kapa bizo.
+    meaning: I have [zeta] [kapa.] you have [zula?] [kisete.] give water and [nogema?] [kisete.] you give I [tiso?] [kisete.] [zeta] [kapa] [bizo.]
+  nago -> demama: tiluso voko zeta kisete. mave voko zeta nipa kapa. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru bizo.
+    meaning: you have [zeta] [kisete.] I have [zeta] and [kapa.] give water and [nogema?] you give I [tiso?] [zeta] [kapa] yes [bizo.]
+Exchange:
+  demama -> nago: 0 water (giverΔ=0, recvΔ=0)
+  sapare -> runo: 0 water (giverΔ=0, recvΔ=0)
+  runo -> sapare: 0 water (giverΔ=0, recvΔ=0)
+  nago -> demama: 0 water (giverΔ=0, recvΔ=0)
+Feedback:
+  demama: partner_team=opponent, rating=None, given={}, received={}
+  sapare: partner_team=opponent, rating=None, given={}, received={}
+  runo: partner_team=opponent, rating=None, given={}, received={}
+  nago: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 8 ---
+Pairing: {'demama': 'sapare', 'sapare': 'demama', 'runo': 'nago', 'nago': 'runo'}
+Chat:
+  demama -> sapare: nuruki tiluso. mave voko zula zula. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.
+    meaning: hello [tiluso.] I have [zula] [zula.] you have [zula?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula] [meveru.]
+  sapare -> demama: meveru tiluso. mave voko zula zula. tiluso voko zula? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.
+    meaning: yes [tiluso.] I have [zula] [zula.] you have [zula?] [meveru.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula] [meveru.]
+  runo -> nago: nuruki tiluso. mave voko zeta kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.
+    meaning: hello [tiluso.] I have [zeta] [kapa.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.]
+  nago -> runo: meveru tiluso. mave voko zeta nipa kapa. tiluso voko zeta? meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.
+    meaning: yes [tiluso.] I have [zeta] and [kapa.] you have [zeta?] [meveru.] give water and [nogema?] you give I [tiso?] [zeta] [kapa] [meveru.]
+  demama -> sapare: meveru tiluso. mave voko zula zula meveru. tiluso voko zula zula meveru? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru. sima poto.
+    meaning: yes [tiluso.] I have [zula] [zula] [meveru.] you have [zula] [zula] [meveru?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula] [meveru.] please [poto.]
+  sapare -> demama: meveru tiluso. mave voko zula zula meveru. tiluso voko zula zula meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru. sima poto. bizo.
+    meaning: yes [tiluso.] I have [zula] [zula] [meveru.] you have [zula] [zula] [meveru.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula] [meveru.] please [poto.] [bizo.]
+  runo -> nago: meveru tiluso. mave voko zeta kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru. mave voko mozo nipa lonu. tiluso voko mozo? lonu?
+    meaning: yes [tiluso.] I have [zeta] [kapa] [meveru.] you have [zeta?] [meveru.] give water and [nogema?] you give I [tiso?] [zeta] [kapa] [meveru.] I have fruit and [lonu.] you have [mozo?] [lonu?]
+  nago -> runo: meveru. tiluso voko mozo? kisete. mave voko mozo kisete. tiluso voko lonu? kisete. mave voko lonu kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.
+    meaning: [meveru.] you have [mozo?] [kisete.] I have fruit [kisete.] you have [lonu?] [kisete.] I have fish [kisete.] give water and [nogema?] you give I [tiso?] [zeta] [kapa] [meveru.]
+  demama -> sapare: meveru tiluso. zula zula meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? nozome tiso nipa tenota? zula zula meveru. bizo.
+    meaning: yes [tiluso.] [zula] [zula] [meveru.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] give grain and [tenota?] [zula] [zula] [meveru.] [bizo.]
+  sapare -> demama: meveru tiluso. zula zula meveru. nozome tenota nipa nogema? meveru. mave voko mozo nipa lonu. tiluso voko tiso? kisete. nozome tiso nipa tenota? kisete. zula zula meveru. bizo.
+    meaning: yes [tiluso.] [zula] [zula] [meveru.] give water and [nogema?] [meveru.] I have fruit and [lonu.] you have [tiso?] [kisete.] give grain and [tenota?] [kisete.] [zula] [zula] [meveru.] [bizo.]
+  runo -> nago: meveru. tiluso voko mozo kisete. tiluso voko lonu kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru. sima poto. bizo tiluso.
+    meaning: [meveru.] you have fruit [kisete.] you have fish [kisete.] give water and [nogema?] you give I [tiso?] [zeta] [kapa] [meveru.] please [poto.] goodbye [tiluso.]
+  nago -> runo: meveru. tiluso nozome mave tiso? meveru. mave nozome tiluso tenota nipa nogema. zeta kapa meveru. bizo tiluso.
+    meaning: [meveru.] you give I [tiso?] [meveru.] I give you water and [nogema.] [zeta] [kapa] [meveru.] goodbye [tiluso.]
+Exchange:
+  demama -> sapare: 2 water (giverΔ=-2, recvΔ=4)
+  sapare -> demama: 4 water (giverΔ=-4, recvΔ=8)
+  runo -> nago: 2 water (giverΔ=-2, recvΔ=4)
+  nago -> runo: 2 water (giverΔ=-2, recvΔ=4)
+Feedback:
+  demama: partner_team=teammate, rating=None, given={}, received={}
+  sapare: partner_team=teammate, rating=None, given={}, received={}
+  runo: partner_team=teammate, rating=None, given={}, received={}
+  nago: partner_team=teammate, rating=None, given={}, received={}
+
+--- Round 9 ---
+Pairing: {'nago': 'sapare', 'sapare': 'nago', 'demama': 'runo', 'runo': 'demama'}
+Chat:
+  demama -> runo: nuruki tiluso. mave voko zula zula meveru. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru. bizo.
+    meaning: hello [tiluso.] I have [zula] [zula] [meveru.] you have [zula?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula] [meveru.] [bizo.]
+  sapare -> nago: nuruki tiluso. mave voko zula zula. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.
+    meaning: hello [tiluso.] I have [zula] [zula.] you have [zula?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula] [meveru.]
+  runo -> demama: nuruki tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.
+    meaning: hello [tiluso.] I have [zeta] and [kapa] [meveru.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.]
+  nago -> sapare: nuruki tiluso. mave voko zeta kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo kisete nipa lonu kisete. tiluso voko tiso? zeta kapa meveru.
+    meaning: hello [tiluso.] I have [zeta] [kapa.] you have [zeta?] give water and [nogema?] I have fruit no and fish [kisete.] you have [tiso?] [zeta] [kapa] [meveru.]
+  demama -> runo: meveru tiluso. mave voko zula zula meveru. tiluso voko zula? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru. bizo.
+    meaning: yes [tiluso.] I have [zula] [zula] [meveru.] you have [zula?] [kisete.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula] [meveru.] [bizo.]
+  sapare -> nago: meveru tiluso. zeta kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.
+    meaning: yes [tiluso.] [zeta] [kapa] [meveru.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula] [meveru.]
+  runo -> demama: tiluso voko zula? kisete. mave voko zeta nipa kapa meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.
+    meaning: you have [zula?] [kisete.] I have [zeta] and [kapa] [meveru.] give water and [nogema?] you give I [tiso?] [zeta] [kapa] [meveru.]
+  nago -> sapare: meveru tiluso. zeta kapa meveru. tiluso voko zeta meveru. nozome tenota nipa nogema? mave voko mozo kisete nipa lonu kisete. tiluso voko tiso? mave nozome tiluso tenota nipa nogema? zeta kapa meveru.
+    meaning: yes [tiluso.] [zeta] [kapa] [meveru.] you have [zeta] [meveru.] give water and [nogema?] I have fruit no and fish [kisete.] you have [tiso?] I give you water and [nogema?] [zeta] [kapa] [meveru.]
+  demama -> runo: meveru tiluso. tiluso voko zula? kisete. mave voko zula zula meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? kisete. zula zula meveru. bizo.
+    meaning: yes [tiluso.] you have [zula?] [kisete.] I have [zula] [zula] [meveru.] give water and [nogema?] you give I [tiso?] [kisete.] [zula] [zula] [meveru.] [bizo.]
+  sapare -> nago: tiluso voko zeta meveru. mave voko tenota dakoto. nozome tiluso tenota nipa nogema? tiluso nozome mave tiso? zula zula meveru. bizo.
+    meaning: you have [zeta] [meveru.] I have water [dakoto.] give you water and [nogema?] you give I [tiso?] [zula] [zula] [meveru.] [bizo.]
+  runo -> demama: mave voko zeta nipa kapa meveru. tiluso voko zula? kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? kisete. zeta kapa meveru. bizo tiluso.
+    meaning: I have [zeta] and [kapa] [meveru.] you have [zula?] [kisete.] give water and [nogema?] you give I [tiso?] [kisete.] [zeta] [kapa] [meveru.] goodbye [tiluso.]
+  nago -> sapare: meveru tiluso. zeta kapa meveru. mave nozome tiluso tenota nipa nogema. tiluso nozome mave tiso? meveru? zeta kapa meveru. bizo tiluso.
+    meaning: yes [tiluso.] [zeta] [kapa] [meveru.] I give you water and [nogema.] you give I [tiso?] [meveru?] [zeta] [kapa] [meveru.] goodbye [tiluso.]
+Exchange:
+  demama -> runo: 0 water (giverΔ=0, recvΔ=0)
+  sapare -> nago: 0 water (giverΔ=0, recvΔ=0)
+  runo -> demama: 0 none (giverΔ=0, recvΔ=0)
+  nago -> sapare: 2 water (giverΔ=-2, recvΔ=4)
+Feedback:
+  demama: partner_team=opponent, rating=None, given={}, received={}
+  sapare: partner_team=opponent, rating=None, given={}, received={}
+  runo: partner_team=opponent, rating=None, given={}, received={}
+  nago: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 10 ---
+Pairing: {'sapare': 'runo', 'runo': 'sapare', 'demama': 'nago', 'nago': 'demama'}
+Chat:
+  demama -> nago: nuruki tiluso. mave voko zula zula meveru. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.
+    meaning: hello [tiluso.] I have [zula] [zula] [meveru.] you have [zula?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula] [meveru.]
+  sapare -> runo: nuruki tiluso. mave voko zula zula. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.
+    meaning: hello [tiluso.] I have [zula] [zula.] you have [zula?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula] [meveru.]
+  runo -> sapare: nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.
+    meaning: hello [tiluso.] I have [zeta] and [kapa.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.]
+  nago -> demama: nuruki tiluso. mave voko zeta kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.
+    meaning: hello [tiluso.] I have [zeta] [kapa] [meveru.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.]
+  demama -> nago: tiluso voko zula? kisete. mave voko zula zula meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zula zula meveru.
+    meaning: you have [zula?] [kisete.] I have [zula] [zula] [meveru.] give water and [nogema?] you give I [tiso?] [zula] [zula] [meveru.]
+  sapare -> runo: meveru tiluso. zeta kapa meveru. tiluso voko zeta? kisete. mave voko zula zula. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.
+    meaning: yes [tiluso.] [zeta] [kapa] [meveru.] you have [zeta?] [kisete.] I have [zula] [zula.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula] [meveru.]
+  runo -> sapare: meveru tiluso. zeta kapa meveru. tiluso voko zeta? meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. zeta kapa meveru.
+    meaning: yes [tiluso.] [zeta] [kapa] [meveru.] you have [zeta?] [meveru.] I have water [dakoto.] you have [tiso?] [kisete.] give water and [nogema?] I have fruit and [lonu.] [zeta] [kapa] [meveru.]
+  nago -> demama: tiluso voko zeta? kisete. mave voko zeta kapa meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.
+    meaning: you have [zeta?] [kisete.] I have [zeta] [kapa] [meveru.] give water and [nogema?] you give I [tiso?] [zeta] [kapa] [meveru.]
+  demama -> nago: tiluso voko zula? kisete. mave voko zula zula meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zula zula meveru. bizo tiluso.
+    meaning: you have [zula?] [kisete.] I have [zula] [zula] [meveru.] give water and [nogema?] you give I [tiso?] [zula] [zula] [meveru.] goodbye [tiluso.]
+  sapare -> runo: meveru tiluso. zeta kapa meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? zula zula meveru. bizo.
+    meaning: yes [tiluso.] [zeta] [kapa] [meveru.] I have water [dakoto.] you have [tiso?] [kisete.] give water and [nogema?] I have fruit and [lonu.] you give I [tiso?] [zula] [zula] [meveru.] [bizo.]
+  runo -> sapare: meveru tiluso. zeta kapa meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zeta kapa meveru. bizo.
+    meaning: yes [tiluso.] [zeta] [kapa] [meveru.] I have water [dakoto.] you have [tiso?] [kisete.] give water and [nogema?] I have fruit and [lonu.] you give I [tiso?] [kisete.] [zeta] [kapa] [meveru.] [bizo.]
+  nago -> demama: tiluso voko zeta? kisete. mave voko zeta kapa meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru. bizo tiluso.
+    meaning: you have [zeta?] [kisete.] I have [zeta] [kapa] [meveru.] give water and [nogema?] you give I [tiso?] [zeta] [kapa] [meveru.] goodbye [tiluso.]
+Exchange:
+  demama -> nago: 0 water (giverΔ=0, recvΔ=0)
+  sapare -> runo: 0 water (giverΔ=0, recvΔ=0)
+  runo -> sapare: 0 water (giverΔ=0, recvΔ=0)
+  nago -> demama: 0 water (giverΔ=0, recvΔ=0)
+Feedback:
+  demama: partner_team=opponent, rating=None, given={}, received={}
+  sapare: partner_team=opponent, rating=None, given={}, received={}
+  runo: partner_team=opponent, rating=None, given={}, received={}
+  nago: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 11 ---
+Pairing: {'demama': 'sapare', 'sapare': 'demama', 'runo': 'nago', 'nago': 'runo'}
+Chat:
+  demama -> sapare: nuruki tiluso. mave voko zula zula. tiluso voko zula? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.
+    meaning: hello [tiluso.] I have [zula] [zula.] you have [zula?] [meveru.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula] [meveru.]
+  sapare -> demama: meveru tiluso. zula zula meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru.
+    meaning: yes [tiluso.] [zula] [zula] [meveru.] I have water [dakoto.] you have [tiso?] [kisete.] give water and [nogema?] I have fruit and [lonu.] you give I [tiso?] [kisete.] [zula] [zula] [meveru.]
+  runo -> nago: nuruki tiluso. mave voko zeta nipa kapa. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.
+    meaning: hello [tiluso.] I have [zeta] and [kapa.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.]
+  nago -> runo: meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.
+    meaning: yes [tiluso.] I have [zeta] and [kapa] [meveru.] you have [zeta?] [meveru.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.]
+  demama -> sapare: meveru tiluso. zula zula meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru.
+    meaning: yes [tiluso.] [zula] [zula] [meveru.] I have water [dakoto.] you have [tiso?] [kisete.] give water and [nogema?] I have fruit and [lonu.] you give I [tiso?] [kisete.] [zula] [zula] [meveru.]
+  sapare -> demama: meveru tiluso. zula zula meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru. sima poto.
+    meaning: yes [tiluso.] [zula] [zula] [meveru.] I have water [dakoto.] you have [tiso?] [kisete.] give water and [nogema?] I have fruit and [lonu.] you give I [tiso?] [kisete.] [zula] [zula] [meveru.] please [poto.]
+  runo -> nago: meveru tiluso. tiluso voko zeta? meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.
+    meaning: yes [tiluso.] you have [zeta?] [meveru.] I have water [dakoto.] you have [tiso?] [kisete.] give water and [nogema?] you give I [tiso?] [zeta] [kapa] [meveru.]
+  nago -> runo: meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru.
+    meaning: yes [tiluso.] I have [zeta] and [kapa] [meveru.] you have [zeta?] [meveru.] I have water [dakoto.] you have [tiso?] [kisete.] give water and [nogema?] you give I [tiso?] [zeta] [kapa] [meveru.]
+  demama -> sapare: meveru tiluso. zula zula meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru. sima poto. bizo.
+    meaning: yes [tiluso.] [zula] [zula] [meveru.] I have water [dakoto.] you have [tiso?] [kisete.] give water and [nogema?] I have fruit and [lonu.] you give I [tiso?] [kisete.] [zula] [zula] [meveru.] please [poto.] [bizo.]
+  sapare -> demama: meveru tiluso. zula zula meveru. mave nozome tiluso tenota nipa nogema. tiluso nozome mave tiso? kisete. mave voko mozo nipa lonu. zula zula meveru. bizo.
+    meaning: yes [tiluso.] [zula] [zula] [meveru.] I give you water and [nogema.] you give I [tiso?] [kisete.] I have fruit and [lonu.] [zula] [zula] [meveru.] [bizo.]
+  runo -> nago: meveru tiluso. tiluso voko zeta? meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru. bizo tiluso.
+    meaning: yes [tiluso.] you have [zeta?] [meveru.] I have water [dakoto.] you have [tiso?] [kisete.] give water and [nogema?] you give I [tiso?] [zeta] [kapa] [meveru.] goodbye [tiluso.]
+  nago -> runo: meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? tiluso nozome mave tiso? zeta kapa meveru. bizo tiluso.
+    meaning: yes [tiluso.] I have [zeta] and [kapa] [meveru.] you have [zeta?] [meveru.] I have water [dakoto.] you have [tiso?] [kisete.] give water and [nogema?] you give I [tiso?] [zeta] [kapa] [meveru.] goodbye [tiluso.]
+Exchange:
+  demama -> sapare: 1 meat (giverΔ=-1, recvΔ=2)
+  sapare -> demama: 4 water (giverΔ=-4, recvΔ=8)
+  runo -> nago: 7 water (giverΔ=-7, recvΔ=14)
+  nago -> runo: 7 water (giverΔ=-7, recvΔ=14)
+Feedback:
+  demama: partner_team=teammate, rating=None, given={}, received={}
+  sapare: partner_team=teammate, rating=None, given={}, received={}
+  runo: partner_team=teammate, rating=None, given={}, received={}
+  nago: partner_team=teammate, rating=None, given={}, received={}
+
+--- Round 12 ---
+Pairing: {'demama': 'sapare', 'sapare': 'demama', 'runo': 'nago', 'nago': 'runo'}
+Chat:
+  demama -> sapare: nuruki tiluso. mave voko zula zula meveru. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zula zula meveru.
+    meaning: hello [tiluso.] I have [zula] [zula] [meveru.] you have [zula?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zula] [zula] [meveru.]
+  sapare -> demama: nuruki tiluso. mave voko zula zula meveru. tiluso voko zula? mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. zula zula meveru.
+    meaning: hello [tiluso.] I have [zula] [zula] [meveru.] you have [zula?] I have water much and [nogema.] you have [tiso?] [kisete.] give water and [nogema?] I have fruit and [lonu.] [zula] [zula] [meveru.]
+  runo -> nago: nuruki tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.
+    meaning: hello [tiluso.] I have [zeta] and [kapa] [meveru.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.]
+  nago -> runo: meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru. sima poto.
+    meaning: yes [tiluso.] I have [zeta] and [kapa] [meveru.] you have [zeta?] [meveru.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.] please [poto.]
+  demama -> sapare: meveru tiluso. zula zula meveru. mave voko tenota dakoto. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru.
+    meaning: yes [tiluso.] [zula] [zula] [meveru.] I have water [dakoto.] you have [tiso?] [kisete.] give water and [nogema?] I have fruit and [lonu.] you give I [tiso?] [kisete.] [zula] [zula] [meveru.]
+  sapare -> demama: meveru tiluso. zula zula meveru. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. nozome tenota nipa nogema? meveru. tiluso nozome mave tiso? kisete. mave voko mozo nipa lonu. zula zula meveru.
+    meaning: yes [tiluso.] [zula] [zula] [meveru.] I have water much and [nogema.] you have [tiso?] [kisete.] give water and [nogema?] [meveru.] you give I [tiso?] [kisete.] I have fruit and [lonu.] [zula] [zula] [meveru.]
+  runo -> nago: meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru. sima poto.
+    meaning: yes [tiluso.] I have [zeta] and [kapa] [meveru.] you have [zeta?] [meveru.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.] please [poto.]
+  nago -> runo: meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru. sima poto. mave voko tenota dakoto. tiluso voko tenota? nozome tiluso tenota? tiluso nozome mave tiso?
+    meaning: yes [tiluso.] I have [zeta] and [kapa] [meveru.] you have [zeta?] [meveru.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.] please [poto.] I have water [dakoto.] you have [tenota?] give you [tenota?] you give I [tiso?]
+  demama -> sapare: meveru tiluso. zula zula meveru. mave voko tenota dakoto nipa nogema kisete. mave voko mozo nipa lonu. tiluso nozome mave tenota nipa nogema? mave nozome tiluso mozo nipa lonu. zula zula meveru. bizo.
+    meaning: yes [tiluso.] [zula] [zula] [meveru.] I have water much and meat [kisete.] I have fruit and [lonu.] you give I water and [nogema?] I give you fruit and [lonu.] [zula] [zula] [meveru.] [bizo.]
+  sapare -> demama: meveru tiluso. zula zula meveru. mave voko tenota dakoto nipa nogema. mave voko mozo nipa lonu. tiluso nozome mave tenota nipa nogema? meveru. mave nozome tiluso mozo nipa lonu. zula zula meveru. bizo.
+    meaning: yes [tiluso.] [zula] [zula] [meveru.] I have water much and [nogema.] I have fruit and [lonu.] you give I water and [nogema?] [meveru.] I give you fruit and [lonu.] [zula] [zula] [meveru.] [bizo.]
+  runo -> nago: meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru. sima poto. mave voko tenota dakoto. tiluso voko tenota? meveru. nozome tiluso tenota? tiluso nozome mave tiso? meveru.
+    meaning: yes [tiluso.] I have [zeta] and [kapa] [meveru.] you have [zeta?] [meveru.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.] please [poto.] I have water [dakoto.] you have [tenota?] [meveru.] give you [tenota?] you give I [tiso?] [meveru.]
+  nago -> runo: meveru tiluso. mave voko tenota dakoto. tiluso voko tenota? meveru. nozome tiluso tenota? tiluso nozome mave tiso? meveru. zeta kapa meveru. sima poto. bizo tiluso.
+    meaning: yes [tiluso.] I have water [dakoto.] you have [tenota?] [meveru.] give you [tenota?] you give I [tiso?] [meveru.] [zeta] [kapa] [meveru.] please [poto.] goodbye [tiluso.]
+Exchange:
+  demama -> sapare: 10 water (giverΔ=-10, recvΔ=20)
+  sapare -> demama: 10 water (giverΔ=-10, recvΔ=20)
+  runo -> nago: 5 water (giverΔ=-5, recvΔ=10)
+  nago -> runo: 5 water (giverΔ=-5, recvΔ=10)
+Feedback:
+  demama: partner_team=teammate, rating=None, given={}, received={}
+  sapare: partner_team=teammate, rating=None, given={}, received={}
+  runo: partner_team=teammate, rating=None, given={}, received={}
+  nago: partner_team=teammate, rating=None, given={}, received={}
+
+--- Round 13 ---
+Pairing: {'runo': 'sapare', 'sapare': 'runo', 'demama': 'nago', 'nago': 'demama'}
+Chat:
+  demama -> nago: nuruki tiluso. mave voko zula zula meveru. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tenota nipa nogema? meveru. mave nozome tiluso mozo nipa lonu. zula zula meveru. bizo.
+    meaning: hello [tiluso.] I have [zula] [zula] [meveru.] I have water much and [nogema.] you have [tiso?] [kisete.] give water and [nogema?] I have fruit and [lonu.] you give I water and [nogema?] [meveru.] I give you fruit and [lonu.] [zula] [zula] [meveru.] [bizo.]
+  sapare -> runo: nuruki tiluso. mave voko zula zula meveru. tiluso voko zula? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? kisete. zula zula meveru.
+    meaning: hello [tiluso.] I have [zula] [zula] [meveru.] you have [zula?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [kisete.] [zula] [zula] [meveru.]
+  runo -> sapare: nuruki tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? kisete. zeta kapa meveru.
+    meaning: hello [tiluso.] I have [zeta] and [kapa] [meveru.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [kisete.] [zeta] [kapa] [meveru.]
+  nago -> demama: nuruki tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.
+    meaning: hello [tiluso.] I have [zeta] and [kapa] [meveru.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.]
+  demama -> nago: tiluso voko zeta? kisete. mave voko zula zula meveru. mave voko tenota dakoto nipa nogema. tiluso nozome mave tenota nipa nogema? meveru. mave nozome tiluso mozo nipa lonu. zula zula meveru. bizo.
+    meaning: you have [zeta?] [kisete.] I have [zula] [zula] [meveru.] I have water much and [nogema.] you give I water and [nogema?] [meveru.] I give you fruit and [lonu.] [zula] [zula] [meveru.] [bizo.]
+  sapare -> runo: meveru tiluso. tiluso voko zula? kisete. mave voko zula zula meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru.
+    meaning: yes [tiluso.] you have [zula?] [kisete.] I have [zula] [zula] [meveru.] give water and [nogema?] I have fruit and [lonu.] you give I [tiso?] [kisete.] [zula] [zula] [meveru.]
+  runo -> sapare: tiluso voko zeta? kisete. mave voko zeta nipa kapa meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? kisete. zeta kapa meveru.
+    meaning: you have [zeta?] [kisete.] I have [zeta] and [kapa] [meveru.] give water and [nogema?] you give I [tiso?] [kisete.] [zeta] [kapa] [meveru.]
+  nago -> demama: meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.
+    meaning: yes [tiluso.] I have [zeta] and [kapa] [meveru.] you have [zeta?] [meveru.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.]
+  demama -> nago: tiluso voko zeta? meveru. mave voko zula zula meveru. tiluso nozome mave tenota nipa nogema? meveru. mave nozome tiluso mozo nipa lonu. zula zula meveru. bizo.
+    meaning: you have [zeta?] [meveru.] I have [zula] [zula] [meveru.] you give I water and [nogema?] [meveru.] I give you fruit and [lonu.] [zula] [zula] [meveru.] [bizo.]
+  sapare -> runo: meveru tiluso. tiluso voko zula? kisete. mave voko zula zula meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso nozome mave tiso? kisete. zula zula meveru. bizo.
+    meaning: yes [tiluso.] you have [zula?] [kisete.] I have [zula] [zula] [meveru.] give water and [nogema?] I have fruit and [lonu.] you give I [tiso?] [kisete.] [zula] [zula] [meveru.] [bizo.]
+  runo -> sapare: tiluso voko zeta? kisete. mave voko zeta nipa kapa meveru. nozome tenota nipa nogema? tiluso nozome mave tiso? kisete. zeta kapa meveru. bizo tiluso.
+    meaning: you have [zeta?] [kisete.] I have [zeta] and [kapa] [meveru.] give water and [nogema?] you give I [tiso?] [kisete.] [zeta] [kapa] [meveru.] goodbye [tiluso.]
+  nago -> demama: meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru. bizo.
+    meaning: yes [tiluso.] I have [zeta] and [kapa] [meveru.] you have [zeta?] [meveru.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.] [bizo.]
+Exchange:
+  demama -> nago: 0 water (giverΔ=0, recvΔ=0)
+  sapare -> runo: 0 water (giverΔ=0, recvΔ=0)
+  runo -> sapare: 0 water (giverΔ=0, recvΔ=0)
+  nago -> demama: 0 water (giverΔ=0, recvΔ=0)
+Feedback:
+  demama: partner_team=opponent, rating=None, given={}, received={}
+  sapare: partner_team=opponent, rating=None, given={}, received={}
+  runo: partner_team=opponent, rating=None, given={}, received={}
+  nago: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 14 ---
+Pairing: {'demama': 'sapare', 'sapare': 'demama', 'runo': 'nago', 'nago': 'runo'}
+Chat:
+  demama -> sapare: nuruki tiluso. mave voko zula zula meveru. tiluso voko zula? mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. nozome tenota nipa nogema? mave voko mozo nipa lonu. zula zula meveru.
+    meaning: hello [tiluso.] I have [zula] [zula] [meveru.] you have [zula?] I have water much and [nogema.] you have [tiso?] [kisete.] give water and [nogema?] I have fruit and [lonu.] [zula] [zula] [meveru.]
+  sapare -> demama: meveru tiluso. zula zula meveru. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. mave voko mozo nipa lonu. tiluso nozome mave tenota nipa nogema? mave nozome tiluso mozo nipa lonu. zula zula meveru.
+    meaning: yes [tiluso.] [zula] [zula] [meveru.] I have water much and [nogema.] you have [tiso?] [kisete.] I have fruit and [lonu.] you give I water and [nogema?] I give you fruit and [lonu.] [zula] [zula] [meveru.]
+  runo -> nago: nuruki tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru.
+    meaning: hello [tiluso.] I have [zeta] and [kapa] [meveru.] you have [zeta?] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.]
+  nago -> runo: meveru tiluso. mave voko zeta nipa kapa meveru. tiluso voko zeta? meveru. nozome tenota nipa nogema? mave voko mozo nipa lonu. tiluso voko tiso? zeta kapa meveru. sima poto.
+    meaning: yes [tiluso.] I have [zeta] and [kapa] [meveru.] you have [zeta?] [meveru.] give water and [nogema?] I have fruit and [lonu.] you have [tiso?] [zeta] [kapa] [meveru.] please [poto.]
+  demama -> sapare: meveru tiluso. zula zula meveru. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. mave voko mozo nipa lonu. tiluso nozome mave tenota nipa nogema? meveru. mave nozome tiluso mozo nipa lonu. zula zula meveru.
+    meaning: yes [tiluso.] [zula] [zula] [meveru.] I have water much and [nogema.] you have [tiso?] [kisete.] I have fruit and [lonu.] you give I water and [nogema?] [meveru.] I give you fruit and [lonu.] [zula] [zula] [meveru.]
+  sapare -> demama: meveru tiluso. zula zula meveru. mave nozome tiluso tenota nipa nogema. tiluso nozome mave mozo nipa lonu. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. mave voko mozo nipa lonu. zula zula meveru. sima poto.
+    meaning: yes [tiluso.] [zula] [zula] [meveru.] I give you water and [nogema.] you give I fruit and [lonu.] I have water much and [nogema.] you have [tiso?] [kisete.] I have fruit and [lonu.] [zula] [zula] [meveru.] please [poto.]
+  runo -> nago: meveru tiluso. mave voko tenota dakoto. tiluso voko tenota? meveru. nozome tiluso tenota? tiluso nozome mave tiso? meveru. zeta kapa meveru. sima poto.
+    meaning: yes [tiluso.] I have water [dakoto.] you have [tenota?] [meveru.] give you [tenota?] you give I [tiso?] [meveru.] [zeta] [kapa] [meveru.] please [poto.]
+  nago -> runo: meveru tiluso. mave voko tenota dakoto. tiluso voko tenota? meveru. nozome tiluso tenota? tiluso nozome mave tiso? meveru. zeta kapa meveru. sima poto. mave voko mozo nipa lonu. tiluso voko mozo? lonu?
+    meaning: yes [tiluso.] I have water [dakoto.] you have [tenota?] [meveru.] give you [tenota?] you give I [tiso?] [meveru.] [zeta] [kapa] [meveru.] please [poto.] I have fruit and [lonu.] you have [mozo?] [lonu?]
+  demama -> sapare: meveru tiluso. zula zula meveru. mave nozome tiluso tenota nipa nogema. tiluso nozome mave mozo nipa lonu. meveru. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. mave voko mozo nipa lonu. zula zula meveru. bizo.
+    meaning: yes [tiluso.] [zula] [zula] [meveru.] I give you water and [nogema.] you give I fruit and [lonu.] [meveru.] I have water much and [nogema.] you have [tiso?] [kisete.] I have fruit and [lonu.] [zula] [zula] [meveru.] [bizo.]
+  sapare -> demama: meveru tiluso. zula zula meveru. mave nozome tiluso tenota nipa nogema. tiluso nozome mave mozo nipa lonu. meveru. mave voko tenota dakoto nipa nogema. tiluso voko tiso? kisete. mave voko mozo nipa lonu. zula zula meveru. sima poto bizo.
+    meaning: yes [tiluso.] [zula] [zula] [meveru.] I give you water and [nogema.] you give I fruit and [lonu.] [meveru.] I have water much and [nogema.] you have [tiso?] [kisete.] I have fruit and [lonu.] [zula] [zula] [meveru.] please thanks [bizo.]
+  runo -> nago: meveru tiluso. mave voko tenota dakoto. tiluso nozome mave tiso? meveru. mave nozome tiluso tenota. tiluso voko mozo? kisete. tiluso voko lonu? kisete. zeta kapa meveru. sima poto. bizo.
+    meaning: yes [tiluso.] I have water [dakoto.] you give I [tiso?] [meveru.] I give you [tenota.] you have [mozo?] [kisete.] you have [lonu?] [kisete.] [zeta] [kapa] [meveru.] please [poto.] [bizo.]
+  nago -> runo: meveru tiluso. mave nozome tiluso tenota. tiluso nozome mave tiso? meveru. mave voko mozo kisete. mave voko lonu kisete. zeta kapa meveru. sima poto. bizo.
+    meaning: yes [tiluso.] I give you [tenota.] you give I [tiso?] [meveru.] I have fruit [kisete.] I have fish [kisete.] [zeta] [kapa] [meveru.] please [poto.] [bizo.]
+Exchange:
+  demama -> sapare: 1 fruit (giverΔ=-1, recvΔ=2)
+  sapare -> demama: 2 fruit (giverΔ=-2, recvΔ=4)
+  runo -> nago: 10 water (giverΔ=-10, recvΔ=20)
+  nago -> runo: 10 water (giverΔ=-10, recvΔ=20)
+Feedback:
+  demama: partner_team=teammate, rating=None, given={}, received={}
+  sapare: partner_team=teammate, rating=None, given={}, received={}
+  runo: partner_team=teammate, rating=None, given={}, received={}
+  nago: partner_team=teammate, rating=None, given={}, received={}

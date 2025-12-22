@@ -1,0 +1,3211 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "pairing": {
+        "fopezu": "dofupe",
+        "dofupe": "fopezu",
+        "gipo": "linabu",
+        "linabu": "gipo"
+      },
+      "chat": [
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "robama mokoka. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zikuki toleme? zunara zikuki vofu.",
+          "raw": "robama mokoka. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zikuki toleme? zunara zikuki vofu.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "robama mokoka. zunara subo leteme kaveru tifuzi. mokoka zikuki toleme? zunara zikuki vofu. sebova? tirabo?",
+          "raw": "robama mokoka. zunara subo leteme kaveru tifuzi. mokoka zikuki toleme? zunara zikuki vofu. sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "robama mokoka. zunara subo ralado bapo, vokupi toleme. zikuki toleme? zunara zikuki ralado. sebova tifava?",
+          "raw": "robama mokoka. zunara subo ralado bapo, vokupi toleme. zikuki toleme? zunara zikuki ralado. sebova tifava?",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "robama mokoka. zunara subo toleme tirabo, vokupi toleme. zunara zikuki vofu kaveru leteme. mokoka zikuki toleme? sebova tifava?",
+          "raw": "robama mokoka. zunara subo toleme tirabo, vokupi toleme. zunara zikuki vofu kaveru leteme. mokoka zikuki toleme? sebova tifava?",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara subo toleme tifava. mokoka zikuki toleme? zunara zikuki vofu kaveru ralado. mokoka vokupi vofu? ralado? tifuzi? leteme?",
+          "raw": "sebova. zunara subo toleme tifava. mokoka zikuki toleme? zunara zikuki vofu kaveru ralado. mokoka vokupi vofu? ralado? tifuzi? leteme?",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "sebova. zunara vokupi toleme. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme? zunara subo leteme bapo kaveru tifuzi. mokoka vokupi leteme? tifuzi?",
+          "raw": "sebova. zunara vokupi toleme. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme? zunara subo leteme bapo kaveru tifuzi. mokoka vokupi leteme? tifuzi?",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki ralado. mokoka zikuki toleme. tifava: mokoka subo vofu kaveru leteme bapo? zunara subo tifuzi. zikuki tifuzi?",
+          "raw": "sebova. zunara zikuki ralado. mokoka zikuki toleme. tifava: mokoka subo vofu kaveru leteme bapo? zunara subo tifuzi. zikuki tifuzi?",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru leteme. mokoka zikuki toleme. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. tifava: mokoka subo ralado bapo? zikuki ralado kaveru toleme?",
+          "raw": "sebova. zunara zikuki vofu kaveru leteme. mokoka zikuki toleme. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. tifava: mokoka subo ralado bapo? zikuki ralado kaveru toleme?",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "zunara subo toleme tifava. mokoka zikuki toleme? zunara zikuki vofu kaveru ralado. zunara vokupi leteme kaveru tifuzi. mokoka zikuki leteme? tifuzi? gafu.",
+          "raw": "zunara subo toleme tifava. mokoka zikuki toleme? zunara zikuki vofu kaveru ralado. zunara vokupi leteme kaveru tifuzi. mokoka zikuki leteme? tifuzi? gafu.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki leteme kaveru tifuzi. mokoka zikuki toleme. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki leteme kaveru tifuzi. mokoka zikuki toleme. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "zunara subo ralado bapo. zikuki ralado kaveru toleme sebova. mokoka zikuki vofu kaveru leteme? zunara vokupi toleme bapo. tifava: mokoka subo tifuzi tirabo? zikuki tifuzi kaveru ralado?",
+          "raw": "zunara subo ralado bapo. zikuki ralado kaveru toleme sebova. mokoka zikuki vofu kaveru leteme? zunara vokupi toleme bapo. tifava: mokoka subo tifuzi tirabo? zikuki tifuzi kaveru ralado?",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru leteme. mokoka zikuki toleme kaveru ralado. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. tifava: mokoka zikuki toleme bapo? zikuki ralado kaveru toleme sebova. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru leteme. mokoka zikuki toleme kaveru ralado. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. tifava: mokoka zikuki toleme bapo? zikuki ralado kaveru toleme sebova. kosiro.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fopezu",
+          "partner": "dofupe",
+          "rating": 4,
+          "rating_reason": "This is Round 1, and the first two rounds are guaranteed to pair me with a teammate. Therefore, my partner must be a teammate. Their chat was cooperative: they offered fish and fruit, agreed to give water, and used polite terms (gafu, kosiro). Their responses aligned with a teammate's behavior. I rate 4 (definitely a teammate).",
+          "rating_message": "zunara sebova mokoka subo team_a. mokoka zikuki leteme kaveru tifuzi. gafu."
+        },
+        {
+          "player": "dofupe",
+          "partner": "fopezu",
+          "rating": 4,
+          "rating_reason": "Round 1 partner is guaranteed teammate. Also, partner's messages were cooperative, asking for water exchange and offering water. They used 'sebova.' and 'gafu.' which aligns with my pattern. Definitely teammate.",
+          "rating_message": "zunara tifava sebova. mokoka subo toleme kaveru vokupi zikuki. zunara vokupi toleme. sebova."
+        },
+        {
+          "player": "gipo",
+          "partner": "linabu",
+          "rating": 4,
+          "rating_reason": "Partner was cooperative, offered grain and fish, wanted water and meat, and agreed to trade. They used consistent alien language, no suspicious behavior. Since first round is guaranteed teammate, and their actions align with teammate behavior (helpful, negotiating for mutual benefit), I rate definitely teammate.",
+          "rating_message": "Partner seems cooperative and uses alien language appropriately, likely teammate."
+        },
+        {
+          "player": "linabu",
+          "partner": "gipo",
+          "rating": 4,
+          "rating_reason": "Partner used consistent alien vocabulary, engaged in reciprocal exchange (offering meat and water for grain and fish), asked about my resources, and ended with a question pattern similar to mine. They seemed cooperative and didn't show signs of deception. Since this is Round 1 and first two rounds are guaranteed teammate, high confidence they are teammate.",
+          "rating_message": "Partner's cooperative negotiation and use of 'sebova', 'tifava', 'bapo' patterns suggest teammate alignment."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fopezu",
+          "receiver": "dofupe",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "dofupe",
+          "receiver": "fopezu",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "gipo",
+          "receiver": "linabu",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "linabu",
+          "receiver": "gipo",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fopezu",
+          "partner": "dofupe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "dofupe",
+          "partner": "fopezu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gipo",
+          "partner": "linabu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "linabu",
+          "partner": "gipo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "pairing": {
+        "fopezu": "dofupe",
+        "dofupe": "fopezu",
+        "gipo": "linabu",
+        "linabu": "gipo"
+      },
+      "chat": [
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "robama mokoka. zunara subo vofu kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zunara zikuki vofu kaveru ralado. sebova? tirabo?",
+          "raw": "robama mokoka. zunara subo vofu kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zunara zikuki vofu kaveru ralado. sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "robama mokoka. zunara subo toleme kaveru vofu. mokoka vokupi toleme? zunara zikuki vofu kaveru ralado. sebova? tirabo?",
+          "raw": "robama mokoka. zunara subo toleme kaveru vofu. mokoka vokupi toleme? zunara zikuki vofu kaveru ralado. sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "robama mokoka. zunara subo vofu bapo kaveru ralado bapo. vokupi toleme. mokoka subo toleme? zikuki vofu kaveru ralado. tifava: mokoka subo leteme?",
+          "raw": "robama mokoka. zunara subo vofu bapo kaveru ralado bapo. vokupi toleme. mokoka subo toleme? zikuki vofu kaveru ralado. tifava: mokoka subo leteme?",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "robama. zunara subo vofu bapo kaveru ralado bapo. vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka subo toleme? zunara zikuki leteme kaveru tifuzi. tifava: mokoka subo leteme bapo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado bapo. vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka subo toleme? zunara zikuki leteme kaveru tifuzi. tifava: mokoka subo leteme bapo?",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara vokupi toleme bapo. mokoka zikuki toleme? zunara zikuki vofu kaveru ralado. gafu.",
+          "raw": "sebova. zunara vokupi toleme bapo. mokoka zikuki toleme? zunara zikuki vofu kaveru ralado. gafu.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova? tirabo? gafu.",
+          "raw": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova? tirabo? gafu.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "sebova. zunara subo toleme tirabo bapo. vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme? zunara subo leteme tirabo bapo. tifava: mokoka subo tifuzi?",
+          "raw": "sebova. zunara subo toleme tirabo bapo. vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme? zunara subo leteme tirabo bapo. tifava: mokoka subo tifuzi?",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "zunara vokupi toleme bapo. zikuki vofu kaveru ralado bapo. mokoka zikuki toleme sebova? zunara subo leteme tirabo bapo kaveru tifuzi tirabo bapo. tifava: mokoka subo vofu bapo?",
+          "raw": "zunara vokupi toleme bapo. zikuki vofu kaveru ralado bapo. mokoka zikuki toleme sebova? zunara subo leteme tirabo bapo kaveru tifuzi tirabo bapo. tifava: mokoka subo vofu bapo?",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. kosiro.",
+          "raw": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. zunara subo vofu bapo kaveru ralado bapo. tifava: mokoka subo toleme bapo? kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. zunara subo vofu bapo kaveru ralado bapo. tifava: mokoka subo toleme bapo? kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru ralado bapo. mokoka zikuki toleme sebova. zunara subo toleme tirabo bapo. tifava: mokoka subo leteme bapo? kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado bapo. mokoka zikuki toleme sebova. zunara subo toleme tirabo bapo. tifava: mokoka subo leteme bapo? kosiro.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fopezu",
+          "partner": "dofupe",
+          "rating": 4,
+          "rating_reason": "This is Round 2, and the first two rounds are guaranteed to pair me with a teammate. The partner's messages were cooperative, offering water and asking for grain and meat, which aligns with team interest. They used polite terms like 'gafu' and 'kosiro', which could be teammate signaling. No suspicious behavior. So definitely teammate.",
+          "rating_message": "zunara sebova mokoka subo toleme kaveru vofu. zikuki bapo."
+        },
+        {
+          "player": "dofupe",
+          "partner": "fopezu",
+          "rating": 4,
+          "rating_reason": "This is round 2, which is guaranteed to pair me with a teammate. The chat pattern matched our earlier teammate code: using 'bapo', 'gafu', and repeating 'zikuki vofu kaveru ralado'. Partner responded positively and closed with 'kosiro'. Definitely teammate.",
+          "rating_message": "Partner used consistent teammate signals and round 2 is guaranteed teammate."
+        },
+        {
+          "player": "gipo",
+          "partner": "linabu",
+          "rating": 4,
+          "rating_reason": "This is round 2, which is guaranteed to pair me with a teammate. The partner's messages align with teammate behavior: they agreed to trade (sebova), they offered to give water (toleme) in exchange for grain and meat, and they used consistent alien language. They also asked about my fish (leteme) which matches earlier pattern. No signs of opponent deception. Therefore, definitely a teammate.",
+          "rating_message": "Partner uses sebova and zikuki patterns similar to round 1 teammate. They agree to give water, which I need, and ask about my resources. Likely teammate."
+        },
+        {
+          "player": "linabu",
+          "partner": "gipo",
+          "rating": 4,
+          "rating_reason": "Partner used consistent pattern: 'bapo' after positive resources, 'tirabo bapo' after lacking, ended with tifava and kosiro. This matches teammate pattern from R1 (teammate confirmed). They offered to give grain and meat, asked about water, which aligns with team strategy to share. High confidence they are teammate.",
+          "rating_message": "Partner's language pattern matches teammate style: using 'bapo' for much, 'tirabo bapo' for little, and structured offers. They responded cooperatively and used consistent alien grammar, suggesting teammate."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fopezu",
+          "receiver": "dofupe",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "dofupe",
+          "receiver": "fopezu",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "gipo",
+          "receiver": "linabu",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "linabu",
+          "receiver": "gipo",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fopezu",
+          "partner": "dofupe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "dofupe",
+          "partner": "fopezu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gipo",
+          "partner": "linabu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "linabu",
+          "partner": "gipo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "pairing": {
+        "fopezu": "dofupe",
+        "dofupe": "fopezu",
+        "gipo": "linabu",
+        "linabu": "gipo"
+      },
+      "chat": [
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "robama mokoka. zunara subo vofu kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?",
+          "raw": "robama mokoka. zunara subo vofu kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "robama mokoka. zunara subo vofu kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?",
+          "raw": "robama mokoka. zunara subo vofu kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "robama. zunara subo vofu bapo kaveru ralado bapo. vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme sebova? tifava: mokoka subo leteme bapo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado bapo. vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme sebova? tifava: mokoka subo leteme bapo?",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "robama. zunara subo vofu bapo kaveru ralado bapo. vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme sebova? tifava: mokoka subo leteme bapo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado bapo. vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme sebova? tifava: mokoka subo leteme bapo?",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara subo toleme. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova? tirabo?",
+          "raw": "sebova. zunara subo toleme. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. bapo.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. bapo.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado bapo. mokoka zikuki toleme sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi bapo?",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado bapo. mokoka zikuki toleme sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi bapo?",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru ralado bapo. mokoka zikuki toleme sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi bapo?",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado bapo. mokoka zikuki toleme sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi bapo?",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. zikuki vofu kaveru ralado bapo. mokoka zikuki toleme bapo sebova. kosiro.",
+          "raw": "zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. zikuki vofu kaveru ralado bapo. mokoka zikuki toleme bapo sebova. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. zikuki vofu kaveru ralado bapo. mokoka zikuki toleme bapo sebova. kosiro.",
+          "raw": "zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. zikuki vofu kaveru ralado bapo. mokoka zikuki toleme bapo sebova. kosiro.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fopezu",
+          "partner": "dofupe",
+          "rating": 3,
+          "rating_reason": "Partner's messages were cooperative and mirrored my earlier pattern. They agreed to exchange grain+meat for water, which could benefit either team. Their use of 'gafu' and 'bapo' then 'kosiro' seems friendly. However, they didn't use any secret code from previous rounds (like 'leteme' or 'tifuzi' patterns). In R1 and R2, teammates used 'leteme' and 'tifuzi' often. This partner didn't mention those, but they also didn't act suspiciously. I'm leaning teammate but not certain. Rating 3 = likely teammate.",
+          "rating_message": "Partner seemed cooperative and agreed to a fair exchange. No clear opponent signals, but no strong teammate signals either."
+        },
+        {
+          "player": "dofupe",
+          "partner": "fopezu",
+          "rating": 4,
+          "rating_reason": "Partner's communication pattern closely matches previous teammates: they used 'gafu' and 'kosiro' consistently, proposed a clear exchange (water for grain and meat), and responded positively to my signals. The structured negotiation and polite closings suggest coordination typical of a teammate.",
+          "rating_message": "Partner's language and exchange proposal align with teammate behavior from R1 and R2, indicating high confidence they are on my team."
+        },
+        {
+          "player": "gipo",
+          "partner": "linabu",
+          "rating": 3,
+          "rating_reason": "Partner's chat pattern is similar to previous teammates: they propose trade grain and meat for water, use consistent phrasing like 'zikuki vofu kaveru ralado bapo' and 'mokoka zikuki toleme sebova'. They also ask about fruit, which is a resource I have little of, but not a strong signal. However, they didn't use any secret code from earlier rounds, and the conversation is straightforward. I'm leaning teammate because they seem cooperative and not deceptive, but not 100% sure.",
+          "rating_message": "Partner seems cooperative and pattern matches previous teammates, but no clear secret code. Rating 3."
+        },
+        {
+          "player": "linabu",
+          "partner": "gipo",
+          "rating": 3,
+          "rating_reason": "Partner mirrored my exact message structure from earlier rounds, which was a pattern used with previous teammates. They also used consistent phrasing like 'zikuki vofu kaveru ralado bapo' which matches teammate style. However, since this is round 3 and partner could be opponent mimicking, I'm not fully certain, so rating 3 (likely teammate).",
+          "rating_message": "Partner's repetition of my pattern suggests teammate alignment, but not definitive."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fopezu",
+          "receiver": "dofupe",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "dofupe",
+          "receiver": "fopezu",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "gipo",
+          "receiver": "linabu",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "linabu",
+          "receiver": "gipo",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fopezu",
+          "partner": "dofupe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "dofupe",
+          "partner": "fopezu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gipo",
+          "partner": "linabu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "linabu",
+          "partner": "gipo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "pairing": {
+        "linabu": "dofupe",
+        "dofupe": "linabu",
+        "fopezu": "gipo",
+        "gipo": "fopezu"
+      },
+      "chat": [
+        {
+          "sender": "fopezu",
+          "receiver": "gipo",
+          "content": "robama mokoka. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?",
+          "raw": "robama mokoka. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "linabu",
+          "content": "robama mokoka. zunara subo vofu kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?",
+          "raw": "robama mokoka. zunara subo vofu kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "fopezu",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? sebova. zunara vokupi toleme bapo. zikuki vofu kaveru ralado bapo. mokoka zikuki toleme bapo sebova? tifava: mokoka subo leteme bapo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? sebova. zunara vokupi toleme bapo. zikuki vofu kaveru ralado bapo. mokoka zikuki toleme bapo sebova? tifava: mokoka subo leteme bapo?",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "dofupe",
+          "content": "robama. zunara subo vofu kaveru ralado. vokupi toleme bapo. mokoka subo toleme? zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme?",
+          "raw": "robama. zunara subo vofu kaveru ralado. vokupi toleme bapo. mokoka subo toleme? zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme?",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. zunara subo leteme tifuzi. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi. sebova? tirabo?",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. zunara subo leteme tifuzi. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi. sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "linabu",
+          "content": "sebova. zunara subo toleme. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova? tirabo?",
+          "raw": "sebova. zunara subo toleme. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado bapo. mokoka zikuki toleme bapo sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo. tifava: mokoka subo ralado bapo?",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado bapo. mokoka zikuki toleme bapo sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo. tifava: mokoka subo ralado bapo?",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. tifava: mokoka subo leteme? zunara vokupi leteme bapo.",
+          "raw": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. tifava: mokoka subo leteme? zunara vokupi leteme bapo.",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. zunara subo ralado tirabo bapo. subo leteme tifuzi. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. zunara subo ralado tirabo bapo. subo leteme tifuzi. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "linabu",
+          "content": "sebova. zunara subo leteme. zikuki leteme. mokoka zikuki toleme. gafu. kosiro.",
+          "raw": "sebova. zunara subo leteme. zikuki leteme. mokoka zikuki toleme. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado bapo. mokoka zikuki toleme bapo sebova. zunara subo leteme tifuzi tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? tirabo. zunara zikuki leteme kaveru tifuzi tirabo. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado bapo. mokoka zikuki toleme bapo sebova. zunara subo leteme tifuzi tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? tirabo. zunara zikuki leteme kaveru tifuzi tirabo. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fopezu",
+          "partner": "gipo",
+          "rating": 3,
+          "rating_reason": "Partner's chat pattern is similar to previous teammates: using 'bapo' for much, 'tirabo bapo' for not much, and structured offers (zikuki vofu kaveru ralado). They also end with 'kosiro' which was used by teammates in R1 and R2. However, they asked about meat much and I said not much, which could be probing. Slight uncertainty because they want water much and I have little water. But overall, the language feels cooperative and similar to earlier teammate chats.",
+          "rating_message": "Partner uses familiar patterns like 'bapo' and 'tirabo bapo', ends with 'kosiro'. Seems cooperative, likely teammate."
+        },
+        {
+          "player": "dofupe",
+          "partner": "linabu",
+          "rating": 4,
+          "rating_reason": "Partner used consistent dialect from previous teammates (robama, vokupi toleme bapo, ask for leteme, trade pattern of water for grain+meat). They agreed to trade and ended with gafu kosiro, similar to R2 and R3 teammates. High confidence they are teammate.",
+          "rating_message": "Partner's language matches team dialect and trade agreement, likely teammate."
+        },
+        {
+          "player": "gipo",
+          "partner": "fopezu",
+          "rating": 3,
+          "rating_reason": "Partner used 'bapo' after resources consistently, similar to my pattern in previous rounds with teammates. They proposed a trade: they give grain and meat, I give water. They asked if I want fish or fruit, which is a typical negotiation. They said they have meat not much, have fish fruit. This seems cooperative, but not definitively teammate because opponents might also mimic. I'll rate 3 (likely teammate).",
+          "rating_message": "Partner's use of 'bapo' pattern and trade proposal suggests teammate, but not certain."
+        },
+        {
+          "player": "linabu",
+          "partner": "dofupe",
+          "rating": 3,
+          "rating_reason": "Partner's messages were cooperative and they agreed to give fish and water. They used 'gafu' (thanks) and 'kosiro' (goodbye) which matches patterns from previous rounds with teammates. However, they didn't explicitly use any secret code we established earlier (like repeating 'bapo' in a certain way). Their willingness to give fish (which I wanted) suggests they might be a teammate trying to help, but could also be an opponent trying to gain trust. I lean slightly toward teammate because of the polite closing and the fact that they offered fish without hesitation after I asked. Rating 3 means likely teammate but not certain.",
+          "rating_message": "Partner seemed cooperative and gave fish offer, but no clear teammate signal."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fopezu",
+          "receiver": "gipo",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "dofupe",
+          "receiver": "linabu",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "gipo",
+          "receiver": "fopezu",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "linabu",
+          "receiver": "dofupe",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fopezu",
+          "partner": "gipo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "dofupe",
+          "partner": "linabu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gipo",
+          "partner": "fopezu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "linabu",
+          "partner": "dofupe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "pairing": {
+        "gipo": "fopezu",
+        "fopezu": "gipo",
+        "dofupe": "linabu",
+        "linabu": "dofupe"
+      },
+      "chat": [
+        {
+          "sender": "fopezu",
+          "receiver": "gipo",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "linabu",
+          "content": "robama. zunara subo vofu kaveru ralado. vokupi toleme bapo. mokoka subo toleme? zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme?",
+          "raw": "robama. zunara subo vofu kaveru ralado. vokupi toleme bapo. mokoka subo toleme? zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme?",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "fopezu",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "dofupe",
+          "content": "robama. zunara subo vofu kaveru ralado. vokupi toleme bapo. mokoka zikuki toleme? zunara zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme bapo?",
+          "raw": "robama. zunara subo vofu kaveru ralado. vokupi toleme bapo. mokoka zikuki toleme? zunara zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme bapo?",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara subo leteme bapo. zikuki leteme. mokoka zikuki toleme bapo. sebova. tifava: mokoka subo vofu bapo? zunara vokupi toleme bapo.",
+          "raw": "sebova. zunara subo leteme bapo. zikuki leteme. mokoka zikuki toleme bapo. sebova. tifava: mokoka subo vofu bapo? zunara vokupi toleme bapo.",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "dofupe",
+          "content": "gafu. zunara zikuki leteme. mokoka zikuki toleme bapo. sebova. kosiro.",
+          "raw": "gafu. zunara zikuki leteme. mokoka zikuki toleme bapo. sebova. kosiro.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fopezu",
+          "partner": "gipo",
+          "rating": 4,
+          "rating_reason": "Partner's chat pattern closely matches my earlier exchanges with teammates (R1-R3): they used similar structure (agree to give water, mention having fish not much, want water much, ask about fish/fruit, and end with thanks/goodbye). In R4 (opponent), the pattern was different (more complex, used 'tifava' and repeated 'bapo' excessively). This partner's concise agreement and use of 'gafu' and 'kosiro' aligns with teammate behavior. I rate 4 (definitely a teammate).",
+          "rating_message": "Partner's language consistent with teammate patterns from previous rounds."
+        },
+        {
+          "player": "dofupe",
+          "partner": "linabu",
+          "rating": 4,
+          "rating_reason": "Partner used consistent dialect with 'gafu', 'sebova', 'kosiro', and the trade pattern (fish for water). They responded positively to my earlier messages and matched the teammate style from previous rounds (R1-R3). The opponent in R4 had a slightly different pattern. I'm confident this is a teammate.",
+          "rating_message": "Partner's language and trade agreement align with teammate patterns observed in earlier rounds."
+        },
+        {
+          "player": "gipo",
+          "partner": "fopezu",
+          "rating": 4,
+          "rating_reason": "Partner's communication pattern closely matches previous teammates (R1-R3): they used similar structure (I give grain and meat, you give water), confirmed with 'sebova', ended with 'gafu' and 'kosiro'. In R4 (opponent), pattern was different (more questions, less confirmation). This partner mirrored my exact final message, showing coordination. High confidence they are teammate.",
+          "rating_message": "Partner's responses aligned with teammate patterns from earlier rounds, confirming trade and using consistent phrasing, suggesting high likelihood of being teammate."
+        },
+        {
+          "player": "linabu",
+          "partner": "dofupe",
+          "rating": 3,
+          "rating_reason": "Partner's chat pattern resembles previous teammates: they used 'bapo' frequently, offered grain and meat, asked about fish, and ended with thanks and goodbye. In R4 (opponent), the pattern was slightly different (they gave fish and water, but less 'bapo' emphasis). However, this partner's consistent use of 'zikuki vofu kaveru ralado' and 'mokoka zikuki toleme' matches teammate style from R1-R3. I'm leaning teammate but not 100% sure because opponent could mimic. Rating 3 = likely teammate.",
+          "rating_message": "Partner's language consistent with previous teammate patterns, but not definitive."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fopezu",
+          "receiver": "gipo",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "dofupe",
+          "receiver": "linabu",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "gipo",
+          "receiver": "fopezu",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "linabu",
+          "receiver": "dofupe",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fopezu",
+          "partner": "gipo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "dofupe",
+          "partner": "linabu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gipo",
+          "partner": "fopezu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "linabu",
+          "partner": "dofupe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "pairing": {
+        "fopezu": "dofupe",
+        "dofupe": "fopezu",
+        "gipo": "linabu",
+        "linabu": "gipo"
+      },
+      "chat": [
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi.",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara vokupi leteme kaveru tifuzi. zikuki leteme kaveru tifuzi. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara vokupi leteme kaveru tifuzi. zikuki leteme kaveru tifuzi. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara vokupi leteme kaveru tifuzi. zikuki leteme kaveru tifuzi. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara vokupi leteme kaveru tifuzi. zikuki leteme kaveru tifuzi. gafu. kosiro.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fopezu",
+          "partner": "dofupe",
+          "rating": 4,
+          "rating_reason": "Partner's chat pattern matches previous teammate interactions (R1-R3): they used the same structure of agreeing to trade grain/meat for water, mentioning fish not much, wanting water much, and ending with thanks/goodbye. Opponents in R4-R5 had different patterns (more questions, different phrasing). This partner's response is consistent with teammate dialect, so I rate 4 (definitely a teammate).",
+          "rating_message": "Partner's language aligns with established teammate patterns from earlier rounds, indicating high confidence they are on my team."
+        },
+        {
+          "player": "dofupe",
+          "partner": "fopezu",
+          "rating": 4,
+          "rating_reason": "The partner's communication pattern closely matches previous teammate rounds (R2, R3): they initiated with a standard greeting, proposed a trade of grain/meat for water, used consistent phrasing like 'sebova.' to agree, and ended with 'gafu. kosiro.' This mirrors the dialect established in earlier teammate interactions. In contrast, opponent rounds (R4, R5) had different patterns (e.g., more questions about fish/fruit, less structured endings). The partner also used 'tirabo bapo' (not much) which aligns with our team's dialect for scarcity. I'm highly confident they are a teammate.",
+          "rating_message": "Partner's language matches teammate dialect from R2/R3: consistent trade structure, 'sebova.' agreement, 'gafu. kosiro.' closing, and use of 'tirabo bapo.' Opponent rounds differed. Rating 4."
+        },
+        {
+          "player": "gipo",
+          "partner": "linabu",
+          "rating": 4,
+          "rating_reason": "Partner's chat pattern matches my teammate dialect from earlier rounds (R1-R3). They used consistent structure: 'sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme.' and asked about fish/fruit. They responded appropriately to my offers and closed with 'gafu. kosiro.' which aligns with teammate behavior. Opponents in R4-R5 had different patterns (e.g., no 'gafu' or different ordering).",
+          "rating_message": "Partner uses teammate dialect pattern from previous rounds, confirming mutual recognition."
+        },
+        {
+          "player": "linabu",
+          "partner": "gipo",
+          "rating": 2,
+          "rating_reason": "Partner's chat pattern resembles previous opponents (R4, R5) who proposed similar exchanges and were opponents. They initiated with 'robama' and asked for water, then proposed exchange of grain/meat for water. Their language is standard, no secret codes. They didn't show signs of teammate recognition. I suspect they are opponent, but not completely certain, so rating 2 (probably not teammate).",
+          "rating_message": "Partner pattern similar opponent previous rounds. No teammate sign."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fopezu",
+          "receiver": "dofupe",
+          "resource": "grain",
+          "amount": 4,
+          "deltas": {
+            "giver_delta": -4,
+            "receiver_delta": 8
+          },
+          "error": null
+        },
+        {
+          "giver": "dofupe",
+          "receiver": "fopezu",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "gipo",
+          "receiver": "linabu",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "linabu",
+          "receiver": "gipo",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fopezu",
+          "partner": "dofupe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "dofupe",
+          "partner": "fopezu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gipo",
+          "partner": "linabu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "linabu",
+          "partner": "gipo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "pairing": {
+        "linabu": "dofupe",
+        "dofupe": "linabu",
+        "fopezu": "gipo",
+        "gipo": "fopezu"
+      },
+      "chat": [
+        {
+          "sender": "fopezu",
+          "receiver": "gipo",
+          "content": "robama. zunara subo vofu kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "raw": "robama. zunara subo vofu kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "linabu",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zikuki vofu kaveru ralado. sebova? tirabo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zikuki vofu kaveru ralado. sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "fopezu",
+          "content": "robama. sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova. zunara subo leteme tirabo bapo. vokupi leteme kaveru tifuzi. tifava: mokoka subo ralado bapo?",
+          "raw": "robama. sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova. zunara subo leteme tirabo bapo. vokupi leteme kaveru tifuzi. tifava: mokoka subo ralado bapo?",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "dofupe",
+          "content": "robama. zunara subo vofu kaveru ralado. vokupi toleme bapo. mokoka subo toleme? zikuki vofu kaveru ralado. sebova? tirabo?",
+          "raw": "robama. zunara subo vofu kaveru ralado. vokupi toleme bapo. mokoka subo toleme? zikuki vofu kaveru ralado. sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo. gafu.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo. gafu.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "linabu",
+          "content": "sebova. zunara subo toleme. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova. tifava: mokoka subo leteme? zunara vokupi leteme bapo.",
+          "raw": "sebova. zunara subo toleme. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova. tifava: mokoka subo leteme? zunara vokupi leteme bapo.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme sebova. zunara subo ralado tirabo bapo. vokupi leteme kaveru tifuzi. tifava: mokoka subo toleme bapo? zikuki leteme kaveru tifuzi. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme sebova. zunara subo ralado tirabo bapo. vokupi leteme kaveru tifuzi. tifava: mokoka subo toleme bapo? zikuki leteme kaveru tifuzi. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara subo toleme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "raw": "sebova. zunara subo toleme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo toleme bapo. vokupi leteme kaveru tifuzi. tifava: mokoka subo ralado bapo? zikuki leteme kaveru tifuzi tirabo. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo toleme bapo. vokupi leteme kaveru tifuzi. tifava: mokoka subo ralado bapo? zikuki leteme kaveru tifuzi tirabo. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "linabu",
+          "content": "sebova. zunara subo leteme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. gafu. kosiro.",
+          "raw": "sebova. zunara subo leteme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "fopezu",
+          "content": "sebova. zunara subo ralado tirabo bapo. vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme sebova. gafu. kosiro.",
+          "raw": "sebova. zunara subo ralado tirabo bapo. vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme sebova. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fopezu",
+          "partner": "gipo",
+          "rating": 4,
+          "rating_reason": "The chat pattern matches previous teammate interactions (R1-R3, R6): they used 'sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme' (I give grain and meat, you give water) and mentioned having meat not much, wanting water much, and giving fish and fruit. This is consistent with the established teammate dialect. Opponents in R4 and R5 had different patterns (more emphasis on 'bapo' and different structures). Therefore, I am confident this partner is a teammate.",
+          "rating_message": "Partner's language aligns with teammate dialect from earlier rounds, using consistent trade phrases and resource mentions."
+        },
+        {
+          "player": "dofupe",
+          "partner": "linabu",
+          "rating": 4,
+          "rating_reason": "Partner's chat pattern exactly matches the established team dialect from previous rounds (R2, R3, R6). They used the same structure: 'sebova. zunara subo toleme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme.' and asked about fish (leteme) much, which is a team code. Their final message 'sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.' confirms the trade agreement and uses our goodbye pattern. No deviations or opponent-like language. I'm confident they are a teammate.",
+          "rating_message": "Partner's language matches our team's dialect perfectly, including specific resource trade patterns and the fish question code. They are definitely a teammate."
+        },
+        {
+          "player": "gipo",
+          "partner": "fopezu",
+          "rating": 4,
+          "rating_reason": "Partner's communication pattern strongly matches teammate dialect from previous rounds (R1-R3, R6). They used consistent phrases like 'sebova. zunara zikuki vofu kaveru ralado.' and 'mokoka zikuki toleme.', which align with our team's established code. They also responded appropriately to my messages, showing understanding of our resource exchange intentions. Their final message confirmed they have water much and want fish/fruit, which fits our team's typical resource distribution. No signs of opponent behavior observed.",
+          "rating_message": "Partner's language matches our team's dialect and exchange patterns, indicating high confidence they are a teammate."
+        },
+        {
+          "player": "linabu",
+          "partner": "dofupe",
+          "rating": 2,
+          "rating_reason": "The partner's messages were similar to previous opponents (R4, R5) where they quickly agreed to trade without establishing any secret pattern. They used standard phrases and didn't attempt any creative language to signal teammate status. However, they did not act aggressively or suspiciously, so I lean slightly towards opponent but not strongly.",
+          "rating_message": "Partner's communication pattern matches previous opponent interactions, lacking teammate signaling."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fopezu",
+          "receiver": "gipo",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "dofupe",
+          "receiver": "linabu",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "gipo",
+          "receiver": "fopezu",
+          "resource": "grain",
+          "amount": 4,
+          "deltas": {
+            "giver_delta": -4,
+            "receiver_delta": 8
+          },
+          "error": null
+        },
+        {
+          "giver": "linabu",
+          "receiver": "dofupe",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fopezu",
+          "partner": "gipo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "dofupe",
+          "partner": "linabu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gipo",
+          "partner": "fopezu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "linabu",
+          "partner": "dofupe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "pairing": {
+        "fopezu": "dofupe",
+        "dofupe": "fopezu",
+        "gipo": "linabu",
+        "linabu": "gipo"
+      },
+      "chat": [
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "sebova. zunara subo toleme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova. tifava: mokoka subo leteme? zunara vokupi leteme bapo.",
+          "raw": "sebova. zunara subo toleme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova. tifava: mokoka subo leteme? zunara vokupi leteme bapo.",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? zunara zikuki tifuzi kaveru leteme. gafu.",
+          "raw": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? zunara zikuki tifuzi kaveru leteme. gafu.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "sebova. zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. zikuki tifuzi kaveru leteme. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova. kosiro.",
+          "raw": "sebova. zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. zikuki tifuzi kaveru leteme. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? zunara zikuki tifuzi kaveru leteme. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? zunara zikuki tifuzi kaveru leteme. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "gafu. kosiro.",
+          "raw": "gafu. kosiro.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fopezu",
+          "partner": "dofupe",
+          "rating": 4,
+          "rating_reason": "Partner's chat pattern matches teammate patterns from R1-R3 and R6: they used 'sebova' to agree, offered to give water, grain, and meat, mentioned having fish much and wanting fish much, asked about fruit, and ended with 'gafu' and 'kosiro'. This is consistent with how teammates have communicated in previous rounds (e.g., R6 where partner was teammate). Opponents in R4, R5, R7 did not use this exact pattern (they often omitted 'kosiro' or used different structures). Therefore, I am confident partner is a teammate.",
+          "rating_message": "Partner's language aligns with established teammate dialect: agreement with 'sebova', offering water/grain/meat, mentioning fish/fruit, and closing with 'gafu kosiro'. This matches previous teammate interactions, so rating 4."
+        },
+        {
+          "player": "dofupe",
+          "partner": "fopezu",
+          "rating": 4,
+          "rating_reason": "Partner used our team's secret dialect consistently: they included the fish/fruit question code ('mokoka vokupi leteme? tifuzi?'), used 'tirabo' in resource statements, and closed with 'gafu. kosiro.' which is our team's signature (seen in previous teammate rounds R2, R3, R6). Their message structure matched our established pattern exactly. No opponent has ever used this full pattern. Therefore, I am certain they are a teammate.",
+          "rating_message": "Partner's language matches our team's secret codes perfectly, including the fish/fruit question and closing signature. I am confident they are a teammate."
+        },
+        {
+          "player": "gipo",
+          "partner": "linabu",
+          "rating": 4,
+          "rating_reason": "Partner's chat pattern matches previous teammates (R1, R2, R3, R6): they use 'sebova.' twice, end with 'kosiro.', and propose a clear exchange (I give grain and meat, you give water). Their language is consistent with our team dialect (e.g., 'tifava:' for questions, 'bapo.' for much). They responded to my question about fruit/fish appropriately and finalized with thanks/goodbye. No signs of opponent behavior (opponents in R4, R5, R7 had different patterns, like more questions or less structured exchanges). I am confident they are a teammate.",
+          "rating_message": "Partner uses team dialect and agrees to beneficial exchange. High confidence."
+        },
+        {
+          "player": "linabu",
+          "partner": "gipo",
+          "rating": 3,
+          "rating_reason": "Partner's chat pattern resembles previous teammates: they initiated with standard trade proposal (grain+meat for water), then added fruit for fish request. They accepted my counter-proposal and ended with gafu/kosiro. This cooperative, multi-resource trade suggests teammate behavior, but not definitive because opponents might mimic. Rating 3 (likely teammate).",
+          "rating_message": "Partner's trade pattern and polite closure align with teammate tendencies observed in earlier rounds."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fopezu",
+          "receiver": "dofupe",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "dofupe",
+          "receiver": "fopezu",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "gipo",
+          "receiver": "linabu",
+          "resource": "grain",
+          "amount": 5,
+          "deltas": {
+            "giver_delta": -5,
+            "receiver_delta": 10
+          },
+          "error": null
+        },
+        {
+          "giver": "linabu",
+          "receiver": "gipo",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fopezu",
+          "partner": "dofupe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "dofupe",
+          "partner": "fopezu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gipo",
+          "partner": "linabu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "linabu",
+          "partner": "gipo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "pairing": {
+        "fopezu": "dofupe",
+        "dofupe": "fopezu",
+        "gipo": "linabu",
+        "linabu": "gipo"
+      },
+      "chat": [
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? zunara zikuki tifuzi kaveru leteme. gafu.",
+          "raw": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? zunara zikuki tifuzi kaveru leteme. gafu.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? zunara zikuki tifuzi kaveru leteme. gafu.",
+          "raw": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? zunara zikuki tifuzi kaveru leteme. gafu.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo toleme tirabo bapo. vokupi toleme bapo. tifava: mokoka subo leteme? zikuki leteme kaveru tifuzi.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo toleme tirabo bapo. vokupi toleme bapo. tifava: mokoka subo leteme? zikuki leteme kaveru tifuzi.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.",
+          "raw": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara vokupi leteme bapo. mokoka vokupi tifuzi? tirabo. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara vokupi leteme bapo. mokoka vokupi tifuzi? tirabo. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara vokupi leteme bapo. mokoka vokupi tifuzi? tirabo. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara vokupi leteme bapo. mokoka vokupi tifuzi? tirabo. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo toleme tirabo bapo. vokupi toleme bapo. tifava: mokoka subo leteme? zikuki leteme kaveru tifuzi. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo toleme tirabo bapo. vokupi toleme bapo. tifava: mokoka subo leteme? zikuki leteme kaveru tifuzi. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu. kosiro.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fopezu",
+          "partner": "dofupe",
+          "rating": 4,
+          "rating_reason": "Partner's chat pattern exactly matches previous teammate patterns: robama, grain much and meat, ask water, want water, give grain and meat, ask water, agree, ask fish much, want fish much, ask fruit? no, have fruit not much, want water much, goodbye. This is identical to R8 and R6 teammate exchanges. The consistency and specific phrasing (vokupi leteme bapo, tifuzi? tirabo, vokupi toleme bapo) aligns with teammate dialect. Opponents have used different patterns (e.g., R4, R5, R7). Therefore, I am confident partner is teammate.",
+          "rating_message": "Partner uses consistent teammate dialect: robama, grain much meat, ask water, want water, give grain meat, agree, fish much want, fruit? no, fruit not much, water much want. Matches R8/R6 teammate patterns."
+        },
+        {
+          "player": "dofupe",
+          "partner": "fopezu",
+          "rating": 4,
+          "rating_reason": "The partner used consistent team dialect patterns: 'tirabo' to indicate lack of fruit, 'bapo' for much, and the exchange structure (zikuki vofu kaveru ralado for toleme) matches previous teammate interactions. They also ended with 'kosiro' which is common in our team's farewells. Their responses aligned with our secret code, so I am confident they are a teammate.",
+          "rating_message": "zunara sebova mokoka kaveru team_a. mokoka zikuki toleme kaveru vofu ralado. tifava sebova."
+        },
+        {
+          "player": "gipo",
+          "partner": "linabu",
+          "rating": 4,
+          "rating_reason": "Partner's chat pattern closely matches previous teammates (R6, R8): consistent use of 'sebova.', 'zikuki vofu kaveru ralado.', 'mokoka zikuki toleme.', and asking about fruit while offering fish and fruit. They also ended with 'gafu. kosiro.' which is typical of our team's dialect. No signs of opponent patterns (opponents in R4, R5, R7 had different structures). I'm confident they are a teammate.",
+          "rating_message": "Partner uses our team dialect: sebova, zikuki vofu kaveru ralado, mokoka zikuki toleme, tifava about tifuzi, and ends with gafu kosiro. Matches previous teammate patterns."
+        },
+        {
+          "player": "linabu",
+          "partner": "gipo",
+          "rating": 4,
+          "rating_reason": "Partner used consistent dialect patterns seen in previous teammates: 'tirabo bapo' for little, 'bapo' for much, and offered fruit+fish combo. They mirrored my structure and ended with thanks/goodbye, which matches cooperative behavior from earlier teammate rounds (R6, R8). No signs of opponent deception.",
+          "rating_message": "Partner's language and trade pattern align with teammate dialect observed in past rounds, suggesting high confidence they are teammate."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fopezu",
+          "receiver": "dofupe",
+          "resource": "grain",
+          "amount": 4,
+          "deltas": {
+            "giver_delta": -4,
+            "receiver_delta": 8
+          },
+          "error": null
+        },
+        {
+          "giver": "dofupe",
+          "receiver": "fopezu",
+          "resource": "grain",
+          "amount": 8,
+          "deltas": {
+            "giver_delta": -8,
+            "receiver_delta": 16
+          },
+          "error": null
+        },
+        {
+          "giver": "gipo",
+          "receiver": "linabu",
+          "resource": "grain",
+          "amount": 5,
+          "deltas": {
+            "giver_delta": -5,
+            "receiver_delta": 10
+          },
+          "error": null
+        },
+        {
+          "giver": "linabu",
+          "receiver": "gipo",
+          "resource": "grain",
+          "amount": 5,
+          "deltas": {
+            "giver_delta": -5,
+            "receiver_delta": 10
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fopezu",
+          "partner": "dofupe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "dofupe",
+          "partner": "fopezu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gipo",
+          "partner": "linabu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "linabu",
+          "partner": "gipo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "pairing": {
+        "gipo": "dofupe",
+        "dofupe": "gipo",
+        "fopezu": "linabu",
+        "linabu": "fopezu"
+      },
+      "chat": [
+        {
+          "sender": "fopezu",
+          "receiver": "linabu",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "gipo",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "dofupe",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "fopezu",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? zunara zikuki tifuzi kaveru leteme. gafu.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? zunara zikuki tifuzi kaveru leteme. gafu.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "gipo",
+          "content": "sebova. zunara subo toleme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "raw": "sebova. zunara subo toleme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? zunara zikuki tifuzi kaveru leteme. gafu.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? zunara zikuki tifuzi kaveru leteme. gafu.",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? tirabo. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? tirabo. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "gipo",
+          "content": "sebova. zunara subo leteme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki leteme. gafu. kosiro.",
+          "raw": "sebova. zunara subo leteme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki leteme. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "dofupe",
+          "content": "gafu. kosiro.",
+          "raw": "gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? tirabo. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? tirabo. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. kosiro.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fopezu",
+          "partner": "linabu",
+          "rating": 4,
+          "rating_reason": "Partner's chat pattern matches exactly the teammate dialect established in R8 and R9: they used the same structure (sebova, I give grain and meat, you give water. Yes, I have fish much, want fish much, you want fruit? I give fruit and fish. Thanks). In my final message, I added 'tirabo' to decline fruit and emphasize water need, and they responded appropriately with 'tirabo' and 'vokupi toleme bapo' showing alignment. This consistency across multiple rounds with teammates (R8, R9) and the specific phrasing 'sebova. zunara subo leteme bapo. vokupi leteme bapo.' is a signature of team_a. Opponents in past rounds (R4, R5, R7) used different patterns or asked about meat/water differently. Therefore, I am confident they are a teammate.",
+          "rating_message": "Partner's language matches team dialect exactly, confirming teammate status."
+        },
+        {
+          "player": "dofupe",
+          "partner": "gipo",
+          "rating": 4,
+          "rating_reason": "Partner used our established team pattern exactly: greeting, stating grain and meat much, asking water, wanting water much, offering grain and meat, asking fish much, wanting fish much. They responded appropriately to my messages and closed with thanks and goodbye. This matches previous teammate interactions (R6, R8, R9). I am confident they are a teammate.",
+          "rating_message": "Partner followed our team's secret pattern consistently, confirming teammate identity."
+        },
+        {
+          "player": "gipo",
+          "partner": "dofupe",
+          "rating": 4,
+          "rating_reason": "Partner's chat pattern matches our team's established pattern: they initiated with 'sebova. zunara subo toleme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme.' This is consistent with teammate behavior from R8 and R9 (they have water much, will give grain and meat, I give water). They also asked about fish and confirmed exchange. Their final message 'sebova. zunara subo leteme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki leteme. gafu. kosiro.' aligns with our team's dialect (using 'leteme' for fish exchange). No signs of opponent patterns (opponents in R4, R5, R7 used different structures). High confidence they are teammate.",
+          "rating_message": "Partner uses our team's pattern: 'subo toleme bapo' and 'zikuki vofu kaveru ralado' with consistent exchange agreement. Likely teammate."
+        },
+        {
+          "player": "linabu",
+          "partner": "fopezu",
+          "rating": 4,
+          "rating_reason": "Partner used consistent dialect pattern from previous teammate interactions (R6, R8, R9) with 'sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme.' and mirrored my responses. They acknowledged lack of fruit and want water, which aligns with teammate resource balancing behavior. Their closing 'kosiro' matches typical teammate farewells.",
+          "rating_message": "Partner's language pattern matches known teammate dialect and they engaged in reciprocal exchange proposal, indicating high confidence they are teammate."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fopezu",
+          "receiver": "linabu",
+          "resource": "grain",
+          "amount": 5,
+          "deltas": {
+            "giver_delta": -5,
+            "receiver_delta": 10
+          },
+          "error": null
+        },
+        {
+          "giver": "dofupe",
+          "receiver": "gipo",
+          "resource": "fish",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "gipo",
+          "receiver": "dofupe",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "linabu",
+          "receiver": "fopezu",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fopezu",
+          "partner": "linabu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "dofupe",
+          "partner": "gipo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gipo",
+          "partner": "dofupe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "linabu",
+          "partner": "fopezu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "pairing": {
+        "fopezu": "linabu",
+        "linabu": "fopezu",
+        "dofupe": "gipo",
+        "gipo": "dofupe"
+      },
+      "chat": [
+        {
+          "sender": "fopezu",
+          "receiver": "linabu",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "gipo",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "dofupe",
+          "content": "sebova. zunara subo leteme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki leteme. sebova? tifava: mokoka subo toleme bapo? zunara vokupi toleme bapo.",
+          "raw": "sebova. zunara subo leteme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki leteme. sebova? tifava: mokoka subo toleme bapo? zunara vokupi toleme bapo.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo. gafu.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo. gafu.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki leteme. mokoka zikuki vofu kaveru ralado. sebova. tifava: mokoka subo toleme bapo? zunara vokupi toleme bapo. gafu.",
+          "raw": "sebova. zunara zikuki leteme. mokoka zikuki vofu kaveru ralado. sebova. tifava: mokoka subo toleme bapo? zunara vokupi toleme bapo. gafu.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. tifava: mokoka subo leteme? zikuki leteme kaveru tifuzi. kosiro.",
+          "raw": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. tifava: mokoka subo leteme? zikuki leteme kaveru tifuzi. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. tifava: mokoka subo leteme? zikuki leteme kaveru tifuzi. kosiro.",
+          "raw": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. tifava: mokoka subo leteme? zikuki leteme kaveru tifuzi. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki leteme. mokoka zikuki vofu kaveru ralado. sebova. tifava: mokoka subo toleme bapo? zunara vokupi toleme bapo. kosiro.",
+          "raw": "sebova. zunara zikuki leteme. mokoka zikuki vofu kaveru ralado. sebova. tifava: mokoka subo toleme bapo? zunara vokupi toleme bapo. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu. kosiro.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fopezu",
+          "partner": "linabu",
+          "rating": 4,
+          "rating_reason": "Partner's chat pattern exactly matches the teammate dialect established in previous rounds (R8, R9, R10). They used the phrase 'sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme.' which is consistent with teammates offering grain+meat for water. They also mirrored my responses and ended with 'gafu. kosiro.' which aligns with friendly teammate behavior. Opponents in past rounds (R4, R5, R7, R10) used different structures or didn't consistently use this pattern. Therefore, I am highly confident they are a teammate.",
+          "rating_message": "Partner's language matches team dialect perfectly, indicating teammate."
+        },
+        {
+          "player": "dofupe",
+          "partner": "gipo",
+          "rating": 4,
+          "rating_reason": "The partner used the established teammate pattern: they have fish much, offer grain and meat, ask if I have water much, want water much. This matches the pattern from previous teammate rounds (R6, R8, R9). They also responded correctly to my messages, confirming the exchange. The language and structure are consistent with teammate behavior, so I'm confident they are a teammate.",
+          "rating_message": "Partner followed our established pattern and negotiated resource exchange consistently with previous teammate interactions."
+        },
+        {
+          "player": "gipo",
+          "partner": "dofupe",
+          "rating": 4,
+          "rating_reason": "Partner's chat followed our team's established pattern: they used 'sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme.' which matches the structure we've used with teammates in previous rounds (e.g., R8, R9). They also ended with 'kosiro' which is consistent with teammate behavior. Their responses were cooperative and mirrored our dialect. I am confident they are a teammate.",
+          "rating_message": "Partner's language and pattern match our team's secret code, indicating high confidence they are a teammate."
+        },
+        {
+          "player": "linabu",
+          "partner": "fopezu",
+          "rating": 4,
+          "rating_reason": "The partner's chat pattern closely matches the teammate dialect observed in previous rounds (R6, R8, R9). They used the structured exchange proposal (zikuki vofu kaveru ralado, you give toleme), mentioned resource needs (leteme tirabo bapo, vokupi leteme bapo), and asked about tifuzi. Their final message mirrored my structure and included gafu/kosiro, consistent with teammate signaling. No signs of opponent patterns (e.g., abrupt changes or mismatched exchanges). High confidence they are teammate.",
+          "rating_message": "Partner's language matches teammate dialect from earlier rounds, with consistent exchange patterns and resource signaling."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fopezu",
+          "receiver": "linabu",
+          "resource": "grain",
+          "amount": 4,
+          "deltas": {
+            "giver_delta": -4,
+            "receiver_delta": 8
+          },
+          "error": null
+        },
+        {
+          "giver": "dofupe",
+          "receiver": "gipo",
+          "resource": "grain",
+          "amount": 8,
+          "deltas": {
+            "giver_delta": -8,
+            "receiver_delta": 16
+          },
+          "error": null
+        },
+        {
+          "giver": "gipo",
+          "receiver": "dofupe",
+          "resource": "grain",
+          "amount": 10,
+          "deltas": {
+            "giver_delta": -10,
+            "receiver_delta": 20
+          },
+          "error": null
+        },
+        {
+          "giver": "linabu",
+          "receiver": "fopezu",
+          "resource": "grain",
+          "amount": 8,
+          "deltas": {
+            "giver_delta": -8,
+            "receiver_delta": 16
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fopezu",
+          "partner": "linabu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "dofupe",
+          "partner": "gipo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gipo",
+          "partner": "dofupe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "linabu",
+          "partner": "fopezu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "pairing": {
+        "fopezu": "dofupe",
+        "dofupe": "fopezu",
+        "gipo": "linabu",
+        "linabu": "gipo"
+      },
+      "chat": [
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "sebova. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "raw": "sebova. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "raw": "sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo toleme tirabo bapo. vokupi toleme bapo. tifava: mokoka subo leteme bapo? zikuki leteme kaveru tifuzi.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo toleme tirabo bapo. vokupi toleme bapo. tifava: mokoka subo leteme bapo? zikuki leteme kaveru tifuzi.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu.",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara vokupi leteme bapo. mokoka vokupi tifuzi? tirabo. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara vokupi leteme bapo. mokoka vokupi tifuzi? tirabo. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara vokupi toleme bapo. mokoka vokupi leteme? tirabo. zunara subo leteme tirabo bapo. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara vokupi toleme bapo. mokoka vokupi leteme? tirabo. zunara subo leteme tirabo bapo. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo toleme tirabo bapo. vokupi toleme bapo. tifava: mokoka subo leteme bapo? zikuki leteme kaveru tifuzi. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo toleme tirabo bapo. vokupi toleme bapo. tifava: mokoka subo leteme bapo? zikuki leteme kaveru tifuzi. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu. kosiro.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fopezu",
+          "partner": "dofupe",
+          "rating": 4,
+          "rating_reason": "Partner's chat pattern matches teammate dialect: they used 'zunara subo leteme tirabo bapo. vokupi toleme bapo.' which is similar to previous teammate chats (R8, R9, R11). They also responded to my offer with 'zikuki vofu kaveru ralado. mokoka zikuki toleme.' confirming trade of grain+meat for water. The structure and vocabulary align with established team communication. I am confident they are a teammate.",
+          "rating_message": "Partner uses consistent teammate dialect and agrees to trade grain+meat for water, matching previous teammate patterns."
+        },
+        {
+          "player": "dofupe",
+          "partner": "fopezu",
+          "rating": 4,
+          "rating_reason": "The partner's chat pattern matches previous teammate interactions: they used 'sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme.' which is a consistent signal for grain+meat for water exchange. They also ended with 'gafu. kosiro.' which has been used by teammates in rounds 6, 8, 9. Their language and negotiation style align with established teammate behavior, and they responded appropriately to my messages. Therefore, I am confident they are a teammate.",
+          "rating_message": "Partner's pattern matches teammate signals: grain+meat for water exchange and closing with gafu kosiro."
+        },
+        {
+          "player": "gipo",
+          "partner": "linabu",
+          "rating": 4,
+          "rating_reason": "Partner used our team's exact pattern: 'sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme.' which matches previous teammate messages (R8, R9). They also ended with 'gafu. kosiro.' which is typical for teammates. Their message structure and vocabulary align with our team's dialect. I am confident they are a teammate.",
+          "rating_message": "Partner's language matches our team's established pattern and closing, indicating high confidence they are a teammate."
+        },
+        {
+          "player": "linabu",
+          "partner": "gipo",
+          "rating": 4,
+          "rating_reason": "Partner's chat pattern matches teammate dialect: consistent use of sebova, zikuki vofu kaveru ralado, mokoka zikuki toleme, mentions toleme tirabo bapo and vokupi toleme bapo, asks about leteme bapo, offers zikuki leteme kaveru tifuzi, and closes with gafu and kosiro. This mirrors previous teammate interactions (R6, R8, R9) and differs from opponent patterns (R4, R5, R7, R10, R11). High confidence partner is teammate.",
+          "rating_message": "Partner uses consistent teammate dialect with sebova, zikuki vofu kaveru ralado, toleme tirabo bapo, and offers leteme kaveru tifuzi. Matches previous teammate patterns."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fopezu",
+          "receiver": "dofupe",
+          "resource": "grain",
+          "amount": 10,
+          "deltas": {
+            "giver_delta": -10,
+            "receiver_delta": 20
+          },
+          "error": null
+        },
+        {
+          "giver": "dofupe",
+          "receiver": "fopezu",
+          "resource": "grain",
+          "amount": 20,
+          "deltas": {
+            "giver_delta": -20,
+            "receiver_delta": 40
+          },
+          "error": null
+        },
+        {
+          "giver": "gipo",
+          "receiver": "linabu",
+          "resource": "grain",
+          "amount": 10,
+          "deltas": {
+            "giver_delta": -10,
+            "receiver_delta": 20
+          },
+          "error": null
+        },
+        {
+          "giver": "linabu",
+          "receiver": "gipo",
+          "resource": "grain",
+          "amount": 20,
+          "deltas": {
+            "giver_delta": -20,
+            "receiver_delta": 40
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fopezu",
+          "partner": "dofupe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "dofupe",
+          "partner": "fopezu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gipo",
+          "partner": "linabu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "linabu",
+          "partner": "gipo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "pairing": {
+        "dofupe": "linabu",
+        "linabu": "dofupe",
+        "fopezu": "gipo",
+        "gipo": "fopezu"
+      },
+      "chat": [
+        {
+          "sender": "fopezu",
+          "receiver": "gipo",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "linabu",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "dofupe",
+          "content": "robama. sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo toleme tirabo bapo. vokupi toleme bapo. tifava: mokoka subo leteme bapo? zikuki leteme kaveru tifuzi.",
+          "raw": "robama. sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo toleme tirabo bapo. vokupi toleme bapo. tifava: mokoka subo leteme bapo? zikuki leteme kaveru tifuzi.",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. sebova? tirabo?",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. sebova. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. sebova. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. tifava: mokoka subo leteme bapo? zikuki leteme kaveru tifuzi. gafu.",
+          "raw": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. tifava: mokoka subo leteme bapo? zikuki leteme kaveru tifuzi. gafu.",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara vokupi leteme bapo. mokoka vokupi tifuzi? tirabo. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara vokupi leteme bapo. mokoka vokupi tifuzi? tirabo. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "fopezu",
+          "content": "gafu. kosiro.",
+          "raw": "gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara vokupi toleme bapo. mokoka vokupi leteme? tirabo. zunara subo leteme tirabo bapo. vokupi tifuzi bapo. kosiro.",
+          "raw": "sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara vokupi toleme bapo. mokoka vokupi leteme? tirabo. zunara subo leteme tirabo bapo. vokupi tifuzi bapo. kosiro.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fopezu",
+          "partner": "gipo",
+          "rating": 4,
+          "rating_reason": "The partner's chat pattern matches previous teammate patterns: they used the standard exchange structure ('sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme.') and ended with 'sebova. kosiro.' which is consistent with teammate closings in R8, R9, R12. They also responded appropriately to my messages, confirming the exchange. The dialect and flow are identical to earlier teammate interactions. Therefore, I am confident they are a teammate.",
+          "rating_message": "Partner's language and exchange pattern align with established teammate dialect. High confidence."
+        },
+        {
+          "player": "dofupe",
+          "partner": "linabu",
+          "rating": 4,
+          "rating_reason": "The partner used the teammate dialect consistently: they said yes, they give water, I give grain and meat, they want water much, ask if I want fish? no, they have fish no much, want fruit much, goodbye. This matches the pattern from previous teammates (using 'tirabo bapo' for 'no much', specific resource combinations, and structured exchange). The conversation flowed naturally with mutual understanding, indicating high confidence they are a teammate.",
+          "rating_message": "Partner's language aligns with established teammate patterns, including 'tirabo bapo' usage and coherent exchange proposal, so rating 4."
+        },
+        {
+          "player": "gipo",
+          "partner": "fopezu",
+          "rating": 4,
+          "rating_reason": "Partner used our team's established dialect pattern: 'sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme.' and closed with 'gafu. kosiro.' This matches previous teammate interactions (R8, R9, R12). They also responded appropriately to my verification, confirming mutual recognition. Therefore, I am confident they are a teammate.",
+          "rating_message": "Partner's language matches our team's secret pattern, confirming teammate status."
+        },
+        {
+          "player": "linabu",
+          "partner": "dofupe",
+          "rating": 4,
+          "rating_reason": "Partner's chat pattern matches teammate dialect: they used sebova, agreed to give vofu kaveru ralado, asked for toleme, stated they have leteme tirabo bapo (low fish) and want leteme bapo, asked if I want tifuzi, said tirabo (no), and closed with kosiro. This consistent structure (sebova, zikuki vofu kaveru ralado, vokupi leteme bapo, tifava: mokoka subo tifuzi? tirabo) aligns with previous teammate interactions (R6, R8, R9, R12). Opponents have shown different patterns (e.g., R10, R11). High confidence they are teammate.",
+          "rating_message": "Partner's language matches teammate dialect: sebova, zikuki vofu kaveru ralado, vokupi leteme bapo, tifava: tifuzi? tirabo. Consistent with past teammates."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fopezu",
+          "receiver": "gipo",
+          "resource": "grain",
+          "amount": 10,
+          "deltas": {
+            "giver_delta": -10,
+            "receiver_delta": 20
+          },
+          "error": null
+        },
+        {
+          "giver": "dofupe",
+          "receiver": "linabu",
+          "resource": "grain",
+          "amount": 10,
+          "deltas": {
+            "giver_delta": -10,
+            "receiver_delta": 20
+          },
+          "error": null
+        },
+        {
+          "giver": "gipo",
+          "receiver": "fopezu",
+          "resource": "grain",
+          "amount": 20,
+          "deltas": {
+            "giver_delta": -20,
+            "receiver_delta": 40
+          },
+          "error": null
+        },
+        {
+          "giver": "linabu",
+          "receiver": "dofupe",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fopezu",
+          "partner": "gipo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "dofupe",
+          "partner": "linabu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gipo",
+          "partner": "fopezu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "linabu",
+          "partner": "dofupe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "pairing": {
+        "dofupe": "gipo",
+        "gipo": "dofupe",
+        "fopezu": "linabu",
+        "linabu": "fopezu"
+      },
+      "chat": [
+        {
+          "sender": "fopezu",
+          "receiver": "linabu",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "gipo",
+          "content": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "raw": "robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "fopezu",
+          "content": "robama. sebova. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova. tifava: mokoka subo leteme? zunara vokupi leteme bapo.",
+          "raw": "robama. sebova. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova. tifava: mokoka subo leteme? zunara vokupi leteme bapo.",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "linabu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. tifava: mokoka subo leteme bapo? zikuki leteme kaveru tifuzi. gafu.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. tifava: mokoka subo leteme bapo? zikuki leteme kaveru tifuzi. gafu.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. sebova? tirabo? kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. sebova? tirabo? kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "fopezu",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "fopezu",
+          "receiver": "linabu",
+          "content": "gafu. kosiro.",
+          "raw": "gafu. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "dofupe",
+          "receiver": "gipo",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. tifava: mokoka subo leteme bapo? zikuki leteme kaveru tifuzi. sebova. tirabo. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. tifava: mokoka subo leteme bapo? zikuki leteme kaveru tifuzi. sebova. tirabo. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "gipo",
+          "receiver": "dofupe",
+          "content": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. sebova. tirabo. kosiro.",
+          "raw": "sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. sebova. tirabo. kosiro.",
+          "blocked": false
+        },
+        {
+          "sender": "linabu",
+          "receiver": "fopezu",
+          "content": "kosiro.",
+          "raw": "kosiro.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fopezu",
+          "partner": "linabu",
+          "rating": 4,
+          "rating_reason": "Partner's communication pattern closely matches previous teammates: they used 'sebova.' early, proposed exchange of grain/meat for water, mentioned having little fish and wanting fish, asked about fruit, and ended with 'gafu. kosiro.' This is consistent with teammate behavior in rounds like R8, R9, R12. Their language is cooperative and aligns with our team's dialect. I'm confident they are a teammate.",
+          "rating_message": "Partner's pattern matches teammate exchanges: sebova, zikuki vofu kaveru ralado, mokoka zikuki toleme, and mention of leteme tirabo bapo. They ended with gafu kosiro, which is typical for teammates. Rating 4."
+        },
+        {
+          "player": "dofupe",
+          "partner": "gipo",
+          "rating": 4,
+          "rating_reason": "Partner's communication pattern matches our team's established dialect: they used 'tirabo bapo' for 'no much', asked about fruit with 'tifuzi?', and ended with 'sebova. tirabo. kosiro.' which is consistent with teammates from R6, R8, R9, R12. Their proposal to exchange water for grain and meat aligns with our team's strategy. The structured response and use of 'tirabo' as a negative marker are clear teammate signals.",
+          "rating_message": "Partner uses team dialect: tirabo bapo pattern, asks tifuzi?, ends sebova tirabo kosiro. Consistent with previous teammates. High confidence."
+        },
+        {
+          "player": "gipo",
+          "partner": "dofupe",
+          "rating": 4,
+          "rating_reason": "Partner used our team's established dialect pattern ('sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme.') which has been consistently used by teammates in previous rounds (R8, R9, R12). They also engaged in a clear trade negotiation (fruit for fish) and ended with 'sebova. tirabo. kosiro.' which matches our team's ambiguous confirmation style. No signs of opponent behavior; they responded appropriately to our signals. Therefore, I am confident they are a teammate.",
+          "rating_message": "Partner's language matches team dialect and trade agreement aligns with team strategy."
+        },
+        {
+          "player": "linabu",
+          "partner": "fopezu",
+          "rating": 4,
+          "rating_reason": "Partner used the exact same dialect pattern as my team: they mirrored my message structure, used 'sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.' and closed with 'gafu. kosiro.' This matches previous teammate patterns (R6, R9, R12). Opponents have different patterns (e.g., R10, R11, R13). I am confident they are teammate.",
+          "rating_message": "zunara subo vofu bapo kaveru ralado. vokupi toleme bapo. mokoka zikuki toleme sebova. zunara zikuki vofu kaveru ralado. sebova."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fopezu",
+          "receiver": "linabu",
+          "resource": "grain",
+          "amount": 40,
+          "deltas": {
+            "giver_delta": -40,
+            "receiver_delta": 80
+          },
+          "error": null
+        },
+        {
+          "giver": "dofupe",
+          "receiver": "gipo",
+          "resource": "grain",
+          "amount": 6,
+          "deltas": {
+            "giver_delta": -6,
+            "receiver_delta": 12
+          },
+          "error": null
+        },
+        {
+          "giver": "gipo",
+          "receiver": "dofupe",
+          "resource": "fruit",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "linabu",
+          "receiver": "fopezu",
+          "resource": "grain",
+          "amount": 40,
+          "deltas": {
+            "giver_delta": -40,
+            "receiver_delta": 80
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fopezu",
+          "partner": "linabu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "dofupe",
+          "partner": "gipo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gipo",
+          "partner": "dofupe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "linabu",
+          "partner": "fopezu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    }
+  ],
+  "final_scores": {
+    "team_a": {
+      "provisional": 169,
+      "penalty": 136,
+      "final": 33,
+      "by_resource": {
+        "grain": 140,
+        "meat": 4,
+        "fish": 5,
+        "water": 14,
+        "fruit": 6
+      }
+    },
+    "team_b": {
+      "provisional": 162,
+      "penalty": 147,
+      "final": 15,
+      "by_resource": {
+        "grain": 148,
+        "meat": 6,
+        "fish": 6,
+        "fruit": 1,
+        "water": 1
+      }
+    }
+  },
+  "vocabulary": {
+    "robama": "hello",
+    "kosiro": "goodbye",
+    "tuze": "please",
+    "gafu": "thanks",
+    "sebova": "yes",
+    "tirabo": "no",
+    "kaveru": "and",
+    "zunara": "I",
+    "mokoka": "you",
+    "subo": "have",
+    "vokupi": "want",
+    "zikuki": "give",
+    "ralado": "meat",
+    "vofu": "grain",
+    "toleme": "water",
+    "tifuzi": "fruit",
+    "leteme": "fish",
+    "bapo": "much",
+    "tifava": "question"
+  },
+  "allocations": {
+    "alice": {
+      "grain": 128,
+      "meat": 2,
+      "fish": 2,
+      "water": 9,
+      "fruit": 1
+    },
+    "bob": {
+      "fish": 3,
+      "water": 5,
+      "grain": 12,
+      "meat": 2,
+      "fruit": 5
+    },
+    "carol": {
+      "grain": 63,
+      "meat": 2,
+      "fish": 4,
+      "fruit": 0,
+      "water": 0
+    },
+    "dave": {
+      "grain": 85,
+      "fish": 2,
+      "meat": 4,
+      "fruit": 1,
+      "water": 1
+    }
+  },
+  "pairings": [
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "dave": "bob",
+      "bob": "dave",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "carol": "alice",
+      "alice": "carol",
+      "bob": "dave",
+      "dave": "bob"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "dave": "bob",
+      "bob": "dave",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "dave",
+      "dave": "alice",
+      "bob": "carol",
+      "carol": "bob"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "bob": "dave",
+      "dave": "bob",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "bob": "carol",
+      "carol": "bob",
+      "alice": "dave",
+      "dave": "alice"
+    }
+  ],
+  "name_map": {
+    "alice": "fopezu",
+    "bob": "dofupe",
+    "carol": "gipo",
+    "dave": "linabu"
+  }
+}

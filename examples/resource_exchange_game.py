@@ -50,6 +50,10 @@ def main():
                        help="Sampling temperature")
     parser.add_argument("--max-tokens", type=int, default=1024,
                        help="Maximum tokens in response")
+    parser.add_argument("--invention-hint", type=str, default=None,
+                       help="Custom phrasing to soften encouragement for inventing tokens (overrides default)")
+    parser.add_argument("--soft-invention", action="store_true",
+                       help="Use a soft default invention hint (short phrasing)")
     
     # Game configuration
     parser.add_argument("--rounds", type=int, default=14,
@@ -113,12 +117,18 @@ def main():
         pass
     
     # Create game configuration
+    # Determine invention hint: explicit override, soft default, or None
+    invention_hint = args.invention_hint
+    if args.soft_invention and not invention_hint:
+        invention_hint = "Don't hesitate to make mistakes as long as it helps you win. Dialects in different groups are allowed."
+
     config = ResourceExchangeConfig(
         total_rounds=args.rounds,
         chat_timesteps=args.chat_timesteps,
         seed=args.seed,
         log_dir=args.log_dir,
         llm_backend=llm_config,
+        invention_hint=invention_hint,
     )
     
     print("=" * 70)

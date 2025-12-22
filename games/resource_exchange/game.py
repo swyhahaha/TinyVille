@@ -1,6 +1,6 @@
 import os
 import json
-from typing import Any, Dict, List, Tuple
+from typing import Any, Dict, List, Tuple, Optional
 
 import re
 import sys
@@ -117,12 +117,23 @@ class ResourceExchangeGame:
         self.agents: Dict[str, ResourceExchangeAgent] = {}
         for pid in config.players:
             team = self.player_to_team[pid]
-            self.agents[pid] = ResourceExchangeAgent(pid, team, self.llm, resource_types=config.resource_types)
+            self.agents[pid] = ResourceExchangeAgent(
+                pid,
+                team,
+                self.llm,
+                resource_types=config.resource_types,
+                invention_hint=getattr(config, "invention_hint", None),
+            )
 
         # State
         self.allocations = self.resource_manager.generate_initial_allocations(config.teams)
         self.schedule = self.pairing_manager.generate()
         self.logs: List[Dict[str, Any]] = []
+
+    def set_invention_hint_for_all(self, hint: Optional[str]):
+        """Set invention hint for all agents at runtime."""
+        for agent in self.agents.values():
+            agent.set_invention_hint(hint)
 
     # ------------------------------------------------------------------ #
     # Public API

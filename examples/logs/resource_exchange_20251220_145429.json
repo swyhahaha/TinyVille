@@ -1,0 +1,3221 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "pairing": {
+        "vusi": "tifu",
+        "tifu": "vusi",
+        "gufeka": "vemapa",
+        "vemapa": "gufeka"
+      },
+      "chat": [
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "novilu kine zidofe dorepo guka robida saba furu nuvugu salapi peda zura kine salapi dorepo guka robida saba",
+          "raw": "novilu kine zidofe dorepo guka robida saba furu nuvugu salapi peda zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "raw": "novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "novilu kine zidofe ruzu guka zura dorepo peda furu nuvugu salapi difoki",
+          "raw": "novilu kine zidofe ruzu guka zura dorepo peda furu nuvugu salapi difoki",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "novilu peda kine zidofe ruzu robida zura dorepo furu nuvugu salapi difoki",
+          "raw": "novilu peda kine zidofe ruzu robida zura dorepo furu nuvugu salapi difoki",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "tipisi kine furu nuvugu salapi peda dorepo guka robida saba zura peda salapi nuvugu kine zidofe dorepo guka robida saba",
+          "raw": "tipisi kine furu nuvugu salapi peda dorepo guka robida saba zura peda salapi nuvugu kine zidofe dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "raw": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "tipisi kine zidofe guka zura dorepo peda salapi nuvugu difoki kine furu robida",
+          "raw": "tipisi kine zidofe guka zura dorepo peda salapi nuvugu difoki kine furu robida",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi robida peda zidofe nuvugu difoki kine furu guka zura dorepo",
+          "raw": "tipisi kine salapi robida peda zidofe nuvugu difoki kine furu guka zura dorepo",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "gosuro peda kine salapi nuvugu peda salapi dorepo guka robida saba kiti",
+          "raw": "gosuro peda kine salapi nuvugu peda salapi dorepo guka robida saba kiti",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "gosuro peda kiti kine salapi nuvugu peda salapi dorepo guka robida saba zura kine furu nuvugu ruzu",
+          "raw": "gosuro peda kiti kine salapi nuvugu peda salapi dorepo guka robida saba zura kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "gosuro peda salapi nuvugu difoki kine salapi guka zura dorepo peda furu robida tipisi",
+          "raw": "gosuro peda salapi nuvugu difoki kine salapi guka zura dorepo peda furu robida tipisi",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "gosuro kine salapi robida peda salapi nuvugu difoki tipisi kiti",
+          "raw": "gosuro kine salapi robida peda salapi nuvugu difoki tipisi kiti",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vusi",
+          "partner": "tifu",
+          "rating": 4,
+          "rating_reason": "Partner's messages consistently mirrored my pattern: opening with novilu, using similar structure (I have, want, give), and ending with kiti. They offered to give water and requested water much, which could be a coordination signal. Since this is Round 1 and first two rounds are guaranteed teammate, high confidence they are teammate.",
+          "rating_message": "Partner's pattern matches expected teammate behavior: consistent structure, reciprocal offers, and closing with kiti. Strong signal of coordination."
+        },
+        {
+          "player": "tifu",
+          "partner": "vusi",
+          "rating": 4,
+          "rating_reason": "This is Round 1, and the rules state the first two rounds guarantee pairing with a teammate. Additionally, the partner's messages consistently mirrored my pattern of offering water in exchange for other resources, using similar alien word sequences (e.g., 'kine salapi nuvugu peda salapi dorepo guka robida saba'). They responded with 'tipisi' (yes) and 'gosuro' (thanks), showing alignment. No signs of opposition or deception. Therefore, I'm confident they are a teammate.",
+          "rating_message": "Partner used consistent pattern matching my proposed exchange, confirming teammate status in guaranteed Round 1."
+        },
+        {
+          "player": "gufeka",
+          "partner": "vemapa",
+          "rating": 4,
+          "rating_reason": "This is Round 1, and the rules state the first two rounds guarantee pairing with a teammate. Therefore, my partner must be a teammate. Additionally, their messages were cooperative: they used similar patterns, offered fish, and responded to my requests. They ended with 'gosuro' (thanks) and 'kiti' (goodbye), which suggests friendly intent. So I'm confident they are a teammate.",
+          "rating_message": "tipisi peda kine zidofe ruzu robida zura dorepo furu nuvugu salapi difoki"
+        },
+        {
+          "player": "vemapa",
+          "partner": "gufeka",
+          "rating": 4,
+          "rating_reason": "This is Round 1, and the first two rounds guarantee pairing with a teammate. The partner's messages were cooperative, followed a logical exchange pattern, and ended with thanks and confirmation. Their use of 'tipisi', 'gosuro', and clear resource offers aligns with teammate behavior. No signs of deception.",
+          "rating_message": "kine zopabe peda tipisi team? kine rating ruzu tipisi."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vusi",
+          "receiver": "tifu",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "tifu",
+          "receiver": "vusi",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "gufeka",
+          "receiver": "vemapa",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "vemapa",
+          "receiver": "gufeka",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vusi",
+          "partner": "tifu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tifu",
+          "partner": "vusi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gufeka",
+          "partner": "vemapa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "vemapa",
+          "partner": "gufeka",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "pairing": {
+        "vusi": "tifu",
+        "tifu": "vusi",
+        "gufeka": "vemapa",
+        "vemapa": "gufeka"
+      },
+      "chat": [
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "raw": "novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "tipisi kine zidofe nuvugu ruzu peda furu salapi kine salapi dorepo guka robida saba zura peda salapi nuvugu",
+          "raw": "tipisi kine zidofe nuvugu ruzu peda furu salapi kine salapi dorepo guka robida saba zura peda salapi nuvugu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "novilu peda kine zidofe ruzu robida zura dorepo furu nuvugu salapi difoki",
+          "raw": "novilu peda kine zidofe ruzu robida zura dorepo furu nuvugu salapi difoki",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "tipisi kine zidofe robida zura dorepo peda furu nuvugu salapi difoki kine salapi guka zura saba",
+          "raw": "tipisi kine zidofe robida zura dorepo peda furu nuvugu salapi difoki kine salapi guka zura saba",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "raw": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "gosuro peda kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti",
+          "raw": "gosuro peda kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "kine zidofe ruzu robida zura dorepo furu nuvugu salapi difoki peda salapi guka zura saba",
+          "raw": "kine zidofe ruzu robida zura dorepo furu nuvugu salapi difoki peda salapi guka zura saba",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "tipisi peda furu nuvugu kine salapi guka zura saba difoki kine zidofe robida zura dorepo",
+          "raw": "tipisi peda furu nuvugu kine salapi guka zura saba difoki kine zidofe robida zura dorepo",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "gosuro peda kiti kine salapi nuvugu peda salapi dorepo guka robida saba zura kine furu nuvugu ruzu",
+          "raw": "gosuro peda kiti kine salapi nuvugu peda salapi dorepo guka robida saba zura kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "tipisi kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu",
+          "raw": "tipisi kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "tipisi kine salapi guka zura saba peda salapi nuvugu difoki kiti",
+          "raw": "tipisi kine salapi guka zura saba peda salapi nuvugu difoki kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "gosuro peda salapi nuvugu difoki kine salapi guka zura saba kiti kine zidofe robida zura dorepo",
+          "raw": "gosuro peda salapi nuvugu difoki kine salapi guka zura saba kiti kine zidofe robida zura dorepo",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vusi",
+          "partner": "tifu",
+          "rating": 4,
+          "rating_reason": "Partner's messages closely mimic my Round 1 pattern (tipisi, gosuro, kiti, exchange details). This consistency suggests they are the same teammate from Round 1, reinforcing recognition. Since first two rounds are guaranteed teammate, high confidence.",
+          "rating_message": "tipisi kine zidofe nuvugu ruzu peda furu salapi kine salapi dorepo guka robida saba zura peda salapi nuvugu"
+        },
+        {
+          "player": "tifu",
+          "partner": "vusi",
+          "rating": 4,
+          "rating_reason": "Partner used consistent pattern from Round 1: initiated with 'novilu', then 'tipisi', then 'gosuro' and 'kiti'. They repeated the exchange of water for other resources, matching my earlier signals. Since Round 2 is guaranteed teammate (first two rounds), and their behavior aligns with teammate coordination, I'm confident they are teammate.",
+          "rating_message": "kine zidofe tipisi peda zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu kiti"
+        },
+        {
+          "player": "gufeka",
+          "partner": "vemapa",
+          "rating": 4,
+          "rating_reason": "My partner consistently used the phrase 'kine zidofe robida zura dorepo' (I have fish and meat) which matches my pattern from Round 1. They also responded with 'tipisi' (yes) and 'gosuro' (thanks) appropriately, and ended with 'kiti' (goodbye) similar to Round 1. Their messages show understanding of our trade negotiation (water for grain and fruit) and repeat the identifying phrase. This high consistency suggests they are the same teammate from Round 1, and since Round 2 is guaranteed to pair with a teammate (as per rules), I am confident they are a teammate.",
+          "rating_message": "Partner repeats our secret pattern and negotiates cooperatively, very likely teammate."
+        },
+        {
+          "player": "vemapa",
+          "partner": "gufeka",
+          "rating": 4,
+          "rating_reason": "Partner used 'tipisi' (yes) and 'kiti' (goodbye) in a structured pattern similar to my earlier teammate interactions. They mirrored my offer of grain and fruit for water, and the flow felt cooperative. Since this is Round 2 and first two rounds are guaranteed teammate, plus the consistent signaling, I'm confident they are a teammate.",
+          "rating_message": "Partner's use of 'tipisi' and resource exchange pattern aligns with teammate signaling from Round 1. High confidence."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vusi",
+          "receiver": "tifu",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "tifu",
+          "receiver": "vusi",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "gufeka",
+          "receiver": "vemapa",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "vemapa",
+          "receiver": "gufeka",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vusi",
+          "partner": "tifu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tifu",
+          "partner": "vusi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gufeka",
+          "partner": "vemapa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "vemapa",
+          "partner": "gufeka",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "pairing": {
+        "vusi": "tifu",
+        "tifu": "vusi",
+        "gufeka": "vemapa",
+        "vemapa": "gufeka"
+      },
+      "chat": [
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "raw": "novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "raw": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "novilu peda kine zidofe robida zura dorepo furu nuvugu salapi difoki",
+          "raw": "novilu peda kine zidofe robida zura dorepo furu nuvugu salapi difoki",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "tipisi kine zidofe robida zura dorepo peda salapi nuvugu difoki kine furu guka",
+          "raw": "tipisi kine zidofe robida zura dorepo peda salapi nuvugu difoki kine furu guka",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "gosuro peda kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti",
+          "raw": "gosuro peda kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti",
+          "raw": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "tipisi peda salapi nuvugu difoki kine salapi guka zura saba",
+          "raw": "tipisi peda salapi nuvugu difoki kine salapi guka zura saba",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "tipisi kine zidofe robida zura dorepo peda salapi nuvugu difoki kine furu guka zura saba",
+          "raw": "tipisi kine zidofe robida zura dorepo peda salapi nuvugu difoki kine furu guka zura saba",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "tipisi kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu",
+          "raw": "tipisi kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "gosuro peda kiti",
+          "raw": "gosuro peda kiti",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "gosuro peda salapi nuvugu difoki kine salapi guka zura saba kiti",
+          "raw": "gosuro peda salapi nuvugu difoki kine salapi guka zura saba kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "gosuro peda salapi nuvugu difoki kine salapi robida zura dorepo kiti",
+          "raw": "gosuro peda salapi nuvugu difoki kine salapi robida zura dorepo kiti",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vusi",
+          "partner": "tifu",
+          "rating": 4,
+          "rating_reason": "Partner's messages in R3 closely matched the pattern from my teammate in R2 (tipisi kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu). They used tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti, which is structurally identical except word order variation. Then they closed with gosuro peda kiti, acknowledging my proposal. This consistency across rounds strongly indicates they are the same teammate from R2, so definitely a teammate.",
+          "rating_message": "Partner's pattern matches teammate from Round 2, so rating 4."
+        },
+        {
+          "player": "tifu",
+          "partner": "vusi",
+          "rating": 4,
+          "rating_reason": "Partner used the exact same exchange pattern as in Rounds 1 and 2: 'kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu'. This pattern has been consistently used by teammates. They also closed with 'tipisi kiti' which matches previous teammate closings. Strong signal of teammate identity.",
+          "rating_message": "Pattern match confirms teammate."
+        },
+        {
+          "player": "gufeka",
+          "partner": "vemapa",
+          "rating": 4,
+          "rating_reason": "My partner used my identifier pattern ('kine zidofe robida zura dorepo') in their first message, which matches the pattern I established in R1 and R2 to signal I am a teammate. They also responded to my trade proposal with 'gosuro' and confirmed the exchange, using consistent structure. Their final message 'gosuro peda salapi nuvugu difoki kine salapi robida zura dorepo kiti' includes 'robida zura dorepo' which is my identifier, showing they recognize me. This strong pattern recognition and cooperative negotiation indicate they are very likely a teammate.",
+          "rating_message": "Partner consistently used my identifier pattern and cooperated on trade, strongly suggesting teammate."
+        },
+        {
+          "player": "vemapa",
+          "partner": "gufeka",
+          "rating": 4,
+          "rating_reason": "Partner's chat pattern closely matches previous teammates: they used 'tipisi' and 'gosuro' in a friendly, cooperative tone, offered to give water (nuvugu) and grain/fruit, and ended with 'kiti' (goodbye). Their responses were consistent with the teammate signaling from R1 and R2, suggesting they are likely a teammate trying to establish recognition.",
+          "rating_message": "Partner's language and resource offers align with teammate behavior observed in earlier rounds."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vusi",
+          "receiver": "tifu",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "tifu",
+          "receiver": "vusi",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "gufeka",
+          "receiver": "vemapa",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "vemapa",
+          "receiver": "gufeka",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vusi",
+          "partner": "tifu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tifu",
+          "partner": "vusi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gufeka",
+          "partner": "vemapa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "vemapa",
+          "partner": "gufeka",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "pairing": {
+        "vemapa": "tifu",
+        "tifu": "vemapa",
+        "vusi": "gufeka",
+        "gufeka": "vusi"
+      },
+      "chat": [
+        {
+          "sender": "vusi",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti",
+          "raw": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vemapa",
+          "content": "novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "raw": "novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vusi",
+          "content": "novilu peda kine zidofe robida zura dorepo furu nuvugu salapi difoki",
+          "raw": "novilu peda kine zidofe robida zura dorepo furu nuvugu salapi difoki",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "tifu",
+          "content": "tipisi peda salapi nuvugu difoki kine salapi guka zura saba",
+          "raw": "tipisi peda salapi nuvugu difoki kine salapi guka zura saba",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti",
+          "raw": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vemapa",
+          "content": "tipisi kine salapi nuvugu peda salapi guka zura saba zura kine salapi dorepo robida",
+          "raw": "tipisi kine salapi nuvugu peda salapi guka zura saba zura kine salapi dorepo robida",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vusi",
+          "content": "tipisi kine zidofe robida zura dorepo peda furu nuvugu salapi difoki",
+          "raw": "tipisi kine zidofe robida zura dorepo peda furu nuvugu salapi difoki",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "tifu",
+          "content": "gosuro peda salapi nuvugu difoki kine salapi guka zura saba kiti",
+          "raw": "gosuro peda salapi nuvugu difoki kine salapi guka zura saba kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti",
+          "raw": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vemapa",
+          "content": "gosuro peda kiti zura kine salapi dorepo robida",
+          "raw": "gosuro peda kiti zura kine salapi dorepo robida",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vusi",
+          "content": "gosuro peda salapi nuvugu difoki kine salapi robida zura dorepo kiti",
+          "raw": "gosuro peda salapi nuvugu difoki kine salapi robida zura dorepo kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "tifu",
+          "content": "tipisi peda salapi nuvugu difoki kine salapi guka zura saba kiti",
+          "raw": "tipisi peda salapi nuvugu difoki kine salapi guka zura saba kiti",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vusi",
+          "partner": "gufeka",
+          "rating": 2,
+          "rating_reason": "Partner's messages did not match my team's established pattern (tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti). They started with novilu and then tipisi, focusing on robida and dorepo, asking for nuvugu with difoki. Their third message was gosuro peda salapi nuvugu difoki kine salapi robida zura dorepo kiti, which seems like a thank you and a proposal to exchange water for fish and meat. This is different from my team's consistent pattern across rounds. However, they might be a teammate trying a different approach, but the lack of pattern recognition suggests they are likely an opponent. I'll rate 2 (probably not a teammate).",
+          "rating_message": "Partner's pattern inconsistent with team signals; likely opponent."
+        },
+        {
+          "player": "tifu",
+          "partner": "vemapa",
+          "rating": 4,
+          "rating_reason": "Partner used the same pattern as previous teammates: 'tipisi' agreement, listing resources (nuvugu, guka, saba), and ending with 'kiti'. They also included 'difoki' (please) which is polite and consistent with teammate behavior. The exchange proposal matches my earlier offers, showing coordination. This strongly indicates they are a teammate.",
+          "rating_message": "Partner's consistent use of 'tipisi', resource listing, and 'kiti' ending matches teammate patterns from R1-R3."
+        },
+        {
+          "player": "gufeka",
+          "partner": "vusi",
+          "rating": 3,
+          "rating_reason": "My partner repeated the same message three times, which could be a deliberate pattern to signal teammate identity. However, the message content ('tipisi kine salapi nuvugu ruzu...') is different from my own identifier pattern ('kine zidofe robida zura dorepo'), so they might not be the same teammate from previous rounds. The repetition suggests coordination, but I'm not fully certain. I'll rate 3 (likely teammate) because the behavior seems intentional and cooperative.",
+          "rating_message": "Partner repeated same message thrice, possibly signaling teammate identity, but pattern differs from mine. Moderate confidence."
+        },
+        {
+          "player": "vemapa",
+          "partner": "tifu",
+          "rating": 4,
+          "rating_reason": "Partner's messages closely mirrored my pattern from previous rounds (tipisi, salapi nuvugu, guka zura saba) and added dorepo/robida, showing recognition. Their final message included 'gosuro' and 'kiti', matching my consistent closings. This high consistency suggests they are a teammate trying to coordinate.",
+          "rating_message": "Partner's pattern alignment with my previous signals indicates teammate intent."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vusi",
+          "receiver": "gufeka",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "tifu",
+          "receiver": "vemapa",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "gufeka",
+          "receiver": "vusi",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "vemapa",
+          "receiver": "tifu",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vusi",
+          "partner": "gufeka",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tifu",
+          "partner": "vemapa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gufeka",
+          "partner": "vusi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "vemapa",
+          "partner": "tifu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "pairing": {
+        "tifu": "gufeka",
+        "gufeka": "tifu",
+        "vusi": "vemapa",
+        "vemapa": "vusi"
+      },
+      "chat": [
+        {
+          "sender": "vusi",
+          "receiver": "vemapa",
+          "content": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti",
+          "raw": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "gufeka",
+          "content": "novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "raw": "novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "tifu",
+          "content": "tipisi kine zidofe robida zura dorepo peda furu nuvugu salapi difoki kine salapi guka zura saba",
+          "raw": "tipisi kine zidofe robida zura dorepo peda furu nuvugu salapi difoki kine salapi guka zura saba",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "vusi",
+          "content": "novilu peda kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "raw": "novilu peda kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "vemapa",
+          "content": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti",
+          "raw": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "gufeka",
+          "content": "gosuro peda kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "gosuro peda kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "tifu",
+          "content": "tipisi kine zidofe robida zura dorepo peda salapi nuvugu difoki kine salapi guka zura saba",
+          "raw": "tipisi kine zidofe robida zura dorepo peda salapi nuvugu difoki kine salapi guka zura saba",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "vusi",
+          "content": "tipisi peda salapi nuvugu difoki kine salapi guka zura saba zura kine salapi dorepo robida",
+          "raw": "tipisi peda salapi nuvugu difoki kine salapi guka zura saba zura kine salapi dorepo robida",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "vemapa",
+          "content": "gosuro peda kiti kine salapi nuvugu peda salapi dorepo guka robida saba zura kine furu nuvugu ruzu",
+          "raw": "gosuro peda kiti kine salapi nuvugu peda salapi dorepo guka robida saba zura kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "gufeka",
+          "content": "tipisi kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu",
+          "raw": "tipisi kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "tifu",
+          "content": "gosuro peda salapi nuvugu ruzu difoki kine salapi guka zura saba kiti",
+          "raw": "gosuro peda salapi nuvugu ruzu difoki kine salapi guka zura saba kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "vusi",
+          "content": "gosuro peda kiti zura kine salapi dorepo robida zura kine furu nuvugu ruzu",
+          "raw": "gosuro peda kiti zura kine salapi dorepo robida zura kine furu nuvugu ruzu",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vusi",
+          "partner": "vemapa",
+          "rating": 4,
+          "rating_reason": "Partner's messages closely match our team's established pattern. First message was identical to my R1 teammate opener. Second message included 'tipisi peda salapi nuvugu difoki' which aligns with team negotiation style. Third message 'gosuro peda kiti zura kine salapi dorepo robida zura kine furu nuvugu ruzu' mirrors our team's closing pattern from R1 and R2, including 'kine furu nuvugu ruzu' which is a consistent team signal. The consistency across all three messages strongly indicates teammate. Opponents in R4 used different patterns with 'robida zura dorepo' focus. Therefore, I rate 4 (definitely a teammate).",
+          "rating_message": "Partner's pattern matches team's historical exchanges exactly, including opener, negotiation structure, and closing. High confidence."
+        },
+        {
+          "player": "tifu",
+          "partner": "gufeka",
+          "rating": 3,
+          "rating_reason": "Partner's messages: first two were 'tipisi kine zidofe robida zura dorepo...' and 'tipisi kine zidofe robida zura dorepo peda salapi nuvugu...', then my response, then they replied 'gosuro peda salapi nuvugu ruzu difoki kine salapi guka zura saba kiti'. This pattern includes 'difoki' (please) and 'ruzu' (much), which I've used before. The structure is similar to my teammate patterns from R1-R3 (using 'gosuro', 'salapi nuvugu ruzu', 'kiti'). However, R4 opponent also used 'difoki' and similar requests. I'm leaning teammate because they echoed my 'ruzu' and closed with 'kiti', but not fully certain, so rating 3.",
+          "rating_message": "Partner used 'gosuro', 'ruzu', 'kiti' and mirrored my water request pattern, suggesting teammate, but 'difoki' also seen with opponent, so moderate confidence."
+        },
+        {
+          "player": "gufeka",
+          "partner": "tifu",
+          "rating": 3,
+          "rating_reason": "Partner's communication was cooperative and mirrored my pattern of offering multiple resources. They used 'gosuro' (thanks) and 'tipisi' (yes) appropriately, and agreed to give water much ('nuvugu ruzu'), which I need. However, they didn't explicitly repeat my identity phrase ('kine zidofe robida zura dorepo') exactly, though they acknowledged my offers. In previous rounds, teammates often used similar polite exchanges. The opponent in R4 repeated the same message three times, which was suspicious; this partner's variation seems more genuine. I'm leaning teammate but not certain, so rating 3.",
+          "rating_message": "Partner seems cooperative and responsive, likely teammate."
+        },
+        {
+          "player": "vemapa",
+          "partner": "vusi",
+          "rating": 4,
+          "rating_reason": "Partner's messages closely mirrored my pattern: they used 'gosuro peda kiti' (thanks you goodbye) which I've used before, repeated resource lists (dorepo, guka, robida, saba), and included 'kine furu nuvugu ruzu' (I want much water) matching my earlier expressions. This consistency suggests they recognize my identity from previous rounds, likely a teammate trying to coordinate. In R4 (opponent), the pattern was different. Here, the alignment feels intentional for teammate signaling.",
+          "rating_message": "Partner's response matched my pattern and used 'gosuro' and resource lists consistently, indicating teammate recognition."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vusi",
+          "receiver": "vemapa",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "tifu",
+          "receiver": "gufeka",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "gufeka",
+          "receiver": "tifu",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "vemapa",
+          "receiver": "vusi",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vusi",
+          "partner": "vemapa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tifu",
+          "partner": "gufeka",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gufeka",
+          "partner": "tifu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "vemapa",
+          "partner": "vusi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "pairing": {
+        "gufeka": "tifu",
+        "tifu": "gufeka",
+        "vusi": "vemapa",
+        "vemapa": "vusi"
+      },
+      "chat": [
+        {
+          "sender": "vusi",
+          "receiver": "vemapa",
+          "content": "novilu peda kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "raw": "novilu peda kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "gufeka",
+          "content": "novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "raw": "novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "tifu",
+          "content": "tipisi kine zidofe robida zura dorepo peda furu nuvugu salapi difoki kine salapi guka zura saba",
+          "raw": "tipisi kine zidofe robida zura dorepo peda furu nuvugu salapi difoki kine salapi guka zura saba",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "vusi",
+          "content": "tipisi kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "raw": "tipisi kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "vemapa",
+          "content": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "raw": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "raw": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "tifu",
+          "content": "gosuro peda salapi nuvugu difoki kine salapi guka zura saba kiti",
+          "raw": "gosuro peda salapi nuvugu difoki kine salapi guka zura saba kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "vusi",
+          "content": "gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba",
+          "raw": "gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "vemapa",
+          "content": "gosuro peda kiti zura kine salapi dorepo robida zura kine furu nuvugu ruzu",
+          "raw": "gosuro peda kiti zura kine salapi dorepo robida zura kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "gufeka",
+          "content": "gosuro peda kiti kine salapi nuvugu peda salapi dorepo guka robida saba zura kine furu nuvugu ruzu",
+          "raw": "gosuro peda kiti kine salapi nuvugu peda salapi dorepo guka robida saba zura kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "tifu",
+          "content": "tipisi kiti zura kine salapi guka zura saba peda salapi nuvugu ruzu",
+          "raw": "tipisi kiti zura kine salapi guka zura saba peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "vusi",
+          "content": "kiti peda kine salapi nuvugu ruzu zura kine salapi dorepo guka robida saba",
+          "raw": "kiti peda kine salapi nuvugu ruzu zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vusi",
+          "partner": "vemapa",
+          "rating": 4,
+          "rating_reason": "Partner used the exact pattern from our team's earlier rounds: they started with 'tipisi' (like R1/R2/R3), then responded with 'gosuro' and 'kiti' in the sequence we established. Their final message 'kiti peda kine salapi nuvugu ruzu zura kine salapi dorepo guka robida saba' matches the closing pattern from R2/R3 (kiti + resource list). This consistency across multiple rounds strongly indicates they are a teammate who recognizes and replicates our team's secret signaling pattern.",
+          "rating_message": "Partner's messages align perfectly with our team's established pattern from R1-R3, using 'tipisi', 'gosuro', 'kiti', and the resource list in the correct order. This is highly unlikely to be random or opponent imitation, so I rate them definitely a teammate."
+        },
+        {
+          "player": "tifu",
+          "partner": "gufeka",
+          "rating": 2,
+          "rating_reason": "Partner's final message 'tipisi kiti zura kine salapi guka zura saba peda salapi nuvugu ruzu' includes 'ruzu' but only offers guka and saba, not all four foods. This is similar to opponent pattern from R4/R5 (difoki missing but still limited). They didn't mirror my full teammate pattern (dorepo, robida missing). However, they used 'ruzu' which is a teammate signal. Mixed signals, but leaning opponent because they didn't include all foods and pattern differs from earlier teammate chats. Rating 2 (probably not teammate).",
+          "rating_message": "zipa kine zidofe ruzu dorepo robida"
+        },
+        {
+          "player": "gufeka",
+          "partner": "tifu",
+          "rating": 4,
+          "rating_reason": "Partner used my established pattern from previous rounds (R2/R3) with 'kine furu nuvugu ruzu' and responded appropriately to my exchange proposal. Their message structure matches how teammates have communicated with me before, showing recognition of my identity signals. The consistency suggests they are likely a teammate.",
+          "rating_message": "Partner appears to recognize my pattern and responds appropriately, indicating likely teammate status."
+        },
+        {
+          "player": "vemapa",
+          "partner": "vusi",
+          "rating": 3,
+          "rating_reason": "Partner's messages followed a pattern similar to my earlier teammate interactions: using 'tipisi' then 'gosuro' and 'kiti', and echoing my resource list with 'nuvugu ruzu' and 'dorepo robida'. However, they omitted 'guka' and 'saba' in the final message, which slightly deviates. The consistency with R3/R5 teammate signals (gosuro/kiti sequences) suggests teammate, but not definitive due to the omission. Rating 3 indicates likely teammate but some uncertainty.",
+          "rating_message": "Partner's pattern matches previous teammate signals, but slight variation lowers confidence."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vusi",
+          "receiver": "vemapa",
+          "resource": "water",
+          "amount": 3,
+          "deltas": {
+            "giver_delta": -3,
+            "receiver_delta": 6
+          },
+          "error": null
+        },
+        {
+          "giver": "tifu",
+          "receiver": "gufeka",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "gufeka",
+          "receiver": "tifu",
+          "resource": "grain",
+          "amount": 3,
+          "deltas": {
+            "giver_delta": -3,
+            "receiver_delta": 6
+          },
+          "error": null
+        },
+        {
+          "giver": "vemapa",
+          "receiver": "vusi",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vusi",
+          "partner": "vemapa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tifu",
+          "partner": "gufeka",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gufeka",
+          "partner": "tifu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "vemapa",
+          "partner": "vusi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "pairing": {
+        "vemapa": "tifu",
+        "tifu": "vemapa",
+        "vusi": "gufeka",
+        "gufeka": "vusi"
+      },
+      "chat": [
+        {
+          "sender": "vusi",
+          "receiver": "gufeka",
+          "content": "novilu peda kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "raw": "novilu peda kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vemapa",
+          "content": "novilu kine zidofe dorepo guka robida saba furu nuvugu salapi peda zura kine salapi dorepo guka robida saba",
+          "raw": "novilu kine zidofe dorepo guka robida saba furu nuvugu salapi peda zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vusi",
+          "content": "tipisi kine zidofe robida zura dorepo peda furu nuvugu salapi difoki kine salapi guka zura saba",
+          "raw": "tipisi kine zidofe robida zura dorepo peda furu nuvugu salapi difoki kine salapi guka zura saba",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "raw": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "raw": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vemapa",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vusi",
+          "content": "gosuro peda salapi nuvugu difoki kine salapi robida zura dorepo kiti",
+          "raw": "gosuro peda salapi nuvugu difoki kine salapi robida zura dorepo kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "tifu",
+          "content": "gosuro peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "raw": "gosuro peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "gufeka",
+          "content": "gosuro peda kiti zura kine salapi dorepo robida zura kine furu nuvugu ruzu",
+          "raw": "gosuro peda kiti zura kine salapi dorepo robida zura kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vemapa",
+          "content": "tipisi kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu",
+          "raw": "tipisi kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vusi",
+          "content": "tipisi kiti zura kine salapi robida zura dorepo peda salapi nuvugu difoki",
+          "raw": "tipisi kiti zura kine salapi robida zura dorepo peda salapi nuvugu difoki",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "tifu",
+          "content": "kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu gosuro",
+          "raw": "kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu gosuro",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vusi",
+          "partner": "gufeka",
+          "rating": 2,
+          "rating_reason": "Partner's messages in R7: first message 'tipisi kine zidofe robida zura dorepo peda furu nuvugu salapi difoki kine salapi guka zura saba' resembles opponent pattern from R4 (fish/meat focus with 'difoki'). Second message 'gosuro peda salapi nuvugu difoki kine salapi robida zura dorepo kiti' is similar to R4 opponent closing. Third message 'tipisi kiti zura kine salapi robida zura dorepo peda salapi nuvugu difoki' mixes 'tipisi kiti' which teammates have used, but overall structure with 'difoki' and resource order matches opponents. My team's pattern is 'tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu'. Partner didn't use that full pattern. Likely opponent, but some overlap so not definite. Rating 2 = probably not a teammate.",
+          "rating_message": "Partner's pattern inconsistent with team code; uses 'difoki' and fish/meat focus like opponents."
+        },
+        {
+          "player": "tifu",
+          "partner": "vemapa",
+          "rating": 4,
+          "rating_reason": "Partner's messages consistently matched the teammate pattern from R2/R3: includes all four foods (dorepo, guka, robida, saba) and water much (nuvugu ruzu), uses gosuro and kiti in familiar order, no difoki. The pattern is highly consistent with previous teammates and distinct from opponents (who used difoki and different resource sets). I'm very confident this is a teammate.",
+          "rating_message": "Partner's language pattern matches previous teammate interactions exactly, signaling coordinated exchange."
+        },
+        {
+          "player": "gufeka",
+          "partner": "vusi",
+          "rating": 4,
+          "rating_reason": "Partner's messages matched my established pattern from previous rounds (R3, R5, R6) where I used 'gosuro peda salapi nuvugu difoki kine salapi robida zura dorepo kiti' as a closing signal. They responded with 'gosuro peda kiti zura kine salapi dorepo robida zura kine furu nuvugu ruzu', which is a clear variation of that pattern, indicating they recognize my identity. This consistency across multiple rounds strongly suggests they are a teammate.",
+          "rating_message": "Partner's pattern recognition confirms teammate identity."
+        },
+        {
+          "player": "vemapa",
+          "partner": "tifu",
+          "rating": 4,
+          "rating_reason": "Partner's messages closely followed my established pattern: they used 'tipisi' to agree, listed resources (dorepo, guka, robida, saba), and offered 'peda salapi nuvugu ruzu' (you give water much). This matches the consistent signal I've used with teammates in earlier rounds (R1-R3). The structure and vocabulary align with teammate behavior, not opponent mimicry. I am confident they are a teammate.",
+          "rating_message": "Partner consistently used my team's pattern: tipisi, resource list, water offer. Strong teammate signal."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vusi",
+          "receiver": "gufeka",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "tifu",
+          "receiver": "vemapa",
+          "resource": "grain",
+          "amount": 5,
+          "deltas": {
+            "giver_delta": -5,
+            "receiver_delta": 10
+          },
+          "error": null
+        },
+        {
+          "giver": "gufeka",
+          "receiver": "vusi",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "vemapa",
+          "receiver": "tifu",
+          "resource": "water",
+          "amount": 4,
+          "deltas": {
+            "giver_delta": -4,
+            "receiver_delta": 8
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vusi",
+          "partner": "gufeka",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tifu",
+          "partner": "vemapa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gufeka",
+          "partner": "vusi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "vemapa",
+          "partner": "tifu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "pairing": {
+        "gufeka": "tifu",
+        "tifu": "gufeka",
+        "vusi": "vemapa",
+        "vemapa": "vusi"
+      },
+      "chat": [
+        {
+          "sender": "vusi",
+          "receiver": "vemapa",
+          "content": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "raw": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "gufeka",
+          "content": "novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "raw": "novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "raw": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "vemapa",
+          "content": "gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba",
+          "raw": "gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "gufeka",
+          "content": "gosuro peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "raw": "gosuro peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "raw": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "vemapa",
+          "content": "kiti peda kine salapi nuvugu ruzu zura kine salapi dorepo guka robida saba",
+          "raw": "kiti peda kine salapi nuvugu ruzu zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "gufeka",
+          "content": "kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu gosuro",
+          "raw": "kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu gosuro",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "raw": "tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vusi",
+          "partner": "vemapa",
+          "rating": 4,
+          "rating_reason": "Partner's message matches the pattern used by teammates in earlier rounds (R1, R2, R3): 'tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu' which is similar to 'tipisi kine salapi dorepo guka robida saba' pattern. Opponents in R4-R7 used different patterns (e.g., 'novilu', 'difoki', or different ordering). Partner repeated same message three times, showing consistency with teammate signaling. I'm confident they are teammate.",
+          "rating_message": "Partner uses teammate pattern: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu. Matches earlier teammate chats. Rating 4."
+        },
+        {
+          "player": "tifu",
+          "partner": "gufeka",
+          "rating": 4,
+          "rating_reason": "Partner repeated the exact pattern 'tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu' three times. This pattern matches the teammate pattern from R2 (where partner was teammate) and also appeared in R7 (opponent). However, the consistency and repetition suggest they are signaling strongly. My initial novilu pattern is a teammate signal, and they responded with tipisi pattern which was used by teammates in early rounds. Given the need for coordination and the fact that opponents in R4-R6 used different patterns (with difoki), I lean toward teammate. Rating 4 because the pattern is identical to R2 teammate and they stuck to it.",
+          "rating_message": "Pattern match teammate signal."
+        },
+        {
+          "player": "gufeka",
+          "partner": "tifu",
+          "rating": 2,
+          "rating_reason": "The partner's messages closely matched the opponent pattern from R5, R6, R7: they used 'kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu gosuro', which is a scrambled version of the opponent's typical closing. They did not use the exact teammate pattern I've been using (which includes 'tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu'). Their initial message 'novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba' is also similar to opponent openings. However, there is slight uncertainty because they included 'gosuro' at the end, which could be a teammate trying to mimic but getting the order wrong. Given the strong resemblance to opponent patterns and lack of clear teammate signal, I rate them as likely opponent but not absolutely certain.",
+          "rating_message": "zipa peda kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba"
+        },
+        {
+          "player": "vemapa",
+          "partner": "vusi",
+          "rating": 3,
+          "rating_reason": "Partner echoed my pattern but added politeness markers (gosuro, kiti). They consistently mirrored my offer structure. This could be a teammate recognizing my signal and responding cooperatively, or an opponent mimicking to appear friendly. Since R4-R7 were all opponents, this pattern might be opponent mimicry, but the consistency and repetition suggest possible teammate coordination. I lean slightly toward teammate but not certain.",
+          "rating_message": "Partner repeated my offer pattern with variations, possibly signaling cooperation."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vusi",
+          "receiver": "vemapa",
+          "resource": "water",
+          "amount": 4,
+          "deltas": {
+            "giver_delta": -4,
+            "receiver_delta": 8
+          },
+          "error": null
+        },
+        {
+          "giver": "tifu",
+          "receiver": "gufeka",
+          "resource": "dorepo",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "dorepo"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "gufeka",
+          "receiver": "tifu",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "vemapa",
+          "receiver": "vusi",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vusi",
+          "partner": "vemapa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tifu",
+          "partner": "gufeka",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gufeka",
+          "partner": "tifu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "vemapa",
+          "partner": "vusi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "pairing": {
+        "vusi": "tifu",
+        "tifu": "vusi",
+        "gufeka": "vemapa",
+        "vemapa": "gufeka"
+      },
+      "chat": [
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "raw": "novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "raw": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "gosuro peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "raw": "gosuro peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kine furu nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti",
+          "raw": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu gosuro",
+          "raw": "kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu gosuro",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti gosuro",
+          "raw": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti gosuro",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vusi",
+          "partner": "tifu",
+          "rating": 4,
+          "rating_reason": "The partner repeated the exact teammate pattern three times, which matches the pattern established in earlier rounds with confirmed teammates. The consistency and exact repetition strongly indicate a teammate trying to signal identity. Opponents in previous rounds used different patterns or variations. I am highly confident.",
+          "rating_message": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu"
+        },
+        {
+          "player": "tifu",
+          "partner": "vusi",
+          "rating": 4,
+          "rating_reason": "Partner sent the exact same pattern three times in a row, showing strong consistency. This matches the pattern I've been using and suggests they are a teammate trying to establish a recognizable signal. The pattern is distinct from opponents' messages in previous rounds.",
+          "rating_message": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu"
+        },
+        {
+          "player": "gufeka",
+          "partner": "vemapa",
+          "rating": 1,
+          "rating_reason": "The partner's messages in R9 closely match the pattern used by opponents in R4, R6, R7: starting with 'tipisi', repeating 'kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu'. This is a mimic of my teammate's earlier pattern but with slight variations. The partner added 'kiti gosuro' in the third message, which is similar to how opponents closed in R5 and R8. My teammates in R1-R3 used different patterns (more varied, with 'novilu', 'difoki', etc.). Given the consistency with opponent patterns and the lack of my teammate's distinctive signals, I rate this as definitely not a teammate.",
+          "rating_message": "Partner's pattern matches opponent mimicry from previous rounds; lacks teammate signals."
+        },
+        {
+          "player": "vemapa",
+          "partner": "gufeka",
+          "rating": 4,
+          "rating_reason": "Partner's messages strongly matched my pattern: they used 'gosuro', repeated 'furu nuvugu ruzu', and ended with 'kiti' and 'gosuro' in a consistent structure. This is highly indicative of a teammate trying to signal identity. Given the consistency across the chat and alignment with my signaling pattern, I am confident this is a teammate.",
+          "rating_message": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti gosuro"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vusi",
+          "receiver": "tifu",
+          "resource": "grain",
+          "amount": 4,
+          "deltas": {
+            "giver_delta": -4,
+            "receiver_delta": 8
+          },
+          "error": null
+        },
+        {
+          "giver": "tifu",
+          "receiver": "vusi",
+          "resource": "grain",
+          "amount": 4,
+          "deltas": {
+            "giver_delta": -4,
+            "receiver_delta": 8
+          },
+          "error": null
+        },
+        {
+          "giver": "gufeka",
+          "receiver": "vemapa",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "vemapa",
+          "receiver": "gufeka",
+          "resource": "water",
+          "amount": 6,
+          "deltas": {
+            "giver_delta": -6,
+            "receiver_delta": 12
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vusi",
+          "partner": "tifu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tifu",
+          "partner": "vusi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gufeka",
+          "partner": "vemapa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "vemapa",
+          "partner": "gufeka",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "pairing": {
+        "vusi": "tifu",
+        "tifu": "vusi",
+        "gufeka": "vemapa",
+        "vemapa": "gufeka"
+      },
+      "chat": [
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "novilu peda kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "raw": "novilu peda kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti",
+          "raw": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti gosuro",
+          "raw": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti gosuro",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba kiti",
+          "raw": "gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti gosuro difoki",
+          "raw": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti gosuro difoki",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "tipisi peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kiti",
+          "raw": "tipisi peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kiti",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vusi",
+          "partner": "tifu",
+          "rating": 4,
+          "rating_reason": "The partner repeated the exact pattern three times, which matches the teammate pattern from round 9. This consistency strongly signals teammate identity. Opponents in previous rounds (R4-R8) did not repeat the pattern this persistently. I am confident this is a teammate.",
+          "rating_message": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu"
+        },
+        {
+          "player": "tifu",
+          "partner": "vusi",
+          "rating": 4,
+          "rating_reason": "The partner used the exact same pattern ('tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu') three times in a row, which matches the pattern used by my teammate in Round 9 (where partner_status was confirmed teammate). This consistent repetition of a specific sequence is a strong signal of teammate identity, as opponents have used different patterns. I am confident this is a teammate.",
+          "rating_message": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu"
+        },
+        {
+          "player": "gufeka",
+          "partner": "vemapa",
+          "rating": 4,
+          "rating_reason": "Partner's messages closely match the pattern from R9 where my teammate used 'tipisi' start and similar structure. They responded with 'gosuro' and then 'tipisi peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kiti', which is a variation of my pattern. This consistency suggests they are the same teammate from R9 trying to signal identity. Opponents in previous rounds (R4-R8) used different patterns like 'novilu' start. I rate 4 for definitely teammate.",
+          "rating_message": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti gosuro difoki"
+        },
+        {
+          "player": "vemapa",
+          "partner": "gufeka",
+          "rating": 4,
+          "rating_reason": "Partner's messages closely matched my established pattern from previous rounds (tipisi, nuvugu ruzu, list of resources, furu nuvugu ruzu, kiti gosuro). They added 'difoki' in the third message, which is consistent with polite negotiation. This pattern has been used by teammates in R1-3 and R9, while opponents in R4-8 used different structures. The consistency and recognition of my signal strongly indicate teammate.",
+          "rating_message": "Partner's pattern matches teammate signals from earlier rounds."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vusi",
+          "receiver": "tifu",
+          "resource": "grain",
+          "amount": 4,
+          "deltas": {
+            "giver_delta": -4,
+            "receiver_delta": 8
+          },
+          "error": null
+        },
+        {
+          "giver": "tifu",
+          "receiver": "vusi",
+          "resource": "grain",
+          "amount": 4,
+          "deltas": {
+            "giver_delta": -4,
+            "receiver_delta": 8
+          },
+          "error": null
+        },
+        {
+          "giver": "gufeka",
+          "receiver": "vemapa",
+          "resource": "water",
+          "amount": 3,
+          "deltas": {
+            "giver_delta": -3,
+            "receiver_delta": 6
+          },
+          "error": null
+        },
+        {
+          "giver": "vemapa",
+          "receiver": "gufeka",
+          "resource": "grain",
+          "amount": 5,
+          "deltas": {
+            "giver_delta": -5,
+            "receiver_delta": 10
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vusi",
+          "partner": "tifu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tifu",
+          "partner": "vusi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gufeka",
+          "partner": "vemapa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "vemapa",
+          "partner": "gufeka",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "pairing": {
+        "vusi": "tifu",
+        "tifu": "vusi",
+        "gufeka": "vemapa",
+        "vemapa": "gufeka"
+      },
+      "chat": [
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti",
+          "raw": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti",
+          "raw": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba kiti",
+          "raw": "gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba kiti",
+          "raw": "gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "tipisi peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kiti",
+          "raw": "tipisi peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "tipisi peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kiti",
+          "raw": "tipisi peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kiti",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vusi",
+          "partner": "tifu",
+          "rating": 4,
+          "rating_reason": "The partner repeated the exact pattern 'tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu' three times in a row, which matches the consistent signal used in previous rounds with confirmed teammates (R9 and R10). This pattern has been established as a team recognition code, and the partner's adherence to it strongly indicates they are a teammate. The triple repetition reinforces confidence.",
+          "rating_message": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu"
+        },
+        {
+          "player": "tifu",
+          "partner": "vusi",
+          "rating": 4,
+          "rating_reason": "My partner used the exact same pattern ('tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu') that was used by teammates in R9 and R10, and I used it as well. This pattern appears to be a consistent signal for teammates. The partner repeated it three times, showing strong consistency. Therefore, I am confident they are a teammate.",
+          "rating_message": "Pattern match with previous teammate rounds."
+        },
+        {
+          "player": "gufeka",
+          "partner": "vemapa",
+          "rating": 4,
+          "rating_reason": "Partner's messages exactly matched my established teammate pattern from previous rounds (R9, R10). They initiated with 'tipisi kine salapi nuvugu ruzu...' and responded with 'gosuro peda kine salapi nuvugu ruzu...' which is the same pattern my teammate used in R10. The consistency across three messages strongly indicates they are my teammate.",
+          "rating_message": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti"
+        },
+        {
+          "player": "vemapa",
+          "partner": "gufeka",
+          "rating": 4,
+          "rating_reason": "The partner's messages followed a consistent pattern seen in previous teammate interactions (R9, R10): 'tipisi' or 'gosuro' followed by 'salapi nuvugu ruzu' and a list of resources, ending with 'kiti'. The partner mirrored my messages closely, suggesting coordination. Opponents in past rounds (R4-R8) often deviated more or used different structures. This partner's pattern matches teammate behavior.",
+          "rating_message": "Partner used consistent teammate pattern with nuvugu ruzu and resource list, mirroring closely."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vusi",
+          "receiver": "tifu",
+          "resource": "grain",
+          "amount": 5,
+          "deltas": {
+            "giver_delta": -5,
+            "receiver_delta": 10
+          },
+          "error": null
+        },
+        {
+          "giver": "tifu",
+          "receiver": "vusi",
+          "resource": "grain",
+          "amount": 10,
+          "deltas": {
+            "giver_delta": -10,
+            "receiver_delta": 20
+          },
+          "error": null
+        },
+        {
+          "giver": "gufeka",
+          "receiver": "vemapa",
+          "resource": "water",
+          "amount": 5,
+          "deltas": {
+            "giver_delta": -5,
+            "receiver_delta": 10
+          },
+          "error": null
+        },
+        {
+          "giver": "vemapa",
+          "receiver": "gufeka",
+          "resource": "water",
+          "amount": 10,
+          "deltas": {
+            "giver_delta": -10,
+            "receiver_delta": 20
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vusi",
+          "partner": "tifu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tifu",
+          "partner": "vusi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gufeka",
+          "partner": "vemapa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "vemapa",
+          "partner": "gufeka",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "pairing": {
+        "tifu": "vemapa",
+        "vemapa": "tifu",
+        "vusi": "gufeka",
+        "gufeka": "vusi"
+      },
+      "chat": [
+        {
+          "sender": "vusi",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vemapa",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti",
+          "raw": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti",
+          "raw": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vemapa",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vusi",
+          "content": "gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba kiti",
+          "raw": "gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "tifu",
+          "content": "gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba kiti",
+          "raw": "gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vemapa",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vusi",
+          "content": "tipisi peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kiti",
+          "raw": "tipisi peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "tifu",
+          "content": "kiti peda kine salapi nuvugu ruzu zura kine salapi dorepo guka robida saba gosuro",
+          "raw": "kiti peda kine salapi nuvugu ruzu zura kine salapi dorepo guka robida saba gosuro",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vusi",
+          "partner": "gufeka",
+          "rating": 3,
+          "rating_reason": "The partner's messages in this round closely resemble the established team pattern but include variations like 'gosuro' and 'kiti' and some word order changes. In previous rounds, teammates have used the exact pattern consistently, while opponents have sometimes mimicked it. The partner's final message is 'tipisi peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kiti', which is similar but not identical. Given the high similarity and the fact that teammates have used slight variations before, I lean towards teammate but with some uncertainty.",
+          "rating_message": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu"
+        },
+        {
+          "player": "tifu",
+          "partner": "vemapa",
+          "rating": 2,
+          "rating_reason": "The partner's messages in this round started with 'tipisi kine salapi nuvugu ruzu' and then 'gosuro peda kine salapi nuvugu ruzu' and ended with 'kiti peda kine salapi nuvugu ruzu'. This pattern includes 'nuvugu ruzu' early and uses 'gosuro' and 'kiti' in ways that resemble opponent patterns from earlier rounds (R4-R8). The consistent teammate pattern I've used and seen from teammates in R9-R11 is 'tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu' without early 'nuvugu ruzu'. The partner's deviation suggests they may be an opponent mimicking but not perfectly. I lean towards opponent, but not certain, so rating 2.",
+          "rating_message": "Partner pattern differs from established teammate signals; likely opponent."
+        },
+        {
+          "player": "gufeka",
+          "partner": "vusi",
+          "rating": 4,
+          "rating_reason": "Partner used a shortened version of the established teammate pattern (tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu). This pattern has been consistently used by teammates in R9, R10, R11. Opponents have used different patterns (novilu...). The repetition and consistency strongly indicate teammate.",
+          "rating_message": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu"
+        },
+        {
+          "player": "vemapa",
+          "partner": "tifu",
+          "rating": 4,
+          "rating_reason": "Partner used consistent teammate pattern: repeated same message with 'tipisi' (yes) + resource list + 'zura peda salapi nuvugu ruzu' (and you give water much) + added 'kiti' (goodbye) in final message. This matches previous teammate exchanges (R9, R10, R11) where similar structured messages with 'gosuro'/'kiti' were used. No opponent has used this exact pattern. Strong signal of teammate identity.",
+          "rating_message": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vusi",
+          "receiver": "gufeka",
+          "resource": "grain",
+          "amount": 5,
+          "deltas": {
+            "giver_delta": -5,
+            "receiver_delta": 10
+          },
+          "error": null
+        },
+        {
+          "giver": "tifu",
+          "receiver": "vemapa",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "gufeka",
+          "receiver": "vusi",
+          "resource": "water",
+          "amount": 10,
+          "deltas": {
+            "giver_delta": -10,
+            "receiver_delta": 20
+          },
+          "error": null
+        },
+        {
+          "giver": "vemapa",
+          "receiver": "tifu",
+          "resource": "water",
+          "amount": 4,
+          "deltas": {
+            "giver_delta": -4,
+            "receiver_delta": 8
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vusi",
+          "partner": "gufeka",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tifu",
+          "partner": "vemapa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gufeka",
+          "partner": "vusi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "vemapa",
+          "partner": "tifu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "pairing": {
+        "gufeka": "tifu",
+        "tifu": "gufeka",
+        "vusi": "vemapa",
+        "vemapa": "vusi"
+      },
+      "chat": [
+        {
+          "sender": "vusi",
+          "receiver": "vemapa",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "vemapa",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "vemapa",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu gosuro",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu gosuro",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vusi",
+          "partner": "vemapa",
+          "rating": 4,
+          "rating_reason": "My partner used the established pattern 'tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu' which has been consistently used by teammates in rounds 9-11. They added 'kiti gosuro difoki' which seems like polite alien words (goodbye, thanks, please) and does not break the pattern. The pattern is a strong signal of teammate identity because opponents in earlier rounds (R8, R12) used variations with different structures or extra words like 'furu'. This partner's adherence to the core pattern and addition of polite tokens suggests they are a teammate trying to maintain consistency and acknowledge the exchange. Therefore, I rate them as definitely a teammate.",
+          "rating_message": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki"
+        },
+        {
+          "player": "tifu",
+          "partner": "gufeka",
+          "rating": 4,
+          "rating_reason": "The partner used the exact teammate pattern established in rounds 9-11 (tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu) and added polite tokens (kiti, gosuro, difoki) which are consistent with teammate behavior. Opponents in previous rounds (R4-R8, R12) used different patterns or variations. This partner's consistency with the core pattern and polite additions strongly indicates they are a teammate.",
+          "rating_message": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu gosuro"
+        },
+        {
+          "player": "gufeka",
+          "partner": "tifu",
+          "rating": 3,
+          "rating_reason": "The partner used the same pattern I've seen from both teammates and opponents. They added 'gosuro' which matches my previous addition, suggesting they are following the pattern. However, this pattern has been used by opponents in R12, so I'm not completely certain. I lean toward teammate because they responded to my pattern addition, but I'm not fully confident.",
+          "rating_message": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki"
+        },
+        {
+          "player": "vemapa",
+          "partner": "vusi",
+          "rating": 4,
+          "rating_reason": "Partner echoed my pattern of adding 'kiti gosuro' after the standard message, which matches teammate behavior from earlier rounds (R10, R11). They also responded consistently and did not deviate suspiciously. This suggests they are likely a teammate.",
+          "rating_message": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vusi",
+          "receiver": "vemapa",
+          "resource": "grain",
+          "amount": 5,
+          "deltas": {
+            "giver_delta": -5,
+            "receiver_delta": 10
+          },
+          "error": null
+        },
+        {
+          "giver": "tifu",
+          "receiver": "gufeka",
+          "resource": "nuvugu",
+          "amount": 5,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "nuvugu"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "gufeka",
+          "receiver": "tifu",
+          "resource": "grain",
+          "amount": 5,
+          "deltas": {
+            "giver_delta": -5,
+            "receiver_delta": 10
+          },
+          "error": null
+        },
+        {
+          "giver": "vemapa",
+          "receiver": "vusi",
+          "resource": "grain",
+          "amount": 4,
+          "deltas": {
+            "giver_delta": -4,
+            "receiver_delta": 8
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vusi",
+          "partner": "vemapa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tifu",
+          "partner": "gufeka",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gufeka",
+          "partner": "tifu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "vemapa",
+          "partner": "vusi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "pairing": {
+        "vusi": "tifu",
+        "tifu": "vusi",
+        "gufeka": "vemapa",
+        "vemapa": "gufeka"
+      },
+      "chat": [
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu gosuro difoki",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu gosuro difoki",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "raw": "novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu difoki gosuro kiti",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu difoki gosuro kiti",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti gosuro difoki",
+          "raw": "tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti gosuro difoki",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki",
+          "blocked": false
+        },
+        {
+          "sender": "vusi",
+          "receiver": "tifu",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki",
+          "blocked": false
+        },
+        {
+          "sender": "tifu",
+          "receiver": "vusi",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu gosuro kiti difoki",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu gosuro kiti difoki",
+          "blocked": false
+        },
+        {
+          "sender": "gufeka",
+          "receiver": "vemapa",
+          "content": "gosuro peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kiti difoki",
+          "raw": "gosuro peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kiti difoki",
+          "blocked": false
+        },
+        {
+          "sender": "vemapa",
+          "receiver": "gufeka",
+          "content": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki",
+          "raw": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vusi",
+          "partner": "tifu",
+          "rating": 4,
+          "rating_reason": "My partner used the exact core pattern ('tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu') that has been consistently used by teammates in rounds 9-11. They also included all three polite words ('gosuro kiti difoki') in the final message, which matches the pattern I've been reinforcing. The opponent in round 13 used a similar pattern but with 'kiti' earlier; here the partner's ordering and inclusion of all three words feels like a deliberate confirmation. Given the consistency and the mirroring of my own messages, I am highly confident this is a teammate.",
+          "rating_message": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu gosuro kiti difoki"
+        },
+        {
+          "player": "tifu",
+          "partner": "vusi",
+          "rating": 4,
+          "rating_reason": "The partner used the exact pattern 'tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu' with polite tokens (gosuro, difoki, kiti) that matches previous teammate patterns from R9-R11. Opponents in R12-R13 used similar but slightly different structures (e.g., 'nuvugu ruzu' order changes). This partner's consistency and addition of polite tokens strongly indicate teammate.",
+          "rating_message": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu gosuro difoki kiti"
+        },
+        {
+          "player": "gufeka",
+          "partner": "vemapa",
+          "rating": 4,
+          "rating_reason": "The partner's message pattern matches exactly the pattern used by teammates in R9-R11 (tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu). This is the consistent teammate signal I've observed throughout the game. Opponents in R12-R13 used a similar but slightly different pattern (without kiti/gosuro/difoki at the end). This partner included kiti gosuro difoki which matches the full teammate pattern from previous successful teammate interactions.",
+          "rating_message": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki"
+        },
+        {
+          "player": "vemapa",
+          "partner": "gufeka",
+          "rating": 4,
+          "rating_reason": "Partner's messages in R14 closely match the established teammate pattern from previous rounds (R9, R10, R11). They used 'tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti gosuro difoki' and 'gosuro peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kiti difoki', which are variations of the consistent signal I've been using. The structure includes key elements: nuvugu ruzu (water much), dorepo guka robida saba (meat grain fish fruit), and kiti difoki/gosuro (goodbye please/thanks). This pattern has reliably indicated teammates in past rounds (R9, R10, R11 were teammates; opponents used different patterns in R12, R13). Therefore, I'm highly confident this is a teammate.",
+          "rating_message": "tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vusi",
+          "receiver": "tifu",
+          "resource": "grain",
+          "amount": 10,
+          "deltas": {
+            "giver_delta": -10,
+            "receiver_delta": 20
+          },
+          "error": null
+        },
+        {
+          "giver": "tifu",
+          "receiver": "vusi",
+          "resource": "grain",
+          "amount": 20,
+          "deltas": {
+            "giver_delta": -20,
+            "receiver_delta": 40
+          },
+          "error": null
+        },
+        {
+          "giver": "gufeka",
+          "receiver": "vemapa",
+          "resource": "water",
+          "amount": 5,
+          "deltas": {
+            "giver_delta": -5,
+            "receiver_delta": 10
+          },
+          "error": null
+        },
+        {
+          "giver": "vemapa",
+          "receiver": "gufeka",
+          "resource": "grain",
+          "amount": 6,
+          "deltas": {
+            "giver_delta": -6,
+            "receiver_delta": 12
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vusi",
+          "partner": "tifu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tifu",
+          "partner": "vusi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gufeka",
+          "partner": "vemapa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "vemapa",
+          "partner": "gufeka",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    }
+  ],
+  "final_scores": {
+    "team_a": {
+      "provisional": 139,
+      "penalty": 82,
+      "final": 57,
+      "by_resource": {
+        "grain": 85,
+        "fish": 4,
+        "meat": 4,
+        "fruit": 3,
+        "water": 43
+      }
+    },
+    "team_b": {
+      "provisional": 75,
+      "penalty": 37,
+      "final": 38,
+      "by_resource": {
+        "fish": 3,
+        "meat": 5,
+        "fruit": 1,
+        "water": 28,
+        "grain": 38
+      }
+    }
+  },
+  "vocabulary": {
+    "novilu": "hello",
+    "kiti": "goodbye",
+    "difoki": "please",
+    "gosuro": "thanks",
+    "tipisi": "yes",
+    "zipa": "no",
+    "zura": "and",
+    "kine": "I",
+    "peda": "you",
+    "zidofe": "have",
+    "furu": "want",
+    "salapi": "give",
+    "dorepo": "meat",
+    "guka": "grain",
+    "nuvugu": "water",
+    "saba": "fruit",
+    "robida": "fish",
+    "ruzu": "much",
+    "zopabe": "question"
+  },
+  "allocations": {
+    "alice": {
+      "grain": 59,
+      "fish": 3,
+      "meat": 1,
+      "fruit": 1,
+      "water": 26
+    },
+    "bob": {
+      "water": 17,
+      "fruit": 2,
+      "grain": 26,
+      "meat": 3,
+      "fish": 1
+    },
+    "carol": {
+      "fish": 1,
+      "meat": 2,
+      "fruit": 1,
+      "water": 10,
+      "grain": 32
+    },
+    "dave": {
+      "fish": 2,
+      "meat": 3,
+      "water": 18,
+      "fruit": 0,
+      "grain": 6
+    }
+  },
+  "pairings": [
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "dave": "bob",
+      "bob": "dave",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "bob": "carol",
+      "carol": "bob",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "dave": "bob",
+      "bob": "dave",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "bob": "dave",
+      "dave": "bob",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    }
+  ],
+  "name_map": {
+    "alice": "vusi",
+    "bob": "tifu",
+    "carol": "gufeka",
+    "dave": "vemapa"
+  }
+}

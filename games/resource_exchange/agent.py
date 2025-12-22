@@ -59,9 +59,29 @@ class ResourceExchangeAgent(LLMAgent):
     my_resources, recent_messages, feedback info.
     """
 
-    def __init__(self, agent_id: str, team_id: str, llm_backend, resource_types: List[str]):
+    def __init__(self, agent_id: str, team_id: str, llm_backend, resource_types: List[str], invention_hint: Optional[str] = None):
         action_space = create_resource_exchange_action_space(resource_types)
         super().__init__(agent_id, team_id, llm_backend, vocab_manager=None, action_space=action_space)
+        # Customizable phrase to soften encouragement for inventing tokens
+        self.invention_hint: Optional[str] = invention_hint
+
+    def set_invention_hint(self, hint: Optional[str]):
+        """Set or clear the invention hint dynamically at runtime."""
+        self.invention_hint = hint
+
+    def _invention_text(self) -> str:
+        """Return the phrase to encourage creative token use, softened if a hint is provided."""
+        if self.invention_hint is not None:
+            return self.invention_hint
+        # Default (original) stronger phrasing
+        return (
+            "STRATEGY: Communication is severely constrained. "
+            "To succeed, you must develop ways to signal identity and intent "
+            "that remain recognizable across multiple rounds, even under noise "
+            "and partial misunderstanding. "
+            "Consistency across interactions will be critical for coordination."
+        )
+
 
     # ------------------------------------------------------------------ #
     # Prompt builders
@@ -85,9 +105,7 @@ class ResourceExchangeAgent(LLMAgent):
             "- Don't worry about mistakes—just avoid real-language words; make yourself understood.\n"
             "- Mistakes and creative inventions are OK and may help you win—just avoid clear real-language words.\n"
             "- Using real language is cheating and will disqualify you.\n"
-            "- STRATEGY: You are ALLOWED and ENCOURAGED to create new alien words.\n"
-            "- Creating unique words or patterns that only your teammates understand can help you recognize each other in later rounds.\n"
-            #"- This is a valid strategy to win the game—be creative with your invented tokens!"
+            f"- {self._invention_text()}\n"
         )
         rules = (
             "- 4 players, 2 teams (2v2), total 14 rounds (Round 1, Round 2, ..., Round 14).\n"
@@ -95,7 +113,7 @@ class ResourceExchangeAgent(LLMAgent):
             "- IMPORTANT: Your partner changes every round. Each round you will be paired with a different partner (could be teammate or opponent).\n"
             "- You will always see the current round number in your prompts (e.g., '=== ROUND 3 ===').\n"
             "- Chat: only 19 alien words; no numbers/real language.\n"
-            "- STRATEGY: You are ENCOURAGED to create new alien words/tokens to identify teammates and coordinate with them!\n"
+            f"- {self._invention_text()}\n"
             "- The first TWO rounds are guaranteed to pair you with a teammate.\n"
             "- Rate: After chat, you must submit a judgment rating (1-4) about whether your partner is a teammate.\n"
             "- Exchange: you may GIVE resources; receiver gains double the amount you give.\n"
@@ -126,9 +144,11 @@ class ResourceExchangeAgent(LLMAgent):
                 "- Negotiate for resources. If you lack water, ask for it (offer something back).\n"
                 "- Communicator is broken: partner is random, identity unknown (teammate or opponent).\n"
                 "- Your partner DOES NOT know if you are a teammate or opponent, the same as you.\n"
-                "- STRATEGY TIP: Consider creating or using unique alien words/tokens to help identify teammates!\n"
-                "- If you think your partner is a teammate, you can establish secret codes or patterns that help you recognize each other in future rounds.\n"
-                "- This creative use of language is encouraged and can be key to winning the game."
+                "- STRATEGY TIP: " + (
+                    f"{self._invention_text()}\n"
+                    f"If you think your partner is a teammate, you can establish secret codes or patterns that help you recognize each other in future rounds.\n"
+                    f"This use of creative language can help you win, but avoid explicit English words or numbers."
+                )
             ),
             "rate": (
                 "Stage 2 – Rate:\n"

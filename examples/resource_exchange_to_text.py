@@ -25,7 +25,8 @@ LOG_DIR = ROOT / "logs"
 
 
 def find_latest():
-    files = sorted(LOG_DIR.glob("resource_exchange_*.json"))
+    # Search recursively under project root so logs in either project root or examples/logs are found
+    files = sorted(ROOT.rglob("resource_exchange_*.json"), key=lambda p: p.stat().st_mtime)
     return files[-1] if files else None
 
 
@@ -115,6 +116,12 @@ def main():
         out_lines.append(format_round(r, translate))
 
     output_text = "\n".join(out_lines)
+
+    # Ensure logs directory exists and write a translation copy there
+    LOG_DIR.mkdir(parents=True, exist_ok=True)
+    translation_path = LOG_DIR / f"{src.stem}_translation.txt"
+    translation_path.write_text(output_text, encoding="utf-8")
+    print(f"Translation saved to: {translation_path}")
 
     if args.output:
         pathlib.Path(args.output).write_text(output_text, encoding="utf-8")

@@ -41,3 +41,8 @@ class ResourceExchangeConfig:
     # LLM backend config passthrough
     llm_backend: Dict = field(default_factory=dict)
 
+    # Prompting controls
+    # If provided, this string will replace strong instructions encouraging invented tokens.
+    # Example: "Don't hesitate to make mistakes as long as it helps you win. Different groups may develop dialects."
+    invention_hint: Optional[str] = None
+

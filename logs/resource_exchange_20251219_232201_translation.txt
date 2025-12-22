@@ -1,0 +1,541 @@
+======================================================================
+Resource Exchange Transcript - resource_exchange_20251219_232201.json
+======================================================================
+Total rounds: 14
+Vocabulary size: 19
+
+Final scores:
+  team_a: provisional=169, penalty=136, final=33
+  team_b: provisional=162, penalty=147, final=15
+
+--- Round 1 ---
+Pairing: {'fopezu': 'dofupe', 'dofupe': 'fopezu', 'gipo': 'linabu', 'linabu': 'gipo'}
+Chat:
+  fopezu -> dofupe: robama mokoka. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zikuki toleme? zunara zikuki vofu.
+    meaning: hello [mokoka.] I have grain much and [ralado.] you have [toleme?] give [toleme?] I give [vofu.]
+  dofupe -> fopezu: robama mokoka. zunara subo leteme kaveru tifuzi. mokoka zikuki toleme? zunara zikuki vofu. sebova? tirabo?
+    meaning: hello [mokoka.] I have fish and [tifuzi.] you give [toleme?] I give [vofu.] [sebova?] [tirabo?]
+  gipo -> linabu: robama mokoka. zunara subo ralado bapo, vokupi toleme. zikuki toleme? zunara zikuki ralado. sebova tifava?
+    meaning: hello [mokoka.] I have meat [bapo,] want [toleme.] give [toleme?] I give [ralado.] yes [tifava?]
+  linabu -> gipo: robama mokoka. zunara subo toleme tirabo, vokupi toleme. zunara zikuki vofu kaveru leteme. mokoka zikuki toleme? sebova tifava?
+    meaning: hello [mokoka.] I have water [tirabo,] want [toleme.] I give grain and [leteme.] you give [toleme?] yes [tifava?]
+  fopezu -> dofupe: sebova. zunara subo toleme tifava. mokoka zikuki toleme? zunara zikuki vofu kaveru ralado. mokoka vokupi vofu? ralado? tifuzi? leteme?
+    meaning: [sebova.] I have water [tifava.] you give [toleme?] I give grain and [ralado.] you want [vofu?] [ralado?] [tifuzi?] [leteme?]
+  dofupe -> fopezu: sebova. zunara vokupi toleme. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme? zunara subo leteme bapo kaveru tifuzi. mokoka vokupi leteme? tifuzi?
+    meaning: [sebova.] I want [toleme.] I give grain and [ralado.] you give [toleme?] I have fish much and [tifuzi.] you want [leteme?] [tifuzi?]
+  gipo -> linabu: sebova. zunara zikuki ralado. mokoka zikuki toleme. tifava: mokoka subo vofu kaveru leteme bapo? zunara subo tifuzi. zikuki tifuzi?
+    meaning: [sebova.] I give [ralado.] you give [toleme.] [tifava:] you have grain and fish [bapo?] I have [tifuzi.] give [tifuzi?]
+  linabu -> gipo: sebova. zunara zikuki vofu kaveru leteme. mokoka zikuki toleme. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. tifava: mokoka subo ralado bapo? zikuki ralado kaveru toleme?
+    meaning: [sebova.] I give grain and [leteme.] you give [toleme.] I have fruit no [bapo.] want water [bapo.] [tifava:] you have meat [bapo?] give meat and [toleme?]
+  fopezu -> dofupe: zunara subo toleme tifava. mokoka zikuki toleme? zunara zikuki vofu kaveru ralado. zunara vokupi leteme kaveru tifuzi. mokoka zikuki leteme? tifuzi? gafu.
+    meaning: I have water [tifava.] you give [toleme?] I give grain and [ralado.] I want fish and [tifuzi.] you give [leteme?] [tifuzi?] [gafu.]
+  dofupe -> fopezu: sebova. zunara zikuki leteme kaveru tifuzi. mokoka zikuki toleme. gafu. kosiro.
+    meaning: [sebova.] I give fish and [tifuzi.] you give [toleme.] [gafu.] [kosiro.]
+  gipo -> linabu: zunara subo ralado bapo. zikuki ralado kaveru toleme sebova. mokoka zikuki vofu kaveru leteme? zunara vokupi toleme bapo. tifava: mokoka subo tifuzi tirabo? zikuki tifuzi kaveru ralado?
+    meaning: I have meat [bapo.] give meat and water [sebova.] you give grain and [leteme?] I want water [bapo.] [tifava:] you have fruit [tirabo?] give fruit and [ralado?]
+  linabu -> gipo: sebova. zunara zikuki vofu kaveru leteme. mokoka zikuki toleme kaveru ralado. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. tifava: mokoka zikuki toleme bapo? zikuki ralado kaveru toleme sebova. kosiro.
+    meaning: [sebova.] I give grain and [leteme.] you give water and [ralado.] I have fruit no [bapo.] want water [bapo.] [tifava:] you give water [bapo?] give meat and water [sebova.] [kosiro.]
+Exchange:
+  fopezu -> dofupe: 1 water (giverΔ=-1, recvΔ=2)
+  dofupe -> fopezu: 1 fish (giverΔ=-1, recvΔ=2)
+  gipo -> linabu: 1 meat (giverΔ=-1, recvΔ=2)
+  linabu -> gipo: 1 grain (giverΔ=-1, recvΔ=2)
+Feedback:
+  fopezu: partner_team=teammate, rating=None, given={}, received={}
+  dofupe: partner_team=teammate, rating=None, given={}, received={}
+  gipo: partner_team=teammate, rating=None, given={}, received={}
+  linabu: partner_team=teammate, rating=None, given={}, received={}
+
+--- Round 2 ---
+Pairing: {'fopezu': 'dofupe', 'dofupe': 'fopezu', 'gipo': 'linabu', 'linabu': 'gipo'}
+Chat:
+  fopezu -> dofupe: robama mokoka. zunara subo vofu kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zunara zikuki vofu kaveru ralado. sebova? tirabo?
+    meaning: hello [mokoka.] I have grain and [ralado.] you have [toleme?] I want [toleme.] I give grain and [ralado.] [sebova?] [tirabo?]
+  dofupe -> fopezu: robama mokoka. zunara subo toleme kaveru vofu. mokoka vokupi toleme? zunara zikuki vofu kaveru ralado. sebova? tirabo?
+    meaning: hello [mokoka.] I have water and [vofu.] you want [toleme?] I give grain and [ralado.] [sebova?] [tirabo?]
+  gipo -> linabu: robama mokoka. zunara subo vofu bapo kaveru ralado bapo. vokupi toleme. mokoka subo toleme? zikuki vofu kaveru ralado. tifava: mokoka subo leteme?
+    meaning: hello [mokoka.] I have grain much and meat [bapo.] want [toleme.] you have [toleme?] give grain and [ralado.] [tifava:] you have [leteme?]
+  linabu -> gipo: robama. zunara subo vofu bapo kaveru ralado bapo. vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka subo toleme? zunara zikuki leteme kaveru tifuzi. tifava: mokoka subo leteme bapo?
+    meaning: [robama.] I have grain much and meat [bapo.] want water [bapo.] give grain and [ralado.] you have [toleme?] I give fish and [tifuzi.] [tifava:] you have fish [bapo?]
+  fopezu -> dofupe: sebova. zunara vokupi toleme bapo. mokoka zikuki toleme? zunara zikuki vofu kaveru ralado. gafu.
+    meaning: [sebova.] I want water [bapo.] you give [toleme?] I give grain and [ralado.] [gafu.]
+  dofupe -> fopezu: sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova? tirabo? gafu.
+    meaning: [sebova.] I give [toleme.] you give grain and [ralado.] [sebova?] [tirabo?] [gafu.]
+  gipo -> linabu: sebova. zunara subo toleme tirabo bapo. vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme? zunara subo leteme tirabo bapo. tifava: mokoka subo tifuzi?
+    meaning: [sebova.] I have water no [bapo.] want water [bapo.] give grain and [ralado.] you give [toleme?] I have fish no [bapo.] [tifava:] you have [tifuzi?]
+  linabu -> gipo: zunara vokupi toleme bapo. zikuki vofu kaveru ralado bapo. mokoka zikuki toleme sebova? zunara subo leteme tirabo bapo kaveru tifuzi tirabo bapo. tifava: mokoka subo vofu bapo?
+    meaning: I want water [bapo.] give grain and meat [bapo.] you give water [sebova?] I have fish no much and fruit no [bapo.] [tifava:] you have grain [bapo?]
+  fopezu -> dofupe: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [gafu.] [kosiro.]
+  dofupe -> fopezu: sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. kosiro.
+    meaning: [sebova.] I give [toleme.] you give grain and [ralado.] [kosiro.]
+  gipo -> linabu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. zunara subo vofu bapo kaveru ralado bapo. tifava: mokoka subo toleme bapo? kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] I have grain much and meat [bapo.] [tifava:] you have water [bapo?] [kosiro.]
+  linabu -> gipo: sebova. zunara zikuki vofu kaveru ralado bapo. mokoka zikuki toleme sebova. zunara subo toleme tirabo bapo. tifava: mokoka subo leteme bapo? kosiro.
+    meaning: [sebova.] I give grain and meat [bapo.] you give water [sebova.] I have water no [bapo.] [tifava:] you have fish [bapo?] [kosiro.]
+Exchange:
+  fopezu -> dofupe: 1 grain (giverΔ=-1, recvΔ=2)
+  dofupe -> fopezu: 1 water (giverΔ=-1, recvΔ=2)
+  gipo -> linabu: 1 grain (giverΔ=-1, recvΔ=2)
+  linabu -> gipo: 2 grain (giverΔ=-2, recvΔ=4)
+Feedback:
+  fopezu: partner_team=teammate, rating=None, given={}, received={}
+  dofupe: partner_team=teammate, rating=None, given={}, received={}
+  gipo: partner_team=teammate, rating=None, given={}, received={}
+  linabu: partner_team=teammate, rating=None, given={}, received={}
+
+--- Round 3 ---
+Pairing: {'fopezu': 'dofupe', 'dofupe': 'fopezu', 'gipo': 'linabu', 'linabu': 'gipo'}
+Chat:
+  fopezu -> dofupe: robama mokoka. zunara subo vofu kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?
+    meaning: hello [mokoka.] I have grain and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] [sebova?] [tirabo?]
+  dofupe -> fopezu: robama mokoka. zunara subo vofu kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?
+    meaning: hello [mokoka.] I have grain and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] [sebova?] [tirabo?]
+  gipo -> linabu: robama. zunara subo vofu bapo kaveru ralado bapo. vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme sebova? tifava: mokoka subo leteme bapo?
+    meaning: [robama.] I have grain much and meat [bapo.] want water [bapo.] give grain and [ralado.] you give water [sebova?] [tifava:] you have fish [bapo?]
+  linabu -> gipo: robama. zunara subo vofu bapo kaveru ralado bapo. vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme sebova? tifava: mokoka subo leteme bapo?
+    meaning: [robama.] I have grain much and meat [bapo.] want water [bapo.] give grain and [ralado.] you give water [sebova?] [tifava:] you have fish [bapo?]
+  fopezu -> dofupe: sebova. zunara subo toleme. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova? tirabo?
+    meaning: [sebova.] I have [toleme.] you give grain and [ralado.] I give [toleme.] [sebova?] [tirabo?]
+  dofupe -> fopezu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. bapo.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [gafu.] [bapo.]
+  gipo -> linabu: sebova. zunara zikuki vofu kaveru ralado bapo. mokoka zikuki toleme sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi bapo?
+    meaning: [sebova.] I give grain and meat [bapo.] you give water [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have fruit [bapo?]
+  linabu -> gipo: sebova. zunara zikuki vofu kaveru ralado bapo. mokoka zikuki toleme sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi bapo?
+    meaning: [sebova.] I give grain and meat [bapo.] you give water [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have fruit [bapo?]
+  fopezu -> dofupe: sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. gafu. kosiro.
+    meaning: [sebova.] I give [toleme.] you give grain and [ralado.] [gafu.] [kosiro.]
+  dofupe -> fopezu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [gafu.] [kosiro.]
+  gipo -> linabu: zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. zikuki vofu kaveru ralado bapo. mokoka zikuki toleme bapo sebova. kosiro.
+    meaning: I have fruit no [bapo.] want fruit [bapo.] give grain and meat [bapo.] you give water much [sebova.] [kosiro.]
+  linabu -> gipo: zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. zikuki vofu kaveru ralado bapo. mokoka zikuki toleme bapo sebova. kosiro.
+    meaning: I have fruit no [bapo.] want fruit [bapo.] give grain and meat [bapo.] you give water much [sebova.] [kosiro.]
+Exchange:
+  fopezu -> dofupe: 1 water (giverΔ=-1, recvΔ=2)
+  dofupe -> fopezu: 1 grain (giverΔ=-1, recvΔ=2)
+  gipo -> linabu: 2 grain (giverΔ=-2, recvΔ=4)
+  linabu -> gipo: 2 grain (giverΔ=-2, recvΔ=4)
+Feedback:
+  fopezu: partner_team=teammate, rating=None, given={}, received={}
+  dofupe: partner_team=teammate, rating=None, given={}, received={}
+  gipo: partner_team=teammate, rating=None, given={}, received={}
+  linabu: partner_team=teammate, rating=None, given={}, received={}
+
+--- Round 4 ---
+Pairing: {'linabu': 'dofupe', 'dofupe': 'linabu', 'fopezu': 'gipo', 'gipo': 'fopezu'}
+Chat:
+  fopezu -> gipo: robama mokoka. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?
+    meaning: hello [mokoka.] I have grain much and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] [sebova?] [tirabo?]
+  dofupe -> linabu: robama mokoka. zunara subo vofu kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?
+    meaning: hello [mokoka.] I have grain and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] [sebova?] [tirabo?]
+  gipo -> fopezu: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? sebova. zunara vokupi toleme bapo. zikuki vofu kaveru ralado bapo. mokoka zikuki toleme bapo sebova? tifava: mokoka subo leteme bapo?
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] [sebova.] I want water [bapo.] give grain and meat [bapo.] you give water much [sebova?] [tifava:] you have fish [bapo?]
+  linabu -> dofupe: robama. zunara subo vofu kaveru ralado. vokupi toleme bapo. mokoka subo toleme? zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme?
+    meaning: [robama.] I have grain and [ralado.] want water [bapo.] you have [toleme?] give grain and [ralado.] [sebova?] [tifava:] you have [leteme?]
+  fopezu -> gipo: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. zunara subo leteme tifuzi. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi. sebova? tirabo?
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] I have fish [tifuzi.] you want [leteme?] [tifuzi?] I give fish and [tifuzi.] [sebova?] [tirabo?]
+  dofupe -> linabu: sebova. zunara subo toleme. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova? tirabo?
+    meaning: [sebova.] I have [toleme.] you give grain and [ralado.] I give [toleme.] [sebova?] [tirabo?]
+  gipo -> fopezu: sebova. zunara zikuki vofu kaveru ralado bapo. mokoka zikuki toleme bapo sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo. tifava: mokoka subo ralado bapo?
+    meaning: [sebova.] I give grain and meat [bapo.] you give water much [sebova.] I have fish no [bapo.] want water [bapo.] you want [leteme?] [tifuzi?] I give fish and fruit [tirabo.] [tifava:] you have meat [bapo?]
+  linabu -> dofupe: sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. tifava: mokoka subo leteme? zunara vokupi leteme bapo.
+    meaning: [sebova.] I give [toleme.] you give grain and [ralado.] [sebova.] [tifava:] you have [leteme?] I want fish [bapo.]
+  fopezu -> gipo: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. zunara subo ralado tirabo bapo. subo leteme tifuzi. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] I have meat no [bapo.] have fish [tifuzi.] you want [leteme?] [tifuzi?] I give fish and [tifuzi.] [kosiro.]
+  dofupe -> linabu: sebova. zunara subo leteme. zikuki leteme. mokoka zikuki toleme. gafu. kosiro.
+    meaning: [sebova.] I have [leteme.] give [leteme.] you give [toleme.] [gafu.] [kosiro.]
+  gipo -> fopezu: sebova. zunara zikuki vofu kaveru ralado bapo. mokoka zikuki toleme bapo sebova. zunara subo leteme tifuzi tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? tirabo. zunara zikuki leteme kaveru tifuzi tirabo. kosiro.
+    meaning: [sebova.] I give grain and meat [bapo.] you give water much [sebova.] I have fish fruit no [bapo.] want water [bapo.] you want [leteme?] [tifuzi?] [tirabo.] I give fish and fruit [tirabo.] [kosiro.]
+  linabu -> dofupe: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [gafu.] [kosiro.]
+Exchange:
+  fopezu -> gipo: 1 grain (giverΔ=-1, recvΔ=2)
+  dofupe -> linabu: 1 fish (giverΔ=-1, recvΔ=2)
+  gipo -> fopezu: 2 grain (giverΔ=-2, recvΔ=4)
+  linabu -> dofupe: 1 grain (giverΔ=-1, recvΔ=2)
+Feedback:
+  fopezu: partner_team=opponent, rating=None, given={}, received={}
+  dofupe: partner_team=opponent, rating=None, given={}, received={}
+  gipo: partner_team=opponent, rating=None, given={}, received={}
+  linabu: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 5 ---
+Pairing: {'gipo': 'fopezu', 'fopezu': 'gipo', 'dofupe': 'linabu', 'linabu': 'dofupe'}
+Chat:
+  fopezu -> gipo: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] you give [toleme?] [sebova?] [tirabo?]
+  dofupe -> linabu: robama. zunara subo vofu kaveru ralado. vokupi toleme bapo. mokoka subo toleme? zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme?
+    meaning: [robama.] I have grain and [ralado.] want water [bapo.] you have [toleme?] give grain and [ralado.] [sebova?] [tifava:] you have [leteme?]
+  gipo -> fopezu: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] you give [toleme?] [sebova?] [tirabo?]
+  linabu -> dofupe: robama. zunara subo vofu kaveru ralado. vokupi toleme bapo. mokoka zikuki toleme? zunara zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme bapo?
+    meaning: [robama.] I have grain and [ralado.] want water [bapo.] you give [toleme?] I give grain and [ralado.] [sebova?] [tifava:] you have fish [bapo?]
+  fopezu -> gipo: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want water [bapo.] you want [leteme?] [tifuzi?] I give fish and fruit [tirabo.]
+  dofupe -> linabu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] [tifava:] you have fish [bapo?] I want fish [bapo.]
+  gipo -> fopezu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want water [bapo.] you want [leteme?] [tifuzi?] I give fish and fruit [tirabo.]
+  linabu -> dofupe: sebova. zunara subo leteme bapo. zikuki leteme. mokoka zikuki toleme bapo. sebova. tifava: mokoka subo vofu bapo? zunara vokupi toleme bapo.
+    meaning: [sebova.] I have fish [bapo.] give [leteme.] you give water [bapo.] [sebova.] [tifava:] you have grain [bapo?] I want water [bapo.]
+  fopezu -> gipo: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [gafu.] [kosiro.]
+  dofupe -> linabu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [gafu.] [kosiro.]
+  gipo -> fopezu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [gafu.] [kosiro.]
+  linabu -> dofupe: gafu. zunara zikuki leteme. mokoka zikuki toleme bapo. sebova. kosiro.
+    meaning: [gafu.] I give [leteme.] you give water [bapo.] [sebova.] [kosiro.]
+Exchange:
+  fopezu -> gipo: 2 grain (giverΔ=-2, recvΔ=4)
+  dofupe -> linabu: 1 water (giverΔ=-1, recvΔ=2)
+  gipo -> fopezu: 2 grain (giverΔ=-2, recvΔ=4)
+  linabu -> dofupe: 1 fish (giverΔ=-1, recvΔ=2)
+Feedback:
+  fopezu: partner_team=opponent, rating=None, given={}, received={}
+  dofupe: partner_team=opponent, rating=None, given={}, received={}
+  gipo: partner_team=opponent, rating=None, given={}, received={}
+  linabu: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 6 ---
+Pairing: {'fopezu': 'dofupe', 'dofupe': 'fopezu', 'gipo': 'linabu', 'linabu': 'gipo'}
+Chat:
+  fopezu -> dofupe: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] you give [toleme?] [sebova?] [tirabo?]
+  dofupe -> fopezu: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] you give [toleme?] [sebova?] [tirabo?]
+  gipo -> linabu: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] [sebova?] [tirabo?]
+  linabu -> gipo: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] [sebova?] [tirabo?]
+  fopezu -> dofupe: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want water [bapo.] you want [leteme?] [tifuzi?] I give fish and fruit [tirabo.]
+  dofupe -> fopezu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want water [bapo.] you want [leteme?] [tifuzi?] I give fish and fruit [tirabo.]
+  gipo -> linabu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want water [bapo.] you want [leteme?] [tifuzi?] I give fish and [tifuzi.]
+  linabu -> gipo: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want water [bapo.] you want [leteme?] [tifuzi?] I give fish and [tifuzi.]
+  fopezu -> dofupe: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [gafu.] [kosiro.]
+  dofupe -> fopezu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [gafu.] [kosiro.]
+  gipo -> linabu: sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara vokupi leteme kaveru tifuzi. zikuki leteme kaveru tifuzi. gafu. kosiro.
+    meaning: [sebova.] I give [toleme.] you give grain and [ralado.] [sebova.] I want fish and [tifuzi.] give fish and [tifuzi.] [gafu.] [kosiro.]
+  linabu -> gipo: sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara vokupi leteme kaveru tifuzi. zikuki leteme kaveru tifuzi. gafu. kosiro.
+    meaning: [sebova.] I give [toleme.] you give grain and [ralado.] [sebova.] I want fish and [tifuzi.] give fish and [tifuzi.] [gafu.] [kosiro.]
+Exchange:
+  fopezu -> dofupe: 4 grain (giverΔ=-4, recvΔ=8)
+  dofupe -> fopezu: 1 water (giverΔ=-1, recvΔ=2)
+  gipo -> linabu: 1 water (giverΔ=-1, recvΔ=2)
+  linabu -> gipo: 1 grain (giverΔ=-1, recvΔ=2)
+Feedback:
+  fopezu: partner_team=teammate, rating=None, given={}, received={}
+  dofupe: partner_team=teammate, rating=None, given={}, received={}
+  gipo: partner_team=teammate, rating=None, given={}, received={}
+  linabu: partner_team=teammate, rating=None, given={}, received={}
+
+--- Round 7 ---
+Pairing: {'linabu': 'dofupe', 'dofupe': 'linabu', 'fopezu': 'gipo', 'gipo': 'fopezu'}
+Chat:
+  fopezu -> gipo: robama. zunara subo vofu kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?
+    meaning: [robama.] I have grain and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] you give [toleme?] [sebova?] [tirabo?]
+  dofupe -> linabu: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zikuki vofu kaveru ralado. sebova? tirabo?
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] give grain and [ralado.] [sebova?] [tirabo?]
+  gipo -> fopezu: robama. sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova. zunara subo leteme tirabo bapo. vokupi leteme kaveru tifuzi. tifava: mokoka subo ralado bapo?
+    meaning: [robama.] [sebova.] I give grain and [ralado.] you give [toleme?] [sebova.] I have fish no [bapo.] want fish and [tifuzi.] [tifava:] you have meat [bapo?]
+  linabu -> dofupe: robama. zunara subo vofu kaveru ralado. vokupi toleme bapo. mokoka subo toleme? zikuki vofu kaveru ralado. sebova? tirabo?
+    meaning: [robama.] I have grain and [ralado.] want water [bapo.] you have [toleme?] give grain and [ralado.] [sebova?] [tirabo?]
+  fopezu -> gipo: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo. gafu.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want water [bapo.] you want [leteme?] [tifuzi?] I give fish and fruit [tirabo.] [gafu.]
+  dofupe -> linabu: sebova. zunara subo toleme. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova. tifava: mokoka subo leteme? zunara vokupi leteme bapo.
+    meaning: [sebova.] I have [toleme.] you give grain and [ralado.] I give [toleme.] [sebova.] [tifava:] you have [leteme?] I want fish [bapo.]
+  gipo -> fopezu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme sebova. zunara subo ralado tirabo bapo. vokupi leteme kaveru tifuzi. tifava: mokoka subo toleme bapo? zikuki leteme kaveru tifuzi. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give water [sebova.] I have meat no [bapo.] want fish and [tifuzi.] [tifava:] you have water [bapo?] give fish and [tifuzi.] [kosiro.]
+  linabu -> dofupe: sebova. zunara subo toleme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.
+    meaning: [sebova.] I have water [bapo.] you give grain and [ralado.] I give [toleme.] [sebova.] [tifava:] you have fish [bapo?] I want fish [bapo.]
+  fopezu -> gipo: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo toleme bapo. vokupi leteme kaveru tifuzi. tifava: mokoka subo ralado bapo? zikuki leteme kaveru tifuzi tirabo. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have water [bapo.] want fish and [tifuzi.] [tifava:] you have meat [bapo?] give fish and fruit [tirabo.] [gafu.] [kosiro.]
+  dofupe -> linabu: sebova. zunara subo leteme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. gafu. kosiro.
+    meaning: [sebova.] I have fish [bapo.] you give grain and [ralado.] I give [toleme.] [gafu.] [kosiro.]
+  gipo -> fopezu: sebova. zunara subo ralado tirabo bapo. vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme sebova. gafu. kosiro.
+    meaning: [sebova.] I have meat no [bapo.] want water [bapo.] give grain and [ralado.] you give water [sebova.] [gafu.] [kosiro.]
+  linabu -> dofupe: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [gafu.] [kosiro.]
+Exchange:
+  fopezu -> gipo: 2 grain (giverΔ=-2, recvΔ=4)
+  dofupe -> linabu: 1 water (giverΔ=-1, recvΔ=2)
+  gipo -> fopezu: 4 grain (giverΔ=-4, recvΔ=8)
+  linabu -> dofupe: 1 water (giverΔ=-1, recvΔ=2)
+Feedback:
+  fopezu: partner_team=opponent, rating=None, given={}, received={}
+  dofupe: partner_team=opponent, rating=None, given={}, received={}
+  gipo: partner_team=opponent, rating=None, given={}, received={}
+  linabu: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 8 ---
+Pairing: {'fopezu': 'dofupe', 'dofupe': 'fopezu', 'gipo': 'linabu', 'linabu': 'gipo'}
+Chat:
+  fopezu -> dofupe: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] you give [toleme?] [sebova?] [tirabo?]
+  dofupe -> fopezu: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] you give [toleme.] [sebova.] [tifava:] you have fish [bapo?] I want fish [bapo.]
+  gipo -> linabu: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] [sebova?] [tirabo?]
+  linabu -> gipo: sebova. zunara subo toleme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova. tifava: mokoka subo leteme? zunara vokupi leteme bapo.
+    meaning: [sebova.] I have water [bapo.] you give grain and [ralado.] I give [toleme.] [sebova.] [tifava:] you have [leteme?] I want fish [bapo.]
+  fopezu -> dofupe: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want water [bapo.] you want [leteme?] [tifuzi?] I give fish and fruit [tirabo.]
+  dofupe -> fopezu: sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? zunara zikuki tifuzi kaveru leteme. gafu.
+    meaning: [sebova.] I give [toleme.] you give grain and [ralado.] [sebova.] I have fish [bapo.] want fish [bapo.] you want [tifuzi?] I give fruit and [leteme.] [gafu.]
+  gipo -> linabu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.]
+  linabu -> gipo: sebova. zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. zikuki tifuzi kaveru leteme. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova. kosiro.
+    meaning: [sebova.] I have fruit no [bapo.] want fruit [bapo.] give fruit and [leteme.] you give grain and [ralado.] I give [toleme.] [sebova.] [kosiro.]
+  fopezu -> dofupe: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. mokoka vokupi leteme? tifuzi? zunara zikuki leteme kaveru tifuzi tirabo. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want water [bapo.] you want [leteme?] [tifuzi?] I give fish and fruit [tirabo.] [gafu.] [kosiro.]
+  dofupe -> fopezu: sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? zunara zikuki tifuzi kaveru leteme. gafu. kosiro.
+    meaning: [sebova.] I give [toleme.] you give grain and [ralado.] [sebova.] I have fish [bapo.] want fish [bapo.] you want [tifuzi?] I give fruit and [leteme.] [gafu.] [kosiro.]
+  gipo -> linabu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] [gafu.] [kosiro.]
+  linabu -> gipo: gafu. kosiro.
+    meaning: [gafu.] [kosiro.]
+Exchange:
+  fopezu -> dofupe: 2 grain (giverΔ=-2, recvΔ=4)
+  dofupe -> fopezu: 1 water (giverΔ=-1, recvΔ=2)
+  gipo -> linabu: 5 grain (giverΔ=-5, recvΔ=10)
+  linabu -> gipo: 2 grain (giverΔ=-2, recvΔ=4)
+Feedback:
+  fopezu: partner_team=teammate, rating=None, given={}, received={}
+  dofupe: partner_team=teammate, rating=None, given={}, received={}
+  gipo: partner_team=teammate, rating=None, given={}, received={}
+  linabu: partner_team=teammate, rating=None, given={}, received={}
+
+--- Round 9 ---
+Pairing: {'fopezu': 'dofupe', 'dofupe': 'fopezu', 'gipo': 'linabu', 'linabu': 'gipo'}
+Chat:
+  fopezu -> dofupe: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] you give [toleme.] [sebova.] [tifava:] you have fish [bapo?] I want fish [bapo.]
+  dofupe -> fopezu: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] you give [toleme.] [sebova.] [tifava:] you have fish [bapo?] I want fish [bapo.]
+  gipo -> linabu: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. sebova? tirabo?
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] [sebova?] [tirabo?]
+  linabu -> gipo: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.]
+  fopezu -> dofupe: sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? zunara zikuki tifuzi kaveru leteme. gafu.
+    meaning: [sebova.] I give [toleme.] you give grain and [ralado.] [sebova.] I have fish [bapo.] want fish [bapo.] you want [tifuzi?] I give fruit and [leteme.] [gafu.]
+  dofupe -> fopezu: sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? zunara zikuki tifuzi kaveru leteme. gafu.
+    meaning: [sebova.] I give [toleme.] you give grain and [ralado.] [sebova.] I have fish [bapo.] want fish [bapo.] you want [tifuzi?] I give fruit and [leteme.] [gafu.]
+  gipo -> linabu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo toleme tirabo bapo. vokupi toleme bapo. tifava: mokoka subo leteme? zikuki leteme kaveru tifuzi.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have water no [bapo.] want water [bapo.] [tifava:] you have [leteme?] give fish and [tifuzi.]
+  linabu -> gipo: sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.
+    meaning: [sebova.] I give [toleme.] you give grain and [ralado.] [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.]
+  fopezu -> dofupe: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara vokupi leteme bapo. mokoka vokupi tifuzi? tirabo. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I want fish [bapo.] you want [tifuzi?] [tirabo.] I have fruit no [bapo.] want water [bapo.] [kosiro.]
+  dofupe -> fopezu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara vokupi leteme bapo. mokoka vokupi tifuzi? tirabo. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I want fish [bapo.] you want [tifuzi?] [tirabo.] I have fruit no [bapo.] want water [bapo.] [kosiro.]
+  gipo -> linabu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo toleme tirabo bapo. vokupi toleme bapo. tifava: mokoka subo leteme? zikuki leteme kaveru tifuzi. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have water no [bapo.] want water [bapo.] [tifava:] you have [leteme?] give fish and [tifuzi.] [gafu.] [kosiro.]
+  linabu -> gipo: sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu. kosiro.
+    meaning: [sebova.] I give [toleme.] you give grain and [ralado.] [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.] [gafu.] [kosiro.]
+Exchange:
+  fopezu -> dofupe: 4 grain (giverΔ=-4, recvΔ=8)
+  dofupe -> fopezu: 8 grain (giverΔ=-8, recvΔ=16)
+  gipo -> linabu: 5 grain (giverΔ=-5, recvΔ=10)
+  linabu -> gipo: 5 grain (giverΔ=-5, recvΔ=10)
+Feedback:
+  fopezu: partner_team=teammate, rating=None, given={}, received={}
+  dofupe: partner_team=teammate, rating=None, given={}, received={}
+  gipo: partner_team=teammate, rating=None, given={}, received={}
+  linabu: partner_team=teammate, rating=None, given={}, received={}
+
+--- Round 10 ---
+Pairing: {'gipo': 'dofupe', 'dofupe': 'gipo', 'fopezu': 'linabu', 'linabu': 'fopezu'}
+Chat:
+  fopezu -> linabu: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] you give [toleme?] [sebova?] [tirabo?]
+  dofupe -> gipo: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want water [bapo.] give grain and [ralado.] [sebova?] [tifava:] you have fish [bapo?] I want fish [bapo.]
+  gipo -> dofupe: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want water [bapo.] give grain and [ralado.] [sebova?] [tifava:] you have fish [bapo?] I want fish [bapo.]
+  linabu -> fopezu: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] give grain and [ralado.] you give [toleme?] [sebova?] [tirabo?]
+  fopezu -> linabu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? zunara zikuki tifuzi kaveru leteme. gafu.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish [bapo.] want fish [bapo.] you want [tifuzi?] I give fruit and [leteme.] [gafu.]
+  dofupe -> gipo: sebova. zunara subo toleme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.
+    meaning: [sebova.] I have water [bapo.] you give grain and [ralado.] I give [toleme.] [sebova.] [tifava:] you have fish [bapo?] I want fish [bapo.]
+  gipo -> dofupe: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] [tifava:] you have fish [bapo?] I want fish [bapo.]
+  linabu -> fopezu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? zunara zikuki tifuzi kaveru leteme. gafu.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish [bapo.] want fish [bapo.] you want [tifuzi?] I give fruit and [leteme.] [gafu.]
+  fopezu -> linabu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? tirabo. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish [bapo.] want fish [bapo.] you want [tifuzi?] [tirabo.] I have fruit no [bapo.] want water [bapo.] [kosiro.]
+  dofupe -> gipo: sebova. zunara subo leteme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki leteme. gafu. kosiro.
+    meaning: [sebova.] I have fish [bapo.] you give grain and [ralado.] I give [leteme.] [gafu.] [kosiro.]
+  gipo -> dofupe: gafu. kosiro.
+    meaning: [gafu.] [kosiro.]
+  linabu -> fopezu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme bapo. vokupi leteme bapo. mokoka vokupi tifuzi? tirabo. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish [bapo.] want fish [bapo.] you want [tifuzi?] [tirabo.] I have fruit no [bapo.] want water [bapo.] [kosiro.]
+Exchange:
+  fopezu -> linabu: 5 grain (giverΔ=-5, recvΔ=10)
+  dofupe -> gipo: 2 fish (giverΔ=-2, recvΔ=4)
+  gipo -> dofupe: 1 fish (giverΔ=-1, recvΔ=2)
+  linabu -> fopezu: 2 water (giverΔ=-2, recvΔ=4)
+Feedback:
+  fopezu: partner_team=opponent, rating=None, given={}, received={}
+  dofupe: partner_team=opponent, rating=None, given={}, received={}
+  gipo: partner_team=opponent, rating=None, given={}, received={}
+  linabu: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 11 ---
+Pairing: {'fopezu': 'linabu', 'linabu': 'fopezu', 'dofupe': 'gipo', 'gipo': 'dofupe'}
+Chat:
+  fopezu -> linabu: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] you give [toleme?] [sebova?] [tirabo?]
+  dofupe -> gipo: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want water [bapo.] give grain and [ralado.] [sebova?] [tifava:] you have fish [bapo?] I want fish [bapo.]
+  gipo -> dofupe: sebova. zunara subo leteme bapo. mokoka zikuki vofu kaveru ralado. zunara zikuki leteme. sebova? tifava: mokoka subo toleme bapo? zunara vokupi toleme bapo.
+    meaning: [sebova.] I have fish [bapo.] you give grain and [ralado.] I give [leteme.] [sebova?] [tifava:] you have water [bapo?] I want water [bapo.]
+  linabu -> fopezu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.]
+  fopezu -> linabu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.] [gafu.]
+  dofupe -> gipo: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo. gafu.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] [tifava:] you have fish [bapo?] I want fish [bapo.] [gafu.]
+  gipo -> dofupe: sebova. zunara zikuki leteme. mokoka zikuki vofu kaveru ralado. sebova. tifava: mokoka subo toleme bapo? zunara vokupi toleme bapo. gafu.
+    meaning: [sebova.] I give [leteme.] you give grain and [ralado.] [sebova.] [tifava:] you have water [bapo?] I want water [bapo.] [gafu.]
+  linabu -> fopezu: sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. tifava: mokoka subo leteme? zikuki leteme kaveru tifuzi. kosiro.
+    meaning: [sebova.] I give [toleme.] you give grain and [ralado.] [sebova.] I have fruit no [bapo.] want fruit [bapo.] [tifava:] you have [leteme?] give fish and [tifuzi.] [kosiro.]
+  fopezu -> linabu: sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. tifava: mokoka subo leteme? zikuki leteme kaveru tifuzi. kosiro.
+    meaning: [sebova.] I give [toleme.] you give grain and [ralado.] [sebova.] I have fruit no [bapo.] want fruit [bapo.] [tifava:] you have [leteme?] give fish and [tifuzi.] [kosiro.]
+  dofupe -> gipo: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] [tifava:] you have fish [bapo?] I want fish [bapo.] [kosiro.]
+  gipo -> dofupe: sebova. zunara zikuki leteme. mokoka zikuki vofu kaveru ralado. sebova. tifava: mokoka subo toleme bapo? zunara vokupi toleme bapo. kosiro.
+    meaning: [sebova.] I give [leteme.] you give grain and [ralado.] [sebova.] [tifava:] you have water [bapo?] I want water [bapo.] [kosiro.]
+  linabu -> fopezu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.] [gafu.] [kosiro.]
+Exchange:
+  fopezu -> linabu: 4 grain (giverΔ=-4, recvΔ=8)
+  dofupe -> gipo: 8 grain (giverΔ=-8, recvΔ=16)
+  gipo -> dofupe: 10 grain (giverΔ=-10, recvΔ=20)
+  linabu -> fopezu: 8 grain (giverΔ=-8, recvΔ=16)
+Feedback:
+  fopezu: partner_team=opponent, rating=None, given={}, received={}
+  dofupe: partner_team=opponent, rating=None, given={}, received={}
+  gipo: partner_team=opponent, rating=None, given={}, received={}
+  linabu: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 12 ---
+Pairing: {'fopezu': 'dofupe', 'dofupe': 'fopezu', 'gipo': 'linabu', 'linabu': 'gipo'}
+Chat:
+  fopezu -> dofupe: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] you give [toleme?] [sebova?] [tirabo?]
+  dofupe -> fopezu: sebova. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?
+    meaning: [sebova.] I have grain much and [ralado.] you have [toleme?] I want water [bapo.] give grain and [ralado.] you give [toleme?] [sebova?] [tirabo?]
+  gipo -> linabu: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. sebova? tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want water [bapo.] give grain and [ralado.] [sebova?] [tifava:] you have fish [bapo?] I want fish [bapo.]
+  linabu -> gipo: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.]
+  fopezu -> dofupe: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.]
+  dofupe -> fopezu: sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?
+    meaning: [sebova.] I have fish no [bapo.] want water [bapo.] give grain and [ralado.] you give [toleme?] [sebova?] [tirabo?]
+  gipo -> linabu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo toleme tirabo bapo. vokupi toleme bapo. tifava: mokoka subo leteme bapo? zikuki leteme kaveru tifuzi.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have water no [bapo.] want water [bapo.] [tifava:] you have fish [bapo?] give fish and [tifuzi.]
+  linabu -> gipo: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.] [gafu.]
+  fopezu -> dofupe: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara vokupi leteme bapo. mokoka vokupi tifuzi? tirabo. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I want fish [bapo.] you want [tifuzi?] [tirabo.] I have fruit no [bapo.] want water [bapo.] [gafu.] [kosiro.]
+  dofupe -> fopezu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara vokupi toleme bapo. mokoka vokupi leteme? tirabo. zunara subo leteme tirabo bapo. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I want water [bapo.] you want [leteme?] [tirabo.] I have fish no [bapo.] [gafu.] [kosiro.]
+  gipo -> linabu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo toleme tirabo bapo. vokupi toleme bapo. tifava: mokoka subo leteme bapo? zikuki leteme kaveru tifuzi. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have water no [bapo.] want water [bapo.] [tifava:] you have fish [bapo?] give fish and [tifuzi.] [gafu.] [kosiro.]
+  linabu -> gipo: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.] [gafu.] [kosiro.]
+Exchange:
+  fopezu -> dofupe: 10 grain (giverΔ=-10, recvΔ=20)
+  dofupe -> fopezu: 20 grain (giverΔ=-20, recvΔ=40)
+  gipo -> linabu: 10 grain (giverΔ=-10, recvΔ=20)
+  linabu -> gipo: 20 grain (giverΔ=-20, recvΔ=40)
+Feedback:
+  fopezu: partner_team=teammate, rating=None, given={}, received={}
+  dofupe: partner_team=teammate, rating=None, given={}, received={}
+  gipo: partner_team=teammate, rating=None, given={}, received={}
+  linabu: partner_team=teammate, rating=None, given={}, received={}
+
+--- Round 13 ---
+Pairing: {'dofupe': 'linabu', 'linabu': 'dofupe', 'fopezu': 'gipo', 'gipo': 'fopezu'}
+Chat:
+  fopezu -> gipo: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want water [bapo.] give grain and [ralado.] you give [toleme?] [sebova?] [tirabo?]
+  dofupe -> linabu: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] you give [toleme?] [sebova?] [tirabo?]
+  gipo -> fopezu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.]
+  linabu -> dofupe: robama. sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo toleme tirabo bapo. vokupi toleme bapo. tifava: mokoka subo leteme bapo? zikuki leteme kaveru tifuzi.
+    meaning: [robama.] [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have water no [bapo.] want water [bapo.] [tifava:] you have fish [bapo?] give fish and [tifuzi.]
+  fopezu -> gipo: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi toleme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. sebova? tirabo?
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want water [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.] [sebova?] [tirabo?]
+  dofupe -> linabu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.]
+  gipo -> fopezu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. sebova. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.] [sebova.] [kosiro.]
+  linabu -> dofupe: sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. tifava: mokoka subo leteme bapo? zikuki leteme kaveru tifuzi. gafu.
+    meaning: [sebova.] I give [toleme.] you give grain and [ralado.] [sebova.] I have fruit no [bapo.] want fruit [bapo.] [tifava:] you have fish [bapo?] give fish and [tifuzi.] [gafu.]
+  fopezu -> gipo: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fruit no [bapo.] want water [bapo.] [gafu.] [kosiro.]
+  dofupe -> linabu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara vokupi leteme bapo. mokoka vokupi tifuzi? tirabo. zunara subo tifuzi tirabo bapo. vokupi toleme bapo. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I want fish [bapo.] you want [tifuzi?] [tirabo.] I have fruit no [bapo.] want water [bapo.] [kosiro.]
+  gipo -> fopezu: gafu. kosiro.
+    meaning: [gafu.] [kosiro.]
+  linabu -> dofupe: sebova. zunara zikuki toleme. mokoka zikuki vofu kaveru ralado. sebova. zunara vokupi toleme bapo. mokoka vokupi leteme? tirabo. zunara subo leteme tirabo bapo. vokupi tifuzi bapo. kosiro.
+    meaning: [sebova.] I give [toleme.] you give grain and [ralado.] [sebova.] I want water [bapo.] you want [leteme?] [tirabo.] I have fish no [bapo.] want fruit [bapo.] [kosiro.]
+Exchange:
+  fopezu -> gipo: 10 grain (giverΔ=-10, recvΔ=20)
+  dofupe -> linabu: 10 grain (giverΔ=-10, recvΔ=20)
+  gipo -> fopezu: 20 grain (giverΔ=-20, recvΔ=40)
+  linabu -> dofupe: 2 water (giverΔ=-2, recvΔ=4)
+Feedback:
+  fopezu: partner_team=opponent, rating=None, given={}, received={}
+  dofupe: partner_team=opponent, rating=None, given={}, received={}
+  gipo: partner_team=opponent, rating=None, given={}, received={}
+  linabu: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 14 ---
+Pairing: {'dofupe': 'gipo', 'gipo': 'dofupe', 'fopezu': 'linabu', 'linabu': 'fopezu'}
+Chat:
+  fopezu -> linabu: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tirabo?
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] you give [toleme?] [sebova?] [tirabo?]
+  dofupe -> gipo: robama. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova? tifava: mokoka subo leteme bapo? zunara vokupi leteme bapo.
+    meaning: [robama.] I have grain much and [ralado.] you have [toleme?] I want [toleme.] give grain and [ralado.] you give [toleme?] [sebova?] [tifava:] you have fish [bapo?] I want fish [bapo.]
+  gipo -> dofupe: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.] [gafu.]
+  linabu -> fopezu: robama. sebova. zunara subo vofu bapo kaveru ralado. mokoka subo toleme? zunara vokupi toleme bapo. zikuki vofu kaveru ralado. mokoka zikuki toleme? sebova. tifava: mokoka subo leteme? zunara vokupi leteme bapo.
+    meaning: [robama.] [sebova.] I have grain much and [ralado.] you have [toleme?] I want water [bapo.] give grain and [ralado.] you give [toleme?] [sebova.] [tifava:] you have [leteme?] I want fish [bapo.]
+  fopezu -> linabu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.]
+  dofupe -> gipo: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. tifava: mokoka subo leteme bapo? zikuki leteme kaveru tifuzi. gafu.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fruit no [bapo.] want fruit [bapo.] [tifava:] you have fish [bapo?] give fish and [tifuzi.] [gafu.]
+  gipo -> dofupe: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. sebova? tirabo? kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.] [sebova?] [tirabo?] [kosiro.]
+  linabu -> fopezu: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. gafu. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.] [gafu.] [kosiro.]
+  fopezu -> linabu: gafu. kosiro.
+    meaning: [gafu.] [kosiro.]
+  dofupe -> gipo: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo tifuzi tirabo bapo. vokupi tifuzi bapo. tifava: mokoka subo leteme bapo? zikuki leteme kaveru tifuzi. sebova. tirabo. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fruit no [bapo.] want fruit [bapo.] [tifava:] you have fish [bapo?] give fish and [tifuzi.] [sebova.] [tirabo.] [kosiro.]
+  gipo -> dofupe: sebova. zunara zikuki vofu kaveru ralado. mokoka zikuki toleme. sebova. zunara subo leteme tirabo bapo. vokupi leteme bapo. tifava: mokoka subo tifuzi? zikuki tifuzi kaveru leteme. sebova. tirabo. kosiro.
+    meaning: [sebova.] I give grain and [ralado.] you give [toleme.] [sebova.] I have fish no [bapo.] want fish [bapo.] [tifava:] you have [tifuzi?] give fruit and [leteme.] [sebova.] [tirabo.] [kosiro.]
+  linabu -> fopezu: kosiro.
+    meaning: [kosiro.]
+Exchange:
+  fopezu -> linabu: 40 grain (giverΔ=-40, recvΔ=80)
+  dofupe -> gipo: 6 grain (giverΔ=-6, recvΔ=12)
+  gipo -> dofupe: 2 fruit (giverΔ=-2, recvΔ=4)
+  linabu -> fopezu: 40 grain (giverΔ=-40, recvΔ=80)
+Feedback:
+  fopezu: partner_team=opponent, rating=None, given={}, received={}
+  dofupe: partner_team=opponent, rating=None, given={}, received={}
+  gipo: partner_team=opponent, rating=None, given={}, received={}
+  linabu: partner_team=opponent, rating=None, given={}, received={}

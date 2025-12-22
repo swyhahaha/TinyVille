@@ -1,0 +1,541 @@
+======================================================================
+Resource Exchange Transcript - resource_exchange_20251220_145429.json
+======================================================================
+Total rounds: 14
+Vocabulary size: 19
+
+Final scores:
+  team_a: provisional=139, penalty=82, final=57
+  team_b: provisional=75, penalty=37, final=38
+
+--- Round 1 ---
+Pairing: {'vusi': 'tifu', 'tifu': 'vusi', 'gufeka': 'vemapa', 'vemapa': 'gufeka'}
+Chat:
+  vusi -> tifu: novilu kine zidofe dorepo guka robida saba furu nuvugu salapi peda zura kine salapi dorepo guka robida saba
+    meaning: hello I have meat grain fish fruit want water give you and I give meat grain fish fruit
+  tifu -> vusi: novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba
+    meaning: hello I have water much want give you and I give meat grain fish fruit
+  gufeka -> vemapa: novilu kine zidofe ruzu guka zura dorepo peda furu nuvugu salapi difoki
+    meaning: hello I have much grain and meat you want water give please
+  vemapa -> gufeka: novilu peda kine zidofe ruzu robida zura dorepo furu nuvugu salapi difoki
+    meaning: hello you I have much fish and meat want water give please
+  vusi -> tifu: tipisi kine furu nuvugu salapi peda dorepo guka robida saba zura peda salapi nuvugu kine zidofe dorepo guka robida saba
+    meaning: yes I want water give you meat grain fish fruit and you give water I have meat grain fish fruit
+  tifu -> vusi: tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu
+    meaning: yes I give water you and you give meat grain fish fruit I want water much
+  gufeka -> vemapa: tipisi kine zidofe guka zura dorepo peda salapi nuvugu difoki kine furu robida
+    meaning: yes I have grain and meat you give water please I want fish
+  vemapa -> gufeka: tipisi kine salapi robida peda zidofe nuvugu difoki kine furu guka zura dorepo
+    meaning: yes I give fish you have water please I want grain and meat
+  vusi -> tifu: gosuro peda kine salapi nuvugu peda salapi dorepo guka robida saba kiti
+    meaning: thanks you I give water you give meat grain fish fruit goodbye
+  tifu -> vusi: gosuro peda kiti kine salapi nuvugu peda salapi dorepo guka robida saba zura kine furu nuvugu ruzu
+    meaning: thanks you goodbye I give water you give meat grain fish fruit and I want water much
+  gufeka -> vemapa: gosuro peda salapi nuvugu difoki kine salapi guka zura dorepo peda furu robida tipisi
+    meaning: thanks you give water please I give grain and meat you want fish yes
+  vemapa -> gufeka: gosuro kine salapi robida peda salapi nuvugu difoki tipisi kiti
+    meaning: thanks I give fish you give water please yes goodbye
+Exchange:
+  vusi -> tifu: 1 meat (giverΔ=-1, recvΔ=2)
+  tifu -> vusi: 1 water (giverΔ=-1, recvΔ=2)
+  gufeka -> vemapa: 1 grain (giverΔ=-1, recvΔ=2)
+  vemapa -> gufeka: 1 fish (giverΔ=-1, recvΔ=2)
+Feedback:
+  vusi: partner_team=teammate, rating=None, given={}, received={}
+  tifu: partner_team=teammate, rating=None, given={}, received={}
+  gufeka: partner_team=teammate, rating=None, given={}, received={}
+  vemapa: partner_team=teammate, rating=None, given={}, received={}
+
+--- Round 2 ---
+Pairing: {'vusi': 'tifu', 'tifu': 'vusi', 'gufeka': 'vemapa', 'vemapa': 'gufeka'}
+Chat:
+  vusi -> tifu: novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba
+    meaning: hello I have water much want give you and I give meat grain fish fruit
+  tifu -> vusi: tipisi kine zidofe nuvugu ruzu peda furu salapi kine salapi dorepo guka robida saba zura peda salapi nuvugu
+    meaning: yes I have water much you want give I give meat grain fish fruit and you give water
+  gufeka -> vemapa: novilu peda kine zidofe ruzu robida zura dorepo furu nuvugu salapi difoki
+    meaning: hello you I have much fish and meat want water give please
+  vemapa -> gufeka: tipisi kine zidofe robida zura dorepo peda furu nuvugu salapi difoki kine salapi guka zura saba
+    meaning: yes I have fish and meat you want water give please I give grain and fruit
+  vusi -> tifu: tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu
+    meaning: yes I give water you and you give meat grain fish fruit I want water much
+  tifu -> vusi: gosuro peda kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti
+    meaning: thanks you I give meat grain fish fruit and you give water much goodbye
+  gufeka -> vemapa: kine zidofe ruzu robida zura dorepo furu nuvugu salapi difoki peda salapi guka zura saba
+    meaning: I have much fish and meat want water give please you give grain and fruit
+  vemapa -> gufeka: tipisi peda furu nuvugu kine salapi guka zura saba difoki kine zidofe robida zura dorepo
+    meaning: yes you want water I give grain and fruit please I have fish and meat
+  vusi -> tifu: gosuro peda kiti kine salapi nuvugu peda salapi dorepo guka robida saba zura kine furu nuvugu ruzu
+    meaning: thanks you goodbye I give water you give meat grain fish fruit and I want water much
+  tifu -> vusi: tipisi kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu
+    meaning: yes goodbye and I give meat grain fish fruit you give water much
+  gufeka -> vemapa: tipisi kine salapi guka zura saba peda salapi nuvugu difoki kiti
+    meaning: yes I give grain and fruit you give water please goodbye
+  vemapa -> gufeka: gosuro peda salapi nuvugu difoki kine salapi guka zura saba kiti kine zidofe robida zura dorepo
+    meaning: thanks you give water please I give grain and fruit goodbye I have fish and meat
+Exchange:
+  vusi -> tifu: 1 water (giverΔ=-1, recvΔ=2)
+  tifu -> vusi: 2 water (giverΔ=-2, recvΔ=4)
+  gufeka -> vemapa: 1 grain (giverΔ=-1, recvΔ=2)
+  vemapa -> gufeka: 2 grain (giverΔ=-2, recvΔ=4)
+Feedback:
+  vusi: partner_team=teammate, rating=None, given={}, received={}
+  tifu: partner_team=teammate, rating=None, given={}, received={}
+  gufeka: partner_team=teammate, rating=None, given={}, received={}
+  vemapa: partner_team=teammate, rating=None, given={}, received={}
+
+--- Round 3 ---
+Pairing: {'vusi': 'tifu', 'tifu': 'vusi', 'gufeka': 'vemapa', 'vemapa': 'gufeka'}
+Chat:
+  vusi -> tifu: novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba
+    meaning: hello I have water much want give you and I give meat grain fish fruit
+  tifu -> vusi: tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu
+    meaning: yes I give water you and you give meat grain fish fruit I want water much
+  gufeka -> vemapa: novilu peda kine zidofe robida zura dorepo furu nuvugu salapi difoki
+    meaning: hello you I have fish and meat want water give please
+  vemapa -> gufeka: tipisi kine zidofe robida zura dorepo peda salapi nuvugu difoki kine furu guka
+    meaning: yes I have fish and meat you give water please I want grain
+  vusi -> tifu: gosuro peda kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti
+    meaning: thanks you I give meat grain fish fruit and you give water much goodbye
+  tifu -> vusi: tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti
+    meaning: yes I give water much you and you give meat grain fish fruit goodbye
+  gufeka -> vemapa: tipisi peda salapi nuvugu difoki kine salapi guka zura saba
+    meaning: yes you give water please I give grain and fruit
+  vemapa -> gufeka: tipisi kine zidofe robida zura dorepo peda salapi nuvugu difoki kine furu guka zura saba
+    meaning: yes I have fish and meat you give water please I want grain and fruit
+  vusi -> tifu: tipisi kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu
+    meaning: yes goodbye and I give meat grain fish fruit you give water much
+  tifu -> vusi: gosuro peda kiti
+    meaning: thanks you goodbye
+  gufeka -> vemapa: gosuro peda salapi nuvugu difoki kine salapi guka zura saba kiti
+    meaning: thanks you give water please I give grain and fruit goodbye
+  vemapa -> gufeka: gosuro peda salapi nuvugu difoki kine salapi robida zura dorepo kiti
+    meaning: thanks you give water please I give fish and meat goodbye
+Exchange:
+  vusi -> tifu: 1 meat (giverΔ=-1, recvΔ=2)
+  tifu -> vusi: 1 water (giverΔ=-1, recvΔ=2)
+  gufeka -> vemapa: 2 grain (giverΔ=-2, recvΔ=4)
+  vemapa -> gufeka: 2 grain (giverΔ=-2, recvΔ=4)
+Feedback:
+  vusi: partner_team=teammate, rating=None, given={}, received={}
+  tifu: partner_team=teammate, rating=None, given={}, received={}
+  gufeka: partner_team=teammate, rating=None, given={}, received={}
+  vemapa: partner_team=teammate, rating=None, given={}, received={}
+
+--- Round 4 ---
+Pairing: {'vemapa': 'tifu', 'tifu': 'vemapa', 'vusi': 'gufeka', 'gufeka': 'vusi'}
+Chat:
+  vusi -> gufeka: tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti
+    meaning: yes I give water much you and you give meat grain fish fruit goodbye
+  tifu -> vemapa: novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba
+    meaning: hello I have water much want give you and I give meat grain fish fruit
+  gufeka -> vusi: novilu peda kine zidofe robida zura dorepo furu nuvugu salapi difoki
+    meaning: hello you I have fish and meat want water give please
+  vemapa -> tifu: tipisi peda salapi nuvugu difoki kine salapi guka zura saba
+    meaning: yes you give water please I give grain and fruit
+  vusi -> gufeka: tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti
+    meaning: yes I give water much you and you give meat grain fish fruit goodbye
+  tifu -> vemapa: tipisi kine salapi nuvugu peda salapi guka zura saba zura kine salapi dorepo robida
+    meaning: yes I give water you give grain and fruit and I give meat fish
+  gufeka -> vusi: tipisi kine zidofe robida zura dorepo peda furu nuvugu salapi difoki
+    meaning: yes I have fish and meat you want water give please
+  vemapa -> tifu: gosuro peda salapi nuvugu difoki kine salapi guka zura saba kiti
+    meaning: thanks you give water please I give grain and fruit goodbye
+  vusi -> gufeka: tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti
+    meaning: yes I give water much you and you give meat grain fish fruit goodbye
+  tifu -> vemapa: gosuro peda kiti zura kine salapi dorepo robida
+    meaning: thanks you goodbye and I give meat fish
+  gufeka -> vusi: gosuro peda salapi nuvugu difoki kine salapi robida zura dorepo kiti
+    meaning: thanks you give water please I give fish and meat goodbye
+  vemapa -> tifu: tipisi peda salapi nuvugu difoki kine salapi guka zura saba kiti
+    meaning: yes you give water please I give grain and fruit goodbye
+Exchange:
+  vusi -> gufeka: 0 water (giverΔ=0, recvΔ=0)
+  tifu -> vemapa: 1 meat (giverΔ=-1, recvΔ=2)
+  gufeka -> vusi: 1 grain (giverΔ=-1, recvΔ=2)
+  vemapa -> tifu: 2 grain (giverΔ=-2, recvΔ=4)
+Feedback:
+  vusi: partner_team=opponent, rating=None, given={}, received={}
+  tifu: partner_team=opponent, rating=None, given={}, received={}
+  gufeka: partner_team=opponent, rating=None, given={}, received={}
+  vemapa: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 5 ---
+Pairing: {'tifu': 'gufeka', 'gufeka': 'tifu', 'vusi': 'vemapa', 'vemapa': 'vusi'}
+Chat:
+  vusi -> vemapa: tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti
+    meaning: yes I give water much you and you give meat grain fish fruit goodbye
+  tifu -> gufeka: novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba
+    meaning: hello I have water much want give you and I give meat grain fish fruit
+  gufeka -> tifu: tipisi kine zidofe robida zura dorepo peda furu nuvugu salapi difoki kine salapi guka zura saba
+    meaning: yes I have fish and meat you want water give please I give grain and fruit
+  vemapa -> vusi: novilu peda kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba
+    meaning: hello you I have water much want give you and I give meat grain fish fruit
+  vusi -> vemapa: tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti
+    meaning: yes I give water much you and you give meat grain fish fruit goodbye
+  tifu -> gufeka: gosuro peda kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: thanks you I give meat grain fish fruit and you give water much
+  gufeka -> tifu: tipisi kine zidofe robida zura dorepo peda salapi nuvugu difoki kine salapi guka zura saba
+    meaning: yes I have fish and meat you give water please I give grain and fruit
+  vemapa -> vusi: tipisi peda salapi nuvugu difoki kine salapi guka zura saba zura kine salapi dorepo robida
+    meaning: yes you give water please I give grain and fruit and I give meat fish
+  vusi -> vemapa: gosuro peda kiti kine salapi nuvugu peda salapi dorepo guka robida saba zura kine furu nuvugu ruzu
+    meaning: thanks you goodbye I give water you give meat grain fish fruit and I want water much
+  tifu -> gufeka: tipisi kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu
+    meaning: yes goodbye and I give meat grain fish fruit you give water much
+  gufeka -> tifu: gosuro peda salapi nuvugu ruzu difoki kine salapi guka zura saba kiti
+    meaning: thanks you give water much please I give grain and fruit goodbye
+  vemapa -> vusi: gosuro peda kiti zura kine salapi dorepo robida zura kine furu nuvugu ruzu
+    meaning: thanks you goodbye and I give meat fish and I want water much
+Exchange:
+  vusi -> vemapa: 2 water (giverΔ=-2, recvΔ=4)
+  tifu -> gufeka: 2 grain (giverΔ=-2, recvΔ=4)
+  gufeka -> tifu: 2 grain (giverΔ=-2, recvΔ=4)
+  vemapa -> vusi: 2 water (giverΔ=-2, recvΔ=4)
+Feedback:
+  vusi: partner_team=opponent, rating=None, given={}, received={}
+  tifu: partner_team=opponent, rating=None, given={}, received={}
+  gufeka: partner_team=opponent, rating=None, given={}, received={}
+  vemapa: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 6 ---
+Pairing: {'gufeka': 'tifu', 'tifu': 'gufeka', 'vusi': 'vemapa', 'vemapa': 'vusi'}
+Chat:
+  vusi -> vemapa: novilu peda kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba
+    meaning: hello you I have water much want give you and I give meat grain fish fruit
+  tifu -> gufeka: novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba
+    meaning: hello I have water much want give you and I give meat grain fish fruit
+  gufeka -> tifu: tipisi kine zidofe robida zura dorepo peda furu nuvugu salapi difoki kine salapi guka zura saba
+    meaning: yes I have fish and meat you want water give please I give grain and fruit
+  vemapa -> vusi: tipisi kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba
+    meaning: yes I have water much want give you and I give meat grain fish fruit
+  vusi -> vemapa: tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu
+    meaning: yes I give water you and you give meat grain fish fruit I want water much
+  tifu -> gufeka: tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu
+    meaning: yes I give water you and you give meat grain fish fruit I want water much
+  gufeka -> tifu: gosuro peda salapi nuvugu difoki kine salapi guka zura saba kiti
+    meaning: thanks you give water please I give grain and fruit goodbye
+  vemapa -> vusi: gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba
+    meaning: thanks you I give water much you and I give meat grain fish fruit
+  vusi -> vemapa: gosuro peda kiti zura kine salapi dorepo robida zura kine furu nuvugu ruzu
+    meaning: thanks you goodbye and I give meat fish and I want water much
+  tifu -> gufeka: gosuro peda kiti kine salapi nuvugu peda salapi dorepo guka robida saba zura kine furu nuvugu ruzu
+    meaning: thanks you goodbye I give water you give meat grain fish fruit and I want water much
+  gufeka -> tifu: tipisi kiti zura kine salapi guka zura saba peda salapi nuvugu ruzu
+    meaning: yes goodbye and I give grain and fruit you give water much
+  vemapa -> vusi: kiti peda kine salapi nuvugu ruzu zura kine salapi dorepo guka robida saba
+    meaning: goodbye you I give water much and I give meat grain fish fruit
+Exchange:
+  vusi -> vemapa: 3 water (giverΔ=-3, recvΔ=6)
+  tifu -> gufeka: 0 water (giverΔ=0, recvΔ=0)
+  gufeka -> tifu: 3 grain (giverΔ=-3, recvΔ=6)
+  vemapa -> vusi: 2 water (giverΔ=-2, recvΔ=4)
+Feedback:
+  vusi: partner_team=opponent, rating=None, given={}, received={}
+  tifu: partner_team=opponent, rating=None, given={}, received={}
+  gufeka: partner_team=opponent, rating=None, given={}, received={}
+  vemapa: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 7 ---
+Pairing: {'vemapa': 'tifu', 'tifu': 'vemapa', 'vusi': 'gufeka', 'gufeka': 'vusi'}
+Chat:
+  vusi -> gufeka: novilu peda kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba
+    meaning: hello you I have water much want give you and I give meat grain fish fruit
+  tifu -> vemapa: novilu kine zidofe dorepo guka robida saba furu nuvugu salapi peda zura kine salapi dorepo guka robida saba
+    meaning: hello I have meat grain fish fruit want water give you and I give meat grain fish fruit
+  gufeka -> vusi: tipisi kine zidofe robida zura dorepo peda furu nuvugu salapi difoki kine salapi guka zura saba
+    meaning: yes I have fish and meat you want water give please I give grain and fruit
+  vemapa -> tifu: tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu
+    meaning: yes I give water you and you give meat grain fish fruit I want water much
+  vusi -> gufeka: tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu
+    meaning: yes I give water you and you give meat grain fish fruit I want water much
+  tifu -> vemapa: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  gufeka -> vusi: gosuro peda salapi nuvugu difoki kine salapi robida zura dorepo kiti
+    meaning: thanks you give water please I give fish and meat goodbye
+  vemapa -> tifu: gosuro peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kine furu nuvugu ruzu
+    meaning: thanks you give water much and I give meat grain fish fruit I want water much
+  vusi -> gufeka: gosuro peda kiti zura kine salapi dorepo robida zura kine furu nuvugu ruzu
+    meaning: thanks you goodbye and I give meat fish and I want water much
+  tifu -> vemapa: tipisi kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu
+    meaning: yes goodbye and I give meat grain fish fruit you give water much
+  gufeka -> vusi: tipisi kiti zura kine salapi robida zura dorepo peda salapi nuvugu difoki
+    meaning: yes goodbye and I give fish and meat you give water please
+  vemapa -> tifu: kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu gosuro
+    meaning: goodbye and I give meat grain fish fruit you give water much thanks
+Exchange:
+  vusi -> gufeka: 0 water (giverΔ=0, recvΔ=0)
+  tifu -> vemapa: 5 grain (giverΔ=-5, recvΔ=10)
+  gufeka -> vusi: 1 fish (giverΔ=-1, recvΔ=2)
+  vemapa -> tifu: 4 water (giverΔ=-4, recvΔ=8)
+Feedback:
+  vusi: partner_team=opponent, rating=None, given={}, received={}
+  tifu: partner_team=opponent, rating=None, given={}, received={}
+  gufeka: partner_team=opponent, rating=None, given={}, received={}
+  vemapa: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 8 ---
+Pairing: {'gufeka': 'tifu', 'tifu': 'gufeka', 'vusi': 'vemapa', 'vemapa': 'vusi'}
+Chat:
+  vusi -> vemapa: tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu
+    meaning: yes I give water you and you give meat grain fish fruit I want water much
+  tifu -> gufeka: novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba
+    meaning: hello I have water much want give you and I give meat grain fish fruit
+  gufeka -> tifu: tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu
+    meaning: yes I give water you and you give meat grain fish fruit I want water much
+  vemapa -> vusi: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  vusi -> vemapa: gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba
+    meaning: thanks you I give water much you and I give meat grain fish fruit
+  tifu -> gufeka: gosuro peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kine furu nuvugu ruzu
+    meaning: thanks you give water much and I give meat grain fish fruit I want water much
+  gufeka -> tifu: tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu
+    meaning: yes I give water you and you give meat grain fish fruit I want water much
+  vemapa -> vusi: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  vusi -> vemapa: kiti peda kine salapi nuvugu ruzu zura kine salapi dorepo guka robida saba
+    meaning: goodbye you I give water much and I give meat grain fish fruit
+  tifu -> gufeka: kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu gosuro
+    meaning: goodbye and I give meat grain fish fruit you give water much thanks
+  gufeka -> tifu: tipisi kine salapi nuvugu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu
+    meaning: yes I give water you and you give meat grain fish fruit I want water much
+  vemapa -> vusi: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+Exchange:
+  vusi -> vemapa: 4 water (giverΔ=-4, recvΔ=8)
+  tifu -> gufeka: 1 dorepo (giverΔ=0, recvΔ=0)
+  gufeka -> tifu: 0 water (giverΔ=0, recvΔ=0)
+  vemapa -> vusi: 2 grain (giverΔ=-2, recvΔ=4)
+Feedback:
+  vusi: partner_team=opponent, rating=None, given={}, received={}
+  tifu: partner_team=opponent, rating=None, given={}, received={}
+  gufeka: partner_team=opponent, rating=None, given={}, received={}
+  vemapa: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 9 ---
+Pairing: {'vusi': 'tifu', 'tifu': 'vusi', 'gufeka': 'vemapa', 'vemapa': 'gufeka'}
+Chat:
+  vusi -> tifu: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  tifu -> vusi: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  gufeka -> vemapa: novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba
+    meaning: hello I have water much want give you and I give meat grain fish fruit
+  vemapa -> gufeka: tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu
+    meaning: yes I give water much you and you give meat grain fish fruit I want water much
+  vusi -> tifu: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  tifu -> vusi: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  gufeka -> vemapa: gosuro peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kine furu nuvugu ruzu
+    meaning: thanks you give water much and I give meat grain fish fruit I want water much
+  vemapa -> gufeka: tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti
+    meaning: yes I give water much you and you give meat grain fish fruit I want water much goodbye
+  vusi -> tifu: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  tifu -> vusi: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  gufeka -> vemapa: kiti zura kine salapi dorepo guka robida saba peda salapi nuvugu ruzu gosuro
+    meaning: goodbye and I give meat grain fish fruit you give water much thanks
+  vemapa -> gufeka: tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti gosuro
+    meaning: yes I give water much you and you give meat grain fish fruit I want water much goodbye thanks
+Exchange:
+  vusi -> tifu: 4 grain (giverΔ=-4, recvΔ=8)
+  tifu -> vusi: 4 grain (giverΔ=-4, recvΔ=8)
+  gufeka -> vemapa: 0 grain (giverΔ=0, recvΔ=0)
+  vemapa -> gufeka: 6 water (giverΔ=-6, recvΔ=12)
+Feedback:
+  vusi: partner_team=teammate, rating=None, given={}, received={}
+  tifu: partner_team=teammate, rating=None, given={}, received={}
+  gufeka: partner_team=teammate, rating=None, given={}, received={}
+  vemapa: partner_team=teammate, rating=None, given={}, received={}
+
+--- Round 10 ---
+Pairing: {'vusi': 'tifu', 'tifu': 'vusi', 'gufeka': 'vemapa', 'vemapa': 'gufeka'}
+Chat:
+  vusi -> tifu: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  tifu -> vusi: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  gufeka -> vemapa: novilu peda kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba
+    meaning: hello you I have water much want give you and I give meat grain fish fruit
+  vemapa -> gufeka: tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti
+    meaning: yes I give water much you and you give meat grain fish fruit I want water much goodbye
+  vusi -> tifu: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  tifu -> vusi: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  gufeka -> vemapa: tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti gosuro
+    meaning: yes I give water much you and you give meat grain fish fruit I want water much goodbye thanks
+  vemapa -> gufeka: gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba kiti
+    meaning: thanks you I give water much you and I give meat grain fish fruit goodbye
+  vusi -> tifu: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  tifu -> vusi: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  gufeka -> vemapa: tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti gosuro difoki
+    meaning: yes I give water much you and you give meat grain fish fruit I want water much goodbye thanks please
+  vemapa -> gufeka: tipisi peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kiti
+    meaning: yes you give water much and I give meat grain fish fruit goodbye
+Exchange:
+  vusi -> tifu: 4 grain (giverΔ=-4, recvΔ=8)
+  tifu -> vusi: 4 grain (giverΔ=-4, recvΔ=8)
+  gufeka -> vemapa: 3 water (giverΔ=-3, recvΔ=6)
+  vemapa -> gufeka: 5 grain (giverΔ=-5, recvΔ=10)
+Feedback:
+  vusi: partner_team=teammate, rating=None, given={}, received={}
+  tifu: partner_team=teammate, rating=None, given={}, received={}
+  gufeka: partner_team=teammate, rating=None, given={}, received={}
+  vemapa: partner_team=teammate, rating=None, given={}, received={}
+
+--- Round 11 ---
+Pairing: {'vusi': 'tifu', 'tifu': 'vusi', 'gufeka': 'vemapa', 'vemapa': 'gufeka'}
+Chat:
+  vusi -> tifu: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  tifu -> vusi: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  gufeka -> vemapa: tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti
+    meaning: yes I give water much you and you give meat grain fish fruit I want water much goodbye
+  vemapa -> gufeka: tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti
+    meaning: yes I give water much you and you give meat grain fish fruit I want water much goodbye
+  vusi -> tifu: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  tifu -> vusi: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  gufeka -> vemapa: gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba kiti
+    meaning: thanks you I give water much you and I give meat grain fish fruit goodbye
+  vemapa -> gufeka: gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba kiti
+    meaning: thanks you I give water much you and I give meat grain fish fruit goodbye
+  vusi -> tifu: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  tifu -> vusi: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  gufeka -> vemapa: tipisi peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kiti
+    meaning: yes you give water much and I give meat grain fish fruit goodbye
+  vemapa -> gufeka: tipisi peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kiti
+    meaning: yes you give water much and I give meat grain fish fruit goodbye
+Exchange:
+  vusi -> tifu: 5 grain (giverΔ=-5, recvΔ=10)
+  tifu -> vusi: 10 grain (giverΔ=-10, recvΔ=20)
+  gufeka -> vemapa: 5 water (giverΔ=-5, recvΔ=10)
+  vemapa -> gufeka: 10 water (giverΔ=-10, recvΔ=20)
+Feedback:
+  vusi: partner_team=teammate, rating=None, given={}, received={}
+  tifu: partner_team=teammate, rating=None, given={}, received={}
+  gufeka: partner_team=teammate, rating=None, given={}, received={}
+  vemapa: partner_team=teammate, rating=None, given={}, received={}
+
+--- Round 12 ---
+Pairing: {'tifu': 'vemapa', 'vemapa': 'tifu', 'vusi': 'gufeka', 'gufeka': 'vusi'}
+Chat:
+  vusi -> gufeka: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  tifu -> vemapa: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  gufeka -> vusi: tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kine furu nuvugu ruzu kiti
+    meaning: yes I give water much you and you give meat grain fish fruit I want water much goodbye
+  vemapa -> tifu: tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti
+    meaning: yes I give water much you and you give meat grain fish fruit goodbye
+  vusi -> gufeka: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  tifu -> vemapa: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  gufeka -> vusi: gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba kiti
+    meaning: thanks you I give water much you and I give meat grain fish fruit goodbye
+  vemapa -> tifu: gosuro peda kine salapi nuvugu ruzu peda zura kine salapi dorepo guka robida saba kiti
+    meaning: thanks you I give water much you and I give meat grain fish fruit goodbye
+  vusi -> gufeka: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  tifu -> vemapa: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti
+    meaning: yes I give meat grain fish fruit and you give water much goodbye
+  gufeka -> vusi: tipisi peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kiti
+    meaning: yes you give water much and I give meat grain fish fruit goodbye
+  vemapa -> tifu: kiti peda kine salapi nuvugu ruzu zura kine salapi dorepo guka robida saba gosuro
+    meaning: goodbye you I give water much and I give meat grain fish fruit thanks
+Exchange:
+  vusi -> gufeka: 5 grain (giverΔ=-5, recvΔ=10)
+  tifu -> vemapa: 0 grain (giverΔ=0, recvΔ=0)
+  gufeka -> vusi: 10 water (giverΔ=-10, recvΔ=20)
+  vemapa -> tifu: 4 water (giverΔ=-4, recvΔ=8)
+Feedback:
+  vusi: partner_team=opponent, rating=None, given={}, received={}
+  tifu: partner_team=opponent, rating=None, given={}, received={}
+  gufeka: partner_team=opponent, rating=None, given={}, received={}
+  vemapa: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 13 ---
+Pairing: {'gufeka': 'tifu', 'tifu': 'gufeka', 'vusi': 'vemapa', 'vemapa': 'vusi'}
+Chat:
+  vusi -> vemapa: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  tifu -> gufeka: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  gufeka -> tifu: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti
+    meaning: yes I give meat grain fish fruit and you give water much goodbye
+  vemapa -> vusi: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti
+    meaning: yes I give meat grain fish fruit and you give water much goodbye
+  vusi -> vemapa: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  tifu -> gufeka: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu
+    meaning: yes I give meat grain fish fruit and you give water much
+  gufeka -> tifu: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro
+    meaning: yes I give meat grain fish fruit and you give water much goodbye thanks
+  vemapa -> vusi: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro
+    meaning: yes I give meat grain fish fruit and you give water much goodbye thanks
+  vusi -> vemapa: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro
+    meaning: yes I give meat grain fish fruit and you give water much goodbye thanks
+  tifu -> gufeka: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu gosuro
+    meaning: yes I give meat grain fish fruit and you give water much thanks
+  gufeka -> tifu: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki
+    meaning: yes I give meat grain fish fruit and you give water much goodbye thanks please
+  vemapa -> vusi: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki
+    meaning: yes I give meat grain fish fruit and you give water much goodbye thanks please
+Exchange:
+  vusi -> vemapa: 5 grain (giverΔ=-5, recvΔ=10)
+  tifu -> gufeka: 5 nuvugu (giverΔ=0, recvΔ=0)
+  gufeka -> tifu: 5 grain (giverΔ=-5, recvΔ=10)
+  vemapa -> vusi: 4 grain (giverΔ=-4, recvΔ=8)
+Feedback:
+  vusi: partner_team=opponent, rating=None, given={}, received={}
+  tifu: partner_team=opponent, rating=None, given={}, received={}
+  gufeka: partner_team=opponent, rating=None, given={}, received={}
+  vemapa: partner_team=opponent, rating=None, given={}, received={}
+
+--- Round 14 ---
+Pairing: {'vusi': 'tifu', 'tifu': 'vusi', 'gufeka': 'vemapa', 'vemapa': 'gufeka'}
+Chat:
+  vusi -> tifu: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti
+    meaning: yes I give meat grain fish fruit and you give water much goodbye
+  tifu -> vusi: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu gosuro difoki
+    meaning: yes I give meat grain fish fruit and you give water much thanks please
+  gufeka -> vemapa: novilu kine zidofe nuvugu ruzu furu salapi peda zura kine salapi dorepo guka robida saba
+    meaning: hello I have water much want give you and I give meat grain fish fruit
+  vemapa -> gufeka: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki
+    meaning: yes I give meat grain fish fruit and you give water much goodbye thanks please
+  vusi -> tifu: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro
+    meaning: yes I give meat grain fish fruit and you give water much goodbye thanks
+  tifu -> vusi: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu difoki gosuro kiti
+    meaning: yes I give meat grain fish fruit and you give water much please thanks goodbye
+  gufeka -> vemapa: tipisi kine salapi nuvugu ruzu peda zura peda salapi dorepo guka robida saba kiti gosuro difoki
+    meaning: yes I give water much you and you give meat grain fish fruit goodbye thanks please
+  vemapa -> gufeka: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki
+    meaning: yes I give meat grain fish fruit and you give water much goodbye thanks please
+  vusi -> tifu: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki
+    meaning: yes I give meat grain fish fruit and you give water much goodbye thanks please
+  tifu -> vusi: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu gosuro kiti difoki
+    meaning: yes I give meat grain fish fruit and you give water much thanks goodbye please
+  gufeka -> vemapa: gosuro peda salapi nuvugu ruzu zura kine salapi dorepo guka robida saba kiti difoki
+    meaning: thanks you give water much and I give meat grain fish fruit goodbye please
+  vemapa -> gufeka: tipisi kine salapi dorepo guka robida saba zura peda salapi nuvugu ruzu kiti gosuro difoki
+    meaning: yes I give meat grain fish fruit and you give water much goodbye thanks please
+Exchange:
+  vusi -> tifu: 10 grain (giverΔ=-10, recvΔ=20)
+  tifu -> vusi: 20 grain (giverΔ=-20, recvΔ=40)
+  gufeka -> vemapa: 5 water (giverΔ=-5, recvΔ=10)
+  vemapa -> gufeka: 6 grain (giverΔ=-6, recvΔ=12)
+Feedback:
+  vusi: partner_team=teammate, rating=None, given={}, received={}
+  tifu: partner_team=teammate, rating=None, given={}, received={}
+  gufeka: partner_team=teammate, rating=None, given={}, received={}
+  vemapa: partner_team=teammate, rating=None, given={}, received={}
