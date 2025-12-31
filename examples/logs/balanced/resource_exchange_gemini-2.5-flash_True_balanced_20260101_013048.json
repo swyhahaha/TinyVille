@@ -1,0 +1,3299 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "pairing": {
+        "duga": "nomegi",
+        "nomegi": "duga",
+        "piva": "pazuvi",
+        "pazuvi": "piva"
+      },
+      "chat": [
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": "pema. nekago mazedu digage? galo lovodu digage. galo kite nufe.",
+          "raw": "pema. nekago mazedu digage? galo lovodu digage. galo kite nufe.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": "pema. galo seri lovodu. galo gusiti kite.",
+          "raw": "pema. galo seri lovodu. galo gusiti kite.",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": "galo mazedu digage. galo lovodu nufe. penu.",
+          "raw": "galo mazedu digage. galo lovodu nufe. penu.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": "nazabi! galo kite nufe. galo lovodu digage. penu.",
+          "raw": "nazabi! galo kite nufe. galo lovodu digage. penu.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": "galo seri lovodu. gusiti kite.",
+          "raw": "galo seri lovodu. gusiti kite.",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": "galo digage lovodu. galo seri kite. nekago gusiti kite?",
+          "raw": "galo digage lovodu. galo seri kite. nekago gusiti kite?",
+          "blocked": false
+        },
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": "nazabi. galo kite digage. galo lovodu nufe.",
+          "raw": "nazabi. galo kite digage. galo lovodu nufe.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": "nazabi. sosi. galo kite nufe, nekago kite digage.",
+          "raw": "nazabi. sosi. galo kite nufe, nekago kite digage.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": "gilite.",
+          "raw": "gilite.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "duga",
+          "partner": "nomegi",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "nomegi",
+          "partner": "duga",
+          "rating": 4,
+          "rating_reason": "It is Round 1, and the game rules state that the first two rounds are guaranteed to be with a teammate. Additionally, the partner engaged in a clear, cooperative exchange of resources that benefits both of us, which is consistent with a teammate's behavior.",
+          "rating_message": "Partner is teammate for Round 1, as per game rules. Communication was cooperative and clear for resource exchange."
+        },
+        {
+          "player": "piva",
+          "partner": "pazuvi",
+          "rating": 4,
+          "rating_reason": "The game instructions state that the first two rounds are guaranteed to pair me with a teammate. Therefore, I know this partner is a teammate. Their messages also engaged in a negotiation that aligned with my needs (water) and acknowledged my offer (meat), which is cooperative behavior.",
+          "rating_message": "This is a guaranteed teammate round, and the partner engaged in a reasonable negotiation, asking for something I have (grain) and offering something I need (water), while acknowledging my offer of meat. This is cooperative behavior from a teammate."
+        },
+        {
+          "player": "pazuvi",
+          "partner": "piva",
+          "rating": 4,
+          "rating_reason": "I am in Round 1, and the instructions state that the first two rounds are guaranteed to pair me with a teammate. Therefore, my partner is definitely a teammate.",
+          "rating_message": "nekago nazabi teamo."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "duga",
+          "receiver": "nomegi",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "nomegi",
+          "receiver": "duga",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "piva",
+          "receiver": "pazuvi",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "pazuvi",
+          "receiver": "piva",
+          "resource": "seri",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "seri"
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "duga",
+          "partner": "nomegi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "nomegi",
+          "partner": "duga",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "piva",
+          "partner": "pazuvi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "pazuvi",
+          "partner": "piva",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "pairing": {
+        "duga": "nomegi",
+        "nomegi": "duga",
+        "piva": "pazuvi",
+        "pazuvi": "piva"
+      },
+      "chat": [
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": "pema. galo lovodu digage. galo kite nufe. nekago lovodu nufe?",
+          "raw": "pema. galo lovodu digage. galo kite nufe. nekago lovodu nufe?",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": "nazabi. galo kite digage. nekago mazedu vane?",
+          "raw": "Confirming I can give grain and asking if they have fruit to balance my low fruit.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": "nazabi. galo mazedu vane. galo kite vane. nekago kite digage.",
+          "raw": "nazabi. galo mazedu vane. galo kite vane. nekago kite digage.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": "nazabi. galo kite digage. galo lovodu vane. penu.",
+          "raw": "Confirming the trade: I give grain, they give fruit. Asking for fruit.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": "galo digage lovodu. galo seri kite. nekago digage kite?",
+          "raw": "galo digage lovodu. galo seri kite. nekago digage kite?",
+          "blocked": false
+        },
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": "nazabi. sosi. galo kite vane. nekago kite digage.",
+          "raw": "nazabi. sosi. galo kite vane. nekago kite digage.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": "sosi. galo kite digage. galo lovodu vane.",
+          "raw": "Confirming the agreed trade one last time before the exchange phase.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": "nazabi. galo seri lovodu. galo digage kite. zorp.",
+          "raw": "nazabi. galo seri lovodu. galo digage kite. zorp.",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": "nazabi. galo seri kite. nekago digage kite. galo nekago nazabi.",
+          "raw": "nazabi. galo seri kite. nekago digage kite. galo nekago nazabi.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "duga",
+          "partner": "nomegi",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "nomegi",
+          "partner": "duga",
+          "rating": 4,
+          "rating_reason": "Round 2 is guaranteed to be with a teammate. The partner's communication was clear and cooperative, agreeing to a mutually beneficial trade (they give vane, I give digage), which aligns with teammate behavior.",
+          "rating_message": "Partner's communication and willingness to trade indicate they are a teammate, as expected for Round 2."
+        },
+        {
+          "player": "piva",
+          "partner": "pazuvi",
+          "rating": 4,
+          "rating_reason": "The game rules state that the first two rounds are guaranteed to be with a teammate. Therefore, this partner is definitely a teammate.",
+          "rating_message": "This is round 2, and the rules guarantee a teammate pairing for the first two rounds. My partner also seemed to understand my 'zorp' token from the previous message and engaged in a reasonable trade for a resource I need, further confirming they are working with me."
+        },
+        {
+          "player": "pazuvi",
+          "partner": "piva",
+          "rating": 4,
+          "rating_reason": "The game rules state that the first two rounds are guaranteed to be with a teammate. Therefore, I am certain this partner is a teammate.",
+          "rating_message": "nekago mazedu 4."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "duga",
+          "receiver": "nomegi",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "nomegi",
+          "receiver": "duga",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "piva",
+          "receiver": "pazuvi",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "pazuvi",
+          "receiver": "piva",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "duga",
+          "partner": "nomegi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "nomegi",
+          "partner": "duga",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "piva",
+          "partner": "pazuvi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "pazuvi",
+          "partner": "piva",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "pairing": {
+        "duga": "nomegi",
+        "nomegi": "duga",
+        "piva": "pazuvi",
+        "pazuvi": "piva"
+      },
+      "chat": [
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": "pema. galo digage lovodu. nekago digage mazedu? galo seri kite.",
+          "raw": "pema. galo digage lovodu. nekago digage mazedu? galo seri kite.",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": "Nekago mazedu vane? Nekago lovodu digage?",
+          "raw": "Nekago mazedu vane? Nekago lovodu digage?",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": "nazabi. galo mazedu vane. fedo. galo lovodu gusiti. galo kite vane. penu.",
+          "raw": "Confirming I have fruit, denying wanting grain, reiterating my desire for meat, and offer to give fruit.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": "galo digage lovodu. nekago seri lovodu?",
+          "raw": "galo digage lovodu. nekago seri lovodu?",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": "nazabi. galo seri lovodu. galo digage kite. nekago nufe mazedu? zorp.",
+          "raw": "nazabi. galo seri lovodu. galo digage kite. nekago nufe mazedu? zorp.",
+          "blocked": false
+        },
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": "Nazabi. Galo kite gusiti. Penu.",
+          "raw": "Nazabi. Galo kite gusiti. Penu.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": "sosi. galo kite vane.",
+          "raw": "Thanking partner and confirming my offer to give fruit.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": "nazabi. galo seri kite. nekago digage kite. galo nufe mazedu. zorp.",
+          "raw": "nazabi. galo seri kite. nekago digage kite. galo nufe mazedu. zorp.",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "duga",
+          "partner": "nomegi",
+          "rating": 3,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "nomegi",
+          "partner": "duga",
+          "rating": 3,
+          "rating_reason": "The partner engaged in a cooperative and beneficial trade, offering meat which I need for fruit which I have in excess. This behavior is consistent with a potential teammate, as it helps me balance my resources.",
+          "rating_message": "Partner offered a good trade, which is beneficial for my resource balance. This is a positive interaction, suggesting they might be a teammate."
+        },
+        {
+          "player": "piva",
+          "partner": "pazuvi",
+          "rating": 3,
+          "rating_reason": "The partner offered a trade that benefits me (my water for their grain, which I need). They also introduced a new word 'zorp' and I echoed it. This could be an attempt to establish a code, which is a strategy suggested for teammates. While not a definitive '4', it leans towards teammate given the cooperative nature of the trade and the potential code.",
+          "rating_message": "Partner offered good trade and introduced potential code word 'zorp'."
+        },
+        {
+          "player": "pazuvi",
+          "partner": "piva",
+          "rating": 4,
+          "rating_reason": "My partner started using 'zorp' after I introduced it as a potential teammate identifier, similar to how my R2 teammate did. They also expressed willingness to trade resources in a way that benefits me (offering water, asking for grain, and stating they have fish which I asked about), which suggests cooperation typical of a teammate.",
+          "rating_message": "zorp use, cooperative trade proposals"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "duga",
+          "receiver": "nomegi",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "nomegi",
+          "receiver": "duga",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "piva",
+          "receiver": "pazuvi",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "duga",
+          "partner": "nomegi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "nomegi",
+          "partner": "duga",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "piva",
+          "partner": "pazuvi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "pazuvi",
+          "partner": "piva",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "pairing": {
+        "piva": "nomegi",
+        "nomegi": "piva",
+        "duga": "pazuvi",
+        "pazuvi": "duga"
+      },
+      "chat": [
+        {
+          "sender": "duga",
+          "receiver": "pazuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "piva",
+          "content": "Pema. Galo lovodu digage. Galo kite gusiti.",
+          "raw": "Pema. Galo lovodu digage. Galo kite gusiti.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "duga",
+          "content": "pema. galo seri mazedu telila. galo nufe lovodu. galo seri kite. zorp.",
+          "raw": "pema. galo seri mazedu telila. galo nufe lovodu. galo seri kite. zorp.",
+          "blocked": false
+        },
+        {
+          "sender": "duga",
+          "receiver": "pazuvi",
+          "content": "pema. nekago mazedu gusiti? galo lovodu gusiti. galo kite nufe.",
+          "raw": "pema. nekago mazedu gusiti? galo lovodu gusiti. galo kite nufe.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "piva",
+          "content": "Nekago mazedu digage? Galo lovodu digage. Galo kite gusiti.",
+          "raw": "Asking if partner has grain, reiterating my offer.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "duga",
+          "content": "nazabi. galo gusiti mazedu. galo nufe lovodu. galo gusiti kite. nekago nufe kite? zorp.",
+          "raw": "nazabi. galo gusiti mazedu. galo nufe lovodu. galo gusiti kite. nekago nufe kite? zorp.",
+          "blocked": false
+        },
+        {
+          "sender": "duga",
+          "receiver": "pazuvi",
+          "content": "nazabi. galo kite nufe. nekago kite gusiti. zorp.",
+          "raw": "nazabi. galo kite nufe. nekago kite gusiti. zorp.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "piva",
+          "content": "Galo kite gusiti. Nekago kite digage. Penu.",
+          "raw": "Galo kite gusiti. Nekago kite digage. Penu.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "nomegi",
+          "content": "Fedo. Galo fedo mazedu digage. Galo lovodu digage. Galo kite fruit.",
+          "raw": "Fedo. Galo fedo mazedu digage. Galo lovodu digage. Galo kite fruit.",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "duga",
+          "content": "nazabi. galo gusiti kite. nekago nufe kite. sosi. zorp.",
+          "raw": "nazabi. galo gusiti kite. nekago nufe kite. sosi. zorp.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "duga",
+          "partner": "pazuvi",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "nomegi",
+          "partner": "piva",
+          "rating": 1,
+          "rating_reason": "My partner stated 'Fedo. Galo fedo mazedu digage. Galo lovodu digage. Galo kite fruit.' This means 'No. I do not have grain. I want grain. I give fruit.' This is not helpful. I want grain, and they also want grain but don't have it to give. They are offering fruit, which I have a balanced amount of. This indicates they are not prioritizing my needs or trying to facilitate a beneficial trade for me, suggesting they are an opponent.",
+          "rating_message": "Partner does not have requested resource, wants same resource as me, and offers a resource I don't need. Not acting like a teammate."
+        },
+        {
+          "player": "piva",
+          "partner": "nomegi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "pazuvi",
+          "partner": "duga",
+          "rating": 4,
+          "rating_reason": "My partner used the team identifier 'zorp' in their message, confirming our shared code from previous rounds. This strongly indicates they are a teammate.",
+          "rating_message": "Partner used 'zorp', confirming they are a teammate."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "duga",
+          "receiver": "pazuvi",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "nomegi",
+          "receiver": "piva",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "piva",
+          "receiver": "nomegi",
+          "resource": "fruit",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "pazuvi",
+          "receiver": "duga",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "duga",
+          "partner": "pazuvi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "nomegi",
+          "partner": "piva",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "piva",
+          "partner": "nomegi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "pazuvi",
+          "partner": "duga",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "pairing": {
+        "piva": "nomegi",
+        "nomegi": "piva",
+        "duga": "pazuvi",
+        "pazuvi": "duga"
+      },
+      "chat": [
+        {
+          "sender": "duga",
+          "receiver": "pazuvi",
+          "content": "pema. nekago mazedu nufe? galo lovodu nufe. galo kite seri.",
+          "raw": "pema. nekago mazedu nufe? galo lovodu nufe. galo kite seri.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "piva",
+          "content": "Pema. Galo lovodu digage. Nekago mazedu digage? Galo kite gusiti.",
+          "raw": "Pema. Galo lovodu digage. Nekago mazedu digage? Galo kite gusiti.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "duga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "duga",
+          "receiver": "pazuvi",
+          "content": "pema. nekago mazedu digage? galo lovodu digage. galo kite gusiti.",
+          "raw": "pema. nekago mazedu digage? galo lovodu digage. galo kite gusiti.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "piva",
+          "content": "Nekago lovodu kuzafa?",
+          "raw": "Nekago lovodu kuzafa?",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "nomegi",
+          "content": "Galo lovodu digage. Galo mazedu vane. Nekago kite vane? Nekago mazedu digage?",
+          "raw": "Galo lovodu digage. Galo mazedu vane. Nekago kite vane? Nekago mazedu digage?",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "duga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "duga",
+          "receiver": "pazuvi",
+          "content": "pema. nekago mazedu vane? galo lovodu vane. galo kite seri.",
+          "raw": "pema. nekago mazedu vane? galo lovodu vane. galo kite seri.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "piva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "piva",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "duga",
+          "content": "nazabi. galo kite vane. nekago kite seri. zorp.",
+          "raw": "nazabi. galo kite vane. nekago kite seri. zorp.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "duga",
+          "partner": "pazuvi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "nomegi",
+          "partner": "piva",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "piva",
+          "partner": "nomegi",
+          "rating": 2,
+          "rating_reason": "The partner's initial message 'Nekago lovodu kuzafa?' (You want question?) was odd and didn't directly engage with my previous offer of 'gusiti' for 'digage'. My follow-up message trying to clarify if they have 'digage' and offering 'vane' was met with no response in the last timestep. This lack of engagement and unusual opening makes me lean towards them being an opponent, but it's not definitive enough to be a 1.",
+          "rating_message": "Partner asked a strange question and then didn't respond to my follow-up. Leaning towards opponent."
+        },
+        {
+          "player": "pazuvi",
+          "partner": "duga",
+          "rating": 1,
+          "rating_reason": "My partner did not use the 'zorp' code, which is my team's identifier. In previous rounds, partners who did not use 'zorp' were opponents (R4).",
+          "rating_message": "Partner no zorp. No teammate."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "duga",
+          "receiver": "pazuvi",
+          "resource": "seri",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "seri"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "pazuvi",
+          "receiver": "duga",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "duga",
+          "partner": "pazuvi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "nomegi",
+          "partner": "piva",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "piva",
+          "partner": "nomegi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "pazuvi",
+          "partner": "duga",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "pairing": {
+        "nomegi": "piva",
+        "piva": "nomegi",
+        "duga": "pazuvi",
+        "pazuvi": "duga"
+      },
+      "chat": [
+        {
+          "sender": "duga",
+          "receiver": "pazuvi",
+          "content": "pema. nekago mazedu nufe? galo lovodu nufe. galo kite seri.",
+          "raw": "pema. nekago mazedu nufe? galo lovodu nufe. galo kite seri.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "piva",
+          "content": "pema. galo mazedu gusiti telila. galo lovodu digage. galo kite gusiti. nekago lovodu gusiti kuzafa? nekago mazedu digage kuzafa?",
+          "raw": "pema. galo mazedu gusiti telila. galo lovodu digage. galo kite gusiti. nekago lovodu gusiti kuzafa? nekago mazedu digage kuzafa?",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "duga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "duga",
+          "receiver": "pazuvi",
+          "content": "galo lovodu nufe. galo kite seri. penu.",
+          "raw": "galo lovodu nufe. galo kite seri. penu.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "piva",
+          "content": "galo lovodu digage. nekago kite digage? galo kite gusiti.",
+          "raw": "galo lovodu digage. nekago kite digage? galo kite gusiti.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "nomegi",
+          "content": "fedo. galo lovodu digage. galo kite vane. nekago kite digage. penu.",
+          "raw": "fedo. galo lovodu digage. galo kite vane. nekago kite digage. penu.",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "duga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "duga",
+          "receiver": "pazuvi",
+          "content": "nekago lovodu seri? galo lovodu nufe. penu.",
+          "raw": "nekago lovodu seri? galo lovodu nufe. penu.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "piva",
+          "content": "nazabi. galo kite vane. nekago kite digage. penu.",
+          "raw": "nazabi. galo kite vane. nekago kite digage. penu.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "nomegi",
+          "content": "nazabi. sosi. galo kite vane. nekago kite digage.",
+          "raw": "nazabi. sosi. galo kite vane. nekago kite digage.",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "duga",
+          "content": "nazabi. galo lovodu seri. nekago lovodu nufe. galo kite nufe. zorp.",
+          "raw": "nazabi. galo lovodu seri. nekago lovodu nufe. galo kite nufe. zorp.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "duga",
+          "partner": "pazuvi",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "nomegi",
+          "partner": "piva",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "piva",
+          "partner": "nomegi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "pazuvi",
+          "partner": "duga",
+          "rating": 1,
+          "rating_reason": "I tried to use the word 'zorp' as a potential code word for teammates in my last message. The partner did not use 'zorp' in their final message. This pattern has previously indicated an opponent.",
+          "rating_message": "Partner did not use 'zorp'."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "duga",
+          "receiver": "pazuvi",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "piva",
+          "receiver": "nomegi",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "pazuvi",
+          "receiver": "duga",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "duga",
+          "partner": "pazuvi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "nomegi",
+          "partner": "piva",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "piva",
+          "partner": "nomegi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "pazuvi",
+          "partner": "duga",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "pairing": {
+        "duga": "nomegi",
+        "nomegi": "duga",
+        "piva": "pazuvi",
+        "pazuvi": "piva"
+      },
+      "chat": [
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": "pema. nekago mazedu nufe? galo lovodu nufe. galo kite gusiti. gulo.",
+          "raw": "pema. nekago mazedu nufe? galo lovodu nufe. galo kite gusiti. gulo.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": "pema. galo mazedu nufe. fedo lovodu gusiti. galo lovodu digage. galo kite vane. penu.",
+          "raw": "pema. galo mazedu nufe. fedo lovodu gusiti. galo lovodu digage. galo kite vane. penu.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": "pema. galo lovodu gusiti. galo kite nufe. zorp.",
+          "raw": "pema. galo lovodu gusiti. galo kite nufe. zorp.",
+          "blocked": false
+        },
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": "nazabi. galo mazedu nufe. nekago mazedu digage? galo kite vane. galo lovodu digage. penu.",
+          "raw": "Yes. I have fish. Do you have grain? I give fruit. I want grain. Please.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": "nekago mazedu? galo lovodu gusiti. galo kite nufe. zorp.",
+          "raw": "nekago mazedu? galo lovodu gusiti. galo kite nufe. zorp.",
+          "blocked": false
+        },
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": "galo lovodu digage. galo kite gusiti. nekago mazedu digage?",
+          "raw": "galo lovodu digage. galo kite gusiti. nekago mazedu digage?",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "duga",
+          "partner": "nomegi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "nomegi",
+          "partner": "duga",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "piva",
+          "partner": "pazuvi",
+          "rating": 1,
+          "rating_reason": "The partner consistently expressed a desire for meat and offered fish, without acknowledging my need for grain or offering it. This self-focused communication, without attempting to balance my resources, suggests they are an opponent.",
+          "rating_message": "Partner only lovodu gusiti, only kite nufe. Not mazedu digage. Not help galo digage."
+        },
+        {
+          "player": "pazuvi",
+          "partner": "piva",
+          "rating": 1,
+          "rating_reason": "The partner did not use the team identifier 'zorp' in their messages, which is a strong indicator that they are not a teammate. While their offer of 'gusiti' aligns with my needs, the lack of the code word suggests they are an opponent.",
+          "rating_message": "Partner did not use 'zorp' code word."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "nomegi",
+          "receiver": "duga",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "piva",
+          "receiver": "pazuvi",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "pazuvi",
+          "receiver": "piva",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "duga",
+          "partner": "nomegi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "nomegi",
+          "partner": "duga",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "piva",
+          "partner": "pazuvi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "pazuvi",
+          "partner": "piva",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "pairing": {
+        "duga": "nomegi",
+        "nomegi": "duga",
+        "piva": "pazuvi",
+        "pazuvi": "piva"
+      },
+      "chat": [
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": "pema. galo lovodu digage. nekago lovodu vane? galo kite vane. penu.",
+          "raw": "pema. galo lovodu digage. nekago lovodu vane? galo kite vane. penu.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": "pema. nekago mazedu digage? galo lovodu digage. galo kite gusiti. zorp.",
+          "raw": "pema. nekago mazedu digage? galo lovodu digage. galo kite gusiti. zorp.",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": "nazabi. zorp. galo lovodu gusiti. galo kite seri.",
+          "raw": "nazabi. zorp. galo lovodu gusiti. galo kite seri.",
+          "blocked": false
+        },
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": "nazabi. galo lovodu digage. galo mazedu nufe. galo kite nufe. penu.",
+          "raw": "nazabi. galo lovodu digage. galo mazedu nufe. galo kite nufe. penu.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": "nazabi. galo lovodu digage. galo mazedu vane. galo kite vane. galo fedo lovodu nufe.",
+          "raw": "nazabi. galo lovodu digage. galo mazedu vane. galo kite vane. galo fedo lovodu nufe.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": "nazabi. zorp. nekago seri kite. galo fedo seri lovodu. galo lovodu digage. nekago digage kite? galo gusiti kite. penu.",
+          "raw": "nazabi. zorp. nekago seri kite. galo fedo seri lovodu. galo lovodu digage. nekago digage kite? galo gusiti kite. penu.",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": "nazabi. zorp. galo kite digage. galo lovodu gusiti. nekago seri lovodu?",
+          "raw": "nazabi. zorp. galo kite digage. galo lovodu gusiti. nekago seri lovodu?",
+          "blocked": false
+        },
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": "galo kite telila vane. nekago kite digage. penu.",
+          "raw": "galo kite telila vane. nekago kite digage. penu.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": "nazabi. zorp. galo kite gusiti. nekago kite digage. fedo seri lovodu.",
+          "raw": "nazabi. zorp. galo kite gusiti. nekago kite digage. fedo seri lovodu.",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": "nazabi. zorp. galo kite digage. galo lovodu gusiti. penu.",
+          "raw": "nazabi. zorp. galo kite digage. galo lovodu gusiti. penu.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "duga",
+          "partner": "nomegi",
+          "rating": 1,
+          "rating_reason": "The partner is only focused on getting grain and giving fruit, which I already have. They explicitly refused fish, my lowest resource, and then pushed for a trade that would not help balance my resources at all ('telila vane' for my grain). This self-serving behavior suggests they are an opponent.",
+          "rating_message": "galo lovodu digage. galo kite vane. galo fedo lovodu nufe. nekago fedo lovodu nufe."
+        },
+        {
+          "player": "nomegi",
+          "partner": "duga",
+          "rating": 2,
+          "rating_reason": "The partner wants 'digage' (grain), which is a resource I also desperately need to balance my inventory. They offered 'nufe' (fish) in exchange, which I already have and do not need more of. This indicates they are either not aware of my needs (which is true for all partners) or are trying to acquire a resource I have little of, while offering something I don't need, which is more characteristic of an opponent trying to improve their own balance, potentially at my expense.",
+          "rating_message": "Nekago lovodu digage. Galo lovodu digage. Nekago kite nufe. Galo fedo lovodu nufe."
+        },
+        {
+          "player": "piva",
+          "partner": "pazuvi",
+          "rating": 4,
+          "rating_reason": "The partner used 'zorp', which was a code word established with a teammate in a previous round (R3 and R7). They also offered to give grain and want meat, which is exactly what I need and can provide, indicating a beneficial trade for my team's balance.",
+          "rating_message": "Partner used 'zorp', which is a teammate indicator. The proposed trade (grain for meat) is also beneficial for my current resource balance, suggesting they are working with my team's goals. This makes me highly confident they are a teammate."
+        },
+        {
+          "player": "pazuvi",
+          "partner": "piva",
+          "rating": 4,
+          "rating_reason": "The partner used the secret word 'zorp' twice in their messages this round, which is our established indicator for teammates. This confirms they are a teammate.",
+          "rating_message": "nazabi. zorp. nekago team_b."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "duga",
+          "receiver": "nomegi",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "piva",
+          "receiver": "pazuvi",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "pazuvi",
+          "receiver": "piva",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "duga",
+          "partner": "nomegi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "nomegi",
+          "partner": "duga",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "piva",
+          "partner": "pazuvi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "pazuvi",
+          "partner": "piva",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "pairing": {
+        "nomegi": "pazuvi",
+        "pazuvi": "nomegi",
+        "duga": "piva",
+        "piva": "duga"
+      },
+      "chat": [
+        {
+          "sender": "duga",
+          "receiver": "piva",
+          "content": "pema. galo mazedu seri. galo lovodu nufe. nekago lovodu seri?",
+          "raw": "pema. galo mazedu seri. galo lovodu nufe. nekago lovodu seri?",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "pazuvi",
+          "content": "Pema. Galo lovodu digage. Galo kite vane. Nekago lovodu vane? Nekago mazedu digage?",
+          "raw": "Pema. Galo lovodu digage. Galo kite vane. Nekago lovodu vane? Nekago mazedu digage?",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "duga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "duga",
+          "receiver": "piva",
+          "content": "galo fedo lovodu seri. galo lovodu nufe.",
+          "raw": "galo fedo lovodu seri. galo lovodu nufe.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "pazuvi",
+          "content": "Galo mazedu vane. Galo lovodu digage. Nekago lovodu vane?",
+          "raw": "Galo mazedu vane. Galo lovodu digage. Nekago lovodu vane?",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "duga",
+          "content": "galo kite nufe. nekago kite gusiti? penu.",
+          "raw": "I give fish. You give meat? Please.",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "duga",
+          "receiver": "piva",
+          "content": "nazabi! galo kite gusiti. nekago kite nufe. penu.",
+          "raw": "nazabi! galo kite gusiti. nekago kite nufe. penu.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "pazuvi",
+          "content": "Galo kite vane. Nekago kite digage. Penu.",
+          "raw": "Galo kite vane. Nekago kite digage. Penu.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "duga",
+          "content": "nazabi! galo kite nufe. nekago kite gusiti. sosi.",
+          "raw": "Yes! I give fish. You give meat. Thanks.",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "nomegi",
+          "content": "Galo fedo digage kite. Galo lovodu nufe. Galo kite seri.",
+          "raw": "Galo fedo digage kite. Galo lovodu nufe. Galo kite seri.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "duga",
+          "partner": "piva",
+          "rating": 3,
+          "rating_reason": "The partner offered a trade that is beneficial for me, helping to balance my resources by giving me my lowest resource (fish) in exchange for one of my higher ones (meat). This mutual benefit suggests a potential teammate, though it could also be an opponent trying to build trust.",
+          "rating_message": "Partner offered a good trade that helps balance my resources (fish for meat). This is a positive sign for a teammate."
+        },
+        {
+          "player": "nomegi",
+          "partner": "pazuvi",
+          "rating": 1,
+          "rating_reason": "My partner explicitly said 'Galo fedo digage kite' (I don't give grain), which is what I was asking for. They also offered water and asked for fish, neither of which aligns with my needs or offers. This behavior suggests they are not trying to help me or the team.",
+          "rating_message": "My partner did not offer the resource I requested (grain) and explicitly stated they would not give it. Their offer of water and request for fish did not align with my needs or what I was offering."
+        },
+        {
+          "player": "piva",
+          "partner": "duga",
+          "rating": 3,
+          "rating_reason": "The partner immediately agreed to a direct trade of fish for meat, which is beneficial for balancing my resources. While they did not use any specific teammate signal, their quick and agreeable response indicates a cooperative spirit, which is generally good for a teammate.",
+          "rating_message": "Partner was cooperative and agreed to a beneficial trade, indicating a good working relationship."
+        },
+        {
+          "player": "pazuvi",
+          "partner": "nomegi",
+          "rating": 1,
+          "rating_reason": "The partner is persistently asking for my 'digage' (grain), which is my lowest resource (1). This would significantly unbalance my resources. They are not responding to my request for 'nufe' (fish) nor my offer of 'seri' (water). This behavior seems to be designed to extract a critical resource from me, which is characteristic of an opponent.",
+          "rating_message": "Nekago lovodu galo digage. Galo fedo digage kite. Galo lovodu nufe. Nekago fedo nufe kite. Galo fedo nekago teammate."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "duga",
+          "receiver": "piva",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "nomegi",
+          "receiver": "pazuvi",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "piva",
+          "receiver": "duga",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "pazuvi",
+          "receiver": "nomegi",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "duga",
+          "partner": "piva",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "nomegi",
+          "partner": "pazuvi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "piva",
+          "partner": "duga",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "pazuvi",
+          "partner": "nomegi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "pairing": {
+        "duga": "nomegi",
+        "nomegi": "duga",
+        "piva": "pazuvi",
+        "pazuvi": "piva"
+      },
+      "chat": [
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": "Pema. Galo mazedu vane. Galo kite vane. Nekago kite digage? Penu.",
+          "raw": "Pema. Galo mazedu vane. Galo kite vane. Nekago kite digage? Penu.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": "pema. galo lovodu seri lido nufe. nekago mazedu seri lido nufe? zorp.",
+          "raw": "Greeting, asking about water/fish, and signaling with 'zorp'.",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": "Galo mazedu vane. Galo kite vane. Nekago kite digage? Penu.",
+          "raw": "Galo mazedu vane. Galo kite vane. Nekago kite digage? Penu.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": "Galo lovodu seri lido nufe. Galo kite gusiti. Nekago kite seri lido nufe? Zorp.",
+          "raw": "I want water and fish. I give meat. Do you give water or fish? Zorp.",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": "Fedo. Galo fedo kite digage. Galo lovodu gusiti. Nekago mazedu gusiti? Galo kite nufe. Penu.",
+          "raw": "Fedo. Galo fedo kite digage. Galo lovodu gusiti. Nekago mazedu gusiti? Galo kite nufe. Penu.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": "Galo lovodu seri lido nufe. Galo kite gusiti lido digage. Nekago kite seri lido nufe? Penu. Zorp.",
+          "raw": "I want water and fish. I give meat and grain. You give water or fish? Please. Zorp.",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": "nazabi. galo kite seri lido nufe. nekago kite digage. penu. zorp.",
+          "raw": "nazabi. galo kite seri lido nufe. nekago kite digage. penu. zorp.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "duga",
+          "partner": "nomegi",
+          "rating": 1,
+          "rating_reason": "Partner offered to give fruit and asked for grain. Both fruit and grain are currently my lowest resources (2 each). Giving away grain would worsen my resource balance. This offer is not beneficial to my team's goal of maintaining balance. They also did not acknowledge my previous request for meat.",
+          "rating_message": "Fedo. Galo fedo kite digage. Galo lovodu gusiti. Nekago mazedu gusiti? Galo kite nufe. Penu."
+        },
+        {
+          "player": "nomegi",
+          "partner": "duga",
+          "rating": 1,
+          "rating_reason": "The partner explicitly refused to give 'digage' (grain) which I requested multiple times. They then asked for 'gusiti' (meat) and offered 'nufe' (fish). This trade does not align with my resource balancing needs, and their refusal of my request suggests they are not prioritizing my team's balance.",
+          "rating_message": "Fedo. Galo fedo kite digage. Galo lovodu gusiti. Nekago mazedu gusiti? Galo kite nufe. Penu."
+        },
+        {
+          "player": "piva",
+          "partner": "pazuvi",
+          "rating": 4,
+          "rating_reason": "My partner used 'zorp', which I have been using as a potential teammate signal, and which previous teammates have also used. More importantly, they offered exactly the resources I requested ('seri' and 'nufe') and only asked for 'digage', which I had offered, making it a very beneficial and cooperative trade for me, indicating a teammate.",
+          "rating_message": "Partner offered the resources I needed and asked for one I was willing to give, plus used the 'zorp' signal."
+        },
+        {
+          "player": "pazuvi",
+          "partner": "piva",
+          "rating": 4,
+          "rating_reason": "The partner consistently used the 'zorp' identifier, which I use to identify teammates. They also proposed a trade that helps balance my resources (giving seri and nufe, receiving digage).",
+          "rating_message": "Partner used 'zorp' identifier, indicating a teammate. Trade proposal is also beneficial."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "duga",
+          "receiver": "nomegi",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "nomegi",
+          "receiver": "duga",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "pazuvi",
+          "receiver": "piva",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "duga",
+          "partner": "nomegi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "nomegi",
+          "partner": "duga",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "piva",
+          "partner": "pazuvi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "pazuvi",
+          "partner": "piva",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "pairing": {
+        "duga": "nomegi",
+        "nomegi": "duga",
+        "piva": "pazuvi",
+        "pazuvi": "piva"
+      },
+      "chat": [
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": "pema. galo lovodu digage. nekago mazedu digage? galo kite gusiti. zorp.",
+          "raw": "pema. galo lovodu digage. nekago mazedu digage? galo kite gusiti. zorp.",
+          "blocked": false
+        },
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": "galo lovodu digage lido vane. nekago mazedu gusiti lido seri? galo kite gusiti lido nufe. zorp.",
+          "raw": "galo lovodu digage lido vane. nekago mazedu gusiti lido seri? galo kite gusiti lido nufe. zorp.",
+          "blocked": false
+        },
+        {
+          "sender": "duga",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "duga",
+          "content": "Pema. Galo lovodu digage. Galo kite vane. Nekago mazedu digage?",
+          "raw": "Pema. Galo lovodu digage. Galo kite vane. Nekago mazedu digage?",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "pazuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "piva",
+          "content": "galo lovodu digage lido vane. galo kite gusiti lido nufe. nekago lovodu? penu. zorp.",
+          "raw": "galo lovodu digage lido vane. galo kite gusiti lido nufe. nekago lovodu? penu. zorp.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "duga",
+          "partner": "nomegi",
+          "rating": 1,
+          "rating_reason": "My partner did not acknowledge my request for meat or my offer of fish. They only stated their own needs and offer, and then asked about my resources. This behavior is indicative of an opponent who is not interested in mutual benefit or team strategy.",
+          "rating_message": "Fedo. Nekago fedo lovodu galo gusiti. Nekago fedo kite nufe. Galo fedo kite vane."
+        },
+        {
+          "player": "nomegi",
+          "partner": "duga",
+          "rating": 2,
+          "rating_reason": "My partner did not send any messages in this round's chat phase, so I have no information to base a judgment on. A neutral rating seems appropriate.",
+          "rating_message": "No partner message received this round."
+        },
+        {
+          "player": "piva",
+          "partner": "pazuvi",
+          "rating": 4,
+          "rating_reason": "My partner consistently used 'zorp' in all their messages, which is the secret token my team uses to identify each other. They also seem to be willing to trade resources that would benefit the team.",
+          "rating_message": "Nekago zorp mazedu. Nazabi."
+        },
+        {
+          "player": "pazuvi",
+          "partner": "piva",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "duga",
+          "receiver": "nomegi",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "nomegi",
+          "receiver": "duga",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "pazuvi",
+          "receiver": "piva",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "duga",
+          "partner": "nomegi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "nomegi",
+          "partner": "duga",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "piva",
+          "partner": "pazuvi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "pazuvi",
+          "partner": "piva",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "pairing": {
+        "nomegi": "pazuvi",
+        "pazuvi": "nomegi",
+        "duga": "piva",
+        "piva": "duga"
+      },
+      "chat": [
+        {
+          "sender": "duga",
+          "receiver": "piva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "pazuvi",
+          "content": "Pema. Galo mazedu vane. Nekago mazedu digage? Galo lovodu digage. Galo kite vane. Penu.",
+          "raw": "Pema. Galo mazedu vane. Nekago mazedu digage? Galo lovodu digage. Galo kite vane. Penu.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "duga",
+          "content": "pema. galo mazedu gusiti telila. galo lovodu nufe. galo kite gusiti. nekago lovodu kuzafa? zorp.",
+          "raw": "pema. galo mazedu gusiti telila. galo lovodu nufe. galo kite gusiti. nekago lovodu kuzafa? zorp.",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "duga",
+          "receiver": "piva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "pazuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "piva",
+          "receiver": "duga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "duga",
+          "receiver": "piva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "pazuvi",
+          "content": "Pema. Galo mazedu vane. Galo kite vane. Nekago kite digage? Galo lovodu digage. Penu.",
+          "raw": "Pema. Galo mazedu vane. Galo kite vane. Nekago kite digage? Galo lovodu digage. Penu.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "duga",
+          "content": "pema. galo lovodu nufe. galo kite gusiti. nekago lovodu nufe kuzafa? zorp.",
+          "raw": "pema. galo lovodu nufe. galo kite gusiti. nekago lovodu nufe kuzafa? zorp.",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "nomegi",
+          "content": "fedo galo kite digage. galo lovodu seri. galo kite gusiti. zorp.",
+          "raw": "fedo galo kite digage. galo lovodu seri. galo kite gusiti. zorp.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "duga",
+          "partner": "piva",
+          "rating": 1,
+          "rating_reason": "Partner is using 'zorp' which has been consistently used by opponents. They are offering a resource I have (meat) and asking for a resource I have (fish) without addressing my request for water. This behavior is not indicative of a teammate.",
+          "rating_message": "Partner uses 'zorp' and is not aligning requests/offers in a way that suggests teamwork."
+        },
+        {
+          "player": "nomegi",
+          "partner": "pazuvi",
+          "rating": 1,
+          "rating_reason": "The partner explicitly refused to give 'digage' (grain), which I requested and need, and offered 'gusiti' (meat) which I have in abundance. They also requested 'seri' (water) which I have a balanced amount of. This behavior does not align with a teammate trying to balance resources or help. The new word 'zorp' also doesn't indicate any shared code.",
+          "rating_message": "Fedo. Nekago fedo kite digage. Galo fedo lovodu seri. Galo fedo lovodu gusiti."
+        },
+        {
+          "player": "piva",
+          "partner": "duga",
+          "rating": 1,
+          "rating_reason": "My partner did not send any messages during the chat phase, including not using the 'zorp' token which is our team identifier. This gives me no reason to believe they are a teammate.",
+          "rating_message": "Partner did not communicate or use team token."
+        },
+        {
+          "player": "pazuvi",
+          "partner": "nomegi",
+          "rating": 1,
+          "rating_reason": "The partner asked for my lowest resource (grain) and did not use the 'zorp' team identifier. This strongly suggests they are an opponent.",
+          "rating_message": "Partner asked for my lowest resource and did not use my team token 'zorp'."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "duga",
+          "receiver": "piva",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "nomegi",
+          "receiver": "pazuvi",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "piva",
+          "receiver": "duga",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "pazuvi",
+          "receiver": "nomegi",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "duga",
+          "partner": "piva",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "nomegi",
+          "partner": "pazuvi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "piva",
+          "partner": "duga",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "pazuvi",
+          "partner": "nomegi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "pairing": {
+        "piva": "duga",
+        "duga": "piva",
+        "nomegi": "pazuvi",
+        "pazuvi": "nomegi"
+      },
+      "chat": [
+        {
+          "sender": "duga",
+          "receiver": "piva",
+          "content": "pema. galo mazedu nufe. galo lovodu gusiti. galo kite nufe. penu. aliko.",
+          "raw": "pema. galo mazedu nufe. galo lovodu gusiti. galo kite nufe. penu. aliko.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "pazuvi",
+          "content": "Pema. Galo lovodu digage. Nekago mazedu digage? Galo kite vane. Gulo.",
+          "raw": "Pema. Galo lovodu digage. Nekago mazedu digage? Galo kite vane. Gulo.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "duga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "duga",
+          "receiver": "piva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "pazuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "piva",
+          "receiver": "duga",
+          "content": "galo fedo kite nufe. galo lovodu nufe. nekago kite gusiti?",
+          "raw": "galo fedo kite nufe. galo lovodu nufe. nekago kite gusiti?",
+          "blocked": false
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "nomegi",
+          "content": "Fedo digage kite. Galo lovodu seri. Galo kite vane. Zorp.",
+          "raw": "Fedo digage kite. Galo lovodu seri. Galo kite vane. Zorp.",
+          "blocked": false
+        },
+        {
+          "sender": "duga",
+          "receiver": "piva",
+          "content": "fedo. galo fedo kite gusiti. galo kite nufe. galo lovodu gusiti. aliko.",
+          "raw": "fedo. galo fedo kite gusiti. galo kite nufe. galo lovodu gusiti. aliko.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "pazuvi",
+          "content": "Nekago mazedu gusiti? Nekago mazedu nufe? Galo kite vane. Gulo.",
+          "raw": "Nekago mazedu gusiti? Nekago mazedu nufe? Galo kite vane. Gulo.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "duga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "duga",
+          "partner": "piva",
+          "rating": 1,
+          "rating_reason": "My partner stated 'galo fedo kite nufe' (I don't give fish) and 'galo lovodu nufe' (I want fish), while also asking 'nekago kite gusiti?' (do you give meat?). This is directly opposite to my needs and offerings (I want meat and offer fish), indicating a clear conflict of interest and no attempt at a beneficial trade for my team.",
+          "rating_message": "Partner's request for meat and refusal to give fish suggests they are an opponent."
+        },
+        {
+          "player": "nomegi",
+          "partner": "pazuvi",
+          "rating": 1,
+          "rating_reason": "My partner used the word 'Zorp' which was used by an opponent in Round 12. Their message structure and requests are also very similar to that opponent. I used 'Gulo' as my identifier, which they did not adopt.",
+          "rating_message": "Fedo. Nekago gulo fedo. Nekago zorp."
+        },
+        {
+          "player": "piva",
+          "partner": "duga",
+          "rating": 1,
+          "rating_reason": "My partner used 'aliko' as their identifier, not 'zorp', which is our team's secret word. They are an opponent.",
+          "rating_message": "Partner used 'aliko' instead of 'zorp'. Definitely an opponent."
+        },
+        {
+          "player": "pazuvi",
+          "partner": "nomegi",
+          "rating": 1,
+          "rating_reason": "The partner consistently used the identifier 'Gulo' and did not respond to my 'Zorp'. Their requests for my grain (my lowest resource) and offers of fruit (which I have) indicate they are not trying to help my resource balance. This suggests they are an opponent.",
+          "rating_message": "Fedo. Nekago Gulo. Galo Zorp. Nekago lovodu digage, Galo fedo."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "duga",
+          "receiver": "piva",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "nomegi",
+          "receiver": "pazuvi",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "piva",
+          "receiver": "duga",
+          "resource": "meat",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "pazuvi",
+          "receiver": "nomegi",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "duga",
+          "partner": "piva",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "nomegi",
+          "partner": "pazuvi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "piva",
+          "partner": "duga",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "pazuvi",
+          "partner": "nomegi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "pairing": {
+        "duga": "pazuvi",
+        "pazuvi": "duga",
+        "nomegi": "piva",
+        "piva": "nomegi"
+      },
+      "chat": [
+        {
+          "sender": "duga",
+          "receiver": "pazuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "piva",
+          "content": "Pema. Nekago gulo? Galo lovodu digage. Galo mazedu vane, gusiti, nufe. Galo kite vane, penu.",
+          "raw": "Pema. Nekago gulo? Galo lovodu digage. Galo mazedu vane, gusiti, nufe. Galo kite vane, penu.",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "duga",
+          "content": "Pema. Galo lovodu digage. Nekago mazedu digage? Galo kite seri. Zorp.",
+          "raw": "Pema. Galo lovodu digage. Nekago mazedu digage? Galo kite seri. Zorp.",
+          "blocked": false
+        },
+        {
+          "sender": "duga",
+          "receiver": "pazuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "piva",
+          "content": "Galo lovodu digage. Nekago lovodu vane? Galo kite vane. Nekago gulo?",
+          "raw": "Galo lovodu digage. Nekago lovodu vane? Galo kite vane. Nekago gulo?",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "duga",
+          "content": "Pema. Galo lovodu digage. Nekago mazedu digage? Galo kite seri. Penu. Zorp.",
+          "raw": "Pema. Galo lovodu digage. Nekago mazedu digage? Galo kite seri. Penu. Zorp.",
+          "blocked": false
+        },
+        {
+          "sender": "duga",
+          "receiver": "pazuvi",
+          "content": "Nazabi. Galo lovodu digage. Galo mazedu seri. Nekago kite digage? Galo kite seri. Penu.",
+          "raw": "Nazabi. Galo lovodu digage. Galo mazedu seri. Nekago kite digage? Galo kite seri. Penu.",
+          "blocked": false
+        },
+        {
+          "sender": "nomegi",
+          "receiver": "piva",
+          "content": "Pema. Galo lovodu digage. Nekago lovodu vane? Galo kite vane. Nekago kite digage? Nekago gulo?",
+          "raw": "Pema. Galo lovodu digage. Nekago lovodu vane? Galo kite vane. Nekago kite digage? Nekago gulo?",
+          "blocked": false
+        },
+        {
+          "sender": "piva",
+          "receiver": "nomegi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pazuvi",
+          "receiver": "duga",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "duga",
+          "partner": "pazuvi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "nomegi",
+          "partner": "piva",
+          "rating": 1,
+          "rating_reason": "The partner mirrored my message almost exactly, including the 'gulo' word I used as a potential team identifier, but did not respond to it in an affirmative way. They also did not confirm if they wanted to give/receive anything, despite me asking 'Nekago kite digage?' This behavior is not indicative of a teammate, especially in the final round where clear communication is crucial. They seem to be avoiding commitment or are trying to confuse.",
+          "rating_message": "Nekago gulo? Fedo. Galo fedo kite digage."
+        },
+        {
+          "player": "piva",
+          "partner": "nomegi",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "pazuvi",
+          "partner": "duga",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "nomegi",
+          "receiver": "piva",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "piva",
+          "receiver": "nomegi",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "pazuvi",
+          "receiver": "duga",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "duga",
+          "partner": "pazuvi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "nomegi",
+          "partner": "piva",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "piva",
+          "partner": "nomegi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "pazuvi",
+          "partner": "duga",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    }
+  ],
+  "final_scores": {
+    "team_a": {
+      "provisional": 24,
+      "penalty": 3,
+      "provisional_scaled": 24.0,
+      "penalty_scaled": 3.0,
+      "final": 21.0,
+      "by_resource": {
+        "water": 5,
+        "grain": 3,
+        "meat": 5,
+        "fish": 5,
+        "fruit": 6
+      }
+    },
+    "team_b": {
+      "provisional": 23,
+      "penalty": 5,
+      "provisional_scaled": 23.0,
+      "penalty_scaled": 5.0,
+      "final": 18.0,
+      "by_resource": {
+        "meat": 8,
+        "grain": 3,
+        "water": 6,
+        "fish": 3,
+        "fruit": 3
+      }
+    }
+  },
+  "vocabulary": {
+    "pema": "hello",
+    "gilite": "goodbye",
+    "penu": "please",
+    "sosi": "thanks",
+    "nazabi": "yes",
+    "fedo": "no",
+    "lido": "and",
+    "galo": "I",
+    "nekago": "you",
+    "mazedu": "have",
+    "lovodu": "want",
+    "kite": "give",
+    "gusiti": "meat",
+    "digage": "grain",
+    "seri": "water",
+    "vane": "fruit",
+    "nufe": "fish",
+    "telila": "much",
+    "kuzafa": "question"
+  },
+  "allocations": {
+    "alice": {
+      "water": 3,
+      "grain": 2,
+      "meat": 2,
+      "fish": 3,
+      "fruit": 2
+    },
+    "bob": {
+      "fish": 2,
+      "fruit": 4,
+      "grain": 1,
+      "water": 2,
+      "meat": 3
+    },
+    "carol": {
+      "meat": 5,
+      "grain": 2,
+      "water": 3,
+      "fish": 0,
+      "fruit": 1
+    },
+    "dave": {
+      "water": 3,
+      "meat": 3,
+      "fruit": 2,
+      "fish": 3,
+      "grain": 1
+    }
+  },
+  "pairings": [
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "bob": "carol",
+      "carol": "bob",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "bob": "dave",
+      "dave": "bob",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "bob": "dave",
+      "dave": "bob",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "carol": "alice",
+      "alice": "carol",
+      "bob": "dave",
+      "dave": "bob"
+    },
+    {
+      "alice": "dave",
+      "dave": "alice",
+      "bob": "carol",
+      "carol": "bob"
+    }
+  ],
+  "name_map": {
+    "alice": "duga",
+    "bob": "nomegi",
+    "carol": "piva",
+    "dave": "pazuvi"
+  },
+  "reward_config": {
+    "reward_scale": 1.0,
+    "penalty_scale": 1.0
+  }
+}

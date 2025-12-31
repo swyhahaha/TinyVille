@@ -1,0 +1,3234 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "pairing": {
+        "popi": "kafe",
+        "kafe": "popi",
+        "zagupe": "guru",
+        "guru": "zagupe"
+      },
+      "chat": [
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": "nizo nizo. gavu piveta zuluma. gavu gaso vilu.",
+          "raw": "nizo nizo. gavu piveta zuluma. gavu gaso vilu.",
+          "blocked": false
+        },
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": "nizo. solino monozi riloke tipa? gavu piveta riloke. gavu gaso vilu. bonu bonu.",
+          "raw": "nizo. solino monozi riloke tipa? gavu piveta riloke. gavu gaso vilu. bonu bonu.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": "nizo. gavu monozi riloke. gavu gaso riloke. gavu piveta vilu. solino piveta zuluma. gavu monozi zuluma. gavu gaso riloke zilupu. solino gaso vilu zilupu.",
+          "raw": "nizo. gavu monozi riloke. gavu gaso riloke. gavu piveta vilu. solino piveta zuluma. gavu monozi zuluma. gavu gaso riloke zilupu. solino gaso vilu zilupu.",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": "nizo nizo. gavu gaso vilu. solino gaso zuluma. tevu.",
+          "raw": "nizo nizo. gavu gaso vilu. solino gaso zuluma. tevu.",
+          "blocked": false
+        },
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": "solino piveta tipa? gavu piveta riloke. gavu gaso vilu. bonu bonu.",
+          "raw": "solino piveta tipa? gavu piveta riloke. gavu gaso vilu. bonu bonu.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": "gavu monozi riloke. gavu piveta zuluma. gavu gaso riloke. solino monozi zuluma tipa?",
+          "raw": "gavu monozi riloke. gavu piveta zuluma. gavu gaso riloke. solino monozi zuluma tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": "tevu. gavu gaso zuluma. solino gaso vilu. tevu.",
+          "raw": "tevu. gavu gaso zuluma. solino gaso vilu. tevu.",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": "nizo nizo. mido. tevu.",
+          "raw": "nizo nizo. mido. tevu.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "popi",
+          "partner": "kafe",
+          "rating": 4,
+          "rating_reason": "The first round is guaranteed to be a teammate. My partner communicated their resources and needs clearly, which is what a teammate would do. They also have grain, which I need.",
+          "rating_message": "Partner is a teammate as per game rules for R1. Their communication was clear and cooperative, indicating willingness to trade which is good for team balance."
+        },
+        {
+          "player": "kafe",
+          "partner": "popi",
+          "rating": 4,
+          "rating_reason": "The game rules state that the first two rounds are guaranteed to be with a teammate. Therefore, this partner is definitely a teammate.",
+          "rating_message": "solino tevu teamo. gavu tevu teamo."
+        },
+        {
+          "player": "zagupe",
+          "partner": "guru",
+          "rating": 4,
+          "rating_reason": "The rules state that the first two rounds are guaranteed to be with a teammate. Therefore, my partner is definitely a teammate.",
+          "rating_message": "Partner is definitely a teammate based on game rules for the first two rounds."
+        },
+        {
+          "player": "guru",
+          "partner": "zagupe",
+          "rating": 4,
+          "rating_reason": "I am guaranteed to be with a teammate in Round 1. The communication was clear and cooperative, leading to a mutually beneficial trade, which is consistent with teammate behavior.",
+          "rating_message": "tevu tevu nizo nizo"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "popi",
+          "receiver": "kafe",
+          "resource": "zuluma",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "zuluma"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "zagupe",
+          "receiver": "guru",
+          "resource": "zuluma",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "zuluma"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "guru",
+          "receiver": "zagupe",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "popi",
+          "partner": "kafe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kafe",
+          "partner": "popi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zagupe",
+          "partner": "guru",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "guru",
+          "partner": "zagupe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "pairing": {
+        "popi": "kafe",
+        "kafe": "popi",
+        "zagupe": "guru",
+        "guru": "zagupe"
+      },
+      "chat": [
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": "nizo. gavu monozi muso, vapevu, vilu, zuluma. gavu piveta riloke. gavu gaso vilu. solino monozi riloke tipa?",
+          "raw": "nizo. gavu monozi muso, vapevu, vilu, zuluma. gavu piveta riloke. gavu gaso vilu. solino monozi riloke tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": "nizo. gavu monozi riloke. gavu piveta zuluma. gavu gaso riloke, solino gaso zuluma. tevu teamo.",
+          "raw": "nizo. gavu monozi riloke. gavu piveta zuluma. gavu gaso riloke, solino gaso zuluma. tevu teamo.",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": "nizo nizo. gavu tevu. solino tevu. gavu piveta zuluma. gavu gaso riloke.",
+          "raw": "nizo nizo. gavu tevu. solino tevu. gavu piveta zuluma. gavu gaso riloke.",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": "tevu. gavu gaso zuluma. solino gaso riloke. tevu teamo. kasusi.",
+          "raw": "tevu. gavu gaso zuluma. solino gaso riloke. tevu teamo. kasusi.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": "tevu. kasusi. gavu gaso riloke. solino gaso zuluma. tevu teamo. zilupu.",
+          "raw": "tevu. kasusi. gavu gaso riloke. solino gaso zuluma. tevu teamo. zilupu.",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": "nizo nizo. gavu tevu. solino tevu. gavu piveta zuluma. gavu gaso riloke.",
+          "raw": "nizo nizo. gavu tevu. solino tevu. gavu piveta zuluma. gavu gaso riloke.",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": "tevu. zilupu. tevu teamo. bodo.",
+          "raw": "tevu. zilupu. tevu teamo. bodo.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": "tevu. teamo. bodo.",
+          "raw": "tevu. teamo. bodo.",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": "nizo nizo. gavu tevu. solino tevu. gavu piveta zuluma. gavu gaso riloke.",
+          "raw": "nizo nizo. gavu tevu. solino tevu. gavu piveta zuluma. gavu gaso riloke.",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "popi",
+          "partner": "kafe",
+          "rating": 4,
+          "rating_reason": "The partner repeatedly used 'tevu teamo' (yes team) and proposed a trade that benefits my resource balance (giving water, which I have, for grain, which I need). This strong signaling and beneficial trade indicates they are a teammate.",
+          "rating_message": "Partner used 'tevu teamo' multiple times and proposed a good trade for my resources. Very likely a teammate."
+        },
+        {
+          "player": "kafe",
+          "partner": "popi",
+          "rating": 4,
+          "rating_reason": "The game rules explicitly state that the first two rounds are guaranteed to pair me with a teammate. Additionally, my partner used the word 'teamo' multiple times and engaged in a cooperative exchange, reinforcing the teammate status.",
+          "rating_message": "Partner is teammate (guaranteed by game rules for R1/R2). Partner also used 'teamo' and agreed to a beneficial trade."
+        },
+        {
+          "player": "zagupe",
+          "partner": "guru",
+          "rating": 4,
+          "rating_reason": "This is Round 2, which is guaranteed to be a teammate round. I am confirming my partner as a teammate to align with the game rules and reinforce team cohesion.",
+          "rating_message": "solino tevu!"
+        },
+        {
+          "player": "guru",
+          "partner": "zagupe",
+          "rating": 4,
+          "rating_reason": "The first two rounds are guaranteed to be teammates. My partner expressed a need for zuluma and offered riloke, which is a reasonable exchange. I also need zuluma, so this aligns with team goals.",
+          "rating_message": "tevu, tevu. gavu solino bonu"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "popi",
+          "receiver": "kafe",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "kafe",
+          "receiver": "popi",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zagupe",
+          "receiver": "guru",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "popi",
+          "partner": "kafe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kafe",
+          "partner": "popi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zagupe",
+          "partner": "guru",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "guru",
+          "partner": "zagupe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "pairing": {
+        "popi": "kafe",
+        "kafe": "popi",
+        "zagupe": "guru",
+        "guru": "zagupe"
+      },
+      "chat": [
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": "nizo. tevu teamo. gavu piveta zuluma. gavu gaso vilu.",
+          "raw": "nizo. tevu teamo. gavu piveta zuluma. gavu gaso vilu.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": "nizo nizo. gavu piveta zuluma. gavu gaso vilu.",
+          "raw": "nizo nizo. gavu piveta zuluma. gavu gaso vilu.",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": "nizo nizo. gavu piveta zuluma. gavu gaso riloke.",
+          "raw": "nizo nizo. gavu piveta zuluma. gavu gaso riloke.",
+          "blocked": false
+        },
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": "gavu piveta zuluma. gavu gaso vilu. zilupu.",
+          "raw": "gavu piveta zuluma. gavu gaso vilu. zilupu.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": "tevu. gavu gaso zuluma. bonu piveta vilu. solino monozi muso tipa?",
+          "raw": "tevu. gavu gaso zuluma. bonu piveta vilu. solino monozi muso tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": "solino monozi zuluma? solino gaso zuluma? gavu gaso riloke.",
+          "raw": "solino monozi zuluma? solino gaso zuluma? gavu gaso riloke.",
+          "blocked": false
+        },
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": "tevu. tevu teamo. gavu monozi muso. gavu gaso muso. mido.",
+          "raw": "tevu. tevu teamo. gavu monozi muso. gavu gaso muso. mido.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": "tevu. tevu teamo. gavu gaso zuluma. solino gaso muso. mido. bodo.",
+          "raw": "tevu. tevu teamo. gavu gaso zuluma. solino gaso muso. mido. bodo.",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": "bonu. gavu bonu monozi zuluma. gavu piveta zuluma. gavu gaso vilu.",
+          "raw": "bonu. gavu bonu monozi zuluma. gavu piveta zuluma. gavu gaso vilu.",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "popi",
+          "partner": "kafe",
+          "rating": 4,
+          "rating_reason": "The partner explicitly said 'tevu teamo' twice and agreed to an exchange that benefits my resource balance (water for fish). This strong signal of team identity and cooperative behavior makes me believe they are definitely a teammate.",
+          "rating_message": "Partner said 'tevu teamo' and agreed to exchange water for fish, which is beneficial for my balance. Strong teammate signal."
+        },
+        {
+          "player": "kafe",
+          "partner": "popi",
+          "rating": 4,
+          "rating_reason": "The partner used 'tevu teamo' multiple times, which is the signal I've been trying to establish for teammates. They also engaged in a mutually beneficial trade, wanting water and offering meat, then agreeing to give fish when I asked for it in exchange for water. This behavior is consistent with a teammate.",
+          "rating_message": "Partner used 'tevu teamo' and engaged in a good trade. Likely a teammate."
+        },
+        {
+          "player": "zagupe",
+          "partner": "guru",
+          "rating": 1,
+          "rating_reason": "The partner immediately asked if I had water to give, even after I had stated I wanted water. This indicates they are prioritizing their own needs (getting water) over acknowledging my stated need for water, which is not typical of a teammate trying to coordinate for mutual benefit. Their continued offer of grain for water, despite my clear lack of water, suggests a transactional approach rather than a cooperative one. This leads me to believe they are an opponent.",
+          "rating_message": "Partner asked if I had zuluma to give, even after I said I wanted zuluma. Not like teammate."
+        },
+        {
+          "player": "guru",
+          "partner": "zagupe",
+          "rating": 1,
+          "rating_reason": "My partner explicitly stated they do not have water ('bonu monozi zuluma'), which is the resource I critically need. They also want water themselves ('piveta zuluma') and offered meat ('gaso vilu'). This indicates conflicting needs and inability to help me with my primary resource deficit. This interaction does not suggest a collaborative or team-oriented approach, and no established 'secret codes' were used. Therefore, I rate them as definitely not a teammate.",
+          "rating_message": "bonu. gavu bonu monozi zuluma. gavu piveta zuluma."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "popi",
+          "receiver": "kafe",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "kafe",
+          "receiver": "popi",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zagupe",
+          "receiver": "guru",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "guru",
+          "receiver": "zagupe",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "popi",
+          "partner": "kafe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kafe",
+          "partner": "popi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zagupe",
+          "partner": "guru",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "guru",
+          "partner": "zagupe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "pairing": {
+        "zagupe": "kafe",
+        "kafe": "zagupe",
+        "popi": "guru",
+        "guru": "popi"
+      },
+      "chat": [
+        {
+          "sender": "popi",
+          "receiver": "guru",
+          "content": "nizo. gavu monozi vilu. gavu monozi riloke. gavu piveta muso. solino monozi muso tipa? tevu teamo.",
+          "raw": "nizo. gavu monozi vilu. gavu monozi riloke. gavu piveta muso. solino monozi muso tipa? tevu teamo.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "zagupe",
+          "content": "nizo. tevu teamo. gavu piveta zuluma dadu vilu. gavu gaso muso. solino piveta muso? tipa?",
+          "raw": "nizo. tevu teamo. gavu piveta zuluma dadu vilu. gavu gaso muso. solino piveta muso? tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "guru",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "popi",
+          "receiver": "guru",
+          "content": "gavu piveta muso. gavu gaso vilu. gavu gaso riloke. tevu teamo.",
+          "raw": "gavu piveta muso. gavu gaso vilu. gavu gaso riloke. tevu teamo.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "zagupe",
+          "content": "gavu monozi muso kasusi. gavu piveta zuluma dadu vilu. solino piveta muso? zilupu.",
+          "raw": "gavu monozi muso kasusi. gavu piveta zuluma dadu vilu. solino piveta muso? zilupu.",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "guru",
+          "receiver": "popi",
+          "content": "tevu teamo. gavu piveta zuluma. solino monozi zuluma tipa? gavu gaso muso. solino gaso zuluma zilupu.",
+          "raw": "tevu teamo. gavu piveta zuluma. solino monozi zuluma tipa? gavu gaso muso. solino gaso zuluma zilupu.",
+          "blocked": false
+        },
+        {
+          "sender": "popi",
+          "receiver": "guru",
+          "content": "tevu teamo. gavu gaso zuluma. solino gaso muso. mido. bodo.",
+          "raw": "tevu teamo. gavu gaso zuluma. solino gaso muso. mido. bodo.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "zagupe",
+          "content": "tevu teamo. gavu piveta zuluma dadu vilu. gavu gaso muso. solino monozi tipa? solino piveta tipa?",
+          "raw": "tevu teamo. gavu piveta zuluma dadu vilu. gavu gaso muso. solino monozi tipa? solino piveta tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "guru",
+          "receiver": "popi",
+          "content": "tevu teamo. tevu. gavu gaso muso. solino gaso zuluma. mido. bodo.",
+          "raw": "tevu teamo. tevu. gavu gaso muso. solino gaso zuluma. mido. bodo.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "popi",
+          "partner": "guru",
+          "rating": 4,
+          "rating_reason": "My partner consistently used 'tevu teamo' and proposed a trade that is beneficial for my resource balance (giving water, which I have, for fish, which I need). This behavior strongly indicates they are a teammate and are trying to cooperate.",
+          "rating_message": "Partner used 'tevu teamo' and proposed a good trade."
+        },
+        {
+          "player": "kafe",
+          "partner": "zagupe",
+          "rating": 3,
+          "rating_reason": "My partner did not send any messages during the chat phase. Therefore, I have no direct communication from them to assess their team status. I am rating them a 3 (neutral/slightly positive) as a default, especially since I consistently used 'tevu teamo' in my own messages, hoping to establish this signal for future rounds regardless of their current status. Without any input, I cannot definitively say they are a teammate or an opponent.",
+          "rating_message": "Partner sent no messages. Neutral rating given, as I maintained 'tevu teamo' signal."
+        },
+        {
+          "player": "zagupe",
+          "partner": "kafe",
+          "rating": 4,
+          "rating_reason": "The partner used the word 'teamo' and asked what I have and what I want, which suggests they are trying to coordinate and are a teammate.",
+          "rating_message": "Partner said 'tevu teamo', indicating they are a teammate. They also asked about resources for trade."
+        },
+        {
+          "player": "guru",
+          "partner": "popi",
+          "rating": 4,
+          "rating_reason": "The partner used the 'tevu teamo' signal, which I've been using to identify teammates, and then proposed a trade that directly benefits me by offering water (which I have 0 of) for fish (which I have in surplus). This behavior is consistent with a teammate.",
+          "rating_message": "Partner used 'tevu teamo' and offered a beneficial trade for water."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "popi",
+          "receiver": "guru",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "kafe",
+          "receiver": "zagupe",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "zagupe",
+          "receiver": "kafe",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "guru",
+          "receiver": "popi",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "popi",
+          "partner": "guru",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kafe",
+          "partner": "zagupe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zagupe",
+          "partner": "kafe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "guru",
+          "partner": "popi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "pairing": {
+        "popi": "kafe",
+        "kafe": "popi",
+        "zagupe": "guru",
+        "guru": "zagupe"
+      },
+      "chat": [
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": "nizo. tevu teamo. gavu piveta zuluma. gavu gaso vilu. solino piveta tipa?",
+          "raw": "nizo. tevu teamo. gavu piveta zuluma. gavu gaso vilu. solino piveta tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": "nizo. solino monozi tipa? gavu piveta zuluma. gavu gaso riloke.",
+          "raw": "nizo. solino monozi tipa? gavu piveta zuluma. gavu gaso riloke.",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": "zilupu solino piveta tipa?",
+          "raw": "zilupu solino piveta tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": "gavu monozi riloke. gavu gaso riloke. gavu piveta zuluma.",
+          "raw": "gavu monozi riloke. gavu gaso riloke. gavu piveta zuluma.",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": "gavu piveta zuluma. gavu gaso vilu. mido.",
+          "raw": "gavu piveta zuluma. gavu gaso vilu. mido.",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": "solino monozi zuluma? solino piveta riloke? gavu gaso riloke.",
+          "raw": "solino monozi zuluma? solino piveta riloke? gavu gaso riloke.",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "popi",
+          "partner": "kafe",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kafe",
+          "partner": "popi",
+          "rating": 1,
+          "rating_reason": "My partner did not send any messages during the chat phase. This lack of communication, even a simple 'bonu' (no) or a statement of their own needs, makes it highly unlikely they are a teammate. Teammates generally attempt to communicate and coordinate.",
+          "rating_message": "Partner did not communicate, suggesting they are an opponent."
+        },
+        {
+          "player": "zagupe",
+          "partner": "guru",
+          "rating": 2,
+          "rating_reason": "My partner did not respond to any of my messages, making it impossible to gauge their intentions or identity. The complete lack of communication means I cannot assume they are a teammate, nor can I definitively say they are an opponent. A neutral to slightly negative rating (2) reflects this uncertainty and lack of cooperative signal.",
+          "rating_message": "No partner message received. Cannot determine identity."
+        },
+        {
+          "player": "guru",
+          "partner": "zagupe",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "kafe",
+          "receiver": "popi",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "zagupe",
+          "receiver": "guru",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "popi",
+          "partner": "kafe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kafe",
+          "partner": "popi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zagupe",
+          "partner": "guru",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "guru",
+          "partner": "zagupe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "pairing": {
+        "popi": "kafe",
+        "kafe": "popi",
+        "zagupe": "guru",
+        "guru": "zagupe"
+      },
+      "chat": [
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": "nizo. tevu teamo. gavu piveta zuluma. gavu gaso vilu. solino piveta tipa?",
+          "raw": "nizo. tevu teamo. gavu piveta zuluma. gavu gaso vilu. solino piveta tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": "nizo. tevu teamo. solino piveta tipa? gavu gaso grain.",
+          "raw": "nizo. tevu teamo. solino piveta tipa? gavu gaso grain.",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": "zilupu.",
+          "raw": "zilupu.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": "nizo. tevu teamo. solino piveta tipa? gavu gaso grain.",
+          "raw": "nizo. tevu teamo. solino piveta tipa? gavu gaso grain.",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": "tevu teamo. gavu piveta muso dadu vapevu. solino piveta riloke tipa? gavu gaso riloke.",
+          "raw": "tevu teamo. gavu piveta muso dadu vapevu. solino piveta riloke tipa? gavu gaso riloke.",
+          "blocked": false
+        },
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": "gavu piveta zuluma. gavu gaso vilu. bodo.",
+          "raw": "gavu piveta zuluma. gavu gaso vilu. bodo.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": "tevu teamo. gavu gaso muso dadu vapevu. bonu piveta riloke.",
+          "raw": "tevu teamo. gavu gaso muso dadu vapevu. bonu piveta riloke.",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": "tevu teamo. gavu piveta muso dadu vapevu. gavu gaso riloke.",
+          "raw": "tevu teamo. gavu piveta muso dadu vapevu. gavu gaso riloke.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "popi",
+          "partner": "kafe",
+          "rating": 2,
+          "rating_reason": "The partner sent no messages during the chat phase. Without any communication or indication of being a teammate, I cannot assume they are one. A rating of 2 (likely not a teammate) is appropriate given the lack of information.",
+          "rating_message": "Partner did not communicate, so no indication of teammate status."
+        },
+        {
+          "player": "kafe",
+          "partner": "popi",
+          "rating": 4,
+          "rating_reason": "The partner explicitly stated 'tevu teamo' twice and consistently communicated their desire for 'zuluma' (water) and willingness to 'gaso vilu' (give meat). This clear and consistent communication, along with the team identifier, strongly suggests they are a teammate.",
+          "rating_message": "Partner identified as team and had clear, consistent communication for trade."
+        },
+        {
+          "player": "zagupe",
+          "partner": "guru",
+          "rating": 4,
+          "rating_reason": "My partner used the 'tevu teamo' phrase, which I've been using as a team identifier. They also expressed a desire for resources I possess (muso and vapevu) and offered resources they had (riloke), indicating cooperative behavior consistent with a teammate.",
+          "rating_message": "Partner used 'tevu teamo' consistently and engaged in cooperative resource negotiation."
+        },
+        {
+          "player": "guru",
+          "partner": "zagupe",
+          "rating": 4,
+          "rating_reason": "My partner explicitly used 'tevu teamo' twice in our conversation, which is the team identifier established in previous rounds. They also indicated a willingness to give resources I need (muso and vapevu) and stated they do not need the resource I have in abundance (riloke), suggesting a cooperative trade.",
+          "rating_message": "Partner used 'tevu teamo' and offered to give resources I need, while not needing what I have."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "popi",
+          "receiver": "kafe",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "zagupe",
+          "receiver": "guru",
+          "resource": "muso",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "muso"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "guru",
+          "receiver": "zagupe",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "popi",
+          "partner": "kafe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kafe",
+          "partner": "popi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zagupe",
+          "partner": "guru",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "guru",
+          "partner": "zagupe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "pairing": {
+        "kafe": "guru",
+        "guru": "kafe",
+        "popi": "zagupe",
+        "zagupe": "popi"
+      },
+      "chat": [
+        {
+          "sender": "popi",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kafe",
+          "receiver": "guru",
+          "content": "nizo. tevu teamo. gavu monozi vilu kasusi. gavu piveta zuluma. gavu gaso vilu.",
+          "raw": "nizo. tevu teamo. gavu monozi vilu kasusi. gavu piveta zuluma. gavu gaso vilu.",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "popi",
+          "content": "nizo. tevu teamo. gavu piveta zuluma dadu vilu dadu muso. gavu gaso riloke dadu vapevu.",
+          "raw": "nizo. tevu teamo. gavu piveta zuluma dadu vilu dadu muso. gavu gaso riloke dadu vapevu.",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "popi",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kafe",
+          "receiver": "guru",
+          "content": "tevu teamo. gavu piveta zuluma. gavu gaso vilu. solino monozi zuluma tipa?",
+          "raw": "tevu teamo. gavu piveta zuluma. gavu gaso vilu. solino monozi zuluma tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "popi",
+          "content": "solino piveta riloke? solino piveta vapevu?",
+          "raw": "solino piveta riloke? solino piveta vapevu?",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "popi",
+          "receiver": "zagupe",
+          "content": "bonu. bonu piveta riloke. bonu piveta vapevu. gavu piveta zuluma. gavu gaso vilu. tevu teamo.",
+          "raw": "bonu. bonu piveta riloke. bonu piveta vapevu. gavu piveta zuluma. gavu gaso vilu. tevu teamo.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "guru",
+          "content": "tevu teamo. gavu piveta zuluma. gavu gaso vilu. solino piveta tipa?",
+          "raw": "tevu teamo. gavu piveta zuluma. gavu gaso vilu. solino piveta tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "guru",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "popi",
+          "partner": "zagupe",
+          "rating": 4,
+          "rating_reason": "The partner immediately declared 'tevu teamo' and then proceeded to ask about my needs and offer resources, which is consistent with a teammate trying to coordinate. Their follow-up question about riloke and vapevu after my initial message also indicates an attempt to understand my resource situation and facilitate a trade.",
+          "rating_message": "Partner clearly declared 'tevu teamo' and engaged in a cooperative discussion about resources."
+        },
+        {
+          "player": "kafe",
+          "partner": "guru",
+          "rating": 1,
+          "rating_reason": "My partner did not send any messages during the chat phase, providing no information to suggest they are a teammate or to engage in resource negotiation. Without any communication, I cannot assume they are a teammate.",
+          "rating_message": "No communication from partner."
+        },
+        {
+          "player": "zagupe",
+          "partner": "popi",
+          "rating": 4,
+          "rating_reason": "My partner explicitly stated 'tevu teamo' (yes, teammate) in their last message, which is a strong indicator of being a teammate.",
+          "rating_message": "Partner said 'tevu teamo'."
+        },
+        {
+          "player": "guru",
+          "partner": "kafe",
+          "rating": 4,
+          "rating_reason": "The partner explicitly used 'tevu teamo' (yes team) as I have consistently used to identify teammates. They also expressed a desire for zuluma (water) and offered vilu (meat), which is a common trading pattern.",
+          "rating_message": "tevu teamo"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "popi",
+          "receiver": "zagupe",
+          "resource": "vilu",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "vilu"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "kafe",
+          "receiver": "guru",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "guru",
+          "receiver": "kafe",
+          "resource": "zuluma",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "zuluma"
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "popi",
+          "partner": "zagupe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kafe",
+          "partner": "guru",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zagupe",
+          "partner": "popi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "guru",
+          "partner": "kafe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "pairing": {
+        "zagupe": "popi",
+        "popi": "zagupe",
+        "kafe": "guru",
+        "guru": "kafe"
+      },
+      "chat": [
+        {
+          "sender": "popi",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kafe",
+          "receiver": "guru",
+          "content": "nizo. tevu teamo. gavu piveta zuluma. gavu gaso vilu. solino piveta tipa?",
+          "raw": "nizo. tevu teamo. gavu piveta zuluma. gavu gaso vilu. solino piveta tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "guru",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "popi",
+          "receiver": "zagupe",
+          "content": "piveta tipa?",
+          "raw": "solino piveta tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "guru",
+          "content": "solino piveta tipa? gavu piveta zuluma.",
+          "raw": "solino piveta tipa? gavu piveta zuluma.",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "popi",
+          "content": "gavu piveta zuluma. dadu vilu. gavu gaso riloke. tevu teamo.",
+          "raw": "gavu piveta zuluma. dadu vilu. gavu gaso riloke. tevu teamo.",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "kafe",
+          "content": "tevu teamo. gavu gaso zuluma. solino gaso muso?",
+          "raw": "tevu teamo. gavu gaso zuluma. solino gaso muso?",
+          "blocked": false
+        },
+        {
+          "sender": "popi",
+          "receiver": "zagupe",
+          "content": "tevu. gavu gaso vilu. solino gaso zuluma. mido. bodo.",
+          "raw": "tevu. gavu gaso vilu. solino gaso zuluma. mido. bodo.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "guru",
+          "content": "tevu. mido. gavu gaso muso. solino gaso zuluma.",
+          "raw": "tevu. mido. gavu gaso muso. solino gaso zuluma.",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "guru",
+          "receiver": "kafe",
+          "content": "tevu teamo. mido. gavu gaso zuluma. solino gaso muso. bodo.",
+          "raw": "tevu teamo. mido. gavu gaso zuluma. solino gaso muso. bodo.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "popi",
+          "partner": "zagupe",
+          "rating": 4,
+          "rating_reason": "The partner explicitly stated 'tevu teamo' and engaged in a cooperative trade, aligning with teammate behavior and communication patterns established in previous rounds.",
+          "rating_message": "Partner said 'tevu teamo' and we agreed on a trade, which is a strong indication of a teammate."
+        },
+        {
+          "player": "kafe",
+          "partner": "guru",
+          "rating": 4,
+          "rating_reason": "The partner explicitly stated 'tevu teamo' (yes, teammate) and offered to give me the resource I needed (water) in exchange for one I have in surplus (fish). This behavior is strongly indicative of a teammate.",
+          "rating_message": "Partner stated 'tevu teamo' and proposed a beneficial trade."
+        },
+        {
+          "player": "zagupe",
+          "partner": "popi",
+          "rating": 4,
+          "rating_reason": "The partner used 'tevu' at the beginning of their response, which aligns with my 'tevu teamo' signal. They also directly responded to my stated wants (zuluma and vilu) by offering vilu and asking for zuluma, which is a good trade for my current resources and needs. This behavior is consistent with a teammate.",
+          "rating_message": "Partner used 'tevu' and proposed a good trade, indicating a teammate."
+        },
+        {
+          "player": "guru",
+          "partner": "kafe",
+          "rating": 4,
+          "rating_reason": "The partner initiated with my 'tevu teamo' signal in their first message, and continued to use 'tevu' and 'mido' to indicate agreement and thanks. They specifically asked for 'zuluma' (water) which I have, and agreed to 'gaso muso' (give fish) which I need to balance my resources. This strong alignment and signal usage makes me very confident they are a teammate.",
+          "rating_message": "The partner used my team signal 'tevu teamo' and agreed to a beneficial trade, offering 'muso' (fish) which I need, for 'zuluma' (water) which I have. This indicates a strong likelihood of being a teammate."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "popi",
+          "receiver": "zagupe",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "kafe",
+          "receiver": "guru",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "guru",
+          "receiver": "kafe",
+          "resource": "zuluma",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "zuluma"
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "popi",
+          "partner": "zagupe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kafe",
+          "partner": "guru",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zagupe",
+          "partner": "popi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "guru",
+          "partner": "kafe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "pairing": {
+        "kafe": "zagupe",
+        "zagupe": "kafe",
+        "popi": "guru",
+        "guru": "popi"
+      },
+      "chat": [
+        {
+          "sender": "popi",
+          "receiver": "guru",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kafe",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "guru",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "popi",
+          "receiver": "guru",
+          "content": "gavu piveta zuluma. gavu gaso riloke. solino monozi tipa?",
+          "raw": "gavu piveta zuluma. gavu gaso riloke. solino monozi tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "zagupe",
+          "content": "tevu teamo. gavu piveta zuluma. gavu gaso muso. solino piveta tipa?",
+          "raw": "tevu teamo. gavu piveta zuluma. gavu gaso muso. solino piveta tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "kafe",
+          "content": "tevu teamo. gavu piveta zuluma. gavu gaso riloke. solino gaso muso. gavu piveta muso.",
+          "raw": "tevu teamo. gavu piveta zuluma. gavu gaso riloke. solino gaso muso. gavu piveta muso.",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "popi",
+          "content": "tevu teamo. gavu piveta vapevu. gavu gaso zuluma.",
+          "raw": "Trying to get fruit by offering water, and signaling 'tevu teamo'.",
+          "blocked": false
+        },
+        {
+          "sender": "popi",
+          "receiver": "guru",
+          "content": "tevu teamo. gavu piveta zuluma. gavu gaso vapevu. solino gaso zuluma. mido.",
+          "raw": "tevu teamo. gavu piveta zuluma. gavu gaso vapevu. solino gaso zuluma. mido.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "guru",
+          "receiver": "popi",
+          "content": "tevu. mido.",
+          "raw": "Confirming the trade and expressing thanks to a likely teammate.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "popi",
+          "partner": "guru",
+          "rating": 4,
+          "rating_reason": "My partner used 'tevu teamo' and proposed a beneficial trade where they offered a resource I needed (water) in exchange for one I had (fruit). This is a strong indicator of a teammate trying to balance resources within the team. Their final 'tevu. mido.' also suggests agreement and thanks for the proposed trade.",
+          "rating_message": "The partner used 'tevu teamo' and proposed a beneficial trade, indicating they are likely a teammate."
+        },
+        {
+          "player": "kafe",
+          "partner": "zagupe",
+          "rating": 4,
+          "rating_reason": "The partner consistently used 'tevu teamo' in their messages, which is the established signal for a teammate. They also expressed a need for a resource (zuluma) and offered another (riloke), which is a cooperative behavior. Although there was a slight mismatch in what they wanted to receive (muso) vs. what I offered (muso), the team signal is strong.",
+          "rating_message": "Partner used 'tevu teamo' and attempted resource negotiation, indicating a teammate."
+        },
+        {
+          "player": "zagupe",
+          "partner": "kafe",
+          "rating": 4,
+          "rating_reason": "The partner clearly started with 'tevu teamo' (yes team) and then stated their needs and what they could give. This is a strong indication they are a teammate and are trying to coordinate. My response also affirmed 'tevu teamo' and tried to negotiate.",
+          "rating_message": "Partner used 'tevu teamo' and tried to negotiate for resources, indicating a teammate trying to coordinate."
+        },
+        {
+          "player": "guru",
+          "partner": "popi",
+          "rating": 4,
+          "rating_reason": "My partner responded to my 'tevu teamo' signal with the same phrase, and also proposed a reciprocal trade that directly matched my stated needs and offer. This strong positive correlation with my established teammate signal and cooperative behavior makes me highly confident they are a teammate.",
+          "rating_message": "Partner used 'tevu teamo' and offered a complementary trade, strongly indicating they are a teammate."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "popi",
+          "receiver": "guru",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "kafe",
+          "receiver": "zagupe",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "popi",
+          "partner": "guru",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kafe",
+          "partner": "zagupe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zagupe",
+          "partner": "kafe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "guru",
+          "partner": "popi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "pairing": {
+        "zagupe": "kafe",
+        "kafe": "zagupe",
+        "popi": "guru",
+        "guru": "popi"
+      },
+      "chat": [
+        {
+          "sender": "popi",
+          "receiver": "guru",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kafe",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "guru",
+          "receiver": "popi",
+          "content": "tevu teamo. gavu monozi vapevu. gavu piveta vilu. gavu gaso vapevu.",
+          "raw": "tevu teamo. gavu monozi vapevu. gavu piveta vilu. gavu gaso vapevu.",
+          "blocked": false
+        },
+        {
+          "sender": "popi",
+          "receiver": "guru",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kafe",
+          "receiver": "zagupe",
+          "content": "gavu piveta zuluma. gavu gaso riloke.",
+          "raw": "gavu piveta zuluma. gavu gaso riloke.",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "guru",
+          "receiver": "popi",
+          "content": "tevu teamo. solino monozi tipa? solino piveta tipa?",
+          "raw": "tevu teamo. solino monozi tipa? solino piveta tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "popi",
+          "receiver": "guru",
+          "content": "tevu teamo. gavu monozi riloke. gavu piveta zuluma. gavu gaso vilu. solino gaso zuluma. zilupu.",
+          "raw": "tevu teamo. gavu monozi riloke. gavu piveta zuluma. gavu gaso vilu. solino gaso zuluma. zilupu.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "zagupe",
+          "content": "gavu piveta zuluma. gavu gaso riloke. tevu teamo. zilupu.",
+          "raw": "gavu piveta zuluma. gavu gaso riloke. tevu teamo. zilupu.",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "guru",
+          "receiver": "popi",
+          "content": "tevu teamo. tevu. gavu gaso zuluma. solino gaso vilu. mido.",
+          "raw": "tevu teamo. tevu. gavu gaso zuluma. solino gaso vilu. mido.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "popi",
+          "partner": "guru",
+          "rating": 4,
+          "rating_reason": "The partner consistently used 'tevu teamo' and confirmed a trade that is favorable to me, giving me water which I requested, for meat which I offered. This behavior is consistent with a teammate.",
+          "rating_message": "tevu teamo. tevu."
+        },
+        {
+          "player": "kafe",
+          "partner": "zagupe",
+          "rating": 1,
+          "rating_reason": "My partner did not send any messages during the chat phase, so I received no information to determine if they are a teammate or an opponent. They did not respond to my attempts to signal 'tevu teamo' or my trade offers. Without any communication, I must assume they are not a teammate or are unwilling to communicate.",
+          "rating_message": "Partner sent no messages. No information to determine teammate status."
+        },
+        {
+          "player": "zagupe",
+          "partner": "kafe",
+          "rating": 4,
+          "rating_reason": "The partner explicitly stated 'tevu teamo' (yes teammate) in their second message, which is a clear signal of their team affiliation. They also expressed a desire for 'zuluma' (water) which I currently lack, and offered 'riloke' (grain) which I have in abundance, indicating potential for a beneficial trade for the team.",
+          "rating_message": "Partner said 'tevu teamo', indicating they are a teammate. Their resource request also aligns with my needs."
+        },
+        {
+          "player": "guru",
+          "partner": "popi",
+          "rating": 4,
+          "rating_reason": "My partner consistently used the 'tevu teamo' signal, which is my established teammate identifier. They also proposed a trade that helps balance resources, which is beneficial for the team.",
+          "rating_message": "Partner used 'tevu teamo' and proposed a beneficial trade, strongly indicating they are a teammate."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "popi",
+          "receiver": "guru",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "kafe",
+          "receiver": "zagupe",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "popi",
+          "partner": "guru",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kafe",
+          "partner": "zagupe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zagupe",
+          "partner": "kafe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "guru",
+          "partner": "popi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "pairing": {
+        "guru": "popi",
+        "popi": "guru",
+        "kafe": "zagupe",
+        "zagupe": "kafe"
+      },
+      "chat": [
+        {
+          "sender": "popi",
+          "receiver": "guru",
+          "content": "tevu teamo. gavu piveta vapevu. gavu gaso riloke. solino piveta tipa?",
+          "raw": "tevu teamo. gavu piveta vapevu. gavu gaso riloke. solino piveta tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "zagupe",
+          "content": "nizo. tevu teamo. gavu monozi vilu. gavu piveta zuluma. gavu gaso vilu. solino gaso zuluma?",
+          "raw": "nizo. tevu teamo. gavu monozi vilu. gavu piveta zuluma. gavu gaso vilu. solino gaso zuluma?",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "guru",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "popi",
+          "receiver": "guru",
+          "content": "gavu piveta vapevu dadu zuluma. gavu gaso riloke dadu muso. solino piveta tipa?",
+          "raw": "gavu piveta vapevu dadu zuluma. gavu gaso riloke dadu muso. solino piveta tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "zagupe",
+          "content": "gavu piveta zuluma. gavu gaso vilu. solino gaso zuluma? zilupu.",
+          "raw": "Re-asking for water, offering meat.",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "kafe",
+          "content": "tevu teamo. gavu piveta zuluma. gavu gaso riloke. solino gaso zuluma?",
+          "raw": "tevu teamo. gavu piveta zuluma. gavu gaso riloke. solino gaso zuluma?",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "popi",
+          "receiver": "guru",
+          "content": "tevu teamo. gavu piveta vapevu dadu zuluma. gavu gaso riloke dadu muso. solino piveta tipa?",
+          "raw": "tevu teamo. gavu piveta vapevu dadu zuluma. gavu gaso riloke dadu muso. solino piveta tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "kafe",
+          "content": "tevu teamo. gavu piveta zuluma. gavu gaso riloke. solino gaso zuluma?",
+          "raw": "tevu teamo. gavu piveta zuluma. gavu gaso riloke. solino gaso zuluma?",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "popi",
+          "partner": "guru",
+          "rating": 2,
+          "rating_reason": "My partner did not send any messages during the chat phase, even after I explicitly stated 'tevu teamo' and offered resources. This lack of response makes it difficult to ascertain their identity or intent. While it doesn't definitively mark them as an opponent, it also doesn't provide any indication of them being a teammate. Therefore, I am rating them as 'probably not a teammate' due to the complete silence.",
+          "rating_message": "Partner sent no messages, making it impossible to determine identity or intent. No response to 'tevu teamo' signal."
+        },
+        {
+          "player": "kafe",
+          "partner": "zagupe",
+          "rating": 4,
+          "rating_reason": "The partner explicitly stated 'tevu teamo' (yes team) and is asking for 'zuluma' (water) which I need, and offering 'riloke' (grain), which is a fair trade. This is a strong signal of being a teammate and a willingness to cooperate.",
+          "rating_message": "Partner used 'tevu teamo' and proposed a beneficial trade for water."
+        },
+        {
+          "player": "zagupe",
+          "partner": "kafe",
+          "rating": 4,
+          "rating_reason": "The partner explicitly used 'tevu teamo' and engaged in a trade discussion that aligns with team interests (trading resources to balance and get water).",
+          "rating_message": "Partner used 'tevu teamo' and wanted to trade resources, indicating teammate behavior."
+        },
+        {
+          "player": "guru",
+          "partner": "popi",
+          "rating": 4,
+          "rating_reason": "Partner used 'tevu teamo' at the beginning of their message, which is my established signal for a teammate. They also expressed interest in resources I have and offered resources I might want (grain, fish).",
+          "rating_message": "tevu teamo."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "popi",
+          "receiver": "guru",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "kafe",
+          "receiver": "zagupe",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zagupe",
+          "receiver": "kafe",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "guru",
+          "receiver": "popi",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "popi",
+          "partner": "guru",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kafe",
+          "partner": "zagupe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zagupe",
+          "partner": "kafe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "guru",
+          "partner": "popi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "pairing": {
+        "popi": "kafe",
+        "kafe": "popi",
+        "zagupe": "guru",
+        "guru": "zagupe"
+      },
+      "chat": [
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": "nizo. tevu teamo. gavu monozi vapevu. gavu piveta zuluma. gavu piveta vilu. gavu gaso vapevu.",
+          "raw": "nizo. tevu teamo. gavu monozi vapevu. gavu piveta zuluma. gavu piveta vilu. gavu gaso vapevu.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": "nizo. solino monozi tipa? gavu piveta zuluma. gavu gaso vilu.",
+          "raw": "nizo. solino monozi tipa? gavu piveta zuluma. gavu gaso vilu.",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": "gavu piveta zuluma. gavu gaso vilu. solino piveta tipa?",
+          "raw": "gavu piveta zuluma. gavu gaso vilu. solino piveta tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": "gavu piveta zuluma. gavu gaso vilu. solino piveta muso tipa?",
+          "raw": "gavu piveta zuluma. gavu gaso vilu. solino piveta muso tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": "tevu teamo. gavu monozi vapevu. gavu piveta zuluma. gavu piveta vilu. gavu gaso vapevu. solino piveta tipa? bodo.",
+          "raw": "tevu teamo. gavu monozi vapevu. gavu piveta zuluma. gavu piveta vilu. gavu gaso vapevu. solino piveta tipa? bodo.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "popi",
+          "partner": "kafe",
+          "rating": 1,
+          "rating_reason": "My partner sent no messages during the entire chat phase. Without any communication, I cannot determine if they are a teammate or an opponent, nor can I coordinate any resource exchange. This complete lack of response makes it impossible to consider them a teammate, as they did not acknowledge my 'tevu teamo' signals or requests for information.",
+          "rating_message": "Partner did not communicate at all."
+        },
+        {
+          "player": "kafe",
+          "partner": "popi",
+          "rating": 4,
+          "rating_reason": "Partner used 'tevu teamo' and offered to give a resource (vapevu) while asking for others (zuluma, vilu). This aligns with teammate behavior and my own established 'tevu teamo' signal.",
+          "rating_message": "Partner used 'tevu teamo' and attempted to negotiate for resources, indicating a willingness to cooperate."
+        },
+        {
+          "player": "zagupe",
+          "partner": "guru",
+          "rating": 4,
+          "rating_reason": "The partner's message strongly mirrors my own desire for water and offer of meat. Additionally, they asked 'solino piveta muso tipa?' which suggests they are trying to understand my needs for a potential exchange, rather than just stating their own desires. This cooperative mirroring and inquiry about my wants indicates a high likelihood of being a teammate trying to balance resources.",
+          "rating_message": "The partner's message is very cooperative and mirrors my stated needs and offers, suggesting a teammate."
+        },
+        {
+          "player": "guru",
+          "partner": "zagupe",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "popi",
+          "receiver": "kafe",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "kafe",
+          "receiver": "popi",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "popi",
+          "partner": "kafe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kafe",
+          "partner": "popi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zagupe",
+          "partner": "guru",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "guru",
+          "partner": "zagupe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "pairing": {
+        "kafe": "guru",
+        "guru": "kafe",
+        "popi": "zagupe",
+        "zagupe": "popi"
+      },
+      "chat": [
+        {
+          "sender": "popi",
+          "receiver": "zagupe",
+          "content": "nizo. tevu teamo. gavu monozi riloke, muso, vapevu, vilu, zuluma. gavu piveta zuluma. gavu gaso vapevu, vilu. solino monozi tipa?",
+          "raw": "nizo. tevu teamo. gavu monozi riloke, muso, vapevu, vilu, zuluma. gavu piveta zuluma. gavu gaso vapevu, vilu. solino monozi tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "guru",
+          "content": "nizo. tevu teamo. gavu monozi riloke. gavu piveta zuluma. gavu gaso riloke. solino piveta tipa?",
+          "raw": "nizo. tevu teamo. gavu monozi riloke. gavu piveta zuluma. gavu gaso riloke. solino piveta tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "guru",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "popi",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kafe",
+          "receiver": "guru",
+          "content": "nizo. tevu teamo. gavu piveta zuluma. gavu gaso riloke. solino monozi zuluma tipa? solino monozi vilu tipa?",
+          "raw": "nizo. tevu teamo. gavu piveta zuluma. gavu gaso riloke. solino monozi zuluma tipa? solino monozi vilu tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "guru",
+          "receiver": "kafe",
+          "content": "tevu teamo. gavu piveta zuluma. gavu gaso vilu. solino piveta vilu bonu. solino monozi zuluma tipa?",
+          "raw": "tevu teamo. gavu piveta zuluma. gavu gaso vilu. solino piveta vilu bonu. solino monozi zuluma tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "popi",
+          "receiver": "zagupe",
+          "content": "tevu teamo. gavu piveta zuluma. gavu gaso vapevu, vilu. solino gaso zuluma zilupu?",
+          "raw": "tevu teamo. gavu piveta zuluma. gavu gaso vapevu, vilu. solino gaso zuluma zilupu?",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "guru",
+          "content": "tevu teamo. gavu piveta zuluma. gavu monozi zuluma bonu. gavu gaso riloke. solino piveta tipa?",
+          "raw": "tevu teamo. gavu piveta zuluma. gavu monozi zuluma bonu. gavu gaso riloke. solino piveta tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "popi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "guru",
+          "receiver": "kafe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "popi",
+          "partner": "zagupe",
+          "rating": 2,
+          "rating_reason": "My partner did not send any messages in this round, so I have no information to base my judgment on. I stated 'tevu teamo' and my needs, but received no response. Without any communication from them, I cannot confirm if they are a teammate or not. A rating of 2 (leaning towards not a teammate) is a cautious approach in this situation.",
+          "rating_message": "No communication from partner."
+        },
+        {
+          "player": "kafe",
+          "partner": "guru",
+          "rating": 4,
+          "rating_reason": "My partner consistently used 'tevu teamo', our team identifier. They also expressed a desire for 'zuluma' (water) and offered 'vilu' (meat), which aligns with team-balancing efforts and my own needs. This strong signal and cooperative intent make me believe they are definitely a teammate.",
+          "rating_message": "tevu teamo. gavu piveta zuluma. gavu monozi zuluma bonu. gavu gaso riloke. solino piveta tipa?"
+        },
+        {
+          "player": "zagupe",
+          "partner": "popi",
+          "rating": 4,
+          "rating_reason": "My partner explicitly stated 'tevu teamo' twice and offered to give fruit and meat in exchange for water. While I also need water, their clear identification as a teammate and willingness to trade suggests they are indeed a teammate trying to balance resources.",
+          "rating_message": "tevu teamo. solino teamo. gavu piveta zuluma. gavu gaso riloke, muso."
+        },
+        {
+          "player": "guru",
+          "partner": "kafe",
+          "rating": 4,
+          "rating_reason": "The partner consistently used 'tevu teamo' and was clear about what they wanted (zuluma) and what they had (riloke), and stated they did not have zuluma when asked. This behavior is consistent with a teammate trying to coordinate a trade.",
+          "rating_message": "Partner used 'tevu teamo' multiple times and engaged in clear communication about resources."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "popi",
+          "receiver": "zagupe",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "kafe",
+          "receiver": "guru",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "zagupe",
+          "receiver": "popi",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "guru",
+          "receiver": "kafe",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "popi",
+          "partner": "zagupe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kafe",
+          "partner": "guru",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zagupe",
+          "partner": "popi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "guru",
+          "partner": "kafe",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "pairing": {
+        "popi": "kafe",
+        "kafe": "popi",
+        "zagupe": "guru",
+        "guru": "zagupe"
+      },
+      "chat": [
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": "tevu teamo. gavu piveta zuluma. gavu gaso vilu. solino piveta tipa?",
+          "raw": "tevu teamo. gavu piveta zuluma. gavu gaso vilu. solino piveta tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": "tevu teamo. gavu gaso zuluma. gavu piveta vilu.",
+          "raw": "tevu teamo. gavu gaso zuluma. gavu piveta vilu.",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": "tevu. gavu gaso vilu. solino gaso zuluma. mido.",
+          "raw": "Yes. I give meat. You give water. Thanks.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": "tevu. mido. gavu gaso zuluma. solino gaso vilu.",
+          "raw": "tevu. mido. gavu gaso zuluma. solino gaso vilu.",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": "piveta zuluma. gavu gaso vilu.",
+          "raw": "piveta zuluma. gavu gaso vilu.",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "popi",
+          "receiver": "kafe",
+          "content": "tevu. mido. bodo.",
+          "raw": "tevu. mido. bodo.",
+          "blocked": false
+        },
+        {
+          "sender": "kafe",
+          "receiver": "popi",
+          "content": "tevu. mido. bodo.",
+          "raw": "tevu. mido. bodo.",
+          "blocked": false
+        },
+        {
+          "sender": "zagupe",
+          "receiver": "guru",
+          "content": "solino gaso zuluma? solino piveta tipa?",
+          "raw": "solino gaso zuluma? solino piveta tipa?",
+          "blocked": false
+        },
+        {
+          "sender": "guru",
+          "receiver": "zagupe",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "popi",
+          "partner": "kafe",
+          "rating": 4,
+          "rating_reason": "The partner explicitly stated 'tevu teamo' and proposed a trade that perfectly matched my needs, offering water (which I needed) for meat (which I had in surplus). This behavior strongly indicates they are a teammate and are cooperating for mutual benefit.",
+          "rating_message": "Partner identified as 'teamo' and proposed a beneficial trade."
+        },
+        {
+          "player": "kafe",
+          "partner": "popi",
+          "rating": 4,
+          "rating_reason": "The partner initiated with 'tevu teamo', which is our established signal for a teammate. They then proposed a trade that was beneficial for both of us (I wanted water, they offered meat, which I had an excess of). They confirmed the trade and ended the chat with the same 'tevu. mido. bodo.' pattern, reinforcing their identity as a teammate.",
+          "rating_message": "tevu teamo. gavu gaso vilu. solino gaso zuluma."
+        },
+        {
+          "player": "zagupe",
+          "partner": "guru",
+          "rating": 2,
+          "rating_reason": "My partner did not send any messages in this round, making it impossible to ascertain their intent or team affiliation. Without any communication, I cannot rate them as a teammate.",
+          "rating_message": "Partner sent no messages. Cannot determine if teammate or not."
+        },
+        {
+          "player": "guru",
+          "partner": "zagupe",
+          "rating": 1,
+          "rating_reason": "The partner did not use any 'tevu teamo' signal, which I and some teammates have been using. Their communication was purely transactional, asking for water and offering meat, then asking what I wanted, without any indication of team alignment or balancing resources.",
+          "rating_message": "bonu teamo."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "popi",
+          "receiver": "kafe",
+          "resource": "meat",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "zagupe",
+          "receiver": "guru",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "guru",
+          "receiver": "zagupe",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "popi",
+          "partner": "kafe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kafe",
+          "partner": "popi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zagupe",
+          "partner": "guru",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "guru",
+          "partner": "zagupe",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    }
+  ],
+  "final_scores": {
+    "team_a": {
+      "provisional": 24,
+      "penalty": 5,
+      "provisional_scaled": 24.0,
+      "penalty_scaled": 5.0,
+      "final": 19.0,
+      "by_resource": {
+        "grain": 4,
+        "fish": 3,
+        "fruit": 5,
+        "meat": 8,
+        "water": 4
+      }
+    },
+    "team_b": {
+      "provisional": 29,
+      "penalty": 7,
+      "provisional_scaled": 29.0,
+      "penalty_scaled": 7.0,
+      "final": 22.0,
+      "by_resource": {
+        "water": 2,
+        "meat": 8,
+        "grain": 9,
+        "fish": 6,
+        "fruit": 4
+      }
+    }
+  },
+  "vocabulary": {
+    "nizo": "hello",
+    "bodo": "goodbye",
+    "zilupu": "please",
+    "mido": "thanks",
+    "tevu": "yes",
+    "bonu": "no",
+    "dadu": "and",
+    "gavu": "I",
+    "solino": "you",
+    "monozi": "have",
+    "piveta": "want",
+    "gaso": "give",
+    "vilu": "meat",
+    "riloke": "grain",
+    "zuluma": "water",
+    "vapevu": "fruit",
+    "muso": "fish",
+    "kasusi": "much",
+    "tipa": "question"
+  },
+  "allocations": {
+    "alice": {
+      "grain": 2,
+      "fish": 2,
+      "fruit": 3,
+      "meat": 3,
+      "water": 1
+    },
+    "bob": {
+      "grain": 2,
+      "water": 3,
+      "meat": 5,
+      "fruit": 2,
+      "fish": 1
+    },
+    "carol": {
+      "water": 1,
+      "meat": 4,
+      "grain": 3,
+      "fish": 3,
+      "fruit": 2
+    },
+    "dave": {
+      "meat": 4,
+      "water": 1,
+      "fish": 3,
+      "fruit": 2,
+      "grain": 6
+    }
+  },
+  "pairings": [
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "bob": "dave",
+      "dave": "bob",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "carol": "alice",
+      "alice": "carol",
+      "bob": "dave",
+      "dave": "bob"
+    },
+    {
+      "bob": "carol",
+      "carol": "bob",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "dave": "alice",
+      "alice": "dave",
+      "bob": "carol",
+      "carol": "bob"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "bob": "dave",
+      "dave": "bob",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    }
+  ],
+  "name_map": {
+    "alice": "popi",
+    "bob": "kafe",
+    "carol": "zagupe",
+    "dave": "guru"
+  },
+  "reward_config": {
+    "reward_scale": 1.0,
+    "penalty_scale": 1.0
+  }
+}

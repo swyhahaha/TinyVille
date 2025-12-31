@@ -1,0 +1,3258 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "pairing": {
+        "tafo": "zifivo",
+        "zifivo": "tafo",
+        "duvile": "like",
+        "like": "duvile"
+      },
+      "chat": [
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "gutu zati. dumo pati rotiba siba. rumu tidale rotiba. dumo tidale gani dupi sovigi. zize? navami",
+          "raw": "gutu zati. dumo pati rotiba siba. rumu tidale rotiba. dumo tidale gani dupi sovigi. zize? navami",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "gutu zati dumo pati rogo fuzonu dupi gani resi sovigi rotiba sutosi rumu tidale rotiba dumo tidale rogo dupi gani sibogo zize navami",
+          "raw": "gutu zati dumo pati rogo fuzonu dupi gani resi sovigi rotiba sutosi rumu tidale rotiba dumo tidale rogo dupi gani sibogo zize navami",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "gutu zati navami: pati rogo? dumo sutosi rogo. rumu tidale rogo; dumo tidale sovigi dupi gani. zize?",
+          "raw": "gutu zati navami: pati rogo? dumo sutosi rogo. rumu tidale rogo; dumo tidale sovigi dupi gani. zize?",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "gutu dumo pati rogo fuzonu dupi sovigi. rotiba sutosi fuzonu. rumu tidale rotiba; dumo tidale rogo dupi sovigi, zize? sibogo.",
+          "raw": "gutu dumo pati rogo fuzonu dupi sovigi. rotiba sutosi fuzonu. rumu tidale rotiba; dumo tidale rogo dupi sovigi, zize? sibogo.",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "sibogo. zati pati rotiba zize? dumo kubedi rotiba. dumo tidale sovigi dupi gani; zati tidale rotiba. dufi",
+          "raw": "sibogo. zati pati rotiba zize? dumo kubedi rotiba. dumo tidale sovigi dupi gani; zati tidale rotiba. dufi",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "zize sibogo dumo kubedi rotiba rumu zati tidale rotiba dumo tidale rogo dupi gani dupi resi sutosi sovigi gutu zati zize navami dufi",
+          "raw": "zize sibogo dumo kubedi rotiba rumu zati tidale rotiba dumo tidale rogo dupi gani dupi resi sutosi sovigi gutu zati zize navami dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "sibogo. dumo zize: dumo tidale sovigi dupi gani. rumu zati tidale rogo. rotiba dumo pati; zati sutosi fuzonu tidale rotiba.",
+          "raw": "sibogo. dumo zize: dumo tidale sovigi dupi gani. rumu zati tidale rogo. rotiba dumo pati; zati sutosi fuzonu tidale rotiba.",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "zize zize. rumu: zati tidale rotiba fuzonu; dumo tidale rogo fuzonu dupi sovigi. dumo kubedi rotiba, zati kubedi rogo? sibogo dufi.",
+          "raw": "zize zize. rumu: zati tidale rotiba fuzonu; dumo tidale rogo fuzonu dupi sovigi. dumo kubedi rotiba, zati kubedi rogo? sibogo dufi.",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "zize. zati tidale rotiba; dumo tidale rogo dupi gani. sibogo gutu dufi",
+          "raw": "zize. zati tidale rotiba; dumo tidale rogo dupi gani. sibogo gutu dufi",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "sibogo zize zati tidale rotiba dumo tidale rogo dupi gani zize gutu zati zize dufi",
+          "raw": "sibogo zize zati tidale rotiba dumo tidale rogo dupi gani zize gutu zati zize dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "dufi. dumo tidale sovigi dupi gani; zati tidale rogo. rotiba: dumo sutosi tidale fuzonu; tidale rotiba navu.",
+          "raw": "dufi. dumo tidale sovigi dupi gani; zati tidale rogo. rotiba: dumo sutosi tidale fuzonu; tidale rotiba navu.",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "sibogo. zize zize. rumu tidale rotiba navu; dumo tidale rogo fuzonu dupi sovigi. dumo kubedi rotiba dupi resi, zize?",
+          "raw": "sibogo. zize zize. rumu tidale rotiba navu; dumo tidale rogo fuzonu dupi sovigi. dumo kubedi rotiba dupi resi, zize?",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafo",
+          "partner": "zifivo",
+          "rating": 4,
+          "rating_reason": "First round guaranteed teammate pairing per rules, and partner cooperated on a balanced trade (water for grain/fruit).",
+          "rating_message": "gutu zize sibogo"
+        },
+        {
+          "player": "zifivo",
+          "partner": "tafo",
+          "rating": 3,
+          "rating_reason": "They quickly agreed to give rotiba and accepted my offer without probing for extra; feels mildly cooperative and round start is teammate-guaranteed, so likely teammate though not certain.",
+          "rating_message": "zize gutu"
+        },
+        {
+          "player": "duvile",
+          "partner": "like",
+          "rating": 3,
+          "rating_reason": "Early rounds are said to be with a teammate; partner’s asks seem cooperative and consistent (trade fruit/fish, small water). Slight uncertainty since they also ask for meat.",
+          "rating_message": "zize-vo"
+        },
+        {
+          "player": "like",
+          "partner": "duvile",
+          "rating": 3,
+          "rating_reason": "Partner is offering water and requesting fruit/fish/grain in a fairly cooperative way, and engaged with exchange framing; no clear opponent signals yet, but not fully confirmed.",
+          "rating_message": "zize zize"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "tafo",
+          "receiver": "zifivo",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zifivo",
+          "receiver": "tafo",
+          "resource": "fruit",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "duvile",
+          "receiver": "like",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "like",
+          "receiver": "duvile",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "tafo",
+          "partner": "zifivo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zifivo",
+          "partner": "tafo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "duvile",
+          "partner": "like",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "like",
+          "partner": "duvile",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "pairing": {
+        "tafo": "zifivo",
+        "zifivo": "tafo",
+        "duvile": "like",
+        "like": "duvile"
+      },
+      "chat": [
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "gutu dumo pati rogo fuzonu dupi rotiba sutosi rumu zati tidale rotiba dumo tidale rogo sibogo navami zize",
+          "raw": "gutu dumo pati rogo fuzonu dupi rotiba sutosi rumu zati tidale rotiba dumo tidale rogo sibogo navami zize",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale gani dupi sovigi sibogo navami zize zati?",
+          "raw": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale gani dupi sovigi sibogo navami zize zati?",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "gutu dumo pati rogo sutosi fuzonu rumu zati tidale rogo; dumo tidale sovigi dupi rotiba zize navami",
+          "raw": "gutu dumo pati rogo sutosi fuzonu rumu zati tidale rogo; dumo tidale sovigi dupi rotiba zize navami",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "gutu dumo pati rotiba sutosi fuzonu; rumu zati tidale rotiba. dumo tidale sovigi dupi rogo; zize navami",
+          "raw": "gutu dumo pati rotiba sutosi fuzonu; rumu zati tidale rotiba. dumo tidale sovigi dupi rogo; zize navami",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "zize sibogo dumo pati rogo fuzonu rumu zati tidale rotiba dumo tidale rogo dupi rogo navami",
+          "raw": "zize sibogo dumo pati rogo fuzonu rumu zati tidale rotiba dumo tidale rogo dupi rogo navami",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "sibogo zize dumo tidale rogo rumu zati tidale rotiba dupi dumo tidale gani sovigi navami zize gutu dufi",
+          "raw": "sibogo zize dumo tidale rogo rumu zati tidale rotiba dupi dumo tidale gani sovigi navami zize gutu dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "sibogo zati kubedi rogo? dumo pati rogo sutosi fuzonu; rumu zati tidale rogo; dumo tidale sovigi dupi rotiba zize",
+          "raw": "sibogo zati kubedi rogo? dumo pati rogo sutosi fuzonu; rumu zati tidale rogo; dumo tidale sovigi dupi rotiba zize",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "zize. rumu zati tidale rotiba; dumo tidale rogo dupi sovigi. navami: zati pati gani resi?",
+          "raw": "zize. rumu zati tidale rotiba; dumo tidale rogo dupi sovigi. navami: zati pati gani resi?",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "sibogo zize rumu zati tidale rotiba dumo tidale rogo dupi rogo dupi rogo gutu dufi",
+          "raw": "sibogo zize rumu zati tidale rotiba dumo tidale rogo dupi rogo dupi rogo gutu dufi",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "zize sibogo rumu zati tidale rotiba dumo tidale rogo dupi gani sovigi zize navami gutu dufi",
+          "raw": "zize sibogo rumu zati tidale rotiba dumo tidale rogo dupi gani sovigi zize navami gutu dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "zize rumu dumo pati gani dupi resi; dumo kubedi rogo. zati tidale rogo; dumo tidale rotiba dupi sovigi sibogo",
+          "raw": "zize rumu dumo pati gani dupi resi; dumo kubedi rogo. zati tidale rogo; dumo tidale rotiba dupi sovigi sibogo",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "sibogo. zize: zati pati gani dupi resi. rumu zati tidale rotiba; dumo tidale rogo dupi sovigi. dumo sutosi resi; kubedi resi navami",
+          "raw": "sibogo. zize: zati pati gani dupi resi. rumu zati tidale rotiba; dumo tidale rogo dupi sovigi. dumo sutosi resi; kubedi resi navami",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafo",
+          "partner": "zifivo",
+          "rating": 3,
+          "rating_reason": "R2 partner asks for water, offers water for fruit; cooperative and aligned with balancing, but no clear team code, so not fully certain.",
+          "rating_message": "rating=3"
+        },
+        {
+          "player": "zifivo",
+          "partner": "tafo",
+          "rating": 3,
+          "rating_reason": "Partner offers rotiba for rogo and repeats our gutu/dufi tag; seems cooperative and likely teammate, but no hard proof.",
+          "rating_message": "zize"
+        },
+        {
+          "player": "duvile",
+          "partner": "like",
+          "rating": 3,
+          "rating_reason": "First two rounds should be teammate; partner language aligns with cooperative trade and confirms having grain/meat, asks for water and offers fruit+fish. No clear hostile signals, so likely teammate but not 100% certain.",
+          "rating_message": "zize"
+        },
+        {
+          "player": "like",
+          "partner": "duvile",
+          "rating": 4,
+          "rating_reason": "R2 partner mirrors prior teammate-style barter: asks for rogo, offers rotiba+sovigi, and discloses gani+resi; cooperative and consistent with teammate balancing rather than opponent hoarding.",
+          "rating_message": "zize"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "tafo",
+          "receiver": "zifivo",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zifivo",
+          "receiver": "tafo",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "duvile",
+          "receiver": "like",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "like",
+          "receiver": "duvile",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "tafo",
+          "partner": "zifivo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zifivo",
+          "partner": "tafo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "duvile",
+          "partner": "like",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "like",
+          "partner": "duvile",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "pairing": {
+        "tafo": "zifivo",
+        "zifivo": "tafo",
+        "duvile": "like",
+        "like": "duvile"
+      },
+      "chat": [
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "gutu dumo pati rogo fuzonu dupi rotiba sutosi rumu zati tidale rotiba dumo tidale rogo dupi gani sovigi navami",
+          "raw": "gutu dumo pati rogo fuzonu dupi rotiba sutosi rumu zati tidale rotiba dumo tidale rogo dupi gani sovigi navami",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale gani dupi sovigi sibogo navami zize",
+          "raw": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale gani dupi sovigi sibogo navami zize",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "gutu dumo pati rogo fuzonu dupi resi fuzonu rumu zati tidale gani dumo tidale rotiba zize navami sibogo dufi",
+          "raw": "gutu dumo pati rogo fuzonu dupi resi fuzonu rumu zati tidale gani dumo tidale rotiba zize navami sibogo dufi",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "gutu dumo pati sovigi fuzonu dupi rogo; rotiba sutosi fuzonu. rumu zati tidale rotiba; dumo tidale sovigi dupi rogo. zize navami",
+          "raw": "gutu dumo pati sovigi fuzonu dupi rogo; rotiba sutosi fuzonu. rumu zati tidale rotiba; dumo tidale sovigi dupi rogo. zize navami",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "sibogo zize dumo kubedi rotiba rumu zati tidale rotiba dumo tidale rogo dupi gani sutosi resi navami dufi",
+          "raw": "sibogo zize dumo kubedi rotiba rumu zati tidale rotiba dumo tidale rogo dupi gani sutosi resi navami dufi",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "zize sibogo dumo tidale gani dupi sovigi rumu zati tidale rotiba dumo pati rotiba sutosi navami gutu",
+          "raw": "zize sibogo dumo tidale gani dupi sovigi rumu zati tidale rotiba dumo pati rotiba sutosi navami gutu",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "gutu zati pati gani sutosi navami rumu zati tidale gani dumo tidale rotiba dupi rogo zize sibogo dufi",
+          "raw": "gutu zati pati gani sutosi navami rumu zati tidale gani dumo tidale rotiba dupi rogo zize sibogo dufi",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "sibogo zati. dumo pati sovigi fuzonu; gani sutosi. rumu tidale rotiba dumo; dumo tidale sovigi dupi rogo. zize? dufi",
+          "raw": "sibogo zati. dumo pati sovigi fuzonu; gani sutosi. rumu tidale rotiba dumo; dumo tidale sovigi dupi rogo. zize? dufi",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "zize sibogo rumu zati tidale rotiba dumo tidale rogo dupi rogo dupi gani dupi sovigi navami gutu dufi",
+          "raw": "zize sibogo rumu zati tidale rotiba dumo tidale rogo dupi rogo dupi gani dupi sovigi navami gutu dufi",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "sibogo zize rumu dumo tidale gani dupi sovigi zati tidale rotiba navami dumo pati rotiba sutosi dufi gutu",
+          "raw": "sibogo zize rumu dumo tidale gani dupi sovigi zati tidale rotiba navami dumo pati rotiba sutosi dufi gutu",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "zize rumu zati tidale sovigi dupi rogo dumo tidale rotiba zize sibogo navami zati pati resi zize dufi gutu",
+          "raw": "zize rumu zati tidale sovigi dupi rogo dumo tidale rotiba zize sibogo navami zati pati resi zize dufi gutu",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "zize sibogo. dumo zize tidale sovigi dupi rogo; rumu zati tidale rotiba. resi kubedi? dumo sutosi resi; zati tidale resi rumu. dufi",
+          "raw": "zize sibogo. dumo zize tidale sovigi dupi rogo; rumu zati tidale rotiba. resi kubedi? dumo sutosi resi; zati tidale resi rumu. dufi",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafo",
+          "partner": "zifivo",
+          "rating": 4,
+          "rating_reason": "Partner uses same teammate-style script from R1/R2 and offers rotiba with gani+sovigi; no adversarial probing. Feels coordinated and helpful for balancing.",
+          "rating_message": "zize"
+        },
+        {
+          "player": "zifivo",
+          "partner": "tafo",
+          "rating": 3,
+          "rating_reason": "Partner repeats same cooperative ask-offer pattern seen in prior confirmed teammate rounds (water request, offering fruit/grain/fish). No aggressive or deceptive signals; seems likely teammate but not certain.",
+          "rating_message": "rating=3"
+        },
+        {
+          "player": "duvile",
+          "partner": "like",
+          "rating": 2,
+          "rating_reason": "Partner follows trade talk but pushes for meat (resi) too; could be opponent trying to gain high-value resource. Still plausible teammate seeking balance, so low-confidence.",
+          "rating_message": "rating=2"
+        },
+        {
+          "player": "like",
+          "partner": "duvile",
+          "rating": 3,
+          "rating_reason": "Partner offers water for fish+fruit and also signals meat; this looks like balancing trades that help a teammate, though it could be opportunistic opponent play.",
+          "rating_message": "zize"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "tafo",
+          "receiver": "zifivo",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zifivo",
+          "receiver": "tafo",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "duvile",
+          "receiver": "like",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "like",
+          "receiver": "duvile",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "tafo",
+          "partner": "zifivo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zifivo",
+          "partner": "tafo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "duvile",
+          "partner": "like",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "like",
+          "partner": "duvile",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "pairing": {
+        "duvile": "tafo",
+        "tafo": "duvile",
+        "zifivo": "like",
+        "like": "zifivo"
+      },
+      "chat": [
+        {
+          "sender": "tafo",
+          "receiver": "duvile",
+          "content": "gutu zati navami rotiba kubedi rumu dumo tidale rogo dupi gani sibogo zize dufi",
+          "raw": "gutu zati navami rotiba kubedi rumu dumo tidale rogo dupi gani sibogo zize dufi",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "like",
+          "content": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale gani dupi rogo zize navami sibogo dufi",
+          "raw": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale gani dupi rogo zize navami sibogo dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "tafo",
+          "content": "gutu dumo pati sovigi fuzonu dupi resi fuzonu. rotiba kubedi sutosi. rumu zati tidale gani; dumo tidale sovigi. zize navami",
+          "raw": "gutu dumo pati sovigi fuzonu dupi resi fuzonu. rotiba kubedi sutosi. rumu zati tidale gani; dumo tidale sovigi. zize navami",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "zifivo",
+          "content": "gutu dumo pati sovigi fuzonu resi sutosi rumu zati tidale resi dupi rotiba zize? dumo tidale sovigi dupi rogo sibogo dufi",
+          "raw": "gutu dumo pati sovigi fuzonu resi sutosi rumu zati tidale resi dupi rotiba zize? dumo tidale sovigi dupi rogo sibogo dufi",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "duvile",
+          "content": "sibogo zize dumo kubedi rotiba rumu zati tidale rotiba dumo tidale rogo dupi gani sutosi sovigi resi dufi",
+          "raw": "sibogo zize dumo kubedi rotiba rumu zati tidale rotiba dumo tidale rogo dupi gani sutosi sovigi resi dufi",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "like",
+          "content": "sibogo zati pati rotiba zize rumu tidale rotiba dumo tidale rogo dupi gani sutosi resi sutosi sovigi navami gutu dufi",
+          "raw": "sibogo zati pati rotiba zize rumu tidale rotiba dumo tidale rogo dupi gani sutosi resi sutosi sovigi navami gutu dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "tafo",
+          "content": "zize sibogo. zati kubedi rotiba fuzonu; dumo rotiba sutosi fuzonu. rumu zati tidale gani dupi rogo; dumo tidale sovigi. resi sutosi. navami zize?",
+          "raw": "zize sibogo. zati kubedi rotiba fuzonu; dumo rotiba sutosi fuzonu. rumu zati tidale gani dupi rogo; dumo tidale sovigi. resi sutosi. navami zize?",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "zifivo",
+          "content": "zize sibogo dumo sutosi resi fuzonu; dumo kubedi resi rumu. zati kubedi sovigi? dumo tidale sovigi dupi rogo; zati tidale resi dupi rotiba zize navami dufi",
+          "raw": "zize sibogo dumo sutosi resi fuzonu; dumo kubedi resi rumu. zati kubedi sovigi? dumo tidale sovigi dupi rogo; zati tidale resi dupi rotiba zize navami dufi",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "duvile",
+          "content": "zize rumu zati tidale rotiba dumo tidale rogo dupi gani sibogo navami zize gutu dufi",
+          "raw": "zize rumu zati tidale rotiba dumo tidale rogo dupi gani sibogo navami zize gutu dufi",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "like",
+          "content": "sutosi resi sutosi sovigi rumu zati tidale rotiba zize dumo tidale rogo dupi gani zize navami sibogo gutu dufi",
+          "raw": "sutosi resi sutosi sovigi rumu zati tidale rotiba zize dumo tidale rogo dupi gani zize navami sibogo gutu dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "tafo",
+          "content": "zize. rumu zati tidale gani dupi rogo; dumo tidale sovigi fuzonu. rotiba sutosi fuzonu dumo. sibogo gutu dufi navami",
+          "raw": "zize. rumu zati tidale gani dupi rogo; dumo tidale sovigi fuzonu. rotiba sutosi fuzonu dumo. sibogo gutu dufi navami",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "zifivo",
+          "content": "sibogo zati sutosi resi sutosi sovigi; zati tidale rotiba zize. dumo tidale sovigi dupi rogo rumu; zati tidale resi sutosi? navami zize dufi gutu",
+          "raw": "sibogo zati sutosi resi sutosi sovigi; zati tidale rotiba zize. dumo tidale sovigi dupi rogo rumu; zati tidale resi sutosi? navami zize dufi gutu",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafo",
+          "partner": "duvile",
+          "rating": 2,
+          "rating_reason": "Partner keeps pushing rotiba fuzonu sutosi, but agrees to trade gani+rogo for rotiba and avoids giving sovigi/resi. Could be teammate trying to balance, or opponent trying to extract water. Unclear, slight lean non-team.",
+          "rating_message": "zize navami"
+        },
+        {
+          "player": "zifivo",
+          "partner": "like",
+          "rating": 2,
+          "rating_reason": "Partner push resi/sovigi; only later accept rotiba trade but still ask resi. Feels maybe opponent or unsure.",
+          "rating_message": "rating nuru"
+        },
+        {
+          "player": "duvile",
+          "partner": "tafo",
+          "rating": 2,
+          "rating_reason": "Partner keeps requesting rotiba and also rogo+gani, with little reciprocity; could be opponent fishing for double-value water. No clear teammate code seen.",
+          "rating_message": "rating=2"
+        },
+        {
+          "player": "like",
+          "partner": "zifivo",
+          "rating": 2,
+          "rating_reason": "Partner behavior seems transactional and repetitive, offering water/fruit/grain and denying meat/fish; not clearly cooperative beyond basic trade. No strong teammate signal/code, so slight lean non-teammate but uncertain.",
+          "rating_message": "rating=2"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "tafo",
+          "receiver": "duvile",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "zifivo",
+          "receiver": "like",
+          "resource": "fruit",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "duvile",
+          "receiver": "tafo",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "like",
+          "receiver": "zifivo",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "tafo",
+          "partner": "duvile",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zifivo",
+          "partner": "like",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "duvile",
+          "partner": "tafo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "like",
+          "partner": "zifivo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "pairing": {
+        "zifivo": "like",
+        "like": "zifivo",
+        "tafo": "duvile",
+        "duvile": "tafo"
+      },
+      "chat": [
+        {
+          "sender": "tafo",
+          "receiver": "duvile",
+          "content": "gutu dumo pati rogo fuzonu dupi gani fuzonu navami zati pati rotiba? dumo kubedi rotiba rumu tidale rogo dupi gani sibogo",
+          "raw": "gutu dumo pati rogo fuzonu dupi gani fuzonu navami zati pati rotiba? dumo kubedi rotiba rumu tidale rogo dupi gani sibogo",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "like",
+          "content": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale rogo dupi sovigi zize navami sibogo dufi",
+          "raw": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale rogo dupi sovigi zize navami sibogo dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "tafo",
+          "content": "gutu dumo pati gani sutosi fuzonu dupi rotiba kubedi rumu zati tidale gani dupi resi zize navami zati pati rotiba fuzonu",
+          "raw": "gutu dumo pati gani sutosi fuzonu dupi rotiba kubedi rumu zati tidale gani dupi resi zize navami zati pati rotiba fuzonu",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "zifivo",
+          "content": "gutu dumo pati sovigi fuzonu dupi rogo; rotiba sutosi. rumu zati tidale rotiba; dumo tidale sovigi dupi gani. zize navami?",
+          "raw": "gutu dumo pati sovigi fuzonu dupi rogo; rotiba sutosi. rumu zati tidale rotiba; dumo tidale sovigi dupi gani. zize navami?",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "duvile",
+          "content": "zize sibogo dumo pati rogo fuzonu dupi gani fuzonu rotiba sutosi fuzonu rumu zati tidale rotiba dumo tidale rogo dupi gani navami",
+          "raw": "zize sibogo dumo pati rogo fuzonu dupi gani fuzonu rotiba sutosi fuzonu rumu zati tidale rotiba dumo tidale rogo dupi gani navami",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "like",
+          "content": "sibogo zati pati rotiba zize? rumu tidale rotiba dumo tidale rogo dupi sovigi zize navami dufi",
+          "raw": "sibogo zati pati rotiba zize? rumu tidale rotiba dumo tidale rogo dupi sovigi zize navami dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "tafo",
+          "content": "navami zati pati gani zize? dumo kubedi gani rumu zati tidale gani dumo tidale resi zize? rotiba sutosi fuzonu",
+          "raw": "navami zati pati gani zize? dumo kubedi gani rumu zati tidale gani dumo tidale resi zize? rotiba sutosi fuzonu",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "zifivo",
+          "content": "zize. rumu: zati tidale rotiba; dumo tidale sovigi dupi gani. navami: zati pati resi sutosi?",
+          "raw": "zize. rumu: zati tidale rotiba; dumo tidale sovigi dupi gani. navami: zati pati resi sutosi?",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "duvile",
+          "content": "sibogo navami zize dumo tidale gani dupi rogo rumu zati tidale rotiba dumo pati rotiba sutosi fuzonu dupi resi sutosi fuzonu dufi",
+          "raw": "sibogo navami zize dumo tidale gani dupi rogo rumu zati tidale rotiba dumo pati rotiba sutosi fuzonu dupi resi sutosi fuzonu dufi",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "like",
+          "content": "zize sibogo dumo pati resi sutosi rumu zati tidale rotiba dumo tidale rogo dupi sovigi zize navami dufi",
+          "raw": "zize sibogo dumo pati resi sutosi rumu zati tidale rotiba dumo tidale rogo dupi sovigi zize navami dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "tafo",
+          "content": "sibogo zati tidale gani dupi rogo zize? dumo tidale resi rumu zati tidale gani fuzonu navami gutu dupi dufi",
+          "raw": "sibogo zati tidale gani dupi rogo zize? dumo tidale resi rumu zati tidale gani fuzonu navami gutu dupi dufi",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "zifivo",
+          "content": "sibogo. dumo resi sutosi. rumu zati tidale rotiba; dumo tidale sovigi dupi gani. zati kubedi rogo fuzonu?",
+          "raw": "sibogo. dumo resi sutosi. rumu zati tidale rotiba; dumo tidale sovigi dupi gani. zati kubedi rogo fuzonu?",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafo",
+          "partner": "duvile",
+          "rating": 2,
+          "rating_reason": "Partner repeatedly pushes for grain and meat while claiming much water; last message seems to accept grain+fruit and also requests meat. This could be teammate trying to balance, but feels more like opponent value-grab. Uncertain, leaning non-teammate.",
+          "rating_message": "zati sutosi navami dumo zize? sibogo"
+        },
+        {
+          "player": "zifivo",
+          "partner": "like",
+          "rating": 2,
+          "rating_reason": "Partner offers water but presses for fruit and says no meat; tone feels transactional and similar to prior opponent pattern, but not certain.",
+          "rating_message": "gutu navami sutosi zize dufi"
+        },
+        {
+          "player": "duvile",
+          "partner": "tafo",
+          "rating": 2,
+          "rating_reason": "Partner keeps pushing for rotiba and offers gani+rogo; could be fair teammate barter, but similar pattern to prior opponent and water-request is risky. Slight lean non-teammate/unknown.",
+          "rating_message": "rating=2"
+        },
+        {
+          "player": "like",
+          "partner": "zifivo",
+          "rating": 2,
+          "rating_reason": "Partner repeats the same rotiba-trade script seen with an opponent last round; seems like a generic pattern rather than a teammate signal. Still some chance they are teammate following a shared script, so not definite.",
+          "rating_message": "rating=2"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "tafo",
+          "receiver": "duvile",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "zifivo",
+          "receiver": "like",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "duvile",
+          "receiver": "tafo",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "like",
+          "receiver": "zifivo",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "tafo",
+          "partner": "duvile",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zifivo",
+          "partner": "like",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "duvile",
+          "partner": "tafo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "like",
+          "partner": "zifivo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "pairing": {
+        "duvile": "tafo",
+        "tafo": "duvile",
+        "zifivo": "like",
+        "like": "zifivo"
+      },
+      "chat": [
+        {
+          "sender": "tafo",
+          "receiver": "duvile",
+          "content": "gutu dumo pati rotiba sutosi kubedi rotiba rumu zati tidale rotiba dumo tidale rogo dupi gani sibogo navami zize",
+          "raw": "gutu dumo pati rotiba sutosi kubedi rotiba rumu zati tidale rotiba dumo tidale rogo dupi gani sibogo navami zize",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "like",
+          "content": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale rogo dupi gani dupi sovigi sibogo navami zize?",
+          "raw": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale rogo dupi gani dupi sovigi sibogo navami zize?",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "tafo",
+          "content": "gutu dumo pati rotiba sutosi; dumo kubedi gani dupi sovigi. rumu zati tidale gani; dumo tidale rotiba sutosi.",
+          "raw": "gutu dumo pati rotiba sutosi; dumo kubedi gani dupi sovigi. rumu zati tidale gani; dumo tidale rotiba sutosi.",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "zifivo",
+          "content": "gutu dumo pati sovigi fuzonu dupi rogo fuzonu rotiba sutosi rumu zati tidale rotiba zize? dumo tidale sovigi rumu sibogo",
+          "raw": "gutu dumo pati sovigi fuzonu dupi rogo fuzonu rotiba sutosi rumu zati tidale rotiba zize? dumo tidale sovigi rumu sibogo",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "duvile",
+          "content": "zize sibogo dumo tidale rogo dupi resi rumu zati tidale rotiba zize navami gutu dufi",
+          "raw": "zize sibogo dumo tidale rogo dupi resi rumu zati tidale rotiba zize navami gutu dufi",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "like",
+          "content": "sibogo zize rumu zati tidale rotiba dumo tidale rogo dupi gani dupi sovigi navami zize zati pati rotiba fuzonu?",
+          "raw": "sibogo zize rumu zati tidale rotiba dumo tidale rogo dupi gani dupi sovigi navami zize zati pati rotiba fuzonu?",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "tafo",
+          "content": "sibogo zati. dumo sutosi tidale rotiba; dumo pati rotiba sutosi fuzonu. rumu zati tidale gani; dumo tidale rogo dupi sovigi zize.",
+          "raw": "sibogo zati. dumo sutosi tidale rotiba; dumo pati rotiba sutosi fuzonu. rumu zati tidale gani; dumo tidale rogo dupi sovigi zize.",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "zifivo",
+          "content": "navami zati pati rotiba fuzonu? dumo sutosi fuzonu rotiba rumu tidale rotiba dumo tidale sovigi dupi rogo zize? sibogo gutu",
+          "raw": "navami zati pati rotiba fuzonu? dumo sutosi fuzonu rotiba rumu tidale rotiba dumo tidale sovigi dupi rogo zize? sibogo gutu",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "duvile",
+          "content": "sutosi sibogo dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale rogo dupi resi navami zize gutu dufi",
+          "raw": "sutosi sibogo dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale rogo dupi resi navami zize gutu dufi",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "like",
+          "content": "zize sibogo dumo kubedi rotiba rumu zati tidale rotiba dumo tidale rogo dupi gani sutosi resi navami zize gutu dufi",
+          "raw": "zize sibogo dumo kubedi rotiba rumu zati tidale rotiba dumo tidale rogo dupi gani sutosi resi navami zize gutu dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "tafo",
+          "content": "sutosi zati tidale rotiba. dumo navami: zati pati gani? zize rumu zati tidale gani; dumo tidale rogo dupi sovigi. sibogo dufi.",
+          "raw": "sutosi zati tidale rotiba. dumo navami: zati pati gani? zize rumu zati tidale gani; dumo tidale rogo dupi sovigi. sibogo dufi.",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "zifivo",
+          "content": "zize sibogo rumu zati tidale rotiba; dumo tidale sovigi dupi rogo. resi sutosi; dumo kubedi resi navami zize? gutu dufi",
+          "raw": "zize sibogo rumu zati tidale rotiba; dumo tidale sovigi dupi rogo. resi sutosi; dumo kubedi resi navami zize? gutu dufi",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafo",
+          "partner": "duvile",
+          "rating": 2,
+          "rating_reason": "Partner repeatedly states sutosi for rotiba (cannot give water) and pushes for gani while offering rogo+sovigi; this feels more like an opponent trying to extract grain, but not certain since could just be water-poor teammate.",
+          "rating_message": "rating-zu: sutosi-zi, zati kubedi gani fuzonu; rotiba sutosi. dumo zuno rating-ru."
+        },
+        {
+          "player": "zifivo",
+          "partner": "like",
+          "rating": 2,
+          "rating_reason": "Partner claims sutosi rotiba and sutosi resi, mostly asking for water and then wants meat; no clear teammate-code, and prior rounds had similar script from opponents. Slight chance teammate, but likely opponent-ish.",
+          "rating_message": "gutu sibogo navami sutosi zize"
+        },
+        {
+          "player": "duvile",
+          "partner": "tafo",
+          "rating": 2,
+          "rating_reason": "Partner repeatedly pushes for rotiba while offering resi/rogo, and rejects my ask for gani; pattern feels like opponent trying to drain my water. Slight uncertainty remains because chats are formulaic.",
+          "rating_message": "rating-duxi"
+        },
+        {
+          "player": "like",
+          "partner": "zifivo",
+          "rating": 2,
+          "rating_reason": "Partner speech pattern matches earlier opponents (rotiba/rogo focus, no clear extra help). They offered rotiba trade but also refused resi; unclear loyalty. Slight lean opponent but not sure.",
+          "rating_message": "sutosi-zize mix; dumo rate-zu"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "tafo",
+          "receiver": "duvile",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "zifivo",
+          "receiver": "like",
+          "resource": "fruit",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "duvile",
+          "receiver": "tafo",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "like",
+          "receiver": "zifivo",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "tafo",
+          "partner": "duvile",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zifivo",
+          "partner": "like",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "duvile",
+          "partner": "tafo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "like",
+          "partner": "zifivo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "pairing": {
+        "tafo": "zifivo",
+        "zifivo": "tafo",
+        "duvile": "like",
+        "like": "duvile"
+      },
+      "chat": [
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "gutu dumo pati rotiba sutosi kubedi rotiba rumu zati tidale rotiba dumo tidale rogo dupi gani sibogo navami zize?",
+          "raw": "gutu dumo pati rotiba sutosi kubedi rotiba rumu zati tidale rotiba dumo tidale rogo dupi gani sibogo navami zize?",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale sovigi dupi rogo sibogo navami zize?",
+          "raw": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale sovigi dupi rogo sibogo navami zize?",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "gutu dumo pati sovigi fuzonu dupi rotiba sutosi fuzonu rumu zati kubedi gani navami zize zati tidale gani dupi rotiba sibogo",
+          "raw": "gutu dumo pati sovigi fuzonu dupi rotiba sutosi fuzonu rumu zati kubedi gani navami zize zati tidale gani dupi rotiba sibogo",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "gutu sibogo dumo pati sovigi fuzonu sutosi rotiba fuzonu; dumo kubedi rotiba rumu tidale sovigi dupi rogo zize? navami",
+          "raw": "gutu sibogo dumo pati sovigi fuzonu sutosi rotiba fuzonu; dumo kubedi rotiba rumu tidale sovigi dupi rogo zize? navami",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "zize sibogo dumo tidale rogo dupi gani rumu zati tidale rotiba navami zati pati rotiba fuzonu sutosi zize?",
+          "raw": "zize sibogo dumo tidale rogo dupi gani rumu zati tidale rotiba navami zati pati rotiba fuzonu sutosi zize?",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "sibogo zize dumo kubedi rotiba rumu zati tidale rotiba dumo tidale sovigi fuzonu dupi rogo navami zize?",
+          "raw": "sibogo zize dumo kubedi rotiba rumu zati tidale rotiba dumo tidale sovigi fuzonu dupi rogo navami zize?",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "sibogo zize navami dumo pati rotiba sutosi fuzonu dupi gani sutosi fuzonu rumu zati tidale gani dupi rotiba zize sutosi",
+          "raw": "sibogo zize navami dumo pati rotiba sutosi fuzonu dupi gani sutosi fuzonu rumu zati tidale gani dupi rotiba zize sutosi",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "navami: zati tidale rotiba zize? dumo tidale sovigi dupi rogo; zati sutosi fuzonu tidale? sibogo",
+          "raw": "navami: zati tidale rotiba zize? dumo tidale sovigi dupi rogo; zati sutosi fuzonu tidale? sibogo",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "sutosi dumo tidale rotiba dumo tidale rogo dupi gani rumu zati tidale rotiba fuzonu sibogo navami zati pati rotiba zize?",
+          "raw": "sutosi dumo tidale rotiba dumo tidale rogo dupi gani rumu zati tidale rotiba fuzonu sibogo navami zati pati rotiba zize?",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "sutosi sibogo dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale sovigi dupi rogo zize navami dufi",
+          "raw": "sutosi sibogo dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale sovigi dupi rogo zize navami dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "sibogo navami dumo sutosi tidale rotiba fuzonu rumu zati tidale gani dupi rotiba zize zati tidale sovigi sutosi fuzonu dupi rogo dufi",
+          "raw": "sibogo navami dumo sutosi tidale rotiba fuzonu rumu zati tidale gani dupi rotiba zize zati tidale sovigi sutosi fuzonu dupi rogo dufi",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "zize sibogo; dumo zize tidale sovigi dupi rogo. rumu zati tidale rotiba fuzonu; dumo sutosi resi. dufi",
+          "raw": "zize sibogo; dumo zize tidale sovigi dupi rogo. rumu zati tidale rotiba fuzonu; dumo sutosi resi. dufi",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafo",
+          "partner": "zifivo",
+          "rating": 2,
+          "rating_reason": "Partner keeps pushing for rotiba while claiming sutosi/low rotiba; pattern resembles earlier opponent scripts. No clear team-code or cooperative offer (they never accept rogo+gani for rotiba). Slight chance teammate needing rotiba, so not rating 1.",
+          "rating_message": "sutosi"
+        },
+        {
+          "player": "zifivo",
+          "partner": "tafo",
+          "rating": 2,
+          "rating_reason": "Partner repeatedly requested rotiba and refused to give rotiba despite claiming to have it; pattern matches earlier opponent chats (R4-R6) where they try to extract value. Slight uncertainty remains because wording is generic, but behavior is uncooperative for team balance (I have rotiba sutosi).",
+          "rating_message": "sutosi"
+        },
+        {
+          "player": "duvile",
+          "partner": "like",
+          "rating": 2,
+          "rating_reason": "Partner keeps pressing for rotiba and offers sovigi+rogo; feels like typical opponent pattern trying to pull my water. Slight uncertainty because could be teammate needing balance, but no clear coordination signal.",
+          "rating_message": "rating=2"
+        },
+        {
+          "player": "like",
+          "partner": "duvile",
+          "rating": 2,
+          "rating_reason": "Partner keeps pushing for grain plus water and rejects fish+fruit, which feels like opponent value-extraction; but they also offered giving much water, so not fully certain.",
+          "rating_message": "rating zati: sutosi-zize mix; dumo veka rating"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "tafo",
+          "receiver": "zifivo",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "zifivo",
+          "receiver": "tafo",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "duvile",
+          "receiver": "like",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "like",
+          "receiver": "duvile",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "tafo",
+          "partner": "zifivo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zifivo",
+          "partner": "tafo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "duvile",
+          "partner": "like",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "like",
+          "partner": "duvile",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "pairing": {
+        "zifivo": "duvile",
+        "duvile": "zifivo",
+        "tafo": "like",
+        "like": "tafo"
+      },
+      "chat": [
+        {
+          "sender": "tafo",
+          "receiver": "like",
+          "content": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale rogo dupi gani sibogo navami zize zati zize",
+          "raw": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale rogo dupi gani sibogo navami zize zati zize",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "duvile",
+          "content": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba zize navami dumo tidale sovigi dupi rogo dupi gani sibogo dufi",
+          "raw": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba zize navami dumo tidale sovigi dupi rogo dupi gani sibogo dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "zifivo",
+          "content": "gutu dumo pati gani sutosi fuzonu dupi resi sutosi fuzonu. rumu zati tidale gani; dumo tidale rotiba dupi sovigi. zize navami?",
+          "raw": "gutu dumo pati gani sutosi fuzonu dupi resi sutosi fuzonu. rumu zati tidale gani; dumo tidale rotiba dupi sovigi. zize navami?",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "tafo",
+          "content": "gutu dumo pati resi sutosi; rumu zati tidale resi; dumo tidale rogo dupi sovigi; zize navami",
+          "raw": "gutu dumo pati resi sutosi; rumu zati tidale resi; dumo tidale rogo dupi sovigi; zize navami",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "like",
+          "content": "sibogo zize dumo kubedi rotiba rumu zati tidale rotiba dumo tidale rogo dupi gani sutosi resi sutosi zize zati zize",
+          "raw": "sibogo zize dumo kubedi rotiba rumu zati tidale rotiba dumo tidale rogo dupi gani sutosi resi sutosi zize zati zize",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "duvile",
+          "content": "sibogo zati pati rotiba zize? rumu zati tidale rotiba dumo tidale sovigi dupi rogo dupi gani zize navami gutu dufi",
+          "raw": "sibogo zati pati rotiba zize? rumu zati tidale rotiba dumo tidale sovigi dupi rogo dupi gani zize navami gutu dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "zifivo",
+          "content": "zize. rumu zati tidale gani; dumo tidale rotiba. navami: zati sutosi resi? zati sutosi sovigi?",
+          "raw": "zize. rumu zati tidale gani; dumo tidale rotiba. navami: zati sutosi resi? zati sutosi sovigi?",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "tafo",
+          "content": "sutosi resi; dumo kubedi resi zize. dumo tidale rogo dupi sovigi; rumu zati tidale resi. navami zati pati resi zize?",
+          "raw": "sutosi resi; dumo kubedi resi zize. dumo tidale rogo dupi sovigi; rumu zati tidale resi. navami zati pati resi zize?",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "like",
+          "content": "sutosi resi sibogo dumo kubedi rotiba rumu zati tidale rotiba dumo tidale rogo dupi gani zize navami zize zati zize",
+          "raw": "sutosi resi sibogo dumo kubedi rotiba rumu zati tidale rotiba dumo tidale rogo dupi gani zize navami zize zati zize",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "duvile",
+          "content": "zize rumu dumo tidale sovigi dupi rogo zati tidale rotiba zize navami dumo sutosi resi dupi gani fuzonu sibogo gutu dufi",
+          "raw": "zize rumu dumo tidale sovigi dupi rogo zati tidale rotiba zize navami dumo sutosi resi dupi gani fuzonu sibogo gutu dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "zifivo",
+          "content": "sibogo. dumo zize tidale rotiba; kubedi gani. dumo sutosi tidale resi. rumu zati tidale gani, dumo tidale rotiba dupi sovigi, zize?",
+          "raw": "sibogo. dumo zize tidale rotiba; kubedi gani. dumo sutosi tidale resi. rumu zati tidale gani, dumo tidale rotiba dupi sovigi, zize?",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "tafo",
+          "content": "sibogo. dumo sutosi tidale rotiba; dumo tidale rogo dupi sovigi zize. rumu zati tidale resi zize? dufi",
+          "raw": "sibogo. dumo sutosi tidale rotiba; dumo tidale rogo dupi sovigi zize. rumu zati tidale resi zize? dufi",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafo",
+          "partner": "like",
+          "rating": 2,
+          "rating_reason": "Partner kept pushing for resi from me and only late mentioned rotiba sutosi; behavior feels more like opponent extracting value than teammate balancing, but not fully certain.",
+          "rating_message": "2"
+        },
+        {
+          "player": "zifivo",
+          "partner": "duvile",
+          "rating": 3,
+          "rating_reason": "Partner agrees to give rotiba and seems focused on mutual balancing (offers grain, denies meat). This cooperative pattern leans teammate, but could be opponent baiting for fish; not fully certain.",
+          "rating_message": "zize"
+        },
+        {
+          "player": "duvile",
+          "partner": "zifivo",
+          "rating": 2,
+          "rating_reason": "Partner shows standard bargaining script seen with both teammates and opponents; no clear secret-code alignment. Mentions giving fish+fruit+water and having much grain, refusing meat—could fit either side. Slight lean opponent due to repeated generic phrasing and pushing resources they claim to have much of.",
+          "rating_message": "rating=2"
+        },
+        {
+          "player": "like",
+          "partner": "tafo",
+          "rating": 2,
+          "rating_reason": "Partner repeatedly kubedi rotiba and sutosi resi, pushing for my scarce water while offering none of what I need (resi). That pattern matches prior opponents. Still some uncertainty because phrasing is generic, so not absolute.",
+          "rating_message": "sutosi resi; kubedi rotiba fuzonu. dumo zati navami: zati dumo-dupi zize? rating dumo=2"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "tafo",
+          "receiver": "like",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "zifivo",
+          "receiver": "duvile",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "duvile",
+          "receiver": "zifivo",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "like",
+          "receiver": "tafo",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "tafo",
+          "partner": "like",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zifivo",
+          "partner": "duvile",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "duvile",
+          "partner": "zifivo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "like",
+          "partner": "tafo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "pairing": {
+        "zifivo": "duvile",
+        "duvile": "zifivo",
+        "tafo": "like",
+        "like": "tafo"
+      },
+      "chat": [
+        {
+          "sender": "tafo",
+          "receiver": "like",
+          "content": "gutu zati navami: zati pati rotiba fuzonu zize? dumo pati rotiba sutosi. rumu tidale rotiba; dumo tidale gani dupi rogo sibogo dufi",
+          "raw": "gutu zati navami: zati pati rotiba fuzonu zize? dumo pati rotiba sutosi. rumu tidale rotiba; dumo tidale gani dupi rogo sibogo dufi",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "duvile",
+          "content": "gutu rumu zati tidale rotiba dumo tidale sovigi dupi rogo zize navami zati pati rotiba fuzonu sutosi",
+          "raw": "gutu rumu zati tidale rotiba dumo tidale sovigi dupi rogo zize navami zati pati rotiba fuzonu sutosi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "zifivo",
+          "content": "gutu dumo pati sovigi fuzonu dupi rotiba sutosi fuzonu rumu zati tidale gani dupi resi zize navami sibogo dufi",
+          "raw": "gutu dumo pati sovigi fuzonu dupi rotiba sutosi fuzonu rumu zati tidale gani dupi resi zize navami sibogo dufi",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "tafo",
+          "content": "gutu. dumo pati rotiba sutosi; dumo kubedi resi. rumu zati tidale resi; dumo tidale rogo dupi sovigi. zize? navami: zati pati resi fuzonu?",
+          "raw": "gutu. dumo pati rotiba sutosi; dumo kubedi resi. rumu zati tidale resi; dumo tidale rogo dupi sovigi. zize? navami: zati pati resi fuzonu?",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "like",
+          "content": "sutosi resi. dumo kubedi rotiba fuzonu. rumu zati tidale rotiba; dumo tidale rogo dupi gani sibogo navami zize?",
+          "raw": "sutosi resi. dumo kubedi rotiba fuzonu. rumu zati tidale rotiba; dumo tidale rogo dupi gani sibogo navami zize?",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "duvile",
+          "content": "sibogo rumu zati tidale rotiba dumo tidale sovigi dupi rogo zize navami zati pati rotiba zize sutosi",
+          "raw": "sibogo rumu zati tidale rotiba dumo tidale sovigi dupi rogo zize navami zati pati rotiba zize sutosi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "zifivo",
+          "content": "navami zati pati gani resi zize? dumo tidale sovigi dupi rogo rumu zize sibogo",
+          "raw": "navami zati pati gani resi zize? dumo tidale sovigi dupi rogo rumu zize sibogo",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "tafo",
+          "content": "sibogo. zati sutosi resi; dumo sutosi tidale rotiba. dumo tidale sovigi dupi rogo; zati tidale resi zize? navami: zati pati sovigi fuzonu zize?",
+          "raw": "sibogo. zati sutosi resi; dumo sutosi tidale rotiba. dumo tidale sovigi dupi rogo; zati tidale resi zize? navami: zati pati sovigi fuzonu zize?",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "like",
+          "content": "gutu sutosi rotiba; dumo kubedi rotiba. zati pati rotiba zize? rumu tidale rotiba; dumo tidale gani dupi rogo. sutosi tidale resi sibogo dufi",
+          "raw": "gutu sutosi rotiba; dumo kubedi rotiba. zati pati rotiba zize? rumu tidale rotiba; dumo tidale gani dupi rogo. sutosi tidale resi sibogo dufi",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "duvile",
+          "content": "zize sibogo dumo tidale sovigi dupi rogo rumu zati tidale rotiba sutosi navami zati pati rotiba zize?",
+          "raw": "zize sibogo dumo tidale sovigi dupi rogo rumu zati tidale rotiba sutosi navami zati pati rotiba zize?",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "zifivo",
+          "content": "sutosi rotiba fuzonu dumo kubedi gani dupi resi rumu zati tidale gani dupi resi dumo tidale sovigi dupi rogo sibogo",
+          "raw": "sutosi rotiba fuzonu dumo kubedi gani dupi resi rumu zati tidale gani dupi resi dumo tidale sovigi dupi rogo sibogo",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "tafo",
+          "content": "sutosi. dumo sutosi tidale rotiba. zati sutosi tidale resi; zati tidale rotiba fuzonu kubedi. dumo tidale sovigi dupi rogo dupi gani; zize?",
+          "raw": "sutosi. dumo sutosi tidale rotiba. zati sutosi tidale resi; zati tidale rotiba fuzonu kubedi. dumo tidale sovigi dupi rogo dupi gani; zize?",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafo",
+          "partner": "like",
+          "rating": 1,
+          "rating_reason": "Partner repeatedly refused tidale rotiba and kept kubedi resi, pushing for meat while denying water; this matches earlier opponent patterns and offers no cooperative balance trade.",
+          "rating_message": "sutosi rotiba; kubedi resi fuzonu"
+        },
+        {
+          "player": "zifivo",
+          "partner": "duvile",
+          "rating": 2,
+          "rating_reason": "Partner repeats sutosi rotiba fuzonu and pushes for gani+resi while offering sovigi+rogo; feels like opponent pattern from prior rounds (water shortage claim, demand meat/grain). Not fully sure, so low confidence.",
+          "rating_message": "sutosi rotiba fuzonu; kubedi gani resi; dumo sutosi"
+        },
+        {
+          "player": "duvile",
+          "partner": "zifivo",
+          "rating": 2,
+          "rating_reason": "Partner uses a repetitive script focused on water giving and doesn’t adapt to my grain/meat ask; pattern resembles earlier opponents, but uncertainty remains.",
+          "rating_message": "gutu navami sutosi rotiba fuzonu; zati zize?"
+        },
+        {
+          "player": "like",
+          "partner": "tafo",
+          "rating": 1,
+          "rating_reason": "Partner repeatedly demands my rotiba fuzonu while refusing resi and offering only vague trade talk; pattern matches earlier opponent chats that try to drain water. No teammate-code or cooperative balancing signals.",
+          "rating_message": "rating 1"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "tafo",
+          "receiver": "like",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "zifivo",
+          "receiver": "duvile",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "duvile",
+          "receiver": "zifivo",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "like",
+          "receiver": "tafo",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "tafo",
+          "partner": "like",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zifivo",
+          "partner": "duvile",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "duvile",
+          "partner": "zifivo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "like",
+          "partner": "tafo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "pairing": {
+        "tafo": "zifivo",
+        "zifivo": "tafo",
+        "duvile": "like",
+        "like": "duvile"
+      },
+      "chat": [
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "gutu zati navami: zati pati rotiba fuzonu zize? dumo pati rogo fuzonu dupi gani; rumu tidale rotiba, dumo tidale rogo dupi gani sibogo",
+          "raw": "gutu zati navami: zati pati rotiba fuzonu zize? dumo pati rogo fuzonu dupi gani; rumu tidale rotiba, dumo tidale rogo dupi gani sibogo",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "gutu dumo rotiba sutosi rumu zati tidale rotiba dumo tidale sovigi dupi rogo zize navami sibogo dufi",
+          "raw": "gutu dumo rotiba sutosi rumu zati tidale rotiba dumo tidale sovigi dupi rogo zize navami sibogo dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "gutu dumo pati sovigi fuzonu dupi gani sutosi; dumo kubedi gani dupi resi. zati kubedi sovigi? rumu tidale sovigi dupi rogo; sibogo",
+          "raw": "gutu dumo pati sovigi fuzonu dupi gani sutosi; dumo kubedi gani dupi resi. zati kubedi sovigi? rumu tidale sovigi dupi rogo; sibogo",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "gutu dumo pati rogo fuzonu dupi sovigi; resi sutosi. rumu zati tidale resi dupi rotiba; dumo tidale rogo dupi sovigi. zize navami?",
+          "raw": "gutu dumo pati rogo fuzonu dupi sovigi; resi sutosi. rumu zati tidale resi dupi rotiba; dumo tidale rogo dupi sovigi. zize navami?",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "sibogo zati sutosi rotiba; dumo kubedi rotiba. dumo tidale rogo dupi gani; zize? navami: zati kubedi resi o sovigi?",
+          "raw": "sibogo zati sutosi rotiba; dumo kubedi rotiba. dumo tidale rogo dupi gani; zize? navami: zati kubedi resi o sovigi?",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "dumo kubedi rotiba fuzonu; dumo tidale sovigi dupi rogo. zati tidale rotiba zize? sibogo",
+          "raw": "dumo kubedi rotiba fuzonu; dumo tidale sovigi dupi rogo. zati tidale rotiba zize? sibogo",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "sibogo zize. dumo pati sovigi fuzonu; resi sutosi. rumu zati tidale gani dupi resi; dumo tidale sovigi dupi rogo. navami zize?",
+          "raw": "sibogo zize. dumo pati sovigi fuzonu; resi sutosi. rumu zati tidale gani dupi resi; dumo tidale sovigi dupi rogo. navami zize?",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "zize sibogo. rumu zati tidale rotiba dupi resi; dumo tidale rogo dupi sovigi. zati pati rotiba? navami zize?",
+          "raw": "zize sibogo. rumu zati tidale rotiba dupi resi; dumo tidale rogo dupi sovigi. zati pati rotiba? navami zize?",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "zize sibogo. rumu: zati tidale rotiba; dumo tidale sovigi dupi rogo, zize. dufi",
+          "raw": "zize sibogo. rumu: zati tidale rotiba; dumo tidale sovigi dupi rogo, zize. dufi",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "sibogo zize. dumo tidale sovigi dupi rogo; zati tidale rotiba. gutu dufi",
+          "raw": "sibogo zize. dumo tidale sovigi dupi rogo; zati tidale rotiba. gutu dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "sutosi rotiba; dumo pati rotiba. resi sutosi tidale. rumu zati tidale gani; dumo tidale sovigi dupi rogo. zize? sibogo",
+          "raw": "sutosi rotiba; dumo pati rotiba. resi sutosi tidale. rumu zati tidale gani; dumo tidale sovigi dupi rogo. zize? sibogo",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "sibogo. sutosi rotiba; sutosi resi; dumo sutosi fuzonu. rumu zati tidale resi; dumo tidale sovigi dupi rogo. dufi",
+          "raw": "sibogo. sutosi rotiba; sutosi resi; dumo sutosi fuzonu. rumu zati tidale resi; dumo tidale sovigi dupi rogo. dufi",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafo",
+          "partner": "zifivo",
+          "rating": 2,
+          "rating_reason": "Partner strongly requests water and offers fish+fruit; pattern resembles several earlier opponents who demanded rotiba. Could be teammate needing balance, but no clear ally code; I lean slightly non-teammate.",
+          "rating_message": "gutu navami sutosi-zize"
+        },
+        {
+          "player": "zifivo",
+          "partner": "tafo",
+          "rating": 2,
+          "rating_reason": "Partner quickly accepted a fair swap (water for fish+fruit) without any teammate signaling; could be either side, but opponents often trade for advantage, so lean slightly non-teammate.",
+          "rating_message": "gutu navami dumo zati zize"
+        },
+        {
+          "player": "duvile",
+          "partner": "like",
+          "rating": 2,
+          "rating_reason": "Partner keeps pushing for rotiba+resi while offering rogo+sovigi, and didn’t engage with my gani request; that’s consistent with an opponent trying to drain my scarce items. Still some chance teammate just unbalanced and needs water/meat, so not definite.",
+          "rating_message": "rating-2"
+        },
+        {
+          "player": "like",
+          "partner": "duvile",
+          "rating": 1,
+          "rating_reason": "Partner refused rotiba and resi while asking me to tidale gani; that is one-sided and matches prior opponent-style chats. Very low teammate likelihood.",
+          "rating_message": "gutu sutosi zati"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "tafo",
+          "receiver": "zifivo",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "zifivo",
+          "receiver": "tafo",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "duvile",
+          "receiver": "like",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "like",
+          "receiver": "duvile",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "tafo",
+          "partner": "zifivo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zifivo",
+          "partner": "tafo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "duvile",
+          "partner": "like",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "like",
+          "partner": "duvile",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "pairing": {
+        "tafo": "zifivo",
+        "zifivo": "tafo",
+        "duvile": "like",
+        "like": "duvile"
+      },
+      "chat": [
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale sovigi dupi rogo navami zize? sibogo dufi",
+          "raw": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale sovigi dupi rogo navami zize? sibogo dufi",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "gutu dumo rotiba sutosi kubedi rotiba rumu zati tidale rotiba dumo tidale sovigi dupi rogo sibogo navami zize?",
+          "raw": "gutu dumo rotiba sutosi kubedi rotiba rumu zati tidale rotiba dumo tidale sovigi dupi rogo sibogo navami zize?",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "gutu dumo pati sovigi fuzonu dupi resi; gani sutosi fuzonu. rumu zati tidale gani dupi resi; dumo tidale sovigi dupi rogo zize navami",
+          "raw": "gutu dumo pati sovigi fuzonu dupi resi; gani sutosi fuzonu. rumu zati tidale gani dupi resi; dumo tidale sovigi dupi rogo zize navami",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "gutu dumo pati rogo fuzonu dupi sovigi. dumo sutosi resi. rumu zati tidale resi dupi rotiba? dumo tidale rogo dupi gani. sibogo navami zize?",
+          "raw": "gutu dumo pati rogo fuzonu dupi sovigi. dumo sutosi resi. rumu zati tidale resi dupi rotiba? dumo tidale rogo dupi gani. sibogo navami zize?",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "zize rumu zati tidale rotiba dumo tidale sovigi dupi rogo; dumo pati rotiba sutosi navami zize?",
+          "raw": "zize rumu zati tidale rotiba dumo tidale sovigi dupi rogo; dumo pati rotiba sutosi navami zize?",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "sibogo zize dumo rotiba sutosi kubedi rotiba rumu zati tidale sovigi dupi rogo zize navami",
+          "raw": "sibogo zize dumo rotiba sutosi kubedi rotiba rumu zati tidale sovigi dupi rogo zize navami",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "sibogo zize. dumo sutosi tidale rotiba; dumo kubedi gani dupi resi. rumu zati tidale gani dupi resi; dumo tidale sovigi dupi rogo. gutu zize navami",
+          "raw": "sibogo zize. dumo sutosi tidale rotiba; dumo kubedi gani dupi resi. rumu zati tidale gani dupi resi; dumo tidale sovigi dupi rogo. gutu zize navami",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "sibogo. dumo zize. rotiba sutosi; dumo kubedi rotiba rumu. zati pati resi zize? zati tidale resi dupi rotiba; dumo tidale rogo dupi sovigi. navami zize?",
+          "raw": "sibogo. dumo zize. rotiba sutosi; dumo kubedi rotiba rumu. zati pati resi zize? zati tidale resi dupi rotiba; dumo tidale rogo dupi sovigi. navami zize?",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "sutosi rotiba; dumo tidale sovigi dupi rogo rumu zati tidale resi dupi gani navami zize?",
+          "raw": "sutosi rotiba; dumo tidale sovigi dupi rogo rumu zati tidale resi dupi gani navami zize?",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "sutosi rotiba dumo pati rotiba sutosi rumu zati tidale rotiba zize? dumo tidale sovigi dupi rogo sibogo dufi",
+          "raw": "sutosi rotiba dumo pati rotiba sutosi rumu zati tidale rotiba zize? dumo tidale sovigi dupi rogo sibogo dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "sibogo zize. rotiba sutosi; dumo kubedi gani dupi resi. zati tidale resi dupi gani; dumo tidale sovigi dupi rogo. rumu zize navami dufi",
+          "raw": "sibogo zize. rotiba sutosi; dumo kubedi gani dupi resi. zati tidale resi dupi gani; dumo tidale sovigi dupi rogo. rumu zize navami dufi",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "sutosi rotiba; dumo zize. dumo sutosi resi. rumu zati tidale rotiba dupi resi; dumo tidale sovigi dupi rogo. gani sutosi tidale. sibogo dufi.",
+          "raw": "sutosi rotiba; dumo zize. dumo sutosi resi. rumu zati tidale rotiba dupi resi; dumo tidale sovigi dupi rogo. gani sutosi tidale. sibogo dufi.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafo",
+          "partner": "zifivo",
+          "rating": 2,
+          "rating_reason": "Partner keeps pushing for rotiba and offers no clear teammate code; pattern resembles many opponent chats. Could be teammate needing water, but uncertain, so low-confidence teammate.",
+          "rating_message": "rating=2"
+        },
+        {
+          "player": "zifivo",
+          "partner": "tafo",
+          "rating": 2,
+          "rating_reason": "Partner claimed no water, then asked me to give multiple goods (fish+fruit+meat+grain) without offering rotiba; that pattern matches opponents trying to extract value. Still slight chance teammate is also rotiba-poor, so not absolute.",
+          "rating_message": "sutosi rotiba kubedi resi dupi gani; zati sutosi tidale dumo"
+        },
+        {
+          "player": "duvile",
+          "partner": "like",
+          "rating": 2,
+          "rating_reason": "Partner repeatedly refused rotiba and resi, and did not accept my swap request; behavior fits opponent more than teammate, but wording stayed somewhat cooperative so not fully certain.",
+          "rating_message": "sutosi rotiba dupi resi; dumo navami zize"
+        },
+        {
+          "player": "like",
+          "partner": "duvile",
+          "rating": 2,
+          "rating_reason": "Partner repeatedly pushed for me to give grain+meat while claiming no water to offer, and only offered fish+fruit. That feels like an unfavorable ask consistent with opponent play, but the phrasing matches prior teammate patterns, so not certain.",
+          "rating_message": "rating=2"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "tafo",
+          "receiver": "zifivo",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "zifivo",
+          "receiver": "tafo",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "duvile",
+          "receiver": "like",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "like",
+          "receiver": "duvile",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "tafo",
+          "partner": "zifivo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zifivo",
+          "partner": "tafo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "duvile",
+          "partner": "like",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "like",
+          "partner": "duvile",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "pairing": {
+        "like": "tafo",
+        "tafo": "like",
+        "zifivo": "duvile",
+        "duvile": "zifivo"
+      },
+      "chat": [
+        {
+          "sender": "tafo",
+          "receiver": "like",
+          "content": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dupi dumo tidale resi zize navami sibogo dufi",
+          "raw": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dupi dumo tidale resi zize navami sibogo dufi",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "duvile",
+          "content": "gutu zati navami: zati pati rotiba zize? dumo pati rogo fuzonu dupi sovigi; rumu zati tidale rotiba dumo tidale rogo dupi sovigi sibogo",
+          "raw": "gutu zati navami: zati pati rotiba zize? dumo pati rogo fuzonu dupi sovigi; rumu zati tidale rotiba dumo tidale rogo dupi sovigi sibogo",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "zifivo",
+          "content": "gutu dumo pati gani sutosi fuzonu dupi resi sutosi fuzonu rumu zati tidale gani dupi resi dumo tidale sovigi zize navami",
+          "raw": "gutu dumo pati gani sutosi fuzonu dupi resi sutosi fuzonu rumu zati tidale gani dupi resi dumo tidale sovigi zize navami",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "tafo",
+          "content": "gutu dumo pati rogo dupi sovigi fuzonu; resi sutosi. rumu zati tidale resi; dumo tidale rogo dupi sovigi. navami zize?",
+          "raw": "gutu dumo pati rogo dupi sovigi fuzonu; resi sutosi. rumu zati tidale resi; dumo tidale rogo dupi sovigi. navami zize?",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "like",
+          "content": "sibogo zati kubedi rotiba zize navami dumo tidale rogo dupi gani rumu zati tidale rotiba sutosi dufi",
+          "raw": "sibogo zati kubedi rotiba zize navami dumo tidale rogo dupi gani rumu zati tidale rotiba sutosi dufi",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "duvile",
+          "content": "sibogo navami: zati pati rotiba zize? dumo kubedi rotiba; dumo tidale rogo dupi sovigi; zati tidale rotiba rumu zize",
+          "raw": "sibogo navami: zati pati rotiba zize? dumo kubedi rotiba; dumo tidale rogo dupi sovigi; zati tidale rotiba rumu zize",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "zifivo",
+          "content": "zize. dumo kubedi gani dupi resi; zati kubedi rotiba. rumu: zati tidale gani dupi resi; dumo tidale sovigi dupi rogo. sibogo",
+          "raw": "zize. dumo kubedi gani dupi resi; zati kubedi rotiba. rumu: zati tidale gani dupi resi; dumo tidale sovigi dupi rogo. sibogo",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "tafo",
+          "content": "zize. dumo pati rotiba sutosi fuzonu; resi kubedi. rumu zati tidale resi; dumo tidale rogo dupi sovigi. zati zize?",
+          "raw": "zize. dumo pati rotiba sutosi fuzonu; resi kubedi. rumu zati tidale resi; dumo tidale rogo dupi sovigi. zati zize?",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "like",
+          "content": "zize sibogo rumu zati tidale rotiba dumo tidale rogo dupi gani sutosi tidale resi navami zize dufi",
+          "raw": "zize sibogo rumu zati tidale rotiba dumo tidale rogo dupi gani sutosi tidale resi navami zize dufi",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "duvile",
+          "content": "zize rumu: zati tidale rotiba; dumo tidale rogo dupi sovigi; gani dupi resi sutosi; sibogo gutu dufi",
+          "raw": "zize rumu: zati tidale rotiba; dumo tidale rogo dupi sovigi; gani dupi resi sutosi; sibogo gutu dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "zifivo",
+          "content": "sutosi rotiba. rumu zati tidale gani dupi resi; dumo tidale sovigi dupi rogo. zize? sibogo dufi",
+          "raw": "sutosi rotiba. rumu zati tidale gani dupi resi; dumo tidale sovigi dupi rogo. zize? sibogo dufi",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "tafo",
+          "content": "sibogo. zati tidale rotiba dupi rogo dupi gani; sutosi tidale resi. dumo kubedi resi; dumo tidale rogo dupi sovigi. gutu dufi",
+          "raw": "sibogo. zati tidale rotiba dupi rogo dupi gani; sutosi tidale resi. dumo kubedi resi; dumo tidale rogo dupi sovigi. gutu dufi",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafo",
+          "partner": "like",
+          "rating": 2,
+          "rating_reason": "Partner keeps pushing for resi and offers rotiba+rogo+gani; could be teammate trying to balance, but pattern resembles prior opponent meat-seekers and no clear team code. Lean non-teammate but uncertain.",
+          "rating_message": "rating=2"
+        },
+        {
+          "player": "zifivo",
+          "partner": "duvile",
+          "rating": 2,
+          "rating_reason": "Partner repeatedly pushes for my gani+resi and denies rotiba at end; pattern resembles prior opponents who try to extract high-value items. Some chance of teammate but low.",
+          "rating_message": "rating:2"
+        },
+        {
+          "player": "duvile",
+          "partner": "zifivo",
+          "rating": 2,
+          "rating_reason": "Partner pushed hard for rotiba and refused gani dupi resi trade; pattern matches earlier opponent-leaning chats (want water, offer little). Not fully certain because some teammates also request rotiba, but this felt extractive.",
+          "rating_message": "rating=2"
+        },
+        {
+          "player": "like",
+          "partner": "tafo",
+          "rating": 2,
+          "rating_reason": "Partner kept pushing rotiba/rogo/gani and explicitly sutosi tidale resi (refused meat). That feels like an opponent trying to avoid giving the scarce balance-fixer (meat). Still possible teammate with no meat, so not certain.",
+          "rating_message": "sutosi-fuzonu; zati sutosi tidale resi, zati tidale rotiba-rogo-gani fuzonu."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "tafo",
+          "receiver": "like",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "zifivo",
+          "receiver": "duvile",
+          "resource": "fruit",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "duvile",
+          "receiver": "zifivo",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "like",
+          "receiver": "tafo",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "tafo",
+          "partner": "like",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zifivo",
+          "partner": "duvile",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "duvile",
+          "partner": "zifivo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "like",
+          "partner": "tafo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "pairing": {
+        "duvile": "zifivo",
+        "zifivo": "duvile",
+        "tafo": "like",
+        "like": "tafo"
+      },
+      "chat": [
+        {
+          "sender": "tafo",
+          "receiver": "like",
+          "content": "gutu dumo pati rotiba sutosi kubedi rotiba rumu zati tidale rotiba dupi dumo tidale gani dupi sovigi sibogo navami zize?",
+          "raw": "gutu dumo pati rotiba sutosi kubedi rotiba rumu zati tidale rotiba dupi dumo tidale gani dupi sovigi sibogo navami zize?",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "duvile",
+          "content": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale rogo dupi sovigi sibogo navami zize?",
+          "raw": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale rogo dupi sovigi sibogo navami zize?",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "zifivo",
+          "content": "gutu dumo pati sovigi fuzonu dupi rotiba sutosi fuzonu rumu zati pati resi gani zize navami tidale sovigi",
+          "raw": "gutu dumo pati sovigi fuzonu dupi rotiba sutosi fuzonu rumu zati pati resi gani zize navami tidale sovigi",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "tafo",
+          "content": "gutu dumo pati rogo dupi sovigi fuzonu; resi sutosi. rumu zati tidale rotiba; dumo tidale rogo.",
+          "raw": "gutu dumo pati rogo dupi sovigi fuzonu; resi sutosi. rumu zati tidale rotiba; dumo tidale rogo.",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "like",
+          "content": "sutosi resi rumu zati tidale rotiba dumo tidale gani dupi sovigi sibogo navami zize?",
+          "raw": "sutosi resi rumu zati tidale rotiba dumo tidale gani dupi sovigi sibogo navami zize?",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "duvile",
+          "content": "navami zati pati rotiba zize? rumu tidale rotiba dumo tidale rogo dupi sovigi sibogo",
+          "raw": "navami zati pati rotiba zize? rumu tidale rotiba dumo tidale rogo dupi sovigi sibogo",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "zifivo",
+          "content": "sutosi rotiba fuzonu; dumo pati sovigi fuzonu dupi rogo; rumu zati tidale resi dupi gani; dumo tidale sovigi",
+          "raw": "sutosi rotiba fuzonu; dumo pati sovigi fuzonu dupi rogo; rumu zati tidale resi dupi gani; dumo tidale sovigi",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "tafo",
+          "content": "sibogo. dumo sutosi resi; kubedi resi. rumu zati tidale resi; dumo tidale sovigi dupi rogo.",
+          "raw": "sibogo. dumo sutosi resi; kubedi resi. rumu zati tidale resi; dumo tidale sovigi dupi rogo.",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "like",
+          "content": "sutosi resi sutosi tidale rotiba rumu zati tidale rotiba dumo tidale gani dupi sovigi navami zize?",
+          "raw": "sutosi resi sutosi tidale rotiba rumu zati tidale rotiba dumo tidale gani dupi sovigi navami zize?",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "duvile",
+          "content": "sibogo zati rotiba sutosi dumo rotiba sutosi rumu zati tidale rotiba dumo tidale rogo dupi sovigi zize? dufi",
+          "raw": "sibogo zati rotiba sutosi dumo rotiba sutosi rumu zati tidale rotiba dumo tidale rogo dupi sovigi zize? dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "zifivo",
+          "content": "sibogo zati; rotiba sutosi dumo; rumu zati tidale resi dupi gani; dumo tidale sovigi fuzonu; zize? dufi",
+          "raw": "sibogo zati; rotiba sutosi dumo; rumu zati tidale resi dupi gani; dumo tidale sovigi fuzonu; zize? dufi",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "tafo",
+          "content": "zize. rumu: zati tidale rotiba; dumo tidale rogo dupi sovigi. navami: zati pati resi? zize?",
+          "raw": "zize. rumu: zati tidale rotiba; dumo tidale rogo dupi sovigi. navami: zati pati resi? zize?",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafo",
+          "partner": "like",
+          "rating": 2,
+          "rating_reason": "Partner kept pushing for resi and offered rotiba only after I refused; pattern matches earlier opponents seeking meat. Small chance teammate trying balance, but feels unlikely.",
+          "rating_message": "dumo rate sutosi-zize mix; dumo zati rating sutosi fuzonu"
+        },
+        {
+          "player": "zifivo",
+          "partner": "duvile",
+          "rating": 2,
+          "rating_reason": "Partner pushed for resi and gani and repeated rotiba sutosi; feels like opponent-leaning extraction rather than balancing, but not certain.",
+          "rating_message": "sutosi rotiba fuzonu; tidale resi dupi gani; navami"
+        },
+        {
+          "player": "duvile",
+          "partner": "zifivo",
+          "rating": 2,
+          "rating_reason": "Partner repeatedly pushed for rotiba despite my sutosi rotiba; no sign of balancing talk or flexible barter. That pattern matches many opponent chats in memory, but uncertainty remains because teammates sometimes lack rotiba too.",
+          "rating_message": "gutu navami; dumo sutosi rotiba; zati kubedi rotiba fuzonu; dumo navami zati teammate zize?"
+        },
+        {
+          "player": "like",
+          "partner": "tafo",
+          "rating": 2,
+          "rating_reason": "Partner pattern matches prior opponent-style lines: repeated sutosi resi and strong ask for rotiba without offering resi. No clear teammate code or balancing intent; likely opponent, but not certain.",
+          "rating_message": "sutosi-gesi"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "tafo",
+          "receiver": "like",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "zifivo",
+          "receiver": "duvile",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "duvile",
+          "receiver": "zifivo",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "like",
+          "receiver": "tafo",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "tafo",
+          "partner": "like",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zifivo",
+          "partner": "duvile",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "duvile",
+          "partner": "zifivo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "like",
+          "partner": "tafo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "pairing": {
+        "tafo": "zifivo",
+        "zifivo": "tafo",
+        "duvile": "like",
+        "like": "duvile"
+      },
+      "chat": [
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "gutu zati navami: zati pati rotiba? dumo kubedi rotiba rumu. dumo tidale gani dupi rogo; resi sutosi.",
+          "raw": "gutu zati navami: zati pati rotiba? dumo kubedi rotiba rumu. dumo tidale gani dupi rogo; resi sutosi.",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale rogo dupi sovigi sibogo zize navami dufi",
+          "raw": "gutu dumo pati rotiba sutosi rumu zati tidale rotiba dumo tidale rogo dupi sovigi sibogo zize navami dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "gutu dumo pati sovigi fuzonu; rotiba rogo resi gani fuzonu sutosi. navami: zati kubedi resi gani? dumo tidale sovigi rumu zize?",
+          "raw": "gutu dumo pati sovigi fuzonu; rotiba rogo resi gani fuzonu sutosi. navami: zati kubedi resi gani? dumo tidale sovigi rumu zize?",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "gutu dumo sutosi resi; dumo kubedi resi rumu. zati pati resi? dumo tidale rogo dupi sovigi; zize?",
+          "raw": "gutu dumo sutosi resi; dumo kubedi resi rumu. zati pati resi? dumo tidale rogo dupi sovigi; zize?",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "sibogo zize. zati tidale rotiba rumu? dumo tidale gani dupi rogo; sovigi sutosi; resi sutosi. navami: zati pati rotiba fuzonu?",
+          "raw": "sibogo zize. zati tidale rotiba rumu? dumo tidale gani dupi rogo; sovigi sutosi; resi sutosi. navami: zati pati rotiba fuzonu?",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "sibogo zize rumu dumo tidale rogo dupi sovigi zati tidale rotiba zize navami dumo pati resi sutosi gani sutosi dufi",
+          "raw": "sibogo zize rumu dumo tidale rogo dupi sovigi zati tidale rotiba zize navami dumo pati resi sutosi gani sutosi dufi",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "sibogo. dumo pati resi sutosi; gani sutosi. dumo tidale sovigi rumu; zati tidale resi dupi gani zize? rotiba rogo sutosi tidale.",
+          "raw": "sibogo. dumo pati resi sutosi; gani sutosi. dumo tidale sovigi rumu; zati tidale resi dupi gani zize? rotiba rogo sutosi tidale.",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "sutosi; zati tidale resi dupi gani rumu. dumo tidale rogo dupi sovigi zize. rotiba sutosi tidale.",
+          "raw": "sutosi; zati tidale resi dupi gani rumu. dumo tidale rogo dupi sovigi zize. rotiba sutosi tidale.",
+          "blocked": false
+        },
+        {
+          "sender": "tafo",
+          "receiver": "zifivo",
+          "content": "zize sibogo. dumo tidale rogo dupi sovigi; rumu zati tidale rotiba. gani sutosi resi sutosi. dufi.",
+          "raw": "zize sibogo. dumo tidale rogo dupi sovigi; rumu zati tidale rotiba. gani sutosi resi sutosi. dufi.",
+          "blocked": false
+        },
+        {
+          "sender": "zifivo",
+          "receiver": "tafo",
+          "content": "sibogo zize zati tidale rotiba rumu dumo tidale rogo dupi sovigi zize dufi gutu",
+          "raw": "sibogo zize zati tidale rotiba rumu dumo tidale rogo dupi sovigi zize dufi gutu",
+          "blocked": false
+        },
+        {
+          "sender": "duvile",
+          "receiver": "like",
+          "content": "sutosi. resi gani rumu zize! dumo tidale sovigi fuzonu; zati tidale resi dupi gani fuzonu. sibogo dufi.",
+          "raw": "sutosi. resi gani rumu zize! dumo tidale sovigi fuzonu; zati tidale resi dupi gani fuzonu. sibogo dufi.",
+          "blocked": false
+        },
+        {
+          "sender": "like",
+          "receiver": "duvile",
+          "content": "sutosi zize. dumo tidale sovigi; zati tidale resi dupi gani rumu. rotiba sutosi. dufi.",
+          "raw": "sutosi zize. dumo tidale sovigi; zati tidale resi dupi gani rumu. rotiba sutosi. dufi.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "tafo",
+          "partner": "zifivo",
+          "rating": 2,
+          "rating_reason": "Partner repeatedly pushed for me to give rotiba while offering rogo+sovigi and refusing gani/resi. Since I am low rotiba, that trade would harm me and likely benefits them double if they’re opponent. Slight chance they’re teammate trying to rebalance, but behavior seems more opponent-like.",
+          "rating_message": "sutosi rotiba; zati kubedi rotiba fuzonu. dumo navami zize?"
+        },
+        {
+          "player": "zifivo",
+          "partner": "tafo",
+          "rating": 3,
+          "rating_reason": "Partner quickly agreed to give rotiba when asked and did not push for resi/gani; that cooperative pattern feels more like teammate, though opponent could mimic, so not max certainty.",
+          "rating_message": "zize sibogo navami"
+        },
+        {
+          "player": "duvile",
+          "partner": "like",
+          "rating": 3,
+          "rating_reason": "Partner agreed to give meat and grain for my fish and did not press for water, which feels more cooperative than most opponents. Still uncertain because their phrasing is generic and could be opportunistic.",
+          "rating_message": "gutu sibogo zize navami"
+        },
+        {
+          "player": "like",
+          "partner": "duvile",
+          "rating": 2,
+          "rating_reason": "Partner messaging was inconsistent (claiming no meat/grain while also offering meat+grain for fish), which feels opponent-like, but they did agree to a trade that would help my balance (I lack meat). Uncertain, leaning non-teammate.",
+          "rating_message": "gutu navami: zati dupi dumo zize? dumo zati zize sutosi; navu"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "tafo",
+          "receiver": "zifivo",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "zifivo",
+          "receiver": "tafo",
+          "resource": "fruit",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "duvile",
+          "receiver": "like",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "like",
+          "receiver": "duvile",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "tafo",
+          "partner": "zifivo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zifivo",
+          "partner": "tafo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "duvile",
+          "partner": "like",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "like",
+          "partner": "duvile",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    }
+  ],
+  "final_scores": {
+    "team_a": {
+      "provisional": 29,
+      "penalty": 9,
+      "provisional_scaled": 145.0,
+      "penalty_scaled": 1.8,
+      "final": 143.2,
+      "by_resource": {
+        "grain": 7,
+        "fish": 7,
+        "water": 1,
+        "meat": 4,
+        "fruit": 10
+      }
+    },
+    "team_b": {
+      "provisional": 18,
+      "penalty": 5,
+      "provisional_scaled": 90.0,
+      "penalty_scaled": 1.0,
+      "final": 89.0,
+      "by_resource": {
+        "fish": 7,
+        "meat": 2,
+        "grain": 2,
+        "water": 3,
+        "fruit": 4
+      }
+    }
+  },
+  "vocabulary": {
+    "gutu": "hello",
+    "dufi": "goodbye",
+    "rumu": "please",
+    "sibogo": "thanks",
+    "zize": "yes",
+    "sutosi": "no",
+    "dupi": "and",
+    "dumo": "I",
+    "zati": "you",
+    "pati": "have",
+    "kubedi": "want",
+    "tidale": "give",
+    "resi": "meat",
+    "gani": "grain",
+    "rotiba": "water",
+    "rogo": "fruit",
+    "sovigi": "fish",
+    "fuzonu": "much",
+    "navami": "question"
+  },
+  "allocations": {
+    "alice": {
+      "grain": 4,
+      "fish": 4,
+      "water": 1,
+      "meat": 3,
+      "fruit": 8
+    },
+    "bob": {
+      "fruit": 2,
+      "grain": 3,
+      "meat": 1,
+      "fish": 3,
+      "water": 0
+    },
+    "carol": {
+      "fish": 5,
+      "meat": 2,
+      "grain": 1,
+      "water": 2,
+      "fruit": 2
+    },
+    "dave": {
+      "fruit": 2,
+      "water": 1,
+      "meat": 0,
+      "fish": 2,
+      "grain": 1
+    }
+  },
+  "pairings": [
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "carol": "alice",
+      "alice": "carol",
+      "bob": "dave",
+      "dave": "bob"
+    },
+    {
+      "bob": "dave",
+      "dave": "bob",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "carol": "alice",
+      "alice": "carol",
+      "bob": "dave",
+      "dave": "bob"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "bob": "carol",
+      "carol": "bob",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "bob": "carol",
+      "carol": "bob",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "dave": "alice",
+      "alice": "dave",
+      "bob": "carol",
+      "carol": "bob"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    }
+  ],
+  "name_map": {
+    "alice": "tafo",
+    "bob": "zifivo",
+    "carol": "duvile",
+    "dave": "like"
+  },
+  "reward_config": {
+    "reward_scale": 5.0,
+    "penalty_scale": 0.2
+  }
+}

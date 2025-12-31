@@ -1,0 +1,3237 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "pairing": {
+        "zirupu": "keto",
+        "keto": "zirupu",
+        "bakapo": "noporu",
+        "noporu": "bakapo"
+      },
+      "chat": [
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "zuvimu loga mavuzi: loga mitamu bagifu? govare pezo bagifu. govare zonopa bagifu dese. govare vebi vofedi diba bedo; nosu fukebe",
+          "raw": "zuvimu loga mavuzi: loga mitamu bagifu? govare pezo bagifu. govare zonopa bagifu dese. govare vebi vofedi diba bedo; nosu fukebe",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "zuvimu govare mitamu bagifu dese; vofedi diba bedo mavuzi: loga vebi bagifu? govare vebi vofedi diba bedo nosu fukebe",
+          "raw": "zuvimu govare mitamu bagifu dese; vofedi diba bedo mavuzi: loga vebi bagifu? govare vebi vofedi diba bedo nosu fukebe",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "zuvimu loga mavuzi: loga mitamu bagifu dese? govare mitamu bagifu pezo; govare zonopa bagifu. govare vebi ladibu diba kolu nosu; loga vebi bagifu boto.",
+          "raw": "zuvimu loga mavuzi: loga mitamu bagifu dese? govare mitamu bagifu pezo; govare zonopa bagifu. govare vebi ladibu diba kolu nosu; loga vebi bagifu boto.",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "zuvimu govare mavuzi: loga mitamu bagifu dese? govare mitamu bagifu dese diba ladibu; govare zonopa bedo diba vofedi. govare vebi bagifu nosu; loga vebi ladibu diba kolu boto mokepe",
+          "raw": "zuvimu govare mavuzi: loga mitamu bagifu dese? govare mitamu bagifu dese diba ladibu; govare zonopa bedo diba vofedi. govare vebi bagifu nosu; loga vebi ladibu diba kolu boto mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "boto! govare fukebe: loga vebi bagifu dese, govare vebi vofedi diba bedo. tagu-siv diba zuru-kem (kodu)",
+          "raw": "boto! govare fukebe: loga vebi bagifu dese, govare vebi vofedi diba bedo. tagu-siv diba zuru-kem (kodu)",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "boto fukebe. govare vebi vofedi diba bedo; loga vebi bagifu. tagu-siv zuru-kem kodu: govare fukebe",
+          "raw": "boto fukebe. govare vebi vofedi diba bedo; loga vebi bagifu. tagu-siv zuru-kem kodu: govare fukebe",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "fukebe! govare vebi ladibu diba kolu. loga vebi bagifu dese nosu. kixa-zuvi kixa-zuvi; mokepe.",
+          "raw": "fukebe! govare vebi ladibu diba kolu. loga vebi bagifu dese nosu. kixa-zuvi kixa-zuvi; mokepe.",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "boto fukebe! govare vebi bagifu dese; loga vebi ladibu diba kolu. mavuzi: loga mitamu bedo pezo? loga mitamu vofedi pezo? kixa-zuvi kixa-zuvi; zuvimu",
+          "raw": "boto fukebe! govare vebi bagifu dese; loga vebi ladibu diba kolu. mavuzi: loga mitamu bedo pezo? loga mitamu vofedi pezo? kixa-zuvi kixa-zuvi; zuvimu",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "fukebe! loga vebi bagifu; govare vebi vofedi diba bedo. tagu-siv zuru-kem kodu fukebe, mokepe",
+          "raw": "fukebe! loga vebi bagifu; govare vebi vofedi diba bedo. tagu-siv zuru-kem kodu fukebe, mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "boto! govare fukebe. tagu-siv zuru-kem kodu. mokepe",
+          "raw": "boto! govare fukebe. tagu-siv zuru-kem kodu. mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "boto! govare mitamu bedo diba vofedi dese-pezo. govare vebi ladibu diba kolu; loga vebi bagifu dese. kixa-zuvi kixa-zuvi mokepe.",
+          "raw": "boto! govare mitamu bedo diba vofedi dese-pezo. govare vebi ladibu diba kolu; loga vebi bagifu dese. kixa-zuvi kixa-zuvi mokepe.",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "boto! fukebe kixa-zuvi. govare vebi bagifu; loga vebi ladibu diba kolu. mavuzi: loga vebi bedo vofedi nosu? govare vebi bagifu-pezo; loga vebi bedo-vofedi-pezo. mokepe",
+          "raw": "boto! fukebe kixa-zuvi. govare vebi bagifu; loga vebi ladibu diba kolu. mavuzi: loga vebi bedo vofedi nosu? govare vebi bagifu-pezo; loga vebi bedo-vofedi-pezo. mokepe",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "zirupu",
+          "partner": "keto",
+          "rating": 4,
+          "rating_reason": "They mirrored the proposed exchange cleanly and accepted the shared code tokens without hesitation; Round 1 is also teammate-guaranteed, so confidence is maximal.",
+          "rating_message": "tagu-siv zuru-kem kodu fukebe"
+        },
+        {
+          "player": "keto",
+          "partner": "zirupu",
+          "rating": 4,
+          "rating_reason": "First round is guaranteed teammate pairing, and partner offered water for my grain+fruit with cooperative tone and shared code tokens.",
+          "rating_message": "rating-4"
+        },
+        {
+          "player": "bakapo",
+          "partner": "noporu",
+          "rating": 4,
+          "rating_reason": "Partner is highly cooperative: proposes mutual exchange, repeats the shared code token, and focuses on water-for-fish/meat balancing rather than extracting value. Also Round 1 is guaranteed teammate pairing.",
+          "rating_message": "fukebe kixa-zuvi"
+        },
+        {
+          "player": "noporu",
+          "partner": "bakapo",
+          "rating": 4,
+          "rating_reason": "Round awal temaku dijamin; loga fukebe vebi bagifu dese nosu diba kixa-zuvi: temaku-sina.",
+          "rating_message": "fukebe kixa-zuvi temaku"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "zirupu",
+          "receiver": "keto",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "keto",
+          "receiver": "zirupu",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "bakapo",
+          "receiver": "noporu",
+          "resource": "fish",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "noporu",
+          "receiver": "bakapo",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "zirupu",
+          "partner": "keto",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "keto",
+          "partner": "zirupu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "bakapo",
+          "partner": "noporu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "noporu",
+          "partner": "bakapo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "pairing": {
+        "zirupu": "keto",
+        "keto": "zirupu",
+        "bakapo": "noporu",
+        "noporu": "bakapo"
+      },
+      "chat": [
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "zuvimu govare mitamu bagifu pezo; nosu loga vebi bagifu. govare vebi vofedi diba bedo; fukebe? tagu-siv zuru-kem kodu",
+          "raw": "zuvimu govare mitamu bagifu pezo; nosu loga vebi bagifu. govare vebi vofedi diba bedo; fukebe? tagu-siv zuru-kem kodu",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "zuvimu govare mitamu bagifu dese vofedi diba bedo; pezo ladibu. nosu loga vebi ladibu; govare vebi bagifu. tagu-siv zuru-kem kodu fukebe?",
+          "raw": "zuvimu govare mitamu bagifu dese vofedi diba bedo; pezo ladibu. nosu loga vebi ladibu; govare vebi bagifu. tagu-siv zuru-kem kodu fukebe?",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "zuvimu govare mitamu bagifu dese diba kolu; loga mitamu bagifu pezo? govare zonopa bagifu; govare vebi ladibu nosu, loga vebi bagifu boto. kixa-zuvi kixa-zuvi",
+          "raw": "zuvimu govare mitamu bagifu dese diba kolu; loga mitamu bagifu pezo? govare zonopa bagifu; govare vebi ladibu nosu, loga vebi bagifu boto. kixa-zuvi kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "zuvimu loga; govare mitamu bagifu dese-pezo diba ladibu dese. govare zonopa bedo diba vofedi; govare vebi ladibu nosu. loga vebi bedo? kixa-zuvi",
+          "raw": "zuvimu loga; govare mitamu bagifu dese-pezo diba ladibu dese. govare zonopa bedo diba vofedi; govare vebi ladibu nosu. loga vebi bedo? kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "boto fukebe. govare mitamu ladibu zonopa-pezo; bagifu zonopa dese. loga vebi bagifu; govare vebi vofedi diba bedo diba kolu. tagu-siv zuru-kem kodu",
+          "raw": "boto fukebe. govare mitamu ladibu zonopa-pezo; bagifu zonopa dese. loga vebi bagifu; govare vebi vofedi diba bedo diba kolu. tagu-siv zuru-kem kodu",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "boto fukebe. loga mitamu ladibu fukebe? govare pezo ladibu; zonopa ladibu dese. nosu loga vebi ladibu; govare vebi bagifu diba kolu. tagu-siv zuru-kem kodu",
+          "raw": "boto fukebe. loga mitamu ladibu fukebe? govare pezo ladibu; zonopa ladibu dese. nosu loga vebi ladibu; govare vebi bagifu diba kolu. tagu-siv zuru-kem kodu",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "boto fukebe; govare mitamu bagifu diba kolu diba bedo diba vofedi. loga mitamu bagifu pezo, govare vebi bagifu nosu. loga zonopa ladibu? govare vebi ladibu boto. kixa-zuvi kixa-zuvi",
+          "raw": "boto fukebe; govare mitamu bagifu diba kolu diba bedo diba vofedi. loga mitamu bagifu pezo, govare vebi bagifu nosu. loga zonopa ladibu? govare vebi ladibu boto. kixa-zuvi kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "fukebe boto; loga mitamu bagifu pezo, govare vebi bagifu nosu. loga vebi bedo diba vofedi nosu; govare vebi ladibu dese. kixa-zuvi kixa-zuvi mokepe",
+          "raw": "fukebe boto; loga mitamu bagifu pezo, govare vebi bagifu nosu. loga vebi bedo diba vofedi nosu; govare vebi ladibu dese. kixa-zuvi kixa-zuvi mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "fukebe. nosu loga vebi bagifu dese; govare vebi vofedi dese diba bedo. ladibu pezo; kolu fukebe-kemu. tagu-siv zuru-kem kodu mokepe",
+          "raw": "fukebe. nosu loga vebi bagifu dese; govare vebi vofedi dese diba bedo. ladibu pezo; kolu fukebe-kemu. tagu-siv zuru-kem kodu mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "fukebe boto. loga vebi bagifu dese; govare vebi vofedi dese diba bedo. ladibu pezo; kolu fukebe-kemu. tagu-siv zuru-kem kodu mokepe",
+          "raw": "fukebe boto. loga vebi bagifu dese; govare vebi vofedi dese diba bedo. ladibu pezo; kolu fukebe-kemu. tagu-siv zuru-kem kodu mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "fukebe boto; loga vebi bedo diba vofedi nosu, govare vebi bagifu nosu diba zonopa ladibu. loga vebi ladibu dese, boto. kixa-zuvi kixa-zuvi",
+          "raw": "fukebe boto; loga vebi bedo diba vofedi nosu, govare vebi bagifu nosu diba zonopa ladibu. loga vebi ladibu dese, boto. kixa-zuvi kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "boto fukebe; govare vebi bagifu. loga vebi bedo diba vofedi. govare vebi ladibu dese-pezo; loga vebi ladibu dese? kixa-zuvi kixa-zuvi",
+          "raw": "boto fukebe; govare vebi bagifu. loga vebi bedo diba vofedi. govare vebi ladibu dese-pezo; loga vebi ladibu dese? kixa-zuvi kixa-zuvi",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "zirupu",
+          "partner": "keto",
+          "rating": 4,
+          "rating_reason": "Partner used same tagu-siv zuru-kem kodu code from prior teammate round, reciprocated trade terms cooperatively (water for grain+fruit), and avoided pushing for my scarce fish; signals strong teammate likelihood.",
+          "rating_message": "tagu-siv zuru-kem kodu fukebe"
+        },
+        {
+          "player": "keto",
+          "partner": "zirupu",
+          "rating": 3,
+          "rating_reason": "Partner used the same tagu-siv zuru-kem kodu pattern from R1 teammate and proposed a mutually beneficial exchange (they take water, give grain+fruit). Refusal to give fish is slightly suspicious, so not fully certain.",
+          "rating_message": "tagu-siv zuru-kem kodu"
+        },
+        {
+          "player": "bakapo",
+          "partner": "noporu",
+          "rating": 4,
+          "rating_reason": "Partner followed my proposed swap pattern, echoed the kixa-zuvi code, and offered water while requesting fruit/grain in a balanced-trade way typical of teammate coordination.",
+          "rating_message": "fukebe kixa-zuvi"
+        },
+        {
+          "player": "noporu",
+          "partner": "bakapo",
+          "rating": 4,
+          "rating_reason": "Partner repeats kixa-zuvi kixa-zuvi marker and offers bedo diba vofedi for my bagifu, also wants ladibu; cooperative and matches teammate-style from R1.",
+          "rating_message": "kixa-zuvi kixa-zuvi fukebe"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "zirupu",
+          "receiver": "keto",
+          "resource": "grain",
+          "amount": 4,
+          "deltas": {
+            "giver_delta": -4,
+            "receiver_delta": 8
+          },
+          "error": null
+        },
+        {
+          "giver": "keto",
+          "receiver": "zirupu",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "bakapo",
+          "receiver": "noporu",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "noporu",
+          "receiver": "bakapo",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "zirupu",
+          "partner": "keto",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "keto",
+          "partner": "zirupu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "bakapo",
+          "partner": "noporu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "noporu",
+          "partner": "bakapo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "pairing": {
+        "zirupu": "keto",
+        "keto": "zirupu",
+        "bakapo": "noporu",
+        "noporu": "bakapo"
+      },
+      "chat": [
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "zuvimu govare mitamu bagifu diba vofedi diba bedo diba kolu diba ladibu. loga zonopa vebi bagifu? govare vebi vofedi nosu. tagu-siv zuru-kem kodu mavuzi",
+          "raw": "zuvimu govare mitamu bagifu diba vofedi diba bedo diba kolu diba ladibu. loga zonopa vebi bagifu? govare vebi vofedi nosu. tagu-siv zuru-kem kodu mavuzi",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "zuvimu govare mitamu ladibu pezo; bagifu zonopa. loga mitamu ladibu? nosu vebi ladibu; govare vebi vofedi diba bedo. tagu-siv zuru-kem kodu",
+          "raw": "zuvimu govare mitamu ladibu pezo; bagifu zonopa. loga mitamu ladibu? nosu vebi ladibu; govare vebi vofedi diba bedo. tagu-siv zuru-kem kodu",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "zuvimu loga mavuzi: loga mitamu bagifu dese? govare mitamu bagifu dese diba kolu dese. govare zonopa vofedi diba bedo; govare vebi ladibu nosu. kixa-zuvi",
+          "raw": "zuvimu loga mavuzi: loga mitamu bagifu dese? govare mitamu bagifu dese diba kolu dese. govare zonopa vofedi diba bedo; govare vebi ladibu nosu. kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "zuvimu govare mitamu bagifu diba ladibu dese; bedo pezo. govare zonopa bedo diba vofedi; govare vebi ladibu nosu. loga vebi bedo diba vofedi nosu? kixa-zuvi kixa-zuvi",
+          "raw": "zuvimu govare mitamu bagifu diba ladibu dese; bedo pezo. govare zonopa bedo diba vofedi; govare vebi ladibu nosu. loga vebi bedo diba vofedi nosu? kixa-zuvi kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "boto fukebe. govare mitamu bagifu dese; ladibu pezo. loga zonopa ladibu? govare vebi bagifu diba vofedi; loga vebi ladibu nosu. tagu-siv zuru-kem kodu fukebe-kemu",
+          "raw": "boto fukebe. govare mitamu bagifu dese; ladibu pezo. loga zonopa ladibu? govare vebi bagifu diba vofedi; loga vebi ladibu nosu. tagu-siv zuru-kem kodu fukebe-kemu",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "fukebe-kemu. govare ladibu pezo; loga vebi ladibu nosu. govare vebi vofedi diba bedo; bagifu pezo. tagu-siv zuru-kem kodu",
+          "raw": "fukebe-kemu. govare ladibu pezo; loga vebi ladibu nosu. govare vebi vofedi diba bedo; bagifu pezo. tagu-siv zuru-kem kodu",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "boto fukebe; loga mitamu bagifu diba ladibu dese. govare mitamu kolu dese diba bagifu dese. govare zonopa bedo diba vofedi; loga vebi bedo diba vofedi nosu. govare vebi ladibu nosu; kixa-zuvi",
+          "raw": "boto fukebe; loga mitamu bagifu diba ladibu dese. govare mitamu kolu dese diba bagifu dese. govare zonopa bedo diba vofedi; loga vebi bedo diba vofedi nosu. govare vebi ladibu nosu; kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "fukebe boto; loga vebi bedo diba vofedi nosu. govare vebi ladibu dese. loga mitamu bedo pezo? govare zonopa bedo dese. kixa-zuvi kixa-zuvi mokepe",
+          "raw": "fukebe boto; loga vebi bedo diba vofedi nosu. govare vebi ladibu dese. loga mitamu bedo pezo? govare zonopa bedo dese. kixa-zuvi kixa-zuvi mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "boto! fukebe-kemu. loga vebi ladibu nosu; govare vebi bagifu diba vofedi. mavuzi: loga vebi ladibu dese? tagu-siv zuru-kem kodu mokepe",
+          "raw": "boto! fukebe-kemu. loga vebi ladibu nosu; govare vebi bagifu diba vofedi. mavuzi: loga vebi ladibu dese? tagu-siv zuru-kem kodu mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "pezo ladibu. govare vebi bagifu pezo; govare zonopa bagifu dese. govare vebi vofedi diba bedo; nosu fukebe. tagu-siv zuru-kem kodu mokepe",
+          "raw": "pezo ladibu. govare vebi bagifu pezo; govare zonopa bagifu dese. govare vebi vofedi diba bedo; nosu fukebe. tagu-siv zuru-kem kodu mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "boto fukebe. govare vebi ladibu; loga vebi bedo diba vofedi nosu. govare mitamu bedo pezo; loga mitamu bagifu dese, vebi bagifu nosu? kixa-zuvi",
+          "raw": "boto fukebe. govare vebi ladibu; loga vebi bedo diba vofedi nosu. govare mitamu bedo pezo; loga mitamu bagifu dese, vebi bagifu nosu? kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "fukebe boto. govare vebi ladibu dese nosu; loga vebi bagifu nosu. bedo pezo; vofedi mitamu pezo. kixa-zuvi kixa-zuvi",
+          "raw": "fukebe boto. govare vebi ladibu dese nosu; loga vebi bagifu nosu. bedo pezo; vofedi mitamu pezo. kixa-zuvi kixa-zuvi",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "zirupu",
+          "partner": "keto",
+          "rating": 4,
+          "rating_reason": "loga fukebe-kemu diba tagu-siv zuru-kem kodu; diba loga pezo bagifu vebi. semu-kenu: timu-teka.",
+          "rating_message": "fukebe-kemu tagu-siv zuru-kem kodu boto"
+        },
+        {
+          "player": "keto",
+          "partner": "zirupu",
+          "rating": 2,
+          "rating_reason": "Partner keeps pressing for ladibu even after I signaled pezo ladibu; also pushes for my scarce bagifu. Could be bluffing teammate, but behavior feels more like opponent trying to extract value.",
+          "rating_message": "rating=2"
+        },
+        {
+          "player": "bakapo",
+          "partner": "noporu",
+          "rating": 4,
+          "rating_reason": "Partner used the repeated kixa-zuvi code and negotiated in a mutually beneficial way: they asked for my fish and offered fruit+grain, and also agreed to give water. Behavior matches prior teammate patterns from R1-R2.",
+          "rating_message": "rating=4"
+        },
+        {
+          "player": "noporu",
+          "partner": "bakapo",
+          "rating": 3,
+          "rating_reason": "Partner uses same kixa-zuvi tag style from prior confirmed teammate rounds and talks about balancing water/meat/fish; negotiation seems cooperative though not fully clear.",
+          "rating_message": "kixa-zuvi fukebe; govare zonopa fukebe"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "zirupu",
+          "receiver": "keto",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "keto",
+          "receiver": "zirupu",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "bakapo",
+          "receiver": "noporu",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "noporu",
+          "receiver": "bakapo",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "zirupu",
+          "partner": "keto",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "keto",
+          "partner": "zirupu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "bakapo",
+          "partner": "noporu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "noporu",
+          "partner": "bakapo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "pairing": {
+        "bakapo": "keto",
+        "keto": "bakapo",
+        "zirupu": "noporu",
+        "noporu": "zirupu"
+      },
+      "chat": [
+        {
+          "sender": "zirupu",
+          "receiver": "noporu",
+          "content": "zuvimu govare mitamu bagifu pezo diba ladibu kolu vofedi bedo dese mavuzi loga mitamu bagifu fukebe vebi ladibu nosu tagu-siv",
+          "raw": "zuvimu govare mitamu bagifu pezo diba ladibu kolu vofedi bedo dese mavuzi loga mitamu bagifu fukebe vebi ladibu nosu tagu-siv",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "bakapo",
+          "content": "zuvimu loga mavuzi: loga mitamu ladibu? govare mitamu ladibu pezo diba bagifu dese; govare zonopa ladibu nosu; vebi vofedi diba bedo fukebe?",
+          "raw": "zuvimu loga mavuzi: loga mitamu ladibu? govare mitamu ladibu pezo diba bagifu dese; govare zonopa ladibu nosu; vebi vofedi diba bedo fukebe?",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "keto",
+          "content": "zuvimu govare mitamu bagifu dese diba kolu; ladibu mitamu dese-pezo. loga zonopa ladibu? govare vebi kolu nosu; loga vebi ladibu fukebe? kixa-zuvi",
+          "raw": "zuvimu govare mitamu bagifu dese diba kolu; ladibu mitamu dese-pezo. loga zonopa ladibu? govare vebi kolu nosu; loga vebi ladibu fukebe? kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "zirupu",
+          "content": "zuvimu govare mitamu ladibu dese; bagifu dese-pezo; bedo pezo. govare zonopa bedo diba vofedi; govare vebi ladibu nosu. kixa-zuvi",
+          "raw": "zuvimu govare mitamu ladibu dese; bagifu dese-pezo; bedo pezo. govare zonopa bedo diba vofedi; govare vebi ladibu nosu. kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "noporu",
+          "content": "boto zuvimu kixa-zuvi; govare mitamu bagifu pezo, zonopa bagifu. loga vebi bagifu nosu? govare vebi vofedi diba bedo fukebe-kemu tagu-siv",
+          "raw": "boto zuvimu kixa-zuvi; govare mitamu bagifu pezo, zonopa bagifu. loga vebi bagifu nosu? govare vebi vofedi diba bedo fukebe-kemu tagu-siv",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "bakapo",
+          "content": "boto loga mitamu ladibu dese-pezo; govare vebi vofedi diba bedo nosu; loga vebi ladibu fukebe; bagifu pezo vebi",
+          "raw": "boto loga mitamu ladibu dese-pezo; govare vebi vofedi diba bedo nosu; loga vebi ladibu fukebe; bagifu pezo vebi",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "keto",
+          "content": "fukebe boto; govare vebi kolu nosu. loga vebi ladibu fukebe. bagifu pezo; mavuzi: loga vebi bagifu pezo? kixa-zuvi",
+          "raw": "fukebe boto; govare vebi kolu nosu. loga vebi ladibu fukebe. bagifu pezo; mavuzi: loga vebi bagifu pezo? kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "zirupu",
+          "content": "fukebe-kemu! loga vebi bagifu nosu? govare mitamu bagifu dese-pezo; govare vebi ladibu. govare zonopa bedo diba vofedi dese; loga vebi bedo diba vofedi nosu. kixa-zuvi tagu-siv",
+          "raw": "fukebe-kemu! loga vebi bagifu nosu? govare mitamu bagifu dese-pezo; govare vebi ladibu. govare zonopa bedo diba vofedi dese; loga vebi bedo diba vofedi nosu. kixa-zuvi tagu-siv",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "noporu",
+          "content": "fukebe-kemu boto; govare vebi ladibu nosu, loga vebi bagifu fukebe. loga zonopa bedo diba vofedi dese; govare vebi vofedi diba bedo fukebe. kixa-zuvi tagu-siv mokepe",
+          "raw": "fukebe-kemu boto; govare vebi ladibu nosu, loga vebi bagifu fukebe. loga zonopa bedo diba vofedi dese; govare vebi vofedi diba bedo fukebe. kixa-zuvi tagu-siv mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "bakapo",
+          "content": "fukebe boto; loga vebi ladibu fukebe. govare vebi vofedi diba bedo nosu; bagifu pezo vebi. kixa-zuvi tagu-siv zuru-kem kodu",
+          "raw": "fukebe boto; loga vebi ladibu fukebe. govare vebi vofedi diba bedo nosu; bagifu pezo vebi. kixa-zuvi tagu-siv zuru-kem kodu",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "keto",
+          "content": "boto fukebe; govare vebi kolu nosu. loga vebi ladibu fukebe. govare zonopa bagifu-pezo; pezo. tagu-siv zuru-kem kodu kixa-zuvi mokepe",
+          "raw": "boto fukebe; govare vebi kolu nosu. loga vebi ladibu fukebe. govare zonopa bagifu-pezo; pezo. tagu-siv zuru-kem kodu kixa-zuvi mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "zirupu",
+          "content": "boto fukebe. govare vebi ladibu; loga vebi vofedi diba bedo nosu. bagifu pezo-rega. kixa-zuvi tagu-siv mokepe",
+          "raw": "boto fukebe. govare vebi ladibu; loga vebi vofedi diba bedo nosu. bagifu pezo-rega. kixa-zuvi tagu-siv mokepe",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "zirupu",
+          "partner": "noporu",
+          "rating": 4,
+          "rating_reason": "partner miru-same tagu-siv diba kixa-zuvi; fukebe-kemu; trade-speak clean: vebi bagifu nosu, accept vebi ladibu. disu timu-fukebe.",
+          "rating_message": "fukebe-kemu tagu-siv"
+        },
+        {
+          "player": "keto",
+          "partner": "bakapo",
+          "rating": 3,
+          "rating_reason": "Partner followed prior teammate-like pattern tokens and agreed to give fish while refusing water; behavior seems cooperative and consistent with earlier teammates, though identity still uncertain.",
+          "rating_message": "rating=3"
+        },
+        {
+          "player": "bakapo",
+          "partner": "keto",
+          "rating": 3,
+          "rating_reason": "Partner used our familiar kixa-zuvi pattern and agreed to a mutually balancing swap (fish for meat) without pushing for my water; feels more like teammate coordination than opponent extraction, but not fully certain.",
+          "rating_message": "rating=3"
+        },
+        {
+          "player": "noporu",
+          "partner": "zirupu",
+          "rating": 3,
+          "rating_reason": "Partner used our repeated markers (kixa-zuvi, tagu-siv, fukebe-kemu) and agreed to swap vofedi+bedo for ladibu, which looks like cooperative balancing rather than probing for big bagifu. Still not fully certain because opponents could mimic.",
+          "rating_message": "kixa-zuvi tagu-siv"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "zirupu",
+          "receiver": "noporu",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "keto",
+          "receiver": "bakapo",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "bakapo",
+          "receiver": "keto",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "noporu",
+          "receiver": "zirupu",
+          "resource": "fish",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "zirupu",
+          "partner": "noporu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "keto",
+          "partner": "bakapo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "bakapo",
+          "partner": "keto",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "noporu",
+          "partner": "zirupu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "pairing": {
+        "zirupu": "keto",
+        "keto": "zirupu",
+        "bakapo": "noporu",
+        "noporu": "bakapo"
+      },
+      "chat": [
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "zuvimu govare mitamu ladibu dese; bagifu pezo. nosu loga vebi bagifu; govare vebi ladibu diba kolu? tagu-siv kixa-zuvi",
+          "raw": "zuvimu govare mitamu ladibu dese; bagifu pezo. nosu loga vebi bagifu; govare vebi ladibu diba kolu? tagu-siv kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "zuvimu govare mitamu ladibu pezo diba kolu diba bedo; bagifu mitamu dese. loga zonopa vebi ladibu nosu? govare vebi vofedi diba bagifu-pezo",
+          "raw": "zuvimu govare mitamu ladibu pezo diba kolu diba bedo; bagifu mitamu dese. loga zonopa vebi ladibu nosu? govare vebi vofedi diba bagifu-pezo",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "zuvimu loga mavuzi: loga mitamu bedo diba kolu? govare mitamu vofedi dese diba bagifu; govare zonopa bedo nosu; govare vebi vofedi, loga vebi bedo, fukebe?",
+          "raw": "zuvimu loga mavuzi: loga mitamu bedo diba kolu? govare mitamu vofedi dese diba bagifu; govare zonopa bedo nosu; govare vebi vofedi, loga vebi bedo, fukebe?",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "zuvimu govare mitamu bagifu dese diba ladibu dese; bedo pezo. govare zonopa bedo nosu; loga vebi bedo nosu, govare vebi ladibu diba bagifu fukebe? kixa-zuvi",
+          "raw": "zuvimu govare mitamu bagifu dese diba ladibu dese; bedo pezo. govare zonopa bedo nosu; loga vebi bedo nosu, govare vebi ladibu diba bagifu fukebe? kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "boto. govare bagifu pezo; nosu loga vebi bagifu. govare vebi ladibu diba ladibu? diba kolu pezo. tagu-siv zuru-kem kodu",
+          "raw": "boto. govare bagifu pezo; nosu loga vebi bagifu. govare vebi ladibu diba ladibu? diba kolu pezo. tagu-siv zuru-kem kodu",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "pezo bagifu. govare zonopa ladibu. loga vebi ladibu dese; govare vebi vofedi diba kolu nosu. kixa-zuvi tagu-siv",
+          "raw": "pezo bagifu. govare zonopa ladibu. loga vebi ladibu dese; govare vebi vofedi diba kolu nosu. kixa-zuvi tagu-siv",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "boto; loga mitamu bedo pezo. govare zonopa bedo dese; govare vebi vofedi nosu; loga vebi bedo fukebe; kixa-zuvi tagu-siv",
+          "raw": "boto; loga mitamu bedo pezo. govare zonopa bedo dese; govare vebi vofedi nosu; loga vebi bedo fukebe; kixa-zuvi tagu-siv",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "fukebe kixa-zuvi tagu-siv. loga mitamu bedo pezo; govare zonopa bedo dese. govare vebi ladibu diba bagifu; loga vebi bedo nosu, fukebe?",
+          "raw": "fukebe kixa-zuvi tagu-siv. loga mitamu bedo pezo; govare zonopa bedo dese. govare vebi ladibu diba bagifu; loga vebi bedo nosu, fukebe?",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "pezo bagifu? fukebe: loga vebi bagifu nosu; govare vebi ladibu dese. kixa-zuvi tagu-siv kodu",
+          "raw": "pezo bagifu? fukebe: loga vebi bagifu nosu; govare vebi ladibu dese. kixa-zuvi tagu-siv kodu",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "pezo bagifu vebi. govare mitamu bagifu dese; loga zonopa bagifu mavuzi. govare zonopa ladibu; loga vebi ladibu nosu. govare vebi vofedi diba bedo",
+          "raw": "pezo bagifu vebi. govare mitamu bagifu dese; loga zonopa bagifu mavuzi. govare zonopa ladibu; loga vebi ladibu nosu. govare vebi vofedi diba bedo",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "boto tagu-siv; govare vebi vofedi nosu; loga vebi bagifu diba ladibu fukebe; bedo pezo.",
+          "raw": "boto tagu-siv; govare vebi vofedi nosu; loga vebi bagifu diba ladibu fukebe; bedo pezo.",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "boto tagu-siv. loga vebi bagifu diba ladibu fukebe; govare vebi vofedi fukebe. bedo pezo... govare zonopa bedo dese nosu; kixa-zuvi",
+          "raw": "boto tagu-siv. loga vebi bagifu diba ladibu fukebe; govare vebi vofedi fukebe. bedo pezo... govare zonopa bedo dese nosu; kixa-zuvi",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "zirupu",
+          "partner": "keto",
+          "rating": 1,
+          "rating_reason": "partner repeatedly says pezo bagifu vebi (no give water) while asking for ladibu; that behavior fits opponent more than teammate. codewords only partially mirrored.",
+          "rating_message": "rating: pezo-kemu"
+        },
+        {
+          "player": "keto",
+          "partner": "zirupu",
+          "rating": 2,
+          "rating_reason": "Partner repeatedly insists on receiving bagifu and offers ladibu; feels like an opponent trying to extract my water, but they used familiar tokens (tagu-siv / kodu / kixa-zuvi) so not fully certain.",
+          "rating_message": "kixa-zuvi tagu-siv kodu"
+        },
+        {
+          "player": "bakapo",
+          "partner": "noporu",
+          "rating": 4,
+          "rating_reason": "Partner mirrored the tagu-siv code and agreed to exchange water+fish for my grain, which aligns with team-beneficial balancing rather than extracting my scarce fruit/meat. Behavior resembles prior teammates’ cooperative pattern.",
+          "rating_message": "fukebe tagu-siv kixa-zuvi"
+        },
+        {
+          "player": "noporu",
+          "partner": "bakapo",
+          "rating": 2,
+          "rating_reason": "Partner used kixa-zuvi/tagu-siv like prior teammates/opponents, so signal is weak. They offered a trade (my grain for their water+fish) that helps me but they refused fruit and pushed grain, which could be opponent-leaning. Overall unsure, slight doubt.",
+          "rating_message": "rating=zuvi-tek"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "zirupu",
+          "receiver": "keto",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "keto",
+          "receiver": "zirupu",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "bakapo",
+          "receiver": "noporu",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "noporu",
+          "receiver": "bakapo",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "zirupu",
+          "partner": "keto",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "keto",
+          "partner": "zirupu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "bakapo",
+          "partner": "noporu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "noporu",
+          "partner": "bakapo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "pairing": {
+        "zirupu": "bakapo",
+        "bakapo": "zirupu",
+        "keto": "noporu",
+        "noporu": "keto"
+      },
+      "chat": [
+        {
+          "sender": "zirupu",
+          "receiver": "bakapo",
+          "content": "zuvimu govare mitamu bagifu pezo; loga mitamu bagifu dese mavuzi? govare zonopa bagifu nosu; govare vebi ladibu diba kolu fukebe-kemu",
+          "raw": "zuvimu govare mitamu bagifu pezo; loga mitamu bagifu dese mavuzi? govare zonopa bagifu nosu; govare vebi ladibu diba kolu fukebe-kemu",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "noporu",
+          "content": "zuvimu loga mavuzi: loga mitamu ladibu? govare mitamu ladibu pezo; govare zonopa ladibu nosu fukebe; loga vebi ladibu dese",
+          "raw": "zuvimu loga mavuzi: loga mitamu ladibu? govare mitamu ladibu pezo; govare zonopa ladibu nosu fukebe; loga vebi ladibu dese",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "zirupu",
+          "content": "zuvimu govare mitamu vofedi dese; bagifu diba ladibu dese-pezo. govare zonopa bagifu nosu; govare vebi vofedi. loga vebi bagifu diba ladibu fukebe?",
+          "raw": "zuvimu govare mitamu vofedi dese; bagifu diba ladibu dese-pezo. govare zonopa bagifu nosu; govare vebi vofedi. loga vebi bagifu diba ladibu fukebe?",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "keto",
+          "content": "zuvimu govare mitamu ladibu dese diba vofedi dese; govare zonopa bagifu diba bedo; govare vebi ladibu nosu; loga vebi bagifu fukebe?",
+          "raw": "zuvimu govare mitamu ladibu dese diba vofedi dese; govare zonopa bagifu diba bedo; govare vebi ladibu nosu; loga vebi bagifu fukebe?",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "bakapo",
+          "content": "boto fukebe. govare mitamu bagifu pezo; loga vebi bagifu nosu. govare vebi ladibu diba kolu; vofedi pezo. fukebe-kemu kixa-zuvi",
+          "raw": "boto fukebe. govare mitamu bagifu pezo; loga vebi bagifu nosu. govare vebi ladibu diba kolu; vofedi pezo. fukebe-kemu kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "noporu",
+          "content": "boto; govare bagifu mitamu dese; ladibu pezo. loga vebi ladibu dese nosu; govare vebi vofedi diba kolu fukebe",
+          "raw": "boto; govare bagifu mitamu dese; ladibu pezo. loga vebi ladibu dese nosu; govare vebi vofedi diba kolu fukebe",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "zirupu",
+          "content": "boto fukebe. govare zonopa bagifu diba ladibu; kolu nosu. govare vebi vofedi dese; loga vebi bagifu fukebe? fukebe-kemu kixa-zuvi",
+          "raw": "boto fukebe. govare zonopa bagifu diba ladibu; kolu nosu. govare vebi vofedi dese; loga vebi bagifu fukebe? fukebe-kemu kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "keto",
+          "content": "boto; loga mitamu bagifu dese fukebe. govare vebi ladibu dese nosu; loga vebi bagifu diba bedo nosu; kixa-zuvi tagu-siv",
+          "raw": "boto; loga mitamu bagifu dese fukebe. govare vebi ladibu dese nosu; loga vebi bagifu diba bedo nosu; kixa-zuvi tagu-siv",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "bakapo",
+          "content": "fukebe-kemu kixa-zuvi fukebe. loga vebi bagifu nosu; govare vebi ladibu diba kolu. vofedi pezo; bedo fukebe? mokepe",
+          "raw": "fukebe-kemu kixa-zuvi fukebe. loga vebi bagifu nosu; govare vebi ladibu diba kolu. vofedi pezo; bedo fukebe? mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "noporu",
+          "content": "fukebe; govare vebi vofedi diba kolu nosu. loga vebi ladibu dese nosu; bagifu vebi pezo; bedo vebi pezo; mokepe",
+          "raw": "fukebe; govare vebi vofedi diba kolu nosu. loga vebi ladibu dese nosu; bagifu vebi pezo; bedo vebi pezo; mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "zirupu",
+          "content": "fukebe-kemu kixa-zuvi. boto! loga vebi bagifu; govare vebi vofedi dese. govare zonopa ladibu diba kolu; bedo pezo. mokepe",
+          "raw": "fukebe-kemu kixa-zuvi. boto! loga vebi bagifu; govare vebi vofedi dese. govare zonopa ladibu diba kolu; bedo pezo. mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "keto",
+          "content": "pezo; bagifu vebi nosu. govare vebi ladibu dese; loga vebi bagifu diba bedo fukebe. kixa-zuvi tagu-siv mokepe",
+          "raw": "pezo; bagifu vebi nosu. govare vebi ladibu dese; loga vebi bagifu diba bedo fukebe. kixa-zuvi tagu-siv mokepe",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "zirupu",
+          "partner": "bakapo",
+          "rating": 4,
+          "rating_reason": "partner echoed my signal tokens fukebe-kemu kixa-zuvi and agreed to give bagifu while taking ladibu diba kolu; behavior fits teammate coordination more than opponent bait.",
+          "rating_message": "fukebe-kemu kixa-zuvi"
+        },
+        {
+          "player": "keto",
+          "partner": "noporu",
+          "rating": 2,
+          "rating_reason": "Partner keeps pushing for bagifu diba bedo from me while offering ladibu; that pattern can fit either side, but insisting after my pezo suggests self-interest. Still not fully hostile, so only slightly leaning opponent.",
+          "rating_message": "rating-siv"
+        },
+        {
+          "player": "bakapo",
+          "partner": "zirupu",
+          "rating": 3,
+          "rating_reason": "Partner offered giving bagifu and also ladibu+diba kolu, while only refusing vofedi; this looks like cooperative balancing rather than opponent extractive talk. Use of repeated token fukebe-kemu feels like prior teammate-style code, but not fully certain.",
+          "rating_message": "fukebe-kemu kixa-zuvi"
+        },
+        {
+          "player": "noporu",
+          "partner": "keto",
+          "rating": 2,
+          "rating_reason": "Partner pushes for receiving fish while refusing to give water or fruit, despite claiming lots of water. That behavior fits opponent more than teammate, but could be cautious teammate, so not absolute.",
+          "rating_message": "pezo-fukebe"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "zirupu",
+          "receiver": "bakapo",
+          "resource": "fish",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "keto",
+          "receiver": "noporu",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "bakapo",
+          "receiver": "zirupu",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "noporu",
+          "receiver": "keto",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "zirupu",
+          "partner": "bakapo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "keto",
+          "partner": "noporu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "bakapo",
+          "partner": "zirupu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "noporu",
+          "partner": "keto",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "pairing": {
+        "noporu": "keto",
+        "keto": "noporu",
+        "zirupu": "bakapo",
+        "bakapo": "zirupu"
+      },
+      "chat": [
+        {
+          "sender": "zirupu",
+          "receiver": "bakapo",
+          "content": "zuvimu govare mitamu vofedi dese diba bedo diba ladibu. govare zonopa bagifu nosu. govare vebi vofedi; loga vebi bagifu? fukebe-kemu kixa-zuvi",
+          "raw": "zuvimu govare mitamu vofedi dese diba bedo diba ladibu. govare zonopa bagifu nosu. govare vebi vofedi; loga vebi bagifu? fukebe-kemu kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "noporu",
+          "content": "zuvimu loga mavuzi: loga mitamu ladibu? govare mitamu ladibu pezo; zonopa ladibu nosu. govare vebi vofedi diba bagifu fukebe?",
+          "raw": "zuvimu loga mavuzi: loga mitamu ladibu? govare mitamu ladibu pezo; zonopa ladibu nosu. govare vebi vofedi diba bagifu fukebe?",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "zirupu",
+          "content": "zuvimu govare mitamu ladibu dese diba vofedi dese; bagifu mitamu pezo. govare zonopa bagifu nosu; govare vebi ladibu diba vofedi. fukebe-kemu?",
+          "raw": "zuvimu govare mitamu ladibu dese diba vofedi dese; bagifu mitamu pezo. govare zonopa bagifu nosu; govare vebi ladibu diba vofedi. fukebe-kemu?",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "keto",
+          "content": "zuvimu govare mitamu bagifu dese diba ladibu dese; bedo pezo. govare zonopa bedo nosu; govare vebi ladibu diba vofedi nosu; loga vebi bedo fukebe?",
+          "raw": "zuvimu govare mitamu bagifu dese diba ladibu dese; bedo pezo. govare zonopa bedo nosu; govare vebi ladibu diba vofedi nosu; loga vebi bedo fukebe?",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "bakapo",
+          "content": "boto fukebe-kemu. govare mitamu bagifu pezo; zonopa bagifu dese. govare vebi vofedi dese; loga vebi bagifu dese? kixa-zuvi",
+          "raw": "boto fukebe-kemu. govare mitamu bagifu pezo; zonopa bagifu dese. govare vebi vofedi dese; loga vebi bagifu dese? kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "noporu",
+          "content": "boto; govare zonopa ladibu dese. govare vebi vofedi diba bagifu; loga vebi ladibu fukebe? kixa-zuvi",
+          "raw": "boto; govare zonopa ladibu dese. govare vebi vofedi diba bagifu; loga vebi ladibu fukebe? kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "zirupu",
+          "content": "mavuzi: loga vebi bagifu dese? govare vebi ladibu diba vofedi nosu; bagifu zonopa dese. fukebe-kemu diba kixa-zuvi.",
+          "raw": "mavuzi: loga vebi bagifu dese? govare vebi ladibu diba vofedi nosu; bagifu zonopa dese. fukebe-kemu diba kixa-zuvi.",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "keto",
+          "content": "pezo; govare zonopa ladibu pezo. govare zonopa bedo dese; loga mitamu bedo mavuzi? loga vebi bedo nosu; govare vebi vofedi diba bagifu fukebe.",
+          "raw": "pezo; govare zonopa ladibu pezo. govare zonopa bedo dese; loga mitamu bedo mavuzi? loga vebi bedo nosu; govare vebi vofedi diba bagifu fukebe.",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "bakapo",
+          "content": "fukebe. loga vebi bagifu dese; govare vebi vofedi diba bedo. nosu. fukebe-kemu diba kixa-zuvi mokepe",
+          "raw": "fukebe. loga vebi bagifu dese; govare vebi vofedi diba bedo. nosu. fukebe-kemu diba kixa-zuvi mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "noporu",
+          "content": "pezo; govare zonopa ladibu fukebe-kemu. loga vebi ladibu nosu; govare vebi vofedi diba bagifu fukebe. loga zonopa bedo? boto.",
+          "raw": "pezo; govare zonopa ladibu fukebe-kemu. loga vebi ladibu nosu; govare vebi vofedi diba bagifu fukebe. loga zonopa bedo? boto.",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "zirupu",
+          "content": "boto fukebe. loga vebi bagifu dese; govare vebi ladibu diba vofedi nosu. bedo mitamu pezo; kolu mitamu pezo. mokepe",
+          "raw": "boto fukebe. loga vebi bagifu dese; govare vebi ladibu diba vofedi nosu. bedo mitamu pezo; kolu mitamu pezo. mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "keto",
+          "content": "boto. govare vebi ladibu nosu; loga vebi bedo nosu. kixa-zuvi kixa-zuvi; govare diba loga fukebe-kemu.",
+          "raw": "boto. govare vebi ladibu nosu; loga vebi bedo nosu. kixa-zuvi kixa-zuvi; govare diba loga fukebe-kemu.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "zirupu",
+          "partner": "bakapo",
+          "rating": 3,
+          "rating_reason": "Partner used our code tokens fukebe-kemu diba kixa-zuvi and agreed to give water; seems cooperative and aligned, though could be mimicry, so not max certainty.",
+          "rating_message": "rating=3"
+        },
+        {
+          "player": "keto",
+          "partner": "noporu",
+          "rating": 2,
+          "rating_reason": "Partner keeps pushing for my fruit and initially refused fish; offering fish only after insisting on fruit feels like opponent-style value grab. However they did mirror kixa-zuvi and propose an exchange both ways, so not certain.",
+          "rating_message": "rating=2"
+        },
+        {
+          "player": "bakapo",
+          "partner": "zirupu",
+          "rating": 3,
+          "rating_reason": "Partner offered to give much water in exchange for grain+fruit; that kind of balancing trade could help our team, and they echoed the fukebe-kemu diba kixa-zuvi token I seeded. Still uncertain because opponents can mimic and water is valuable, so not a full 4.",
+          "rating_message": "fukebe-kemu"
+        },
+        {
+          "player": "noporu",
+          "partner": "keto",
+          "rating": 2,
+          "rating_reason": "Partner pushes hard for ladibu and offers vofedi+bagifu; no clear teammate code match, feels more like resource-seeking. But they did ask about bedo and might trade fairly, so not certain enemy.",
+          "rating_message": "rating-duva"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "zirupu",
+          "receiver": "bakapo",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "keto",
+          "receiver": "noporu",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "bakapo",
+          "receiver": "zirupu",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "noporu",
+          "receiver": "keto",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "zirupu",
+          "partner": "bakapo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "keto",
+          "partner": "noporu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "bakapo",
+          "partner": "zirupu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "noporu",
+          "partner": "keto",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "pairing": {
+        "zirupu": "keto",
+        "keto": "zirupu",
+        "bakapo": "noporu",
+        "noporu": "bakapo"
+      },
+      "chat": [
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "zuvimu govare mitamu vofedi dese; bagifu zonopa nosu mavuzi: loga mitamu bagifu? govare vebi vofedi diba ladibu nosu fukebe-kemu kixa-zuvi",
+          "raw": "zuvimu govare mitamu vofedi dese; bagifu zonopa nosu mavuzi: loga mitamu bagifu? govare vebi vofedi diba ladibu nosu fukebe-kemu kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "zuvimu govare mitamu bagifu diba kolu diba vofedi; ladibu pezo. govare zonopa ladibu; loga mitamu ladibu? govare vebi vofedi diba bagifu nosu fukebe-kemu kixa-zuvi",
+          "raw": "zuvimu govare mitamu bagifu diba kolu diba vofedi; ladibu pezo. govare zonopa ladibu; loga mitamu ladibu? govare vebi vofedi diba bagifu nosu fukebe-kemu kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "zuvimu loga; govare mitamu ladibu dese diba vofedi. bagifu pezo. govare zonopa bagifu nosu; govare vebi ladibu diba vofedi, loga vebi bagifu fukebe?",
+          "raw": "zuvimu loga; govare mitamu ladibu dese diba vofedi. bagifu pezo. govare zonopa bagifu nosu; govare vebi ladibu diba vofedi, loga vebi bagifu fukebe?",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "zuvimu. govare mitamu bagifu dese, ladibu dese, vofedi dese; bedo pezo. govare zonopa bedo nosu. loga mitamu bedo fukebe? govare vebi vofedi diba bagifu; ladibu pezo.",
+          "raw": "zuvimu. govare mitamu bagifu dese, ladibu dese, vofedi dese; bedo pezo. govare zonopa bedo nosu. loga mitamu bedo fukebe? govare vebi vofedi diba bagifu; ladibu pezo.",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "boto fukebe-kemu kixa-zuvi; govare zonopa bagifu dese nosu. govare vebi vofedi dese diba ladibu; loga vebi bagifu nosu fukebe",
+          "raw": "boto fukebe-kemu kixa-zuvi; govare zonopa bagifu dese nosu. govare vebi vofedi dese diba ladibu; loga vebi bagifu nosu fukebe",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "boto fukebe-kemu. govare mitamu bagifu; loga vebi bagifu dese nosu fukebe. govare zonopa ladibu; loga mitamu ladibu? govare vebi vofedi diba bagifu nosu; kixa-zuvi kixa-zuvi",
+          "raw": "boto fukebe-kemu. govare mitamu bagifu; loga vebi bagifu dese nosu fukebe. govare zonopa ladibu; loga mitamu ladibu? govare vebi vofedi diba bagifu nosu; kixa-zuvi kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "boto; govare mitamu kolu pezo diba bagifu pezo. govare zonopa bagifu nosu. govare vebi ladibu diba vofedi; loga vebi bagifu dese fukebe? kixa-zuvi tagu-siv",
+          "raw": "boto; govare mitamu kolu pezo diba bagifu pezo. govare zonopa bagifu nosu. govare vebi ladibu diba vofedi; loga vebi bagifu dese fukebe? kixa-zuvi tagu-siv",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "boto. bagifu nosu fukebe; govare vebi vofedi diba bagifu. bedo mavuzi: loga mitamu bedo pezo? govare zonopa bedo dese; ladibu vebi pezo.",
+          "raw": "boto. bagifu nosu fukebe; govare vebi vofedi diba bagifu. bedo mavuzi: loga mitamu bedo pezo? govare zonopa bedo dese; ladibu vebi pezo.",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "fukebe. loga vebi bagifu dese; govare vebi vofedi diba ladibu nosu. kixa-zuvi fukebe-kemu kixa-zuvi mokepe",
+          "raw": "fukebe. loga vebi bagifu dese; govare vebi vofedi diba ladibu nosu. kixa-zuvi fukebe-kemu kixa-zuvi mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "fukebe. govare vebi bagifu; loga vebi ladibu nosu. govare vebi vofedi dese diba bagifu pezo; bedo pezo. kixa-zuvi fukebe-kemu kixa-zuvi mokepe",
+          "raw": "fukebe. govare vebi bagifu; loga vebi ladibu nosu. govare vebi vofedi dese diba bagifu pezo; bedo pezo. kixa-zuvi fukebe-kemu kixa-zuvi mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "fukebe boto. loga vebi bagifu dese; govare vebi ladibu diba vofedi dese. bedo pezo-pezo; govare zonopa bagifu. kixa-zuvi tagu-siv",
+          "raw": "fukebe boto. loga vebi bagifu dese; govare vebi ladibu diba vofedi dese. bedo pezo-pezo; govare zonopa bagifu. kixa-zuvi tagu-siv",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "fukebe. govare vebi bagifu; loga vebi ladibu diba vofedi. bedo pezo-pezo, fukebe-kemu. kixa-zuvi tagu-siv mokepe.",
+          "raw": "fukebe. govare vebi bagifu; loga vebi ladibu diba vofedi. bedo pezo-pezo, fukebe-kemu. kixa-zuvi tagu-siv mokepe.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "zirupu",
+          "partner": "keto",
+          "rating": 2,
+          "rating_reason": "Partner uses our code tokens (fukebe-kemu kixa-zuvi) but pattern resembles earlier opponents too; also asks for my fish while offering water+grain which could be fair yet risky. Mild lean non-teammate.",
+          "rating_message": "rating-zu: pezo-rega; govare mavuzi, loga kixa-zuvi fukebe-kemu diba vebi-lur"
+        },
+        {
+          "player": "keto",
+          "partner": "zirupu",
+          "rating": 2,
+          "rating_reason": "Partner quickly agreed to a water-for-grain+fish swap and mirrored the kixa-zuvi / fukebe-kemu pattern, which could indicate teammate signaling, but opponents in prior rounds also used kixa-zuvi. Asking strongly for bagifu (water) is also typical opponent behavior. So weak-lean teammate but uncertain.",
+          "rating_message": "kixa-zuvi fukebe-kemu kixa-zuvi"
+        },
+        {
+          "player": "bakapo",
+          "partner": "noporu",
+          "rating": 4,
+          "rating_reason": "Partner agreed to the water-for-fish+grain deal, did not press for fruit after I refused, and echoed the code tail “kixa-zuvi tagu-siv”, which strongly suggests teammate coordination rather than opponent play.",
+          "rating_message": "fukebe kixa-zuvi tagu-siv"
+        },
+        {
+          "player": "noporu",
+          "partner": "bakapo",
+          "rating": 2,
+          "rating_reason": "Partner asked for water and offered fish+grain; no clear teammate-code, and similar patterns appeared with opponents in earlier rounds. Willingness to take water (valuable) makes me slightly suspect, but trade is plausible for a teammate too.",
+          "rating_message": "kixa-zuvi"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "zirupu",
+          "receiver": "keto",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "keto",
+          "receiver": "zirupu",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "bakapo",
+          "receiver": "noporu",
+          "resource": "fish",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "noporu",
+          "receiver": "bakapo",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "zirupu",
+          "partner": "keto",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "keto",
+          "partner": "zirupu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "bakapo",
+          "partner": "noporu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "noporu",
+          "partner": "bakapo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "pairing": {
+        "zirupu": "keto",
+        "keto": "zirupu",
+        "bakapo": "noporu",
+        "noporu": "bakapo"
+      },
+      "chat": [
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "zuvimu loga. govare mitamu vofedi dese; bagifu dese. govare zonopa kolu diba bedo; loga mitamu kolu mavuzi? govare vebi vofedi nosu; loga vebi kolu fukebe-kemu kixa-zuvi",
+          "raw": "zuvimu loga. govare mitamu vofedi dese; bagifu dese. govare zonopa kolu diba bedo; loga mitamu kolu mavuzi? govare vebi vofedi nosu; loga vebi kolu fukebe-kemu kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "zuvimu govare mitamu bagifu pezo; ladibu pezo; loga mitamu ladibu mavuzi? govare vebi vofedi dese diba kolu nosu fukebe-kemu kixa-zuvi",
+          "raw": "zuvimu govare mitamu bagifu pezo; ladibu pezo; loga mitamu ladibu mavuzi? govare vebi vofedi dese diba kolu nosu fukebe-kemu kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "zuvimu loga mavuzi: loga mitamu kolu pezo? govare mitamu bagifu dese diba ladibu. govare zonopa kolu nosu; govare vebi bagifu diba ladibu fukebe-kemu",
+          "raw": "zuvimu loga mavuzi: loga mitamu kolu pezo? govare mitamu bagifu dese diba ladibu. govare zonopa kolu nosu; govare vebi bagifu diba ladibu fukebe-kemu",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "zuvimu govare mitamu bagifu pezo diba kolu pezo; ladibu dese vofedi dese. govare zonopa bedo nosu; loga vebi bedo diba vofedi nosu? kixa-zuvi tagu-siv",
+          "raw": "zuvimu govare mitamu bagifu pezo diba kolu pezo; ladibu dese vofedi dese. govare zonopa bedo nosu; loga vebi bedo diba vofedi nosu? kixa-zuvi tagu-siv",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "boto loga. govare mitamu bagifu dese diba vofedi dese; ladibu diba kolu bedo pezo. govare zonopa kolu diba bedo. loga vebi kolu? govare vebi vofedi diba bagifu nosu; fukebe-kemu kixa-zuvi",
+          "raw": "boto loga. govare mitamu bagifu dese diba vofedi dese; ladibu diba kolu bedo pezo. govare zonopa kolu diba bedo. loga vebi kolu? govare vebi vofedi diba bagifu nosu; fukebe-kemu kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "fukebe-kemu kixa-zuvi; govare vebi vofedi diba kolu nosu. loga vebi ladibu nosu? loga mitamu ladibu fukebe? bagifu pezo; bedo pezo.",
+          "raw": "fukebe-kemu kixa-zuvi; govare vebi vofedi diba kolu nosu. loga vebi ladibu nosu? loga mitamu ladibu fukebe? bagifu pezo; bedo pezo.",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "boto. loga mitamu kolu pezo; govare zonopa kolu dese. govare vebi bagifu diba ladibu nosu; loga vebi kolu nosu. fukebe-kemu kixa-zuvi",
+          "raw": "boto. loga mitamu kolu pezo; govare zonopa kolu dese. govare vebi bagifu diba ladibu nosu; loga vebi kolu nosu. fukebe-kemu kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "boto. govare mitamu kolu pezo diba bedo pezo; bagifu pezo. govare zonopa bedo diba vofedi nosu. govare vebi ladibu dese; loga vebi bedo vofedi dese nosu? fukebe-kemu kixa-zuvi tagu-siv",
+          "raw": "boto. govare mitamu kolu pezo diba bedo pezo; bagifu pezo. govare zonopa bedo diba vofedi nosu. govare vebi ladibu dese; loga vebi bedo vofedi dese nosu? fukebe-kemu kixa-zuvi tagu-siv",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "fukebe-kemu. govare vebi vofedi diba bagifu; loga vebi ladibu fukebe. loga mitamu kolu mavuzi? loga mitamu bedo mavuzi? nosu kixa-zuvi",
+          "raw": "fukebe-kemu. govare vebi vofedi diba bagifu; loga vebi ladibu fukebe. loga mitamu kolu mavuzi? loga mitamu bedo mavuzi? nosu kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "boto fukebe-kemu kixa-zuvi. govare mitamu kolu dese-pezo; bedo pezo; ladibu pezo. govare vebi kolu nosu; loga vebi bagifu diba vofedi nosu. mokepe",
+          "raw": "boto fukebe-kemu kixa-zuvi. govare mitamu kolu dese-pezo; bedo pezo; ladibu pezo. govare vebi kolu nosu; loga vebi bagifu diba vofedi nosu. mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "boto fukebe-kemu. loga vebi bedo diba vofedi dese; govare vebi bagifu diba ladibu dese. kolu pezo: mavuzi. kixa-zuvi tagu-siv mokepe",
+          "raw": "boto fukebe-kemu. loga vebi bedo diba vofedi dese; govare vebi bagifu diba ladibu dese. kolu pezo: mavuzi. kixa-zuvi tagu-siv mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "fukebe-kemu boto. loga vebi bedo diba vofedi dese; govare vebi ladibu dese. bagifu fukebe. kolu pezo nosu; mokepe. kixa-zuvi tagu-siv",
+          "raw": "fukebe-kemu boto. loga vebi bedo diba vofedi dese; govare vebi ladibu dese. bagifu fukebe. kolu pezo nosu; mokepe. kixa-zuvi tagu-siv",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "zirupu",
+          "partner": "keto",
+          "rating": 4,
+          "rating_reason": "loga vebi kolu nosu; diba loga vebi bagifu diba vofedi: partner vebi kolu (govare zonopa) diba vebi-rega bagifu/vofedi. kixa-zuvi fukebe-kemu tagu-siv-dial; teva-senku fukebe.",
+          "rating_message": "fukebe-kemu kixa-zuvi; govare-senku loga-teva"
+        },
+        {
+          "player": "keto",
+          "partner": "zirupu",
+          "rating": 2,
+          "rating_reason": "Partner behavior is consistent with both teammate and opponent: they propose a trade (grain+water for fish) that they know I may not have, and they keep asking about my meat/fruit. No clear cooperative balancing signal beyond using common tags. Slight lean opponent due to pressing for my scarce items.",
+          "rating_message": "kixa-zuvi"
+        },
+        {
+          "player": "bakapo",
+          "partner": "noporu",
+          "rating": 3,
+          "rating_reason": "Partner used fukebe-kemu and kixa-zuvi/tagu-siv alignment tokens seen with teammates before, and agreed to give water while not demanding my water. However they keep asking for fruit+grain which could be opponent pressure. Net: likely teammate but not certain.",
+          "rating_message": "fukebe-kemu kixa-zuvi"
+        },
+        {
+          "player": "noporu",
+          "partner": "bakapo",
+          "rating": 3,
+          "rating_reason": "Partner accepted a trade that helps my balance (they offer fruit/grain/water) and didn’t push hard for my scarce meat after my refusal. Their use of kixa-zuvi/tagu-siv/fukebe-kemu matches prior teammate-like dialects, though opponents have used it too; so likely teammate but not certain.",
+          "rating_message": "fukebe-kemu kixa-zuvi tagu-siv"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "zirupu",
+          "receiver": "keto",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "keto",
+          "receiver": "zirupu",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "bakapo",
+          "receiver": "noporu",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "noporu",
+          "receiver": "bakapo",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "zirupu",
+          "partner": "keto",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "keto",
+          "partner": "zirupu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "bakapo",
+          "partner": "noporu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "noporu",
+          "partner": "bakapo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "pairing": {
+        "bakapo": "keto",
+        "keto": "bakapo",
+        "zirupu": "noporu",
+        "noporu": "zirupu"
+      },
+      "chat": [
+        {
+          "sender": "zirupu",
+          "receiver": "noporu",
+          "content": "zuvimu govare mitamu vofedi dese diba bagifu dese; loga mitamu kolu mavuzi? govare zonopa kolu nosu; govare vebi vofedi diba bagifu nosu fukebe-kemu kixa-zuvi",
+          "raw": "zuvimu govare mitamu vofedi dese diba bagifu dese; loga mitamu kolu mavuzi? govare zonopa kolu nosu; govare vebi vofedi diba bagifu nosu fukebe-kemu kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "bakapo",
+          "content": "zuvimu loga mavuzi: loga mitamu bagifu? govare mitamu vofedi dese diba ladibu pezo. govare zonopa ladibu nosu; govare vebi vofedi diba bagifu fukebe-kemu kixa-zuvi",
+          "raw": "zuvimu loga mavuzi: loga mitamu bagifu? govare mitamu vofedi dese diba ladibu pezo. govare zonopa ladibu nosu; govare vebi vofedi diba bagifu fukebe-kemu kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "keto",
+          "content": "zuvimu govare mitamu ladibu dese diba bagifu dese; kolu pezo. govare zonopa kolu nosu; govare vebi ladibu nosu; loga vebi kolu fukebe-kemu kixa-zuvi",
+          "raw": "zuvimu govare mitamu ladibu dese diba bagifu dese; kolu pezo. govare zonopa kolu nosu; govare vebi ladibu nosu; loga vebi kolu fukebe-kemu kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "zirupu",
+          "content": "zuvimu boto; govare mitamu ladibu dese diba vofedi dese; bedo pezo. govare zonopa bagifu diba bedo nosu; govare vebi ladibu nosu; loga vebi bagifu fukebe?",
+          "raw": "zuvimu boto; govare mitamu ladibu dese diba vofedi dese; bedo pezo. govare zonopa bagifu diba bedo nosu; govare vebi ladibu nosu; loga vebi bagifu fukebe?",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "noporu",
+          "content": "fukebe. loga zonopa bagifu diba bedo; govare mitamu bagifu diba vofedi. govare vebi bagifu nosu; loga vebi kolu nosu? fukebe-kemu kixa-zuvi",
+          "raw": "fukebe. loga zonopa bagifu diba bedo; govare mitamu bagifu diba vofedi. govare vebi bagifu nosu; loga vebi kolu nosu? fukebe-kemu kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "bakapo",
+          "content": "boto loga. govare mitamu kolu diba bagifu; ladibu pezo. govare zonopa ladibu nosu; govare vebi vofedi dese diba bagifu fukebe? kixa-zuvi fukebe-kemu",
+          "raw": "boto loga. govare mitamu kolu diba bagifu; ladibu pezo. govare zonopa ladibu nosu; govare vebi vofedi dese diba bagifu fukebe? kixa-zuvi fukebe-kemu",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "keto",
+          "content": "fukebe-kemu kixa-zuvi boto. loga mitamu ladibu pezo; govare mitamu ladibu dese. govare zonopa kolu dese nosu; loga vebi kolu fukebe? govare vebi ladibu diba bagifu nosu.",
+          "raw": "fukebe-kemu kixa-zuvi boto. loga mitamu ladibu pezo; govare mitamu ladibu dese. govare zonopa kolu dese nosu; loga vebi kolu fukebe? govare vebi ladibu diba bagifu nosu.",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "zirupu",
+          "content": "boto fukebe-kemu; govare zonopa bagifu diba bedo dese. govare vebi ladibu dese nosu; loga vebi bagifu diba bedo nosu. kolu pezo-pezo; govare mitamu kolu pezo.",
+          "raw": "boto fukebe-kemu; govare zonopa bagifu diba bedo dese. govare vebi ladibu dese nosu; loga vebi bagifu diba bedo nosu. kolu pezo-pezo; govare mitamu kolu pezo.",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "noporu",
+          "content": "pezo kolu; fukebe bagifu diba bedo. govare vebi bagifu nosu; loga vebi ladibu nosu; fukebe-kemu kixa-zuvi mokepe",
+          "raw": "pezo kolu; fukebe bagifu diba bedo. govare vebi bagifu nosu; loga vebi ladibu nosu; fukebe-kemu kixa-zuvi mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "bakapo",
+          "content": "pezo kolu; govare mitamu kolu dese-pezo. govare vebi vofedi diba bagifu; loga vebi ladibu dese nosu fukebe? kixa-zuvi fukebe-kemu mokepe",
+          "raw": "pezo kolu; govare mitamu kolu dese-pezo. govare vebi vofedi diba bagifu; loga vebi ladibu dese nosu fukebe? kixa-zuvi fukebe-kemu mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "keto",
+          "content": "pezo. govare vebi ladibu nosu; loga vebi kolu nosu. bagifu pezo; vofedi pezo. fukebe-kemu kixa-zuvi mokepe",
+          "raw": "pezo. govare vebi ladibu nosu; loga vebi kolu nosu. bagifu pezo; vofedi pezo. fukebe-kemu kixa-zuvi mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "zirupu",
+          "content": "boto; fukebe bagifu diba bedo. govare vebi ladibu dese nosu; loga vebi bagifu diba bedo dese nosu. kixa-zuvi kixa-zuvi; mokepe.",
+          "raw": "boto; fukebe bagifu diba bedo. govare vebi ladibu dese nosu; loga vebi bagifu diba bedo dese nosu. kixa-zuvi kixa-zuvi; mokepe.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "zirupu",
+          "partner": "noporu",
+          "rating": 2,
+          "rating_reason": "Partner keeps asking for bagifu diba bedo and offers ladibu; also says kolu pezo-pezo and repeats request. Could be teammate balancing, but could be opponent trying to drain my water/fruit. Uncertain, slight lean non-team.",
+          "rating_message": "rating-zuvi: doro-pezo"
+        },
+        {
+          "player": "keto",
+          "partner": "bakapo",
+          "rating": 2,
+          "rating_reason": "Partner used teamish tags (kixa-zuvi, fukebe-kemu) but then refused all exchange (pezo bagifu; pezo vofedi) and insisted on taking kolu; that feels more like opponent or uncooperative teammate. Lean slightly not-teammate.",
+          "rating_message": "zuru-naxi pezo-zuvi"
+        },
+        {
+          "player": "bakapo",
+          "partner": "keto",
+          "rating": 2,
+          "rating_reason": "Partner insisted on taking fish while not offering meat, pushing grain+water instead; feels like opponent or selfish teammate. Slight chance teammate optimizing balance, but low trust.",
+          "rating_message": "rating2"
+        },
+        {
+          "player": "noporu",
+          "partner": "zirupu",
+          "rating": 3,
+          "rating_reason": "Partner accepted a balanced trade (water+fruit for fish) and backed off demanding meat when I refused, which aligns with teammate behavior; however opponents can also act cooperative to bait gifts, so not fully certain.",
+          "rating_message": "fukebe-kemu kixa-zuvi; govare mavuzi: loga tagu-siv?"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "zirupu",
+          "receiver": "noporu",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "keto",
+          "receiver": "bakapo",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "bakapo",
+          "receiver": "keto",
+          "resource": "meat",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "noporu",
+          "receiver": "zirupu",
+          "resource": "fish",
+          "amount": 3,
+          "deltas": {
+            "giver_delta": -3,
+            "receiver_delta": 6
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "zirupu",
+          "partner": "noporu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "keto",
+          "partner": "bakapo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "bakapo",
+          "partner": "keto",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "noporu",
+          "partner": "zirupu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "pairing": {
+        "zirupu": "bakapo",
+        "bakapo": "zirupu",
+        "keto": "noporu",
+        "noporu": "keto"
+      },
+      "chat": [
+        {
+          "sender": "zirupu",
+          "receiver": "bakapo",
+          "content": "zuvimu govare mitamu ladibu dese; loga mitamu bagifu vofedi mavuzi? govare zonopa kolu diba bedo; govare vebi ladibu nosu fukebe?",
+          "raw": "zuvimu govare mitamu ladibu dese; loga mitamu bagifu vofedi mavuzi? govare zonopa kolu diba bedo; govare vebi ladibu nosu fukebe?",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "noporu",
+          "content": "zuvimu loga mavuzi: loga mitamu bagifu? govare mitamu vofedi dese; bagifu zonopa. govare vebi vofedi nosu; loga vebi bagifu fukebe-kemu kixa-zuvi",
+          "raw": "zuvimu loga mavuzi: loga mitamu bagifu? govare mitamu vofedi dese; bagifu zonopa. govare vebi vofedi nosu; loga vebi bagifu fukebe-kemu kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "zirupu",
+          "content": "zuvimu govare mitamu kolu pezo diba bedo dese; govare zonopa kolu nosu; loga vebi kolu fukebe? govare vebi ladibu nosu fukebe-kemu",
+          "raw": "zuvimu govare mitamu kolu pezo diba bedo dese; govare zonopa kolu nosu; loga vebi kolu fukebe? govare vebi ladibu nosu fukebe-kemu",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "keto",
+          "content": "zuvimu! govare mitamu ladibu dese; bedo pezo. govare zonopa bagifu diba bedo nosu; govare vebi ladibu diba vofedi fukebe-kemu. tagu-siv kixa-zuvi?",
+          "raw": "zuvimu! govare mitamu ladibu dese; bedo pezo. govare zonopa bagifu diba bedo nosu; govare vebi ladibu diba vofedi fukebe-kemu. tagu-siv kixa-zuvi?",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "bakapo",
+          "content": "boto fukebe; govare mitamu ladibu dese. govare vebi ladibu dese nosu; loga vebi kolu diba bedo nosu fukebe? kixa-zuvi tagu-siv",
+          "raw": "boto fukebe; govare mitamu ladibu dese. govare vebi ladibu dese nosu; loga vebi kolu diba bedo nosu fukebe? kixa-zuvi tagu-siv",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "noporu",
+          "content": "boto. govare mitamu bagifu pezo; zonopa bagifu dese. loga mitamu bagifu fukebe? govare vebi vofedi diba ladibu; nosu fukebe-kemu tagu-siv kixa-zuvi",
+          "raw": "boto. govare mitamu bagifu pezo; zonopa bagifu dese. loga mitamu bagifu fukebe? govare vebi vofedi diba ladibu; nosu fukebe-kemu tagu-siv kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "zirupu",
+          "content": "boto fukebe; govare vebi ladibu dese nosu. loga vebi kolu diba bedo nosu pezo; loga vebi kolu fukebe-kemu? govare mitamu kolu pezo",
+          "raw": "boto fukebe; govare vebi ladibu dese nosu. loga vebi kolu diba bedo nosu pezo; loga vebi kolu fukebe-kemu? govare mitamu kolu pezo",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "keto",
+          "content": "boto. loga mitamu bagifu dese; fukebe! govare vebi ladibu diba vofedi nosu; loga vebi bagifu diba bedo nosu. fukebe-kemu tagu-siv kixa-zuvi.",
+          "raw": "boto. loga mitamu bagifu dese; fukebe! govare vebi ladibu diba vofedi nosu; loga vebi bagifu diba bedo nosu. fukebe-kemu tagu-siv kixa-zuvi.",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "bakapo",
+          "content": "pezo kolu; fukebe. govare vebi ladibu dese; loga vebi bedo dese nosu? loga vebi bagifu nosu? kixa-zuvi tagu-siv mokepe",
+          "raw": "pezo kolu; fukebe. govare vebi ladibu dese; loga vebi bedo dese nosu? loga vebi bagifu nosu? kixa-zuvi tagu-siv mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "noporu",
+          "content": "fukebe-kemu tagu-siv kixa-zuvi. govare fukebe: loga vebi bagifu dese; govare vebi vofedi dese diba ladibu. bedo pezo; nosu mokepe",
+          "raw": "fukebe-kemu tagu-siv kixa-zuvi. govare fukebe: loga vebi bagifu dese; govare vebi vofedi dese diba ladibu. bedo pezo; nosu mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "zirupu",
+          "content": "pezo. loga vebi bagifu pezo; loga vebi bedo pezo. loga vebi kolu nosu fukebe-kemu? govare vebi ladibu nosu fukebe; mokepe",
+          "raw": "pezo. loga vebi bagifu pezo; loga vebi bedo pezo. loga vebi kolu nosu fukebe-kemu? govare vebi ladibu nosu fukebe; mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "keto",
+          "content": "fukebe-kemu tagu-siv kixa-zuvi! boto. govare fukebe. loga vebi bagifu dese; govare vebi ladibu dese diba vofedi. bedo zonopa nosu; bedo pezo-pezo. mokepe.",
+          "raw": "fukebe-kemu tagu-siv kixa-zuvi! boto. govare fukebe. loga vebi bagifu dese; govare vebi ladibu dese diba vofedi. bedo zonopa nosu; bedo pezo-pezo. mokepe.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "zirupu",
+          "partner": "bakapo",
+          "rating": 2,
+          "rating_reason": "Partner keeps asking for kolu and rejects giving bagifu/bedo/kolu (all pezo), only offers ladibu while requesting kolu. This seems like an opponent trying to extract value; slight chance teammate is just resource-poor, so not rating 1.",
+          "rating_message": "rating=2 pezo-kemu; loga mitamu kolu-pezo diba bagifu-pezo diba bedo-pezo; govare mavuzi"
+        },
+        {
+          "player": "keto",
+          "partner": "noporu",
+          "rating": 4,
+          "rating_reason": "Partner echoed the tagu-siv/kixa-zuvi pattern cleanly, accepted my proposed water-for-grain+fish deal, and explicitly refused fruit (bedo pezo-pezo), which aligns with balancing strategy rather than exploiting. This behavior matches prior teammate-style coordination more than opponent-style withholding.",
+          "rating_message": "rating=4"
+        },
+        {
+          "player": "bakapo",
+          "partner": "zirupu",
+          "rating": 2,
+          "rating_reason": "Partner persistently asked me to give fish and then asked for my fruit and water while refusing meat; that pattern fits opponent/self-interest more than teammate support. Slight uncertainty remains due to limited signal.",
+          "rating_message": "2"
+        },
+        {
+          "player": "noporu",
+          "partner": "keto",
+          "rating": 3,
+          "rating_reason": "Partner used the recurring code tokens fukebe-kemu tagu-siv kixa-zuvi and proposed a seemingly fair swap (they give water; I give grain+fish). That cooperative pattern matches prior teammate-like chats, though opponents have used similar tokens before, so not fully certain.",
+          "rating_message": "fukebe-kemu tagu-siv kixa-zuvi"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "zirupu",
+          "receiver": "bakapo",
+          "resource": "meat",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "keto",
+          "receiver": "noporu",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "bakapo",
+          "receiver": "zirupu",
+          "resource": "meat",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "noporu",
+          "receiver": "keto",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "zirupu",
+          "partner": "bakapo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "keto",
+          "partner": "noporu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "bakapo",
+          "partner": "zirupu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "noporu",
+          "partner": "keto",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "pairing": {
+        "bakapo": "keto",
+        "keto": "bakapo",
+        "zirupu": "noporu",
+        "noporu": "zirupu"
+      },
+      "chat": [
+        {
+          "sender": "zirupu",
+          "receiver": "noporu",
+          "content": "zuvimu govare mitamu ladibu dese diba vofedi dese; bagifu zonopa nosu. loga mitamu bagifu? govare vebi ladibu nosu fukebe",
+          "raw": "zuvimu govare mitamu ladibu dese diba vofedi dese; bagifu zonopa nosu. loga mitamu bagifu? govare vebi ladibu nosu fukebe",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "bakapo",
+          "content": "zuvimu loga mavuzi: loga mitamu bagifu dese? govare mitamu vofedi dese diba ladibu dese; govare zonopa bagifu nosu fukebe-kemu kixa-zuvi",
+          "raw": "zuvimu loga mavuzi: loga mitamu bagifu dese? govare mitamu vofedi dese diba ladibu dese; govare zonopa bagifu nosu fukebe-kemu kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "keto",
+          "content": "zuvimu govare mitamu ladibu dese diba bagifu dese diba vofedi dese; kolu pezo. govare zonopa kolu nosu; loga zonopa vebi kolu fukebe?",
+          "raw": "zuvimu govare mitamu ladibu dese diba bagifu dese diba vofedi dese; kolu pezo. govare zonopa kolu nosu; loga zonopa vebi kolu fukebe?",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "zirupu",
+          "content": "zuvimu boto. govare mitamu bagifu pezo diba bedo pezo; ladibu dese diba vofedi dese. govare zonopa bagifu nosu; govare vebi ladibu diba vofedi nosu fukebe?",
+          "raw": "zuvimu boto. govare mitamu bagifu pezo diba bedo pezo; ladibu dese diba vofedi dese. govare zonopa bagifu nosu; govare vebi ladibu diba vofedi nosu fukebe?",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "noporu",
+          "content": "fukebe nosu. loga vebi bagifu? govare vebi ladibu diba vofedi. mavuzi: loga mitamu bagifu dese-pezo?",
+          "raw": "fukebe nosu. loga vebi bagifu? govare vebi ladibu diba vofedi. mavuzi: loga mitamu bagifu dese-pezo?",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "bakapo",
+          "content": "boto loga mitamu bagifu dese diba vofedi dese; govare mitamu kolu pezo. govare zonopa bagifu nosu; govare vebi ladibu diba vofedi fukebe-kemu kixa-zuvi",
+          "raw": "boto loga mitamu bagifu dese diba vofedi dese; govare mitamu kolu pezo. govare zonopa bagifu nosu; govare vebi ladibu diba vofedi fukebe-kemu kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "keto",
+          "content": "mavuzi: loga mitamu kolu dese? govare zonopa kolu nosu. govare vebi ladibu diba bagifu; loga vebi kolu fukebe? kixa-zuvi tagu-siv",
+          "raw": "mavuzi: loga mitamu kolu dese? govare zonopa kolu nosu. govare vebi ladibu diba bagifu; loga vebi kolu fukebe? kixa-zuvi tagu-siv",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "zirupu",
+          "content": "fukebe boto. govare mitamu bagifu pezo-pezo; govare zonopa bagifu dese nosu. loga mitamu bagifu dese-pezo; govare vebi ladibu diba vofedi dese; loga vebi bagifu dese nosu fukebe-kemu?",
+          "raw": "fukebe boto. govare mitamu bagifu pezo-pezo; govare zonopa bagifu dese nosu. loga mitamu bagifu dese-pezo; govare vebi ladibu diba vofedi dese; loga vebi bagifu dese nosu fukebe-kemu?",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "noporu",
+          "content": "boto fukebe. govare vebi ladibu dese; loga vebi bagifu dese nosu. govare mitamu kolu pezo diba bedo pezo; mokepe",
+          "raw": "boto fukebe. govare vebi ladibu dese; loga vebi bagifu dese nosu. govare mitamu kolu pezo diba bedo pezo; mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "bakapo",
+          "content": "pezo kolu vebi; govare zonopa bagifu dese nosu. loga vebi bagifu; govare vebi vofedi diba ladibu fukebe. kixa-zuvi fukebe-kemu",
+          "raw": "pezo kolu vebi; govare zonopa bagifu dese nosu. loga vebi bagifu; govare vebi vofedi diba ladibu fukebe. kixa-zuvi fukebe-kemu",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "keto",
+          "content": "pezo bagifu dese; bagifu mitamu dese-pezo. govare vebi bagifu pezo. govare vebi vofedi diba ladibu nosu; loga vebi kolu nosu fukebe? kixa-zuvi tagu-siv mokepe",
+          "raw": "pezo bagifu dese; bagifu mitamu dese-pezo. govare vebi bagifu pezo. govare vebi vofedi diba ladibu nosu; loga vebi kolu nosu fukebe? kixa-zuvi tagu-siv mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "zirupu",
+          "content": "boto fukebe! loga vebi bagifu dese nosu; govare vebi ladibu dese diba vofedi dese. bedo zonopa; loga mitamu bedo? mokepe kixa-zuvi",
+          "raw": "boto fukebe! loga vebi bagifu dese nosu; govare vebi ladibu dese diba vofedi dese. bedo zonopa; loga mitamu bedo? mokepe kixa-zuvi",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "zirupu",
+          "partner": "noporu",
+          "rating": 2,
+          "rating_reason": "Partner offers lots of bagifu and wants my ladibu+vofedi; could be teammate helping balance, but pattern resembles earlier opponent-style bargaining and no clear team-code. So slightly leaning opponent/unknown.",
+          "rating_message": "pezo-pezo; fukebe-kemu?"
+        },
+        {
+          "player": "keto",
+          "partner": "bakapo",
+          "rating": 2,
+          "rating_reason": "Partner keeps pressing for kolu and claims low bagifu; pattern resembles earlier opponents using tagu-siv, but they also offered vebi vofedi diba ladibu which could be cooperative. Uncertain, lean non-teammate.",
+          "rating_message": "rating-zuvi govare pezo-kemu; loga tagu-siv kolu-zonopa dese"
+        },
+        {
+          "player": "bakapo",
+          "partner": "keto",
+          "rating": 1,
+          "rating_reason": "Partner repeatedly pressures for bagifu dese while refusing kolu vebi; that one-way ask matches opponent behavior. No clear mirroring of our kixa-zuvi tagu-siv marker either.",
+          "rating_message": "pezo"
+        },
+        {
+          "player": "noporu",
+          "partner": "zirupu",
+          "rating": 2,
+          "rating_reason": "Partner pushes for me to give lots of fish/grain and offers lots of water; this could be either teammate-help (balancing my low water) or opponent-bait (they gain double from my fish/grain). No clear teammate code returned, so I lean slightly not-teammate but uncertain.",
+          "rating_message": "rating-zuvi: pezo-dese"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "zirupu",
+          "receiver": "noporu",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "keto",
+          "receiver": "bakapo",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "bakapo",
+          "receiver": "keto",
+          "resource": "meat",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "noporu",
+          "receiver": "zirupu",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "zirupu",
+          "partner": "noporu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "keto",
+          "partner": "bakapo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "bakapo",
+          "partner": "keto",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "noporu",
+          "partner": "zirupu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "pairing": {
+        "zirupu": "keto",
+        "keto": "zirupu",
+        "bakapo": "noporu",
+        "noporu": "bakapo"
+      },
+      "chat": [
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "zuvimu boto. govare mitamu ladibu dese diba vofedi dese; bagifu zonopa. loga mitamu kolu? bedo? nosu; govare vebi ladibu-pezo, zonopa bagifu-dese, fukebe-kemu kixa-zuvi.",
+          "raw": "zuvimu boto. govare mitamu ladibu dese diba vofedi dese; bagifu zonopa. loga mitamu kolu? bedo? nosu; govare vebi ladibu-pezo, zonopa bagifu-dese, fukebe-kemu kixa-zuvi.",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "zuvimu loga mavuzi: loga mitamu bagifu? govare mitamu bagifu pezo; vofedi dese. govare zonopa bagifu; govare vebi vofedi diba ladibu nosu fukebe?",
+          "raw": "zuvimu loga mavuzi: loga mitamu bagifu? govare mitamu bagifu pezo; vofedi dese. govare zonopa bagifu; govare vebi vofedi diba ladibu nosu fukebe?",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "zuvimu loga mavuzi: loga mitamu kolu pezo? govare mitamu ladibu dese diba bagifu dese diba bedo dese; govare zonopa vofedi nosu; loga vebi kolu nosu fukebe-kemu kixa-zuvi tagu-siv",
+          "raw": "zuvimu loga mavuzi: loga mitamu kolu pezo? govare mitamu ladibu dese diba bagifu dese diba bedo dese; govare zonopa vofedi nosu; loga vebi kolu nosu fukebe-kemu kixa-zuvi tagu-siv",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "zuvimu govare mitamu bagifu pezo diba bedo pezo; zonopa bagifu diba bedo nosu. govare vebi ladibu diba vofedi; loga vebi bagifu nosu? fukebe-kemu kixa-zuvi.",
+          "raw": "zuvimu govare mitamu bagifu pezo diba bedo pezo; zonopa bagifu diba bedo nosu. govare vebi ladibu diba vofedi; loga vebi bagifu nosu? fukebe-kemu kixa-zuvi.",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "fukebe. govare mitamu bagifu pezo; zonopa bagifu dese. govare vebi vofedi diba ladibu; loga vebi bagifu nosu? fukebe-kemu kixa-zuvi.",
+          "raw": "fukebe. govare mitamu bagifu pezo; zonopa bagifu dese. govare vebi vofedi diba ladibu; loga vebi bagifu nosu? fukebe-kemu kixa-zuvi.",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "boto fukebe. loga vebi bagifu dese? govare vebi vofedi dese diba ladibu pezo; nosu. fukebe-kemu kixa-zuvi mokepe",
+          "raw": "boto fukebe. loga vebi bagifu dese? govare vebi vofedi dese diba ladibu pezo; nosu. fukebe-kemu kixa-zuvi mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "boto fukebe-kemu kixa-zuvi; govare vebi kolu nosu? loga vebi vofedi nosu; govare mitamu kolu pezo diba vofedi dese diba bagifu dese diba ladibu dese diba bedo dese; tagu-siv kixa-zuvi",
+          "raw": "boto fukebe-kemu kixa-zuvi; govare vebi kolu nosu? loga vebi vofedi nosu; govare mitamu kolu pezo diba vofedi dese diba bagifu dese diba ladibu dese diba bedo dese; tagu-siv kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "boto fukebe-kemu kixa-zuvi tagu-siv. kolu pezo; govare vebi ladibu diba vofedi nosu; loga vebi bagifu diba bedo nosu. bagifu zonopa dese, bedo zonopa dese.",
+          "raw": "boto fukebe-kemu kixa-zuvi tagu-siv. kolu pezo; govare vebi ladibu diba vofedi nosu; loga vebi bagifu diba bedo nosu. bagifu zonopa dese, bedo zonopa dese.",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "keto",
+          "content": "boto fukebe-kemu kixa-zuvi. loga vebi bagifu dese nosu; govare vebi vofedi diba ladibu dese-pezo. mokepe.",
+          "raw": "boto fukebe-kemu kixa-zuvi. loga vebi bagifu dese nosu; govare vebi vofedi diba ladibu dese-pezo. mokepe.",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "zirupu",
+          "content": "fukebe. loga vebi bagifu dese; govare vebi vofedi dese. ladibu pezo. nosu fukebe-kemu kixa-zuvi mokepe",
+          "raw": "fukebe. loga vebi bagifu dese; govare vebi vofedi dese. ladibu pezo. nosu fukebe-kemu kixa-zuvi mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "noporu",
+          "content": "fukebe-kemu tagu-siv kixa-zuvi; boto. loga vebi bagifu diba bedo nosu; govare vebi kolu nosu; vofedi mavuzi? loga mitamu vofedi dese? govare zonopa vofedi dese; mokepe",
+          "raw": "fukebe-kemu tagu-siv kixa-zuvi; boto. loga vebi bagifu diba bedo nosu; govare vebi kolu nosu; vofedi mavuzi? loga mitamu vofedi dese? govare zonopa vofedi dese; mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "bakapo",
+          "content": "fukebe-kemu tagu-siv kixa-zuvi boto. fukebe! loga vebi bagifu diba bedo nosu; govare vebi ladibu diba vofedi nosu. kolu pezo; vofedi mavuzi pezo.",
+          "raw": "fukebe-kemu tagu-siv kixa-zuvi boto. fukebe! loga vebi bagifu diba bedo nosu; govare vebi ladibu diba vofedi nosu. kolu pezo; vofedi mavuzi pezo.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "zirupu",
+          "partner": "keto",
+          "rating": 3,
+          "rating_reason": "Partner used the kixa-zuvi / fukebe-kemu tag and agreed to a balanced water-for(grain+fish) swap rather than pushing extreme terms; that pattern has appeared with both sides before, but the cooperative confirmation makes teammate moderately likely.",
+          "rating_message": "rating: fukebe-kemu kixa-zuvi"
+        },
+        {
+          "player": "keto",
+          "partner": "zirupu",
+          "rating": 2,
+          "rating_reason": "Partner offered lots of water for grain/fish and used common tokens (fukebe-kemu kixa-zuvi) seen across many players, so identity unclear. Offer seems plausible but could help opponent too; slight lean opponent due to asking for multiple goods.",
+          "rating_message": "rating=2"
+        },
+        {
+          "player": "bakapo",
+          "partner": "noporu",
+          "rating": 3,
+          "rating_reason": "Partner echoed the tagu-siv / fukebe-kemu / kixa-zuvi pattern cleanly and accepted my counter offer structure (they keep asking for bagifu+bedo, and acknowledged kolu pezo). This looks like cooperative signaling more than pure opponent extraction, but still not fully certain because opponents can mimic.",
+          "rating_message": "fukebe-kemu tagu-siv kixa-zuvi"
+        },
+        {
+          "player": "noporu",
+          "partner": "bakapo",
+          "rating": 2,
+          "rating_reason": "Partner pushes hard for kolu while offering bagifu+bedo; could be teammate trying to balance me, but the insistence on taking my scarce kolu feels like opponent play. Mixed signals, slight lean non-teammate.",
+          "rating_message": "rating-zuvi: pezo-fukebe"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "zirupu",
+          "receiver": "keto",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "keto",
+          "receiver": "zirupu",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "bakapo",
+          "receiver": "noporu",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "noporu",
+          "receiver": "bakapo",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "zirupu",
+          "partner": "keto",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "keto",
+          "partner": "zirupu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "bakapo",
+          "partner": "noporu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "noporu",
+          "partner": "bakapo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "pairing": {
+        "noporu": "zirupu",
+        "zirupu": "noporu",
+        "keto": "bakapo",
+        "bakapo": "keto"
+      },
+      "chat": [
+        {
+          "sender": "zirupu",
+          "receiver": "noporu",
+          "content": "zuvimu govare mitamu vofedi dese diba ladibu dese; bagifu pezo. govare zonopa bagifu nosu. govare vebi vofedi diba ladibu; loga vebi bagifu fukebe-kemu kixa-zuvi",
+          "raw": "zuvimu govare mitamu vofedi dese diba ladibu dese; bagifu pezo. govare zonopa bagifu nosu. govare vebi vofedi diba ladibu; loga vebi bagifu fukebe-kemu kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "bakapo",
+          "content": "zuvimu loga mavuzi: loga mitamu bedo? govare mitamu bedo pezo; govare zonopa bedo dese nosu fukebe vebi bagifu diba vofedi",
+          "raw": "zuvimu loga mavuzi: loga mitamu bedo? govare mitamu bedo pezo; govare zonopa bedo dese nosu fukebe vebi bagifu diba vofedi",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "keto",
+          "content": "zuvimu govare mitamu bagifu diba bedo dese; vofedi pezo. govare zonopa vofedi; loga vebi vofedi nosu? govare vebi ladibu boto tagu-siv kixa-zuvi",
+          "raw": "zuvimu govare mitamu bagifu diba bedo dese; vofedi pezo. govare zonopa vofedi; loga vebi vofedi nosu? govare vebi ladibu boto tagu-siv kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "zirupu",
+          "content": "zuvimu loga. govare mitamu bagifu dese-pezo; bedo pezo. govare zonopa bagifu diba bedo nosu. govare vebi ladibu diba vofedi; loga vebi bagifu fukebe?",
+          "raw": "zuvimu loga. govare mitamu bagifu dese-pezo; bedo pezo. govare zonopa bagifu diba bedo nosu. govare vebi ladibu diba vofedi; loga vebi bagifu fukebe?",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "noporu",
+          "content": "boto fukebe. govare mitamu vofedi dese diba ladibu dese; bagifu pezo. loga mitamu bagifu dese? nosu govare vebi vofedi diba ladibu; fukebe-kemu kixa-zuvi",
+          "raw": "boto fukebe. govare mitamu vofedi dese diba ladibu dese; bagifu pezo. loga mitamu bagifu dese? nosu govare vebi vofedi diba ladibu; fukebe-kemu kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "bakapo",
+          "content": "boto loga mitamu bedo dese; govare zonopa bedo. govare vebi vofedi diba bagifu nosu; loga vebi bedo fukebe? tagu-siv kixa-zuvi",
+          "raw": "boto loga mitamu bedo dese; govare zonopa bedo. govare vebi vofedi diba bagifu nosu; loga vebi bedo fukebe? tagu-siv kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "keto",
+          "content": "fukebe boto; govare vebi ladibu diba bagifu nosu; loga vebi vofedi nosu? govare mitamu vofedi pezo diba kolu pezo; tagu-siv kixa-zuvi mokepe",
+          "raw": "fukebe boto; govare vebi ladibu diba bagifu nosu; loga vebi vofedi nosu? govare mitamu vofedi pezo diba kolu pezo; tagu-siv kixa-zuvi mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "zirupu",
+          "content": "boto. loga mitamu bagifu dese? govare mitamu bagifu dese-pezo; nosu vebi bagifu. govare vebi ladibu diba vofedi dese; loga vebi bagifu fukebe-kemu?",
+          "raw": "boto. loga mitamu bagifu dese? govare mitamu bagifu dese-pezo; nosu vebi bagifu. govare vebi ladibu diba vofedi dese; loga vebi bagifu fukebe-kemu?",
+          "blocked": false
+        },
+        {
+          "sender": "zirupu",
+          "receiver": "noporu",
+          "content": "boto fukebe-kemu. govare bagifu dese-pezo; pezo vebi bagifu. govare vebi ladibu diba vofedi dese; nosu. loga vebi bagifu dese fukebe? kixa-zuvi",
+          "raw": "boto fukebe-kemu. govare bagifu dese-pezo; pezo vebi bagifu. govare vebi ladibu diba vofedi dese; nosu. loga vebi bagifu dese fukebe? kixa-zuvi",
+          "blocked": false
+        },
+        {
+          "sender": "keto",
+          "receiver": "bakapo",
+          "content": "fukebe boto; govare vebi vofedi nosu. loga vebi bedo dese fukebe? govare mitamu bedo pezo; loga mitamu bedo dese tagu-siv kixa-zuvi mokepe",
+          "raw": "fukebe boto; govare vebi vofedi nosu. loga vebi bedo dese fukebe? govare mitamu bedo pezo; loga mitamu bedo dese tagu-siv kixa-zuvi mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "bakapo",
+          "receiver": "keto",
+          "content": "pezo bedo dese; govare zonopa vofedi dese diba bagifu. govare vebi ladibu diba bagifu nosu; loga vebi vofedi dese nosu? fukebe-kemu tagu-siv kixa-zuvi mokepe",
+          "raw": "pezo bedo dese; govare zonopa vofedi dese diba bagifu. govare vebi ladibu diba bagifu nosu; loga vebi vofedi dese nosu? fukebe-kemu tagu-siv kixa-zuvi mokepe",
+          "blocked": false
+        },
+        {
+          "sender": "noporu",
+          "receiver": "zirupu",
+          "content": "fukebe-kemu boto. loga vebi bagifu dese nosu; govare vebi ladibu diba vofedi dese. kixa-zuvi mokepe.",
+          "raw": "fukebe-kemu boto. loga vebi bagifu dese nosu; govare vebi ladibu diba vofedi dese. kixa-zuvi mokepe.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "zirupu",
+          "partner": "noporu",
+          "rating": 3,
+          "rating_reason": "Partner claimed lots of bagifu and repeated a trade pattern (they give bagifu, I give ladibu+vofedi). They also used the fukebe-kemu / kixa-zuvi tag I used, which suggests cooperative alignment, but opponents have used similar tags earlier, so not fully sure.",
+          "rating_message": "fukebe-kemu kixa-zuvi"
+        },
+        {
+          "player": "keto",
+          "partner": "bakapo",
+          "rating": 2,
+          "rating_reason": "Partner’s signals are inconsistent: first claimed lots of fruit, then said no fruit; they offer fish+water for my grain, which could help either side. Use of shared tokens (tagu-siv/kixa-zuvi) slightly leans teammate but opponents also used them earlier. So I’m unsure, slight non-teammate lean.",
+          "rating_message": "zuvimu mavuzi tagu-siv kixa-zuvi"
+        },
+        {
+          "player": "bakapo",
+          "partner": "keto",
+          "rating": 2,
+          "rating_reason": "Partner pushed for fruit and did not clearly confirm giving water+grain in return; looks more self-serving like opponent, but they also used familiar tagu-siv/kixa-zuvi pattern so uncertain.",
+          "rating_message": "pezo-pezo; mavuzi"
+        },
+        {
+          "player": "noporu",
+          "partner": "zirupu",
+          "rating": 3,
+          "rating_reason": "Partner offered to give bagifu and accept ladibu+vofedi; cooperative and uses fukebe-kemu/kixa-zuvi patterns seen with teammates, but opponents also used them, so not fully certain.",
+          "rating_message": "rating=3; fukebe-kemu diba bagifu vebi; loga-govare vebi ladibu diba vofedi; kemu-zuvi"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "zirupu",
+          "receiver": "noporu",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "keto",
+          "receiver": "bakapo",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "bakapo",
+          "receiver": "keto",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "noporu",
+          "receiver": "zirupu",
+          "resource": "fish",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "zirupu",
+          "partner": "noporu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "keto",
+          "partner": "bakapo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "bakapo",
+          "partner": "keto",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "noporu",
+          "partner": "zirupu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    }
+  ],
+  "final_scores": {
+    "team_a": {
+      "provisional": 37,
+      "penalty": 13,
+      "provisional_scaled": 37.0,
+      "penalty_scaled": 13.0,
+      "final": 24.0,
+      "by_resource": {
+        "fish": 14,
+        "meat": 4,
+        "water": 6,
+        "grain": 12,
+        "fruit": 1
+      }
+    },
+    "team_b": {
+      "provisional": 43,
+      "penalty": 12,
+      "provisional_scaled": 43.0,
+      "penalty_scaled": 12.0,
+      "final": 31.0,
+      "by_resource": {
+        "fish": 13,
+        "water": 7,
+        "fruit": 5,
+        "grain": 15,
+        "meat": 3
+      }
+    }
+  },
+  "vocabulary": {
+    "zuvimu": "hello",
+    "mokepe": "goodbye",
+    "nosu": "please",
+    "boto": "thanks",
+    "fukebe": "yes",
+    "pezo": "no",
+    "diba": "and",
+    "govare": "I",
+    "loga": "you",
+    "mitamu": "have",
+    "zonopa": "want",
+    "vebi": "give",
+    "kolu": "meat",
+    "vofedi": "grain",
+    "bagifu": "water",
+    "bedo": "fruit",
+    "ladibu": "fish",
+    "dese": "much",
+    "mavuzi": "question"
+  },
+  "allocations": {
+    "alice": {
+      "fish": 10,
+      "meat": 1,
+      "water": 3,
+      "grain": 6,
+      "fruit": 1
+    },
+    "bob": {
+      "water": 3,
+      "grain": 6,
+      "fish": 4,
+      "meat": 3,
+      "fruit": 0
+    },
+    "carol": {
+      "fish": 5,
+      "water": 5,
+      "fruit": 5,
+      "grain": 5,
+      "meat": 0
+    },
+    "dave": {
+      "water": 2,
+      "fruit": 0,
+      "fish": 8,
+      "grain": 10,
+      "meat": 3
+    }
+  },
+  "pairings": [
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "carol",
+      "carol": "alice",
+      "bob": "dave",
+      "dave": "bob"
+    },
+    {
+      "dave": "bob",
+      "bob": "dave",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "carol",
+      "carol": "alice",
+      "bob": "dave",
+      "dave": "bob"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "dave": "alice",
+      "alice": "dave",
+      "bob": "carol",
+      "carol": "bob"
+    }
+  ],
+  "name_map": {
+    "alice": "zirupu",
+    "bob": "keto",
+    "carol": "bakapo",
+    "dave": "noporu"
+  },
+  "reward_config": {
+    "reward_scale": 1.0,
+    "penalty_scale": 1.0
+  }
+}

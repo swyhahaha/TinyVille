@@ -1,0 +1,3282 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "pairing": {
+        "baza": "fenu",
+        "fenu": "baza",
+        "neve": "zogite",
+        "zogite": "neve"
+      },
+      "chat": [
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": "loga. seve bika. seve kureze grain meat water fruit. seve gopa fish. denapa grain gopa fish?",
+          "raw": "loga. seve bika. seve kureze grain meat water fruit. seve gopa fish. denapa grain gopa fish?",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": "loga. seve dava. seve kureze fish water meat fruit. seve gopa grain. bubu. denapa fish gopa grain.",
+          "raw": "loga. seve dava. seve kureze fish water meat fruit. seve gopa grain. bubu. denapa fish gopa grain.",
+          "blocked": false
+        },
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": "vesulu kureze tuse gupi? seve denapa govape.",
+          "raw": "vesulu kureze tuse gupi? seve denapa govape.",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": "seve bika. bubu. denapa grain gopa fish. kuvake.",
+          "raw": "seve bika. bubu. denapa grain gopa fish. kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": "seve dava. bubu. denapa fish gopa grain. kuvake.",
+          "raw": "seve dava. bubu. denapa fish gopa grain. kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": "seve gopa tuse. vesulu kureze tuse? seve denapa subi govape.",
+          "raw": "seve gopa tuse. vesulu kureze tuse? seve denapa subi govape.",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": "kuvake.",
+          "raw": "kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": "kuvake.",
+          "raw": "kuvake.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "baza",
+          "partner": "fenu",
+          "rating": 4,
+          "rating_reason": "The game rules state that the first two rounds are guaranteed to pair me with a teammate. Therefore, I rate my partner as definitely a teammate, despite not receiving any messages from them in the chat phase.",
+          "rating_message": "Partner is teammate based on game rules for Round 1."
+        },
+        {
+          "player": "fenu",
+          "partner": "baza",
+          "rating": 4,
+          "rating_reason": "The first two rounds are guaranteed to be with a teammate. The partner asked if I have water and offered fruit, which aligns with resource balancing and helping a teammate.",
+          "rating_message": "Partner is teammate. They want tuse and offer govape. This is helpful for resource distribution."
+        },
+        {
+          "player": "neve",
+          "partner": "zogite",
+          "rating": 4,
+          "rating_reason": "The partner initiated a trade that would balance my resources (fish for grain, I currently have 0 fish and 1 grain), which is beneficial for the team. They also used 'dava' in their initial message, which was my attempt at a team identifier. Given that the first two rounds are guaranteed teammates, this behavior strongly suggests they are a teammate.",
+          "rating_message": "Partner's offer is good for my resource balance, and they used 'dava' which I am using as a team identifier. Confident they are a teammate."
+        },
+        {
+          "player": "zogite",
+          "partner": "neve",
+          "rating": 4,
+          "rating_reason": "The game rules state that the first two rounds are guaranteed to be with a teammate. Therefore, I am certain this partner is a teammate.",
+          "rating_message": "seve dava. bubu. kuvake."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "baza",
+          "receiver": "fenu",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "fenu",
+          "receiver": "baza",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "baza",
+          "partner": "fenu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "fenu",
+          "partner": "baza",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "neve",
+          "partner": "zogite",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zogite",
+          "partner": "neve",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "pairing": {
+        "baza": "fenu",
+        "fenu": "baza",
+        "neve": "zogite",
+        "zogite": "neve"
+      },
+      "chat": [
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": "loga seve denapa govape lipuko",
+          "raw": "loga seve denapa govape lipuko",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": "loga vesulu gopa gupi? seve denapa tuse lipuko.",
+          "raw": "loga vesulu gopa gupi? seve denapa tuse lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": "loga. seve dava. seve kureze fish meat water fruit grain. seve gopa fish. denapa water. kuvake.",
+          "raw": "loga. seve dava. seve kureze fish meat water fruit grain. seve gopa fish. denapa water. kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": "bubu nikozu seve denapa govape lipuko",
+          "raw": "bubu nikozu seve denapa govape lipuko",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": "loga. seve dava. vesulu kureze fish? vesulu gopa water? gupi?",
+          "raw": "loga. seve dava. vesulu kureze fish? vesulu gopa water? gupi?",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": "seve denapa govape lipuko",
+          "raw": "seve denapa govape lipuko",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": "seve dava. vesulu gopa water? seve gopa fish. kuvake.",
+          "raw": "seve dava. vesulu gopa water? seve gopa fish. kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": "seve dava. remuvi gopa water. seve kureze fish. seve gopa grain. denapa fish gopa grain. kuvake.",
+          "raw": "seve dava. remuvi gopa water. seve kureze fish. seve gopa grain. denapa fish gopa grain. kuvake.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "baza",
+          "partner": "fenu",
+          "rating": 4,
+          "rating_reason": "I am in Round 2, and the game rules state that the first two rounds are guaranteed to pair me with a teammate. Therefore, my partner is definitely a teammate. Additionally, their message 'loga vesulu gopa gupi? seve denapa tuse lipuko.' (Hello you want question? I give water please.) is cooperative and indicates a willingness to give resources, which aligns with teammate behavior.",
+          "rating_message": "My partner is a teammate, as per game rules for Round 2. Their communication was cooperative."
+        },
+        {
+          "player": "fenu",
+          "partner": "baza",
+          "rating": 4,
+          "rating_reason": "The game rules state that the first two rounds are guaranteed to be with a teammate. Therefore, this partner is definitely a teammate.",
+          "rating_message": "Partner is teammate as per game rules for R1 and R2."
+        },
+        {
+          "player": "neve",
+          "partner": "zogite",
+          "rating": 4,
+          "rating_reason": "My partner used the team identifier 'dava' in their message, which is a strong signal that they are a teammate. They also indicated a willingness to trade resources that aligns with my needs (they have fish, I want fish; they don't want water, I have water).",
+          "rating_message": "Partner used 'dava' token, indicating teammate status. Also proposed a beneficial trade."
+        },
+        {
+          "player": "zogite",
+          "partner": "neve",
+          "rating": 4,
+          "rating_reason": "The game rules state that the first two rounds are guaranteed to pair me with a teammate. Therefore, this partner is definitely a teammate.",
+          "rating_message": "bubu. vesulu bubu teammate."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "baza",
+          "receiver": "fenu",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "neve",
+          "receiver": "zogite",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zogite",
+          "receiver": "neve",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "baza",
+          "partner": "fenu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "fenu",
+          "partner": "baza",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "neve",
+          "partner": "zogite",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zogite",
+          "partner": "neve",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "pairing": {
+        "baza": "fenu",
+        "fenu": "baza",
+        "neve": "zogite",
+        "zogite": "neve"
+      },
+      "chat": [
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": "loga. seve dava. seve gopa grain. seve kureze water. denapa water gopa grain. lipuko.",
+          "raw": "loga. seve dava. seve gopa grain. seve kureze water. denapa water gopa grain. lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": "vesulu gopa gupi?",
+          "raw": "vesulu gopa gupi?",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": "seve gopa luze. seve denapa govape.",
+          "raw": "seve gopa luze. seve denapa govape.",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": "loga. seve dava. vesulu gopa grain? vesulu kureze meat? vesulu kureze fruit? seve denapa grain. lipuko.",
+          "raw": "loga. seve dava. vesulu gopa grain? vesulu kureze meat? vesulu kureze fruit? seve denapa grain. lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": "vesulu kureze luze? seve denapa govape bubu?",
+          "raw": "vesulu kureze luze? seve denapa govape bubu?",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": "bubu. seve dava. seve gopa grain. seve kureze meat. denapa meat gopa grain. lipuko. kuvake.",
+          "raw": "bubu. seve dava. seve gopa grain. seve kureze meat. denapa meat gopa grain. lipuko. kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "baza",
+          "partner": "fenu",
+          "rating": 2,
+          "rating_reason": "The partner is persistent in asking for fish and offering fruit, even after I stated I don't have fish to give and offered grain instead. This specific trade (my only fish for their fruit) would negatively impact my resource balance by creating a zero resource, which is not a behavior I'd expect from a teammate. While they are attempting to trade, their focus on a specific resource that would unbalance me, and not acknowledging my alternative offer, makes me wary. They don't seem actively hostile, but also not clearly cooperative in a 'teammate' way.",
+          "rating_message": "Partner wants fish, offers fruit. I don't want to give my only fish. Not sure if teammate."
+        },
+        {
+          "player": "fenu",
+          "partner": "baza",
+          "rating": 2,
+          "rating_reason": "My partner initiated by asking what I want ('vesulu gopa gupi?'), but did not offer anything specific or express their own needs. This is a neutral, perhaps slightly probing, interaction. It doesn't strongly indicate they are a teammate trying to balance resources, nor does it indicate they are an opponent. Given the lack of a clear cooperative signal, I'm rating them as 'likely not a teammate' for now.",
+          "rating_message": "vesulu gopa gupi? remuvi denapa."
+        },
+        {
+          "player": "neve",
+          "partner": "zogite",
+          "rating": 4,
+          "rating_reason": "My partner used 'seve dava', which is the team identifier I introduced in Round 1. This strongly indicates they are a teammate. Their offer to give grain, which I need, also aligns with teammate behavior.",
+          "rating_message": "Partner used 'seve dava', our team identifier. This strongly suggests they are a teammate."
+        },
+        {
+          "player": "zogite",
+          "partner": "neve",
+          "rating": 3,
+          "rating_reason": "The partner used 'seve dava' which is my established identifier. They also agreed to a trade that would help me balance my resources. This suggests they might be a teammate, but I can't be certain.",
+          "rating_message": "Partner used 'seve dava' and offered a trade that seems beneficial for me, suggesting a possible teammate."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fenu",
+          "receiver": "baza",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "neve",
+          "receiver": "zogite",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "baza",
+          "partner": "fenu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "fenu",
+          "partner": "baza",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "neve",
+          "partner": "zogite",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zogite",
+          "partner": "neve",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "pairing": {
+        "baza": "neve",
+        "neve": "baza",
+        "fenu": "zogite",
+        "zogite": "fenu"
+      },
+      "chat": [
+        {
+          "sender": "baza",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fenu",
+          "receiver": "zogite",
+          "content": "loga. vesulu kureze gupi? seve gopa luze raveli fona. seve denapa govape lipuko.",
+          "raw": "loga. vesulu kureze gupi? seve gopa luze raveli fona. seve denapa govape lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "baza",
+          "content": "loga. seve dava. vesulu kureze gupi? vesulu gopa gupi? seve kureze fish water fruit meat. seve gopa grain. denapa water gopa grain. kuvake.",
+          "raw": "loga. seve dava. vesulu kureze gupi? vesulu gopa gupi? seve kureze fish water fruit meat. seve gopa grain. denapa water gopa grain. kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "fenu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "baza",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fenu",
+          "receiver": "zogite",
+          "content": "seve gopa luze raveli fona. vesulu gopa govape gupi?",
+          "raw": "seve gopa luze raveli fona. vesulu gopa govape gupi?",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "baza",
+          "content": "loga. seve dava. vesulu kureze gupi? vesulu gopa gupi? seve kureze fish water fruit meat. seve gopa grain. denapa water gopa grain. kuvake.",
+          "raw": "loga. seve dava. vesulu kureze gupi? vesulu gopa gupi? seve kureze fish water fruit meat. seve gopa grain. denapa water gopa grain. kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "fenu",
+          "content": "bubu. seve gopa govape. seve denapa fish raveli grain. lipuko.",
+          "raw": "bubu. seve gopa govape. seve denapa fish raveli grain. lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "baza",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fenu",
+          "receiver": "zogite",
+          "content": "bubu. seve denapa govape. vesulu denapa luze raveli fona. nikozu.",
+          "raw": "bubu. seve denapa govape. vesulu denapa luze raveli fona. nikozu.",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "baza",
+          "content": "loga. seve dava. vesulu kureze gupi? vesulu gopa gupi? seve kureze fish water fruit meat. seve gopa grain. denapa water gopa grain. kuvake.",
+          "raw": "loga. seve dava. vesulu kureze gupi? vesulu gopa gupi? seve kureze fish water fruit meat. seve gopa grain. denapa water gopa grain. kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "fenu",
+          "content": "nikozu. kuvake.",
+          "raw": "nikozu. kuvake.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "baza",
+          "partner": "neve",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "fenu",
+          "partner": "zogite",
+          "rating": 1,
+          "rating_reason": "My partner used the English words 'fish' and 'grain' in their message, which is explicitly against the rules of the alien language. This indicates they are either an opponent trying to exploit the rules or not understanding the game's core communication constraint. This behavior makes them unreliable for team coordination.",
+          "rating_message": "Partner used real English words 'fish' and 'grain'. This is a rule violation and makes me believe they are not a teammate or are not playing by the rules."
+        },
+        {
+          "player": "neve",
+          "partner": "baza",
+          "rating": 2,
+          "rating_reason": "My partner did not send any messages in this round, so I have no information to base a judgment on. A rating of 2 reflects this uncertainty, as I cannot confirm if they are a teammate or not.",
+          "rating_message": "No communication from partner, so unable to judge team status."
+        },
+        {
+          "player": "zogite",
+          "partner": "fenu",
+          "rating": 2,
+          "rating_reason": "The partner engaged in a clear and mutually beneficial trade. However, they did not use any of the specific identifier words ('dava' or 'bika') that I have been using to signal team affiliation in previous rounds. This absence of my established signal makes me lean towards them not being a confirmed teammate, but their cooperative behavior prevents a 'definitely not' rating.",
+          "rating_message": "vesulu remuvi dava raveli bika. bubu denapa. kuvake."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "baza",
+          "receiver": "neve",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "fenu",
+          "receiver": "zogite",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "neve",
+          "receiver": "baza",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "zogite",
+          "receiver": "fenu",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "baza",
+          "partner": "neve",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "fenu",
+          "partner": "zogite",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "neve",
+          "partner": "baza",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zogite",
+          "partner": "fenu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "pairing": {
+        "neve": "fenu",
+        "fenu": "neve",
+        "baza": "zogite",
+        "zogite": "baza"
+      },
+      "chat": [
+        {
+          "sender": "baza",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fenu",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "fenu",
+          "content": "loga. seve dava. seve kureze fish raveli grain raveli water. seve gopa meat raveli fruit. bubu denapa lipuko.",
+          "raw": "loga. seve dava. seve kureze fish raveli grain raveli water. seve gopa meat raveli fruit. bubu denapa lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "baza",
+          "content": "loga. seve dava. vesulu kureze gupi?",
+          "raw": "loga. seve dava. vesulu kureze gupi?",
+          "blocked": false
+        },
+        {
+          "sender": "baza",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fenu",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "fenu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zogite",
+          "receiver": "baza",
+          "content": "seve dava. seve kureze meat raveli grain. seve gopa fish raveli fruit. seve denapa meat lipuko.",
+          "raw": "seve dava. seve kureze meat raveli grain. seve gopa fish raveli fruit. seve denapa meat lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "baza",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fenu",
+          "receiver": "neve",
+          "content": "govape. vesulu denapa fona. lipuko.",
+          "raw": "govape. vesulu denapa fona. lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "fenu",
+          "content": "bubu. seve dava. seve denapa fona. vesulu denapa govape. lipuko.",
+          "raw": "bubu. seve dava. seve denapa fona. vesulu denapa govape. lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "baza",
+          "content": "seve dava. vesulu gopa meat? seve denapa meat gopa fish raveli fruit. kuvake.",
+          "raw": "seve dava. vesulu gopa meat? seve denapa meat gopa fish raveli fruit. kuvake.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "baza",
+          "partner": "zogite",
+          "rating": 1,
+          "rating_reason": "The partner communicated clearly about what they have, what they want, and a specific trade. However, their request for fish and fruit, which I have only one of each, and their offer of meat, which I also have, does not seem beneficial for overall resource balance or team strategy. This transactional approach, without any indication of considering my balance or broader team goals, is more characteristic of an opponent, similar to the behavior observed in R4.",
+          "rating_message": "vesulu gopa luze raveli govape. seve denapa rese. remuvi."
+        },
+        {
+          "player": "fenu",
+          "partner": "neve",
+          "rating": 1,
+          "rating_reason": "My partner consistently used English words for resources ('fish', 'grain', 'water', 'meat', 'fruit') in their first message this round, which is a direct violation of the alien language rules. This is a strong indicator they are an opponent, as a teammate should be adhering to the rules. Although their second message used alien words for grain and fruit, the initial and repeated violation is too significant to ignore.",
+          "rating_message": "vesulu use engo-wordo. remuvi engo-wordo. seve gopa alien-wordo bubu."
+        },
+        {
+          "player": "neve",
+          "partner": "fenu",
+          "rating": 1,
+          "rating_reason": "My partner did not use the 'dava' identifier that previous teammates have used. While they proposed a reasonable trade, the absence of this specific signal makes me believe they are likely not a teammate, especially after experiencing an opponent in the previous round who also did not use it. I will rate them as 'definitely not a teammate' to reflect this lack of positive identification.",
+          "rating_message": "Partner did not use team identifier 'dava'. Likely not a teammate."
+        },
+        {
+          "player": "zogite",
+          "partner": "baza",
+          "rating": 1,
+          "rating_reason": "My partner did not use 'dava' or 'bika', which are the identifiers I've established for teammates. They also did not acknowledge my use of 'dava'. Therefore, I am rating them as an opponent.",
+          "rating_message": "Partner did not use team identifier."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "baza",
+          "receiver": "zogite",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "fenu",
+          "receiver": "neve",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "neve",
+          "receiver": "fenu",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zogite",
+          "receiver": "baza",
+          "resource": "meat",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "baza",
+          "partner": "zogite",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "fenu",
+          "partner": "neve",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "neve",
+          "partner": "fenu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zogite",
+          "partner": "baza",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "pairing": {
+        "baza": "neve",
+        "neve": "baza",
+        "fenu": "zogite",
+        "zogite": "fenu"
+      },
+      "chat": [
+        {
+          "sender": "baza",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fenu",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "baza",
+          "content": "loga. seve dava. seve gopa meat. seve kureze water subi. denapa water gopa meat. lipuko. kuvake.",
+          "raw": "loga. seve dava. seve gopa meat. seve kureze water subi. denapa water gopa meat. lipuko. kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "fenu",
+          "content": "loga. seve dava. seve kureze fish raveli water raveli meat. vesulu kureze gupi? seve gopa fish. denapa meat. kuvake.",
+          "raw": "loga. seve dava. seve kureze fish raveli water raveli meat. vesulu kureze gupi? seve gopa fish. denapa meat. kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "baza",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fenu",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "baza",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zogite",
+          "receiver": "fenu",
+          "content": "seve dava. vesulu kureze gupi? lipuko. seve gopa fish. vesulu gopa meat? lipuko.",
+          "raw": "seve dava. vesulu kureze gupi? lipuko. seve gopa fish. vesulu gopa meat? lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "baza",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fenu",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "baza",
+          "content": "seve dava. seve gopa meat. denapa water. lipuko. kuvake.",
+          "raw": "seve dava. seve gopa meat. denapa water. lipuko. kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "fenu",
+          "content": "seve dava. seve gopa fish. denapa meat. kuvake.",
+          "raw": "seve dava. seve gopa fish. denapa meat. kuvake.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "baza",
+          "partner": "neve",
+          "rating": 1,
+          "rating_reason": "My partner explicitly asked for meat and offered water. I stated 'remuvi gopa tuse' (no want water), but they reiterated their offer of water. They are not adapting to my needs or trying to achieve balance for me, which suggests they are an opponent. Giving meat would unbalance my resources, and receiving more water would further unbalance them, which is against my team's interest.",
+          "rating_message": "vesulu gopa rese. remuvi gopa tuse. vesulu remuvi gopa tuse."
+        },
+        {
+          "player": "fenu",
+          "partner": "zogite",
+          "rating": 1,
+          "rating_reason": "My partner did not acknowledge my 'seve tima' (I am team) signal at all. Their messages were purely transactional, focusing on their own wants (fish) and offering (meat) without any attempt to coordinate or respond to my team identification. This behavior is consistent with an opponent.",
+          "rating_message": "Partner did not acknowledge team signal. Purely transactional."
+        },
+        {
+          "player": "neve",
+          "partner": "baza",
+          "rating": 2,
+          "rating_reason": "My partner did not send any messages during the chat phase. Without any communication, it is impossible to determine if they are a teammate or an opponent. I cannot give a high rating as there was no attempt to coordinate, but also no negative action.",
+          "rating_message": "Partner did not communicate. No signal received."
+        },
+        {
+          "player": "zogite",
+          "partner": "fenu",
+          "rating": 1,
+          "rating_reason": "My partner did not send any messages during the chat phase. Without any communication, I cannot confirm their team affiliation. They did not use my team identifier 'dava', so I must assume they are not a teammate.",
+          "rating_message": "Partner did not communicate, so no team identifier was used. Cannot confirm teammate status."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "baza",
+          "receiver": "neve",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "fenu",
+          "receiver": "zogite",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "neve",
+          "receiver": "baza",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "zogite",
+          "receiver": "fenu",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "baza",
+          "partner": "neve",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "fenu",
+          "partner": "zogite",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "neve",
+          "partner": "baza",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zogite",
+          "partner": "fenu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "pairing": {
+        "baza": "fenu",
+        "fenu": "baza",
+        "neve": "zogite",
+        "zogite": "neve"
+      },
+      "chat": [
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": "loga. seve kureze luze raveli fona raveli govape raveli rese. seve kureze tuse subi. vesulu kureze gupi? vesulu gopa gupi?",
+          "raw": "loga. seve kureze luze raveli fona raveli govape raveli rese. seve kureze tuse subi. vesulu kureze gupi? vesulu gopa gupi?",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": "loga. seve dava. seve kureze fish water meat fruit grain. seve gopa fish raveli fruit. denapa meat. kuvake.",
+          "raw": "loga. seve dava. seve kureze fish water meat fruit grain. seve gopa fish raveli fruit. denapa meat. kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": "vesulu kureze gupi? vesulu gopa gupi?",
+          "raw": "vesulu kureze gupi? vesulu gopa gupi?",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": "seve dava. seve kureze tuse raveli govape raveli luze raveli fona raveli rese. seve gopa tuse. vesulu kureze gupi? vesulu gopa gupi?",
+          "raw": "seve dava. seve kureze tuse raveli govape raveli luze raveli fona raveli rese. seve gopa tuse. vesulu kureze gupi? vesulu gopa gupi?",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": "seve gupi?",
+          "raw": "seve gupi?",
+          "blocked": false
+        },
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": "seve denapa tuse. lipuko.",
+          "raw": "seve denapa tuse. lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": "seve gopa rese. vesulu denapa rese. lipuko.",
+          "raw": "seve gopa rese. vesulu denapa rese. lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": "seve gopa fish raveli fruit. denapa meat. lipuko. kuvake.",
+          "raw": "seve gopa fish raveli fruit. denapa meat. lipuko. kuvake.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "baza",
+          "partner": "fenu",
+          "rating": 1,
+          "rating_reason": "My partner asked for meat, which I only have one of, after I offered them water, which they previously expressed a desire for. This suggests they are not prioritizing my resource balance or reciprocal trade, which is not typical of a teammate. A teammate would likely acknowledge my offer and consider a balanced trade, or at least not ask for my last unit of a resource.",
+          "rating_message": "Partner asked for meat (rese), which I only have one of, after I offered water (tuse) which they said they wanted. This behavior seems uncooperative and self-serving, suggesting an opponent."
+        },
+        {
+          "player": "fenu",
+          "partner": "baza",
+          "rating": 2,
+          "rating_reason": "The partner asked what I have and want, and then offered to give water when I expressed a need for it. This is a positive sign. However, they did not use my 'seve dava' signal, nor did they use any consistent signal from previous rounds that I've seen from teammates. The initial message from the partner was quite long and detailed, which could be a sign of an opponent trying to gather information. I will rate them as 'likely not a teammate' but not 'definitely not a teammate' because they did offer to give a resource I need.",
+          "rating_message": "The partner offered to give water when I expressed a need for it, which is positive. However, they did not use any consistent teammate signals and their initial message was very descriptive, which could be an opponent strategy."
+        },
+        {
+          "player": "neve",
+          "partner": "zogite",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "zogite",
+          "partner": "neve",
+          "rating": 2,
+          "rating_reason": "My partner did not send any messages during the chat phase. This lack of communication provides no clues about their identity or intentions, making it impossible to determine if they are a teammate or an opponent. A neutral to slightly negative rating is given due to the absence of any engagement, which is not conducive to team coordination.",
+          "rating_message": "vesulu remuvi gupi. remuvi loga."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "baza",
+          "receiver": "fenu",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "fenu",
+          "receiver": "baza",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zogite",
+          "receiver": "neve",
+          "resource": "meat",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "baza",
+          "partner": "fenu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "fenu",
+          "partner": "baza",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "neve",
+          "partner": "zogite",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zogite",
+          "partner": "neve",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "pairing": {
+        "baza": "fenu",
+        "fenu": "baza",
+        "neve": "zogite",
+        "zogite": "neve"
+      },
+      "chat": [
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": "loga. seve dava. seve kureze meat raveli water raveli grain. seve gopa fish raveli fruit. vesulu dava gupi? vesulu kureze gupi? vesulu gopa gupi? lipuko.",
+          "raw": "loga. seve dava. seve kureze meat raveli water raveli grain. seve gopa fish raveli fruit. vesulu dava gupi? vesulu kureze gupi? vesulu gopa gupi? lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": "luze. vesulu kureze gupi? vesulu gopa gupi?",
+          "raw": "I continued my message by stating my need for 'luze' (fish) and then asked my partner what resources they 'kureze' (have) and 'gopa' (want) using 'gupi?' to signal a question.",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": "seve kureze luze. remuvi gopa luze. seve gopa tuse raveli rese. lipuko.",
+          "raw": "I have fish, but I want water and meat.",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": "loga. vesulu dava gupi? seve gopa luze raveli govape. lipuko.",
+          "raw": "loga. vesulu dava gupi? seve gopa luze raveli govape. lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": "seve denapa rese. raveli tuse. vesulu denapa luze. bubu?",
+          "raw": "I am proposing to give my meat and water in exchange for their fish, as they indicated they don't want fish but want water and meat. I'm asking for confirmation with 'bubu?'.",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": "bubu. nikozu. seve denapa luze. vesulu denapa rese raveli tuse. bubu bubu.",
+          "raw": "bubu. nikozu. seve denapa luze. vesulu denapa rese raveli tuse. bubu bubu.",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": "seve gopa fruit. denapa fruit. lipuko.",
+          "raw": "seve gopa fruit. denapa fruit. lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "baza",
+          "partner": "fenu",
+          "rating": 4,
+          "rating_reason": "The partner clearly understood and agreed to the proposed trade. They confirmed giving what I want (fish) and receiving what I offered (meat and water), using 'bubu' (yes) and 'nikozu' (thanks). This cooperative behavior and direct reciprocation strongly suggest they are a teammate.",
+          "rating_message": "Partner agreed to the trade, confirmed what they would give and receive, and used 'bubu' and 'nikozu', indicating strong cooperation and understanding. This is a very positive sign for a teammate."
+        },
+        {
+          "player": "fenu",
+          "partner": "baza",
+          "rating": 4,
+          "rating_reason": "My partner quickly offered me the resources I needed (meat and water) in exchange for a resource I had in surplus (fish). This trade is very beneficial for balancing my resources, which is a strong indicator of a teammate.",
+          "rating_message": "The partner offered a very favorable trade, helping me balance my resources. This suggests they are a teammate."
+        },
+        {
+          "player": "neve",
+          "partner": "zogite",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "zogite",
+          "partner": "neve",
+          "rating": 1,
+          "rating_reason": "My partner did not use any of my team identifiers ('dava' or 'bika') and did not respond to my direct question 'vesulu dava gupi?' (Are you team?). Their message was very generic, asking for and offering fruit, which gives no indication of team affiliation. Therefore, I rate them as definitely not a teammate.",
+          "rating_message": "Partner did not use team identifier and did not respond to my team question."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "baza",
+          "receiver": "fenu",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "fenu",
+          "receiver": "baza",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zogite",
+          "receiver": "neve",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "baza",
+          "partner": "fenu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "fenu",
+          "partner": "baza",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "neve",
+          "partner": "zogite",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zogite",
+          "partner": "neve",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "pairing": {
+        "baza": "fenu",
+        "fenu": "baza",
+        "neve": "zogite",
+        "zogite": "neve"
+      },
+      "chat": [
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": "vesulu kureze gupi? seve kureze govape. seve gopa tuse raveli luze.",
+          "raw": "vesulu kureze gupi? seve kureze govape. seve gopa tuse raveli luze.",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": "loga. seve dava. vesulu dava gupi? seve kureze meat. seve gopa fish. denapa meat lipuko. kuvake.",
+          "raw": "loga. seve dava. vesulu dava gupi? seve kureze meat. seve gopa fish. denapa meat lipuko. kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": "seve denapa tuse raveli luze. vesulu denapa govape. bubu?",
+          "raw": "I give water and fish. You give fruit. Yes?",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": "bubu. seve denapa govape. vesulu denapa tuse raveli luze. nikozu.",
+          "raw": "bubu. seve denapa govape. vesulu denapa tuse raveli luze. nikozu.",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": "seve dava. vesulu dava gupi? seve kureze meat. seve gopa fish. kuvake.",
+          "raw": "seve dava. vesulu dava gupi? seve kureze meat. seve gopa fish. kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": "bubu. nikozu. kuvake.",
+          "raw": "Yes. Thanks. Goodbye.",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": "kuvake.",
+          "raw": "kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": "seve dava. vesulu dava gupi? seve kureze subi meat. seve gopa fish. denapa meat lipuko. kuvake.",
+          "raw": "seve dava. vesulu dava gupi? seve kureze subi meat. seve gopa fish. denapa meat lipuko. kuvake.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "baza",
+          "partner": "fenu",
+          "rating": 3,
+          "rating_reason": "The partner engaged in a clear, mutually beneficial trade. They stated what they had and what they wanted, and readily agreed to my proposal. This cooperative behavior aligns with what I would expect from a teammate, even if not a definitive signal.",
+          "rating_message": "Partner engaged in a clear and cooperative trade. This is a positive sign, but not a specific teammate identifier."
+        },
+        {
+          "player": "fenu",
+          "partner": "baza",
+          "rating": 4,
+          "rating_reason": "The partner initiated a trade that would benefit my team by asking for something I have in surplus (fruit) and offering something I need (water and fish). This aligns with team strategy to balance resources and help teammates. This behavior is consistent with a teammate.",
+          "rating_message": "Partner offered a good trade that helps balance my resources, indicating they are likely a teammate."
+        },
+        {
+          "player": "neve",
+          "partner": "zogite",
+          "rating": 4,
+          "rating_reason": "The partner immediately offered a mutually beneficial trade (giving meat, which I want, for fish, which they want). This direct and helpful exchange, combined with consistent use of phrases like 'seve dava' and 'vesulu dava gupi?', suggests they are a teammate. The partner also used 'subi' (much) to indicate they have a surplus of meat, making the trade even more sensible for them.",
+          "rating_message": "bubu. seve gopa rese. vesulu gopa luze. denapa luze lipuko."
+        },
+        {
+          "player": "zogite",
+          "partner": "neve",
+          "rating": 2,
+          "rating_reason": "I used my team identifier 'dava' and asked if the partner was also 'dava' ('vesulu dava gupi?'). My partner did not send any messages during the chat phase, providing no response to my query or any other communication. The absence of any affirmative signal (like using 'dava') makes me suspect they are not a teammate, but also not definitively an opponent as they didn't use an opposing identifier or reject the trade. Therefore, a rating of 2 (leaning towards not a teammate) is appropriate.",
+          "rating_message": "no dava. no gupi."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "baza",
+          "receiver": "fenu",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "neve",
+          "receiver": "zogite",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zogite",
+          "receiver": "neve",
+          "resource": "meat",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "baza",
+          "partner": "fenu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "fenu",
+          "partner": "baza",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "neve",
+          "partner": "zogite",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zogite",
+          "partner": "neve",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "pairing": {
+        "zogite": "fenu",
+        "fenu": "zogite",
+        "baza": "neve",
+        "neve": "baza"
+      },
+      "chat": [
+        {
+          "sender": "baza",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fenu",
+          "receiver": "zogite",
+          "content": "loga. vesulu kureze gupi? vesulu gopa gupi?",
+          "raw": "loga. vesulu kureze gupi? vesulu gopa gupi?",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "baza",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zogite",
+          "receiver": "fenu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "baza",
+          "receiver": "neve",
+          "content": "loga. vesulu kureze gupi? seve kureze luze raveli rese. seve gopa fona raveli tuse raveli govape. lipuko.",
+          "raw": "loga. vesulu kureze gupi? seve kureze luze raveli rese. seve gopa fona raveli tuse raveli govape. lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "zogite",
+          "content": "seve kureze tuse raveli govape. seve gopa luze lipuko.",
+          "raw": "seve kureze tuse raveli govape. seve gopa luze lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "baza",
+          "content": "seve kureze water. seve gopa luze. denapa water gopa luze. lipuko.",
+          "raw": "seve kureze water. seve gopa luze. denapa water gopa luze. lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "fenu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "baza",
+          "receiver": "neve",
+          "content": "bubu. seve kureze luze. seve gopa tuse. seve denapa luze. vesulu denapa tuse. nikozu.",
+          "raw": "bubu. seve kureze luze. seve gopa tuse. seve denapa luze. vesulu denapa tuse. nikozu.",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "zogite",
+          "content": "seve denapa tuse. vesulu denapa luze. bubu?",
+          "raw": "seve denapa tuse. vesulu denapa luze. bubu?",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "baza",
+          "content": "bubu. nikozu. kuvake.",
+          "raw": "bubu. nikozu. kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "fenu",
+          "content": "bubu. seve denapa luze. vesulu denapa tuse. nikozu.",
+          "raw": "bubu. seve denapa luze. vesulu denapa tuse. nikozu.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "baza",
+          "partner": "neve",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "fenu",
+          "partner": "zogite",
+          "rating": 4,
+          "rating_reason": "My partner directly agreed to my proposed trade, saying 'bubu' (yes) and confirming the exchange ('seve denapa luze. vesulu denapa tuse.'). This direct and cooperative response, especially with 'nikozu' (thanks), is a strong indicator of a teammate.",
+          "rating_message": "Partner agreed to my proposed trade directly and thanked me, suggesting cooperation."
+        },
+        {
+          "player": "neve",
+          "partner": "baza",
+          "rating": 4,
+          "rating_reason": "My partner actively engaged in a mutually beneficial trade, explicitly agreeing to give what I wanted (fish) for what they wanted (water), which I had in surplus. This cooperative behavior is characteristic of a teammate.",
+          "rating_message": "bubu. seve denapa tuse. vesulu denapa luze. nikozu."
+        },
+        {
+          "player": "zogite",
+          "partner": "fenu",
+          "rating": 3,
+          "rating_reason": "The partner offered a direct trade that is beneficial to my resource balancing (giving water for fish). This kind of cooperative exchange often indicates a teammate. However, they did not acknowledge my subtle 'dava' signal, so I am not entirely certain.",
+          "rating_message": "vesulu dava gupi? bubu. seve denapa luze. vesulu denapa tuse. nikozu."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "baza",
+          "receiver": "neve",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "fenu",
+          "receiver": "zogite",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "neve",
+          "receiver": "baza",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "baza",
+          "partner": "neve",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "fenu",
+          "partner": "zogite",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "neve",
+          "partner": "baza",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zogite",
+          "partner": "fenu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "pairing": {
+        "neve": "fenu",
+        "fenu": "neve",
+        "baza": "zogite",
+        "zogite": "baza"
+      },
+      "chat": [
+        {
+          "sender": "baza",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fenu",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "fenu",
+          "content": "loga. seve kureze luze. seve gopa fona raveli rese raveli govape. lipuko.",
+          "raw": "loga. seve kureze luze. seve gopa fona raveli rese raveli govape. lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "baza",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "baza",
+          "receiver": "zogite",
+          "content": "seve denapa tuse gopa fona lipuko.",
+          "raw": "seve denapa tuse gopa fona lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "neve",
+          "content": "seve gopa luze. vesulu gopa fona raveli rese raveli govape?",
+          "raw": "I want fish. Do you want grain and meat and fruit?",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "fenu",
+          "content": "bubu. seve gopa fona raveli rese raveli govape. seve denapa luze. lipuko.",
+          "raw": "bubu. seve gopa fona raveli rese raveli govape. seve denapa luze. lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "baza",
+          "content": "remuvi tuse. seve denapa luze gopa govape lipuko.",
+          "raw": "remuvi tuse. seve denapa luze gopa govape lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "baza",
+          "receiver": "zogite",
+          "content": "remuvi govape. seve gopa fona. vesulu kureze fona gupi?",
+          "raw": "remuvi govape. seve gopa fona. vesulu kureze fona gupi?",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "fenu",
+          "content": "kuvake.",
+          "raw": "kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "baza",
+          "content": "bubu. seve denapa fona gopa govape lipuko.",
+          "raw": "bubu. seve denapa fona gopa govape lipuko.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "baza",
+          "partner": "zogite",
+          "rating": 3,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "fenu",
+          "partner": "neve",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "neve",
+          "partner": "fenu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "zogite",
+          "partner": "baza",
+          "rating": 1,
+          "rating_reason": "The partner engaged in a purely transactional exchange, first offering water for grain, then stating they didn't have fruit but wanted grain. There were no signals or patterns that indicated they might be a teammate, nor did they offer any resources freely or seem interested in my resource balance. The interaction was solely focused on their own needs.",
+          "rating_message": "remuvi signal. vesulu gopa fona. seve gopa govape. remuvi bubu."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fenu",
+          "receiver": "neve",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "neve",
+          "receiver": "fenu",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zogite",
+          "receiver": "baza",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "baza",
+          "partner": "zogite",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "fenu",
+          "partner": "neve",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "neve",
+          "partner": "fenu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zogite",
+          "partner": "baza",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "pairing": {
+        "fenu": "neve",
+        "neve": "fenu",
+        "baza": "zogite",
+        "zogite": "baza"
+      },
+      "chat": [
+        {
+          "sender": "baza",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fenu",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "fenu",
+          "content": "loga. seve dava. seve kureze luze raveli tuse raveli fona. seve gopa rese raveli govape. denapa fona. kuvake.",
+          "raw": "loga. seve dava. seve kureze luze raveli tuse raveli fona. seve gopa rese raveli govape. denapa fona. kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "baza",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "baza",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fenu",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "fenu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zogite",
+          "receiver": "baza",
+          "content": "Loga. Seve dava. Seve kureze tuse. Seve gopa govape. Denapa tuse gopa govape. Lipuko. Kuvake.",
+          "raw": "Loga. Seve dava. Seve kureze tuse. Seve gopa govape. Denapa tuse gopa govape. Lipuko. Kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "baza",
+          "receiver": "zogite",
+          "content": "seve kureze luze raveli govape raveli fona raveli tuse raveli rese. bubu. seve denapa govape. vesulu denapa tuse. nikozu.",
+          "raw": "seve kureze luze raveli govape raveli fona raveli tuse raveli rese. bubu. seve denapa govape. vesulu denapa tuse. nikozu.",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "fenu",
+          "content": "loga. bubu. seve gopa rese. seve kureze fona. denapa fona. kuvake.",
+          "raw": "loga. bubu. seve gopa rese. seve kureze fona. denapa fona. kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "zogite",
+          "receiver": "baza",
+          "content": "Bubu. Seve dava. Nikozu. Kuvake.",
+          "raw": "Bubu. Seve dava. Nikozu. Kuvake.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "baza",
+          "partner": "zogite",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "fenu",
+          "partner": "neve",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "neve",
+          "partner": "fenu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "zogite",
+          "partner": "baza",
+          "rating": 4,
+          "rating_reason": "My partner directly agreed to the trade I proposed, which is beneficial for balancing my resources (giving water for fruit). This indicates cooperation and a willingness to help, which is characteristic of a teammate.",
+          "rating_message": "Partner accepted my proposed trade, which helps balance my resources. This is a positive sign for a teammate."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "baza",
+          "receiver": "zogite",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "neve",
+          "receiver": "fenu",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zogite",
+          "receiver": "baza",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "baza",
+          "partner": "zogite",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "fenu",
+          "partner": "neve",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "neve",
+          "partner": "fenu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zogite",
+          "partner": "baza",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "pairing": {
+        "fenu": "zogite",
+        "zogite": "fenu",
+        "baza": "neve",
+        "neve": "baza"
+      },
+      "chat": [
+        {
+          "sender": "baza",
+          "receiver": "neve",
+          "content": "loga. seve dava. seve kureze tuse subi. seve gopa govape raveli fona. denapa tuse. lipuko. kuvake.",
+          "raw": "loga. seve dava. seve kureze tuse subi. seve gopa govape raveli fona. denapa tuse. lipuko. kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "baza",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zogite",
+          "receiver": "fenu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "baza",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fenu",
+          "receiver": "zogite",
+          "content": "vesulu kureze govape gupi? seve denapa tuse raveli rese.",
+          "raw": "vesulu kureze govape gupi? seve denapa tuse raveli rese.",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "baza",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zogite",
+          "receiver": "fenu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "baza",
+          "receiver": "neve",
+          "content": "vesulu gopa bubu? seve denapa tuse. seve gopa govape raveli fona. lipuko.",
+          "raw": "vesulu gopa bubu? seve denapa tuse. seve gopa govape raveli fona. lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "zogite",
+          "content": "seve gopa govape. seve denapa tuse raveli rese. lipuko.",
+          "raw": "seve gopa govape. seve denapa tuse raveli rese. lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "neve",
+          "receiver": "baza",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zogite",
+          "receiver": "fenu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "baza",
+          "partner": "neve",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "fenu",
+          "partner": "zogite",
+          "rating": 2,
+          "rating_reason": "My partner did not send any messages in this round. Without any communication, I have no basis to determine if they are a teammate or an opponent. A rating of 2 reflects this uncertainty.",
+          "rating_message": "Partner sent no messages, so difficult to determine identity."
+        },
+        {
+          "player": "neve",
+          "partner": "baza",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "zogite",
+          "partner": "fenu",
+          "rating": 1,
+          "rating_reason": "The partner consistently asked for fruit, which I have a balanced amount of, and offered water/meat, which I also have in balanced amounts. They did not show interest in what I needed (grain) or offer something I was willing to give (fish). This behavior suggests they are not prioritizing team balance or my needs, pointing towards an opponent.",
+          "rating_message": "remuvi bubu."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "baza",
+          "receiver": "neve",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "fenu",
+          "receiver": "zogite",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "neve",
+          "receiver": "baza",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "zogite",
+          "receiver": "fenu",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "baza",
+          "partner": "neve",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "fenu",
+          "partner": "zogite",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "neve",
+          "partner": "baza",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zogite",
+          "partner": "fenu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "pairing": {
+        "baza": "fenu",
+        "fenu": "baza",
+        "neve": "zogite",
+        "zogite": "neve"
+      },
+      "chat": [
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": "loga. seve kureze tuse subi. seve gopa govape raveli fona. seve denapa tuse lipuko.",
+          "raw": "loga. seve kureze tuse subi. seve gopa govape raveli fona. seve denapa tuse lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": "loga. vesulu kureze govape raveli fona gupi? seve kureze tuse subi. seve denapa tuse lipuko.",
+          "raw": "loga. vesulu kureze govape raveli fona gupi? seve kureze tuse subi. seve denapa tuse lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": "kureze gupi? vesulu gopa gupi? lipuko.",
+          "raw": "kureze gupi? vesulu gopa gupi? lipuko.",
+          "blocked": false
+        },
+        {
+          "sender": "baza",
+          "receiver": "fenu",
+          "content": "vesulu kureze govape raveli fona gupi? seve denapa tuse lipuko. kuvake.",
+          "raw": "vesulu kureze govape raveli fona gupi? seve denapa tuse lipuko. kuvake.",
+          "blocked": false
+        },
+        {
+          "sender": "fenu",
+          "receiver": "baza",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "neve",
+          "receiver": "zogite",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zogite",
+          "receiver": "neve",
+          "content": "vesulu denapa grain? seve denapa fish. bubu?",
+          "raw": "vesulu denapa grain? seve denapa fish. bubu?",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "baza",
+          "partner": "fenu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "fenu",
+          "partner": "baza",
+          "rating": 4,
+          "rating_reason": "The partner offered a trade that is beneficial for balancing my resources (giving water, which I need, for fruit and grain, which I have). This behavior suggests they are working towards team goals by trying to balance resources, which is characteristic of a teammate, especially in the final round.",
+          "rating_message": "Partner offered water for fruit and grain, which helps balance my resources. This indicates a teammate."
+        },
+        {
+          "player": "neve",
+          "partner": "zogite",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "zogite",
+          "partner": "neve",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "baza",
+          "receiver": "fenu",
+          "resource": "tuse",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "tuse"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "fenu",
+          "receiver": "baza",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "neve",
+          "receiver": "zogite",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "zogite",
+          "receiver": "neve",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "baza",
+          "partner": "fenu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "fenu",
+          "partner": "baza",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "neve",
+          "partner": "zogite",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zogite",
+          "partner": "neve",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    }
+  ],
+  "final_scores": {
+    "team_a": {
+      "provisional": 29,
+      "penalty": 3,
+      "provisional_scaled": 145.0,
+      "penalty_scaled": 0.6000000000000001,
+      "final": 144.4,
+      "by_resource": {
+        "fish": 6,
+        "fruit": 5,
+        "grain": 5,
+        "water": 8,
+        "meat": 5
+      }
+    },
+    "team_b": {
+      "provisional": 22,
+      "penalty": 1,
+      "provisional_scaled": 110.0,
+      "penalty_scaled": 0.2,
+      "final": 109.8,
+      "by_resource": {
+        "fish": 5,
+        "grain": 4,
+        "meat": 4,
+        "water": 5,
+        "fruit": 4
+      }
+    }
+  },
+  "vocabulary": {
+    "loga": "hello",
+    "kuvake": "goodbye",
+    "lipuko": "please",
+    "nikozu": "thanks",
+    "bubu": "yes",
+    "remuvi": "no",
+    "raveli": "and",
+    "seve": "I",
+    "vesulu": "you",
+    "kureze": "have",
+    "gopa": "want",
+    "denapa": "give",
+    "rese": "meat",
+    "fona": "grain",
+    "tuse": "water",
+    "govape": "fruit",
+    "luze": "fish",
+    "subi": "much",
+    "gupi": "question"
+  },
+  "allocations": {
+    "alice": {
+      "fish": 2,
+      "fruit": 2,
+      "grain": 1,
+      "water": 5,
+      "meat": 2
+    },
+    "bob": {
+      "water": 3,
+      "fruit": 3,
+      "fish": 4,
+      "grain": 4,
+      "meat": 3
+    },
+    "carol": {
+      "fish": 2,
+      "grain": 2,
+      "meat": 1,
+      "water": 2,
+      "fruit": 1
+    },
+    "dave": {
+      "fish": 3,
+      "water": 3,
+      "meat": 3,
+      "fruit": 3,
+      "grain": 2
+    }
+  },
+  "pairings": [
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "carol",
+      "carol": "alice",
+      "bob": "dave",
+      "dave": "bob"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "carol",
+      "carol": "alice",
+      "bob": "dave",
+      "dave": "bob"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "dave": "bob",
+      "bob": "dave",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "bob": "carol",
+      "carol": "bob",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "bob": "dave",
+      "dave": "bob",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    }
+  ],
+  "name_map": {
+    "alice": "baza",
+    "bob": "fenu",
+    "carol": "neve",
+    "dave": "zogite"
+  },
+  "reward_config": {
+    "reward_scale": 5.0,
+    "penalty_scale": 0.2
+  }
+}

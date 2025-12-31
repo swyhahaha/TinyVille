@@ -1,0 +1,3251 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "pairing": {
+        "lebado": "pasi",
+        "pasi": "lebado",
+        "gevo": "tonu",
+        "tonu": "gevo"
+      },
+      "chat": [
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": "duzaso. depuge gaka zareke nuni. depuge beka zolami pumole remili. zapuvi nuni.",
+          "raw": "duzaso. depuge gaka zareke nuni. depuge beka zolami pumole remili. zapuvi nuni.",
+          "blocked": false
+        },
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": "depuge beka remili",
+          "raw": "depuge beka remili",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": "depuge gaka duma nuni. depuge beka zareke. gigura.",
+          "raw": "depuge gaka duma nuni. depuge beka zareke. gigura.",
+          "blocked": false
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "lebado",
+          "partner": "pasi",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "pasi",
+          "partner": "lebado",
+          "rating": 4,
+          "rating_reason": "The game rules state that the first two rounds are guaranteed to pair me with a teammate. Therefore, this partner is definitely a teammate.",
+          "rating_message": "depuge peketo zapuvi. peketo depuge"
+        },
+        {
+          "player": "gevo",
+          "partner": "tonu",
+          "rating": 4,
+          "rating_reason": "The instructions state that the first two rounds are guaranteed to be with a teammate. Therefore, I rate my partner as definitely a teammate.",
+          "rating_message": "First two rounds are guaranteed teammate, so rating 4."
+        },
+        {
+          "player": "tonu",
+          "partner": "gevo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "lebado",
+          "receiver": "pasi",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "pasi",
+          "receiver": "lebado",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "tonu",
+          "receiver": "gevo",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "lebado",
+          "partner": "pasi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "pasi",
+          "partner": "lebado",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gevo",
+          "partner": "tonu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tonu",
+          "partner": "gevo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "pairing": {
+        "lebado": "pasi",
+        "pasi": "lebado",
+        "gevo": "tonu",
+        "tonu": "gevo"
+      },
+      "chat": [
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": "peketo nodu koro? depuge gaka gaka koro.",
+          "raw": "peketo nodu koro? depuge gaka gaka koro.",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": "duzaso. depuge gaka zareke nuni. depuge beka liku pumole zolami. peketo zapuvi?",
+          "raw": "duzaso. depuge gaka zareke nuni. depuge beka liku pumole zolami. peketo zapuvi?",
+          "blocked": false
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": "depuge koro. peketo koro? peketo gaka? depuge beka fish nuni.",
+          "raw": "depuge koro. peketo koro? peketo gaka? depuge beka fish nuni.",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": "zapuvi depuge beka remili. peketo beka liku?",
+          "raw": "zapuvi depuge beka remili. peketo beka liku?",
+          "blocked": false
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": "depuge gaka zareke damama nuni. depuge beka liku pumole zolami damama. peketo nodu zareke? peketo gaka liku?",
+          "raw": "depuge gaka zareke damama nuni. depuge beka liku pumole zolami damama. peketo nodu zareke? peketo gaka liku?",
+          "blocked": false
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": "depuge nodu zareke vasi. depuge gaka zareke. depuge beka zolami. peketo beka zareke?",
+          "raw": "depuge nodu zareke vasi. depuge gaka zareke. depuge beka zolami. peketo beka zareke?",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "lebado",
+          "partner": "pasi",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "pasi",
+          "partner": "lebado",
+          "rating": 4,
+          "rating_reason": "The game rules state that the first two rounds are guaranteed to pair me with a teammate. Therefore, I am certain this partner is a teammate.",
+          "rating_message": "Round 2 is always a teammate."
+        },
+        {
+          "player": "gevo",
+          "partner": "tonu",
+          "rating": 4,
+          "rating_reason": "The game instructions state that the first two rounds are guaranteed to be with a teammate. Therefore, my partner is definitely a teammate. Their message, while a bit confusing ('depuge nodu zareke vasi. depuge gaka zareke.'), still indicates an attempt to communicate and trade, which aligns with cooperative behavior for a teammate.",
+          "rating_message": "Definitely a teammate, as per game rules for Round 2."
+        },
+        {
+          "player": "tonu",
+          "partner": "gevo",
+          "rating": 4,
+          "rating_reason": "It is Round 2, and the first two rounds are guaranteed to be with a teammate. Therefore, my partner is a teammate.",
+          "rating_message": "depuge zapuvi peketo teammate."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "pasi",
+          "receiver": "lebado",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "tonu",
+          "receiver": "gevo",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "lebado",
+          "partner": "pasi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "pasi",
+          "partner": "lebado",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gevo",
+          "partner": "tonu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tonu",
+          "partner": "gevo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "pairing": {
+        "lebado": "pasi",
+        "pasi": "lebado",
+        "gevo": "tonu",
+        "tonu": "gevo"
+      },
+      "chat": [
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": "beka remili.",
+          "raw": "beka remili.",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": "depuge gaka zareke pumole duma nuni. depuge beka zolami.",
+          "raw": "depuge gaka zareke pumole duma nuni. depuge beka zolami.",
+          "blocked": false
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": "peketo gaka kireka?",
+          "raw": "peketo gaka kireka?",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": "depuge gaka remili. depuge beka zolami nuni.",
+          "raw": "depuge gaka remili. depuge beka zolami nuni.",
+          "blocked": false
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": "peketo beka zareke pumole duma kireka? depuge beka zolami damama.",
+          "raw": "peketo beka zareke pumole duma kireka? depuge beka zolami damama.",
+          "blocked": false
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "lebado",
+          "partner": "pasi",
+          "rating": 3,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "pasi",
+          "partner": "lebado",
+          "rating": 2,
+          "rating_reason": "There is no strong indication that this partner is a teammate. The communication was functional, but did not contain any specific signals or patterns that would suggest team affiliation. It's Round 3, so a teammate is no longer guaranteed.",
+          "rating_message": "No specific team signal detected."
+        },
+        {
+          "player": "gevo",
+          "partner": "tonu",
+          "rating": 2,
+          "rating_reason": "I received no messages from my partner this round, so I have no information to determine if they are a teammate or an opponent. A neutral rating is appropriate.",
+          "rating_message": "No communication from partner, so cannot assess teammate status."
+        },
+        {
+          "player": "tonu",
+          "partner": "gevo",
+          "rating": 1,
+          "rating_reason": "Partner asked for water and meat, which I am low on (0 water, 1 meat), and offered fruit which I already have. This behavior does not seem aligned with helping a teammate balance resources.",
+          "rating_message": "Partner requested resources I need or have very little of, and offered resources I already possess. This is not helpful for team balance."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "lebado",
+          "receiver": "pasi",
+          "resource": "fish",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "pasi",
+          "receiver": "lebado",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "gevo",
+          "receiver": "tonu",
+          "resource": "fruit",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "tonu",
+          "receiver": "gevo",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "lebado",
+          "partner": "pasi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "pasi",
+          "partner": "lebado",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gevo",
+          "partner": "tonu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tonu",
+          "partner": "gevo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "pairing": {
+        "lebado": "tonu",
+        "tonu": "lebado",
+        "pasi": "gevo",
+        "gevo": "pasi"
+      },
+      "chat": [
+        {
+          "sender": "lebado",
+          "receiver": "tonu",
+          "content": "depuge gaka duma. depuge beka zolami nuni.",
+          "raw": "depuge gaka duma. depuge beka zolami nuni.",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "pasi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lebado",
+          "receiver": "tonu",
+          "content": "depuge gaka duma. gaka liku. depuge beka zolami nuni.",
+          "raw": "depuge gaka duma. gaka liku. depuge beka zolami nuni.",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "gevo",
+          "content": "depuge beka remili. peketo gaka liku?",
+          "raw": "I give fish. You want grain?",
+          "blocked": false
+        },
+        {
+          "sender": "gevo",
+          "receiver": "pasi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lebado",
+          "receiver": "tonu",
+          "content": "depuge gaka duma. gaka liku. depuge beka zolami pumole remili nuni.",
+          "raw": "depuge gaka duma. gaka liku. depuge beka zolami pumole remili nuni.",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "pasi",
+          "content": "zapuvi. depuge beka liku. depuge gaka zareke. depuge gaka duma. depuge vasi gaka remili. gobebe.",
+          "raw": "zapuvi. depuge beka liku. depuge gaka zareke. depuge gaka duma. depuge vasi gaka remili. gobebe.",
+          "blocked": false
+        },
+        {
+          "sender": "tonu",
+          "receiver": "lebado",
+          "content": "peketo nodu zareke? depuge beka fish nuni.",
+          "raw": "peketo nodu zareke? depuge beka fish nuni.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "lebado",
+          "partner": "tonu",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "pasi",
+          "partner": "gevo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "gevo",
+          "partner": "pasi",
+          "rating": 2,
+          "rating_reason": "The partner made a straightforward trade offer (fish for grain) which did not align with my stated needs (water and meat). They did not acknowledge my requests for water or meat, nor did they respond to my explicit statement that I do not want fish. This indicates a lack of cooperative intent beyond a simple resource swap, making them less likely to be a teammate.",
+          "rating_message": "Partner offered fish for grain, but I stated I need water and meat and do not want fish. No indication of aligning with my resource needs."
+        },
+        {
+          "player": "tonu",
+          "partner": "lebado",
+          "rating": 2,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "lebado",
+          "receiver": "tonu",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "gevo",
+          "receiver": "pasi",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "tonu",
+          "receiver": "lebado",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "lebado",
+          "partner": "tonu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "pasi",
+          "partner": "gevo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gevo",
+          "partner": "pasi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tonu",
+          "partner": "lebado",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "pairing": {
+        "lebado": "tonu",
+        "tonu": "lebado",
+        "pasi": "gevo",
+        "gevo": "pasi"
+      },
+      "chat": [
+        {
+          "sender": "lebado",
+          "receiver": "tonu",
+          "content": "depuge gaka duma nuni. depuge beka zolami.",
+          "raw": "depuge gaka duma nuni. depuge beka zolami.",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "pasi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lebado",
+          "receiver": "tonu",
+          "content": "depuge gaka duma. peketo gaka zolami?",
+          "raw": "depuge gaka duma. peketo gaka zolami?",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "gevo",
+          "content": "depuge gaka zolami. depuge beka remili. koro.",
+          "raw": "depuge gaka zolami. depuge beka remili. koro.",
+          "blocked": false
+        },
+        {
+          "sender": "gevo",
+          "receiver": "pasi",
+          "content": "zapuvi. depuge beka zolami. peketo nodu zareke? peketo nodu duma?",
+          "raw": "zapuvi. depuge beka zolami. peketo nodu zareke? peketo nodu duma?",
+          "blocked": false
+        },
+        {
+          "sender": "tonu",
+          "receiver": "lebado",
+          "content": "depuge gaka zareke damama nuni. depuge beka remili damama.",
+          "raw": "depuge gaka zareke damama nuni. depuge beka remili damama.",
+          "blocked": false
+        },
+        {
+          "sender": "lebado",
+          "receiver": "tonu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pasi",
+          "receiver": "gevo",
+          "content": "zapuvi. depuge gaka zolami. depuge beka remili. depuge nodu zareke. depuge nodu duma. peketo gaka remili kireka?",
+          "raw": "zapuvi. depuge gaka zolami. depuge beka remili. depuge nodu zareke. depuge nodu duma. peketo gaka remili kireka?",
+          "blocked": false
+        },
+        {
+          "sender": "gevo",
+          "receiver": "pasi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "lebado",
+          "content": "vasi, depuge vasi gaka zolami. depuge gaka zareke nuni. depuge beka remili damama.",
+          "raw": "vasi, depuge vasi gaka zolami. depuge gaka zareke nuni. depuge beka remili damama.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "lebado",
+          "partner": "tonu",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "pasi",
+          "partner": "gevo",
+          "rating": 1,
+          "rating_reason": "My partner did not use the 'koro' signal, which I have been using to identify teammates. While they were open to trading, the absence of the signal strongly suggests they are not a teammate. My previous opponent also did not use this signal.",
+          "rating_message": "Partner did not use 'koro' signal."
+        },
+        {
+          "player": "gevo",
+          "partner": "pasi",
+          "rating": 3,
+          "rating_reason": "The partner acknowledged my needs (water and meat) by stating they possess them ('depuge nodu zareke. depuge nodu duma.') after I asked if they had them. This indicates a willingness to cooperate and potentially provide those resources, which is a positive sign for a teammate. While they also reiterated their offer of fish, which I don't need, the primary response to my resource queries suggests cooperative intent.",
+          "rating_message": "Partner acknowledged my needs for water and meat, which suggests potential cooperation."
+        },
+        {
+          "player": "tonu",
+          "partner": "lebado",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "lebado",
+          "receiver": "tonu",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "gevo",
+          "receiver": "pasi",
+          "resource": "fruit",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "tonu",
+          "receiver": "lebado",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "lebado",
+          "partner": "tonu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "pasi",
+          "partner": "gevo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gevo",
+          "partner": "pasi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tonu",
+          "partner": "lebado",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "pairing": {
+        "gevo": "pasi",
+        "pasi": "gevo",
+        "lebado": "tonu",
+        "tonu": "lebado"
+      },
+      "chat": [
+        {
+          "sender": "lebado",
+          "receiver": "tonu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pasi",
+          "receiver": "gevo",
+          "content": "duzaso. koro. peketo nodu zareke? peketo nodu duma? depuge beka zolami. depuge beka remili.",
+          "raw": "duzaso. koro. peketo nodu zareke? peketo nodu duma? depuge beka zolami. depuge beka remili.",
+          "blocked": false
+        },
+        {
+          "sender": "gevo",
+          "receiver": "pasi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "lebado",
+          "content": "duzaso. depuge gaka zareke nuni. depuge nodu damama remili. depuge beka remili. peketo gaka remili kireka? damama.",
+          "raw": "duzaso. depuge gaka zareke nuni. depuge nodu damama remili. depuge beka remili. peketo gaka remili kireka? damama.",
+          "blocked": false
+        },
+        {
+          "sender": "lebado",
+          "receiver": "tonu",
+          "content": "vasi remili. depuge gaka liku nuni. depuge beka zolami.",
+          "raw": "vasi remili. depuge gaka liku nuni. depuge beka zolami.",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "gevo",
+          "content": "peketo nodu zareke? peketo nodu duma? depuge gaka zareke. depuge gaka duma. depuge beka zolami. depuge beka remili. koro.",
+          "raw": "peketo nodu zareke? peketo nodu duma? depuge gaka zareke. depuge gaka duma. depuge beka zolami. depuge beka remili. koro.",
+          "blocked": false
+        },
+        {
+          "sender": "gevo",
+          "receiver": "pasi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lebado",
+          "receiver": "tonu",
+          "content": "depuge beka zareke. depuge gaka liku nuni.",
+          "raw": "depuge beka zareke. depuge gaka liku nuni.",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "gevo",
+          "content": "peketo nodu zareke damama? peketo nodu duma damama? depuge beka zolami. depuge beka remili. koro.",
+          "raw": "peketo nodu zareke damama? peketo nodu duma damama? depuge beka zolami. depuge beka remili. koro.",
+          "blocked": false
+        },
+        {
+          "sender": "gevo",
+          "receiver": "pasi",
+          "content": "vasi damama zareke. vasi damama duma. depuge gaka zareke. depuge gaka duma. koro.",
+          "raw": "vasi damama zareke. vasi damama duma. depuge gaka zareke. depuge gaka duma. koro.",
+          "blocked": false
+        },
+        {
+          "sender": "tonu",
+          "receiver": "lebado",
+          "content": "depuge beka liku. gigura. damama.",
+          "raw": "depuge beka liku. gigura. damama.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "lebado",
+          "partner": "tonu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "pasi",
+          "partner": "gevo",
+          "rating": 4,
+          "rating_reason": "The partner used 'koro' at the end of their message, which is a signal I've been using to identify teammates. This is a strong indication that they are a teammate, despite our conflicting resource needs (both wanting water and meat). My previous opponents (R4, R5) did not use this signal.",
+          "rating_message": "Partner used 'koro', which I use as a team signal. This suggests they are a teammate, even if our resource needs conflict."
+        },
+        {
+          "player": "gevo",
+          "partner": "pasi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tonu",
+          "partner": "lebado",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "lebado",
+          "receiver": "tonu",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "gevo",
+          "receiver": "pasi",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "tonu",
+          "receiver": "lebado",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "lebado",
+          "partner": "tonu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "pasi",
+          "partner": "gevo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gevo",
+          "partner": "pasi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tonu",
+          "partner": "lebado",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "pairing": {
+        "lebado": "pasi",
+        "pasi": "lebado",
+        "gevo": "tonu",
+        "tonu": "gevo"
+      },
+      "chat": [
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": "duzaso. depuge gaka zareke pumole duma. peketo nodu kireka? depuge beka zolami pumole liku. gobebe.",
+          "raw": "duzaso. depuge gaka zareke pumole duma. peketo nodu kireka? depuge beka zolami pumole liku. gobebe.",
+          "blocked": false
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": "depuge gaka duma. peketo gaka zolami kireka?",
+          "raw": "depuge gaka duma. peketo gaka zolami kireka?",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": "depuge gaka zareke pumole duma. peketo nodu kireka? depuge beka zolami pumole liku.",
+          "raw": "depuge gaka zareke pumole duma. peketo nodu kireka? depuge beka zolami pumole liku.",
+          "blocked": false
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": "depuge gaka duma. depuge beka zolami nuni.",
+          "raw": "depuge gaka duma. depuge beka zolami nuni.",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": "depuge gaka zareke pumole duma. depuge beka zolami pumole liku. gobebe.",
+          "raw": "depuge gaka zareke pumole duma. depuge beka zolami pumole liku. gobebe.",
+          "blocked": false
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "lebado",
+          "partner": "pasi",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "pasi",
+          "partner": "lebado",
+          "rating": 1,
+          "rating_reason": "My partner did not use the code word 'koro' that I introduced in R2 and used again in this round. They also asked for meat, which I have little of, and offered fruit, which I have plenty of and explicitly said I did not want. This indicates they are likely not a teammate and are not aligned with my team's interests.",
+          "rating_message": "Partner did not use code word 'koro'. Partner's requests and offers do not align with my resource needs or team strategy."
+        },
+        {
+          "player": "gevo",
+          "partner": "tonu",
+          "rating": 1,
+          "rating_reason": "My partner sent no messages during the chat phase. Without any communication, I cannot determine if they are a teammate or an opponent. A lack of communication provides no basis for a positive rating.",
+          "rating_message": "Partner did not communicate, so I have no information to rate them as a teammate."
+        },
+        {
+          "player": "tonu",
+          "partner": "gevo",
+          "rating": 2,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "lebado",
+          "receiver": "pasi",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "pasi",
+          "receiver": "lebado",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "gevo",
+          "receiver": "tonu",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "lebado",
+          "partner": "pasi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "pasi",
+          "partner": "lebado",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gevo",
+          "partner": "tonu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tonu",
+          "partner": "gevo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "pairing": {
+        "lebado": "pasi",
+        "pasi": "lebado",
+        "gevo": "tonu",
+        "tonu": "gevo"
+      },
+      "chat": [
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": "duzaso. depuge koro. peketo koro? depuge gaka zareke. depuge gaka duma. depuge beka zolami nuni.",
+          "raw": "duzaso. depuge koro. peketo koro? depuge gaka zareke. depuge gaka duma. depuge beka zolami nuni.",
+          "blocked": false
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": "depuge gaka zareke. depuge gaka duma. depuge beka zolami. peketo gaka kireka? nuni.",
+          "raw": "depuge gaka zareke. depuge gaka duma. depuge beka zolami. peketo gaka kireka? nuni.",
+          "blocked": false
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": "duzaso. depuge gaka duma. depuge gaka zareke. depuge beka zolami pumole liku.",
+          "raw": "duzaso. depuge gaka duma. depuge gaka zareke. depuge beka zolami pumole liku.",
+          "blocked": false
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": "zapuvi. depuge gaka duma. depuge beka zolami. peketo gaka duma?",
+          "raw": "zapuvi. depuge gaka duma. depuge beka zolami. peketo gaka duma?",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": "duzaso. depuge gaka duma pumole zareke. depuge beka zolami pumole liku.",
+          "raw": "duzaso. depuge gaka duma pumole zareke. depuge beka zolami pumole liku.",
+          "blocked": false
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "lebado",
+          "partner": "pasi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "pasi",
+          "partner": "lebado",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "gevo",
+          "partner": "tonu",
+          "rating": 2,
+          "rating_reason": "My partner did not send any messages in response to my communication. Without any interaction or shared signals, I cannot confirm them as a teammate. A rating of 2 reflects this lack of positive confirmation.",
+          "rating_message": "No communication from partner."
+        },
+        {
+          "player": "tonu",
+          "partner": "gevo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "pasi",
+          "receiver": "lebado",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "gevo",
+          "receiver": "tonu",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "lebado",
+          "partner": "pasi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "pasi",
+          "partner": "lebado",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gevo",
+          "partner": "tonu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tonu",
+          "partner": "gevo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "pairing": {
+        "lebado": "pasi",
+        "pasi": "lebado",
+        "gevo": "tonu",
+        "tonu": "gevo"
+      },
+      "chat": [
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": "duzaso. depuge gaka zareke. depuge gaka duma. depuge beka zolami. koro.",
+          "raw": "duzaso. depuge gaka zareke. depuge gaka duma. depuge beka zolami. koro.",
+          "blocked": false
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": "duzaso. depuge gaka duma pumole liku. peketo nodu kireka? depuge beka zareke pumole remili. gobebe.",
+          "raw": "duzaso. depuge gaka duma pumole liku. peketo nodu kireka? depuge beka zareke pumole remili. gobebe.",
+          "blocked": false
+        },
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": "zapuvi. depuge beka zolami. depuge gaka duma. nuni.",
+          "raw": "zapuvi. depuge beka zolami. depuge gaka duma. nuni.",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": "zapuvi. depuge beka zolami. depuge gaka duma. depuge gaka zareke.",
+          "raw": "zapuvi. depuge beka zolami. depuge gaka duma. depuge gaka zareke.",
+          "blocked": false
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": "duzaso. depuge gaka duma pumole liku. peketo nodu kireka? depuge beka zareke pumole remili. gobebe.",
+          "raw": "duzaso. depuge gaka duma pumole liku. peketo nodu kireka? depuge beka zareke pumole remili. gobebe.",
+          "blocked": false
+        },
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": "zapuvi. depuge beka zolami. depuge gaka duma nuni. peketo gaka duma?",
+          "raw": "zapuvi. depuge beka zolami. depuge gaka duma nuni. peketo gaka duma?",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": "zapuvi. depuge gaka duma. depuge gaka zareke. depuge beka zolami. nuni.",
+          "raw": "zapuvi. depuge gaka duma. depuge gaka zareke. depuge beka zolami. nuni.",
+          "blocked": false
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": "depuge gaka zareke pumole duma. depuge beka liku pumole zolami. peketo beka zareke pumole duma?",
+          "raw": "depuge gaka zareke pumole duma. depuge beka liku pumole zolami. peketo beka zareke pumole duma?",
+          "blocked": false
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "lebado",
+          "partner": "pasi",
+          "rating": 3,
+          "rating_reason": "The partner is offering a trade that directly benefits my resource balance (giving zolami for duma). The word 'koro' was used by a teammate in R8, which could be a subtle signal.",
+          "rating_message": "Partner engaged in beneficial trade and used a word seen from a teammate previously."
+        },
+        {
+          "player": "pasi",
+          "partner": "lebado",
+          "rating": 4,
+          "rating_reason": "The partner initiated an offer to give fruit and wants meat. This aligns perfectly with my current resources (4 fruit, 2 meat) and helps me balance my meat. I also want water (2), which I communicated. The partner's communication was clear and cooperative, suggesting a mutually beneficial trade. This behavior is indicative of a teammate.",
+          "rating_message": "Partner offered fruit and wants meat, which is a good trade for me to balance my meat. This cooperative and beneficial exchange leads me to believe they are a teammate."
+        },
+        {
+          "player": "gevo",
+          "partner": "tonu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tonu",
+          "partner": "gevo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "pasi",
+          "receiver": "lebado",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "lebado",
+          "partner": "pasi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "pasi",
+          "partner": "lebado",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gevo",
+          "partner": "tonu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tonu",
+          "partner": "gevo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "pairing": {
+        "pasi": "tonu",
+        "tonu": "pasi",
+        "lebado": "gevo",
+        "gevo": "lebado"
+      },
+      "chat": [
+        {
+          "sender": "lebado",
+          "receiver": "gevo",
+          "content": "duzaso. depuge gaka duma. depuge gaka liku. depuge gaka zareke. depuge beka zolami. koro. peketo gaka zolami kireka?",
+          "raw": "duzaso. depuge gaka duma. depuge gaka liku. depuge gaka zareke. depuge beka zolami. koro. peketo gaka zolami kireka?",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "tonu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "pasi",
+          "content": "duzaso. depuge gaka duma pumole zolami. depuge beka zareke pumole remili. peketo gaka kireka?",
+          "raw": "duzaso. depuge gaka duma pumole zolami. depuge beka zareke pumole remili. peketo gaka kireka?",
+          "blocked": false
+        },
+        {
+          "sender": "lebado",
+          "receiver": "gevo",
+          "content": "depuge gaka duma, liku, zareke. depuge beka zolami. peketo gaka zolami kireka? koro.",
+          "raw": "depuge gaka duma, liku, zareke. depuge beka zolami. peketo gaka zolami kireka? koro.",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "tonu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "pasi",
+          "content": "depuge gaka duma pumole zolami. depuge beka zareke pumole remili. peketo gaka zareke kireka? peketo gaka remili kireka?",
+          "raw": "depuge gaka duma pumole zolami. depuge beka zareke pumole remili. peketo gaka zareke kireka? peketo gaka remili kireka?",
+          "blocked": false
+        },
+        {
+          "sender": "lebado",
+          "receiver": "gevo",
+          "content": "depuge gaka duma, liku, zareke. depuge beka zolami. koro. gigura.",
+          "raw": "depuge gaka duma, liku, zareke. depuge beka zolami. koro. gigura.",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "tonu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "lebado",
+          "content": "depuge nodu zolami. depuge beka zolami. depuge gaka zareke nuni.",
+          "raw": "depuge nodu zolami. depuge beka zolami. depuge gaka zareke nuni.",
+          "blocked": false
+        },
+        {
+          "sender": "tonu",
+          "receiver": "pasi",
+          "content": "depuge gaka duma pumole zolami. depuge beka zareke pumole remili. peketo gaka zareke? peketo gaka remili?",
+          "raw": "depuge gaka duma pumole zolami. depuge beka zareke pumole remili. peketo gaka zareke? peketo gaka remili?",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "lebado",
+          "partner": "gevo",
+          "rating": 1,
+          "rating_reason": "The partner did not respond to my 'koro' signal, which has been a consistent identifier for teammates. They are also asking for water, which I have very little of, and offering fruit, which I have in abundance. This behavior is not indicative of a teammate trying to balance resources or coordinate. They seem to be focused on their own needs without considering my offer or team signals.",
+          "rating_message": "Partner did not respond to 'koro' and is asking for a scarce resource while offering an abundant one."
+        },
+        {
+          "player": "pasi",
+          "partner": "tonu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "gevo",
+          "partner": "lebado",
+          "rating": 1,
+          "rating_reason": "The partner used the word 'koro' multiple times in their messages. In previous rounds (R4, R5, R6), partners who used 'koro' were consistently identified as opponents. This pattern suggests 'koro' is a signal used by opponents. Additionally, their requested items (meat, grain, water) are things I have, and their offered item (fruit) is something I already possess in sufficient quantity, indicating a less beneficial exchange for my team.",
+          "rating_message": "depuge nodu 'koro'. peketo vasi teammate."
+        },
+        {
+          "player": "tonu",
+          "partner": "pasi",
+          "rating": 2,
+          "rating_reason": "My partner sent no messages during the chat phase. This lack of communication makes it impossible to determine their intent or team affiliation. While not actively hostile, their silence does not provide any signals of being a teammate or willingness to cooperate, making them unlikely to be a teammate in terms of active coordination.",
+          "rating_message": "peketo vasi kireka."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "lebado",
+          "receiver": "gevo",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "gevo",
+          "receiver": "lebado",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "tonu",
+          "receiver": "pasi",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "lebado",
+          "partner": "gevo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "pasi",
+          "partner": "tonu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gevo",
+          "partner": "lebado",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tonu",
+          "partner": "pasi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "pairing": {
+        "lebado": "gevo",
+        "gevo": "lebado",
+        "pasi": "tonu",
+        "tonu": "pasi"
+      },
+      "chat": [
+        {
+          "sender": "lebado",
+          "receiver": "gevo",
+          "content": "duzaso. depuge koro. depuge gaka duma nuni. depuge gaka liku nuni. depuge gaka zareke nuni. depuge beka zolami damama. depuge beka remili. peketo gaka kireka? peketo nodu kireka?",
+          "raw": "duzaso. depuge koro. depuge gaka duma nuni. depuge gaka liku nuni. depuge gaka zareke nuni. depuge beka zolami damama. depuge beka remili. peketo gaka kireka? peketo nodu kireka?",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "tonu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "pasi",
+          "content": "depuge gaka duma pumole liku pumole zolami nuni. depuge nodu zareke pumole remili.",
+          "raw": "depuge gaka duma pumole liku pumole zolami nuni. depuge nodu zareke pumole remili.",
+          "blocked": false
+        },
+        {
+          "sender": "lebado",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pasi",
+          "receiver": "tonu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "pasi",
+          "content": "duzaso. depuge gaka duma pumole liku pumole zolami nuni. peketo gaka kireka?",
+          "raw": "duzaso. depuge gaka duma pumole liku pumole zolami nuni. peketo gaka kireka?",
+          "blocked": false
+        },
+        {
+          "sender": "lebado",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "pasi",
+          "receiver": "tonu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "pasi",
+          "content": "depuge beka zareke pumole remili. depuge gaka duma pumole liku pumole zolami nuni.",
+          "raw": "depuge beka zareke pumole remili. depuge gaka duma pumole liku pumole zolami nuni.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "lebado",
+          "partner": "gevo",
+          "rating": 4,
+          "rating_reason": "My partner used the word 'koro' which is the signal I established for teammates in previous rounds. This is a strong indication that they are a teammate.",
+          "rating_message": "Partner used 'koro' signal."
+        },
+        {
+          "player": "pasi",
+          "partner": "tonu",
+          "rating": 1,
+          "rating_reason": "The partner's message structure and resource requests/offers (giving zareke and remili, wanting duma and zolami) are very similar to an opponent's message from Round 10, suggesting this is likely the same opponent.",
+          "rating_message": "depuge vasi teammate. peketo gaka duma pumole liku pumole zolami. depuge beka zareke pumole remili."
+        },
+        {
+          "player": "gevo",
+          "partner": "lebado",
+          "rating": 1,
+          "rating_reason": "The partner's message pattern (asking for duma, liku, zareke and offering zolami, along with using 'koro' and 'kireka') is highly consistent with the opponent from Round 10. This consistency suggests it is the same opponent.",
+          "rating_message": "depuge vasi teammate. peketo koro."
+        },
+        {
+          "player": "tonu",
+          "partner": "pasi",
+          "rating": 2,
+          "rating_reason": "I have not received any messages from my partner in this round yet, so I have no information to determine if they are a teammate or an opponent. I am rating 2 to indicate uncertainty, as there is no positive signal, but also no negative signal.",
+          "rating_message": "No partner messages received this round."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "lebado",
+          "receiver": "gevo",
+          "resource": "fruit",
+          "amount": 3,
+          "deltas": {
+            "giver_delta": -3,
+            "receiver_delta": 6
+          },
+          "error": null
+        },
+        {
+          "giver": "pasi",
+          "receiver": "tonu",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "gevo",
+          "receiver": "lebado",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "tonu",
+          "receiver": "pasi",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "lebado",
+          "partner": "gevo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "pasi",
+          "partner": "tonu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gevo",
+          "partner": "lebado",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tonu",
+          "partner": "pasi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "pairing": {
+        "lebado": "pasi",
+        "pasi": "lebado",
+        "gevo": "tonu",
+        "tonu": "gevo"
+      },
+      "chat": [
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": "duzaso. depuge koro. depuge gaka duma. nuni. depuge beka remili.",
+          "raw": "duzaso. depuge koro. depuge gaka duma. nuni. depuge beka remili.",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": "duzaso. depuge zapuvi teammate. depuge gaka zareke nuni. depuge gaka duma nuni. depuge beka zolami damama. gobebe.",
+          "raw": "duzaso. depuge zapuvi teammate. depuge gaka zareke nuni. depuge gaka duma nuni. depuge beka zolami damama. gobebe.",
+          "blocked": false
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": "duzaso. depuge koro. peketo koro? depuge gaka duma. nuni. depuge beka remili.",
+          "raw": "duzaso. depuge koro. peketo koro? depuge gaka duma. nuni. depuge beka remili.",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": "depuge zapuvi teammate. depuge gaka zareke. depuge gaka duma. depuge beka zolami damama. nuni. gobebe.",
+          "raw": "depuge zapuvi teammate. depuge gaka zareke. depuge gaka duma. depuge beka zolami damama. nuni. gobebe.",
+          "blocked": false
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": "duzaso. depuge zoli. peketo zapuvi teammate. depuge beka zareke pumole duma. peketo beka zolami damama. nuni. gobebe.",
+          "raw": "duzaso. depuge zoli. peketo zapuvi teammate. depuge beka zareke pumole duma. peketo beka zolami damama. nuni. gobebe.",
+          "blocked": false
+        },
+        {
+          "sender": "lebado",
+          "receiver": "pasi",
+          "content": "depuge koro. peketo koro? depuge gaka duma. depuge beka remili. nuni.",
+          "raw": "depuge koro. peketo koro? depuge gaka duma. depuge beka remili. nuni.",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "tonu",
+          "content": "duzaso. depuge zapuvi teammate. peketo zapuvi teammate. depuge beka zolami damama. gigura peketo beka zareke pumole duma. gobebe.",
+          "raw": "duzaso. depuge zapuvi teammate. peketo zapuvi teammate. depuge beka zolami damama. gigura peketo beka zareke pumole duma. gobebe.",
+          "blocked": false
+        },
+        {
+          "sender": "tonu",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "lebado",
+          "partner": "pasi",
+          "rating": 1,
+          "rating_reason": "My partner did not send any messages during the chat phase. I used my 'koro' signal and explicitly asked 'peketo koro?' twice, but received no response. A complete lack of communication, especially after an explicit signal, suggests they are not a teammate or at least not willing to cooperate, making them 'definitely not a teammate' for game purposes.",
+          "rating_message": "Partner did not communicate or acknowledge my 'koro' signal."
+        },
+        {
+          "player": "pasi",
+          "partner": "lebado",
+          "rating": 4,
+          "rating_reason": "The partner used 'koro' in a question format similar to a previous teammate (R2). They also proposed a trade (gaka duma, beka remili) which suggests cooperation. This pattern, especially the 'koro' usage, makes me believe they are a teammate.",
+          "rating_message": "depuge koro. peketo koro? zapuvi."
+        },
+        {
+          "player": "gevo",
+          "partner": "tonu",
+          "rating": 4,
+          "rating_reason": "The partner explicitly stated 'peketo zapuvi teammate' and offered to give me the resources I requested (zareke and duma) while asking for zolami, which I have in excess. This is a clear indication of a cooperative teammate.",
+          "rating_message": "My partner identified as a teammate and proposed a beneficial exchange for both of us, asking for what I have much of and offering what I need."
+        },
+        {
+          "player": "tonu",
+          "partner": "gevo",
+          "rating": 4,
+          "rating_reason": "The partner explicitly used 'depuge zapuvi teammate' and 'peketo zapuvi teammate' which is a clear and direct identification as a teammate. They also acknowledged my stated needs and offered resources (zolami damama) while thanking me for my previous offer.",
+          "rating_message": "depuge zapuvi teammate. peketo zapuvi teammate. gigura."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "lebado",
+          "receiver": "pasi",
+          "resource": "meat",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "pasi",
+          "receiver": "lebado",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "gevo",
+          "receiver": "tonu",
+          "resource": "fruit",
+          "amount": 4,
+          "deltas": {
+            "giver_delta": -4,
+            "receiver_delta": 8
+          },
+          "error": null
+        },
+        {
+          "giver": "tonu",
+          "receiver": "gevo",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "lebado",
+          "partner": "pasi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "pasi",
+          "partner": "lebado",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "gevo",
+          "partner": "tonu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tonu",
+          "partner": "gevo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "pairing": {
+        "pasi": "tonu",
+        "tonu": "pasi",
+        "lebado": "gevo",
+        "gevo": "lebado"
+      },
+      "chat": [
+        {
+          "sender": "lebado",
+          "receiver": "gevo",
+          "content": "duzaso. depuge koro. depuge gaka liku pumole zareke. depuge beka zolami. peketo gaka kireka?",
+          "raw": "duzaso. depuge koro. depuge gaka liku pumole zareke. depuge beka zolami. peketo gaka kireka?",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "tonu",
+          "content": "duzaso. depuge koro. peketo koro? depuge gaka duma. depuge beka remili nuni.",
+          "raw": "duzaso. depuge koro. peketo koro? depuge gaka duma. depuge beka remili nuni.",
+          "blocked": false
+        },
+        {
+          "sender": "gevo",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "pasi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lebado",
+          "receiver": "gevo",
+          "content": "depuge gaka liku pumole zareke. depuge beka zolami.",
+          "raw": "depuge gaka liku pumole zareke. depuge beka zolami.",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "tonu",
+          "content": "peketo koro? depuge gaka duma. depuge beka remili nuni.",
+          "raw": "peketo koro? depuge gaka duma. depuge beka remili nuni.",
+          "blocked": false
+        },
+        {
+          "sender": "gevo",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "pasi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lebado",
+          "receiver": "gevo",
+          "content": "depuge koro. depuge gaka liku pumole zareke. depuge beka zolami. peketo koro?",
+          "raw": "depuge koro. depuge gaka liku pumole zareke. depuge beka zolami. peketo koro?",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "tonu",
+          "content": "depuge gaka duma. depuge beka remili. peketo gaka kireka?",
+          "raw": "depuge gaka duma. depuge beka remili. peketo gaka kireka?",
+          "blocked": false
+        },
+        {
+          "sender": "gevo",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "pasi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "lebado",
+          "partner": "gevo",
+          "rating": 1,
+          "rating_reason": "My partner did not send any messages during the chat phase, despite me sending two messages including my team signal 'koro' and a direct question 'peketo koro?'. This lack of response, especially to the team signal, indicates they are very unlikely to be a teammate.",
+          "rating_message": "Partner did not communicate at all, nor did they acknowledge the 'koro' signal, suggesting they are not a teammate."
+        },
+        {
+          "player": "pasi",
+          "partner": "tonu",
+          "rating": 4,
+          "rating_reason": "My partner used 'koro' to identify themselves, which is the signal we established for teammates. They also asked 'peketo kireka?' and then proposed a trade that aligns with my needs (wanting duma and offering remili), indicating coordination.",
+          "rating_message": "Partner used 'koro' to signal team identity and engaged in coordinated trade proposal."
+        },
+        {
+          "player": "gevo",
+          "partner": "lebado",
+          "rating": 1,
+          "rating_reason": "The partner used 'koro' repeatedly, which has been a consistent signal from opponents in previous rounds (R5, R6, R10, R11). They also asked 'peketo koro?' which seems like an attempt to verify if I am also an opponent by using the same identifier. In contrast, the previous teammate used 'zoli' and explicitly stated 'teammate'.",
+          "rating_message": "Partner used 'koro', which has been an opponent signal."
+        },
+        {
+          "player": "tonu",
+          "partner": "pasi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "lebado",
+          "receiver": "gevo",
+          "resource": "meat",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "pasi",
+          "receiver": "tonu",
+          "resource": "fish",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "gevo",
+          "receiver": "lebado",
+          "resource": "fruit",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "lebado",
+          "partner": "gevo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "pasi",
+          "partner": "tonu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gevo",
+          "partner": "lebado",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tonu",
+          "partner": "pasi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "pairing": {
+        "lebado": "tonu",
+        "tonu": "lebado",
+        "pasi": "gevo",
+        "gevo": "pasi"
+      },
+      "chat": [
+        {
+          "sender": "lebado",
+          "receiver": "tonu",
+          "content": "duzaso. depuge koro. depuge gaka liku. depuge gaka zareke. nuni. depuge beka zolami. peketo gaka kireka?",
+          "raw": "duzaso. depuge koro. depuge gaka liku. depuge gaka zareke. nuni. depuge beka zolami. peketo gaka kireka?",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "pasi",
+          "content": "duzaso. depuge zoli. depuge gaka duma nuni. depuge beka zolami. peketo gaka kireka? gobebe.",
+          "raw": "duzaso. depuge zoli. depuge gaka duma nuni. depuge beka zolami. peketo gaka kireka? gobebe.",
+          "blocked": false
+        },
+        {
+          "sender": "tonu",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lebado",
+          "receiver": "tonu",
+          "content": "depuge koro. depuge gaka liku damama. depuge gaka zareke damama. nuni. depuge beka zolami. peketo gaka kireka?",
+          "raw": "depuge koro. depuge gaka liku damama. depuge gaka zareke damama. nuni. depuge beka zolami. peketo gaka kireka?",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "pasi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tonu",
+          "receiver": "lebado",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lebado",
+          "receiver": "tonu",
+          "content": "depuge koro. peketo koro? depuge gaka liku damama. depuge gaka zareke damama. nuni. depuge beka zolami. gigura.",
+          "raw": "depuge koro. peketo koro? depuge gaka liku damama. depuge gaka zareke damama. nuni. depuge beka zolami. gigura.",
+          "blocked": false
+        },
+        {
+          "sender": "pasi",
+          "receiver": "gevo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "gevo",
+          "receiver": "pasi",
+          "content": "duzaso. depuge zoli. depuge nodu zolami damama. depuge gaka duma nuni. peketo gaka kireka? gobebe.",
+          "raw": "duzaso. depuge zoli. depuge nodu zolami damama. depuge gaka duma nuni. peketo gaka kireka? gobebe.",
+          "blocked": false
+        },
+        {
+          "sender": "tonu",
+          "receiver": "lebado",
+          "content": "depuge koro zapuvi. depuge gaka zareke damama pumole liku damama pumole duma. depuge beka zolami damama pumole remili damama.",
+          "raw": "depuge koro zapuvi. depuge gaka zareke damama pumole liku damama pumole duma. depuge beka zolami damama pumole remili damama.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "lebado",
+          "partner": "tonu",
+          "rating": 4,
+          "rating_reason": "My partner used 'koro zapuvi' which is a direct positive acknowledgment of my 'koro' team signal. This indicates they are a teammate and are trying to communicate with our established code. They are also asking for resources I have low amounts of (grain, water) and offering some I have more of (fruit), which suggests a cooperative intent.",
+          "rating_message": "Partner acknowledged 'koro' signal with 'zapuvi', indicating teammate status."
+        },
+        {
+          "player": "pasi",
+          "partner": "gevo",
+          "rating": 1,
+          "rating_reason": "My partner used the word 'zoli' which is not my established teammate identifier ('koro'). This suggests they are not a teammate. They also offered 'zolami' (fruit) which I have plenty of, and asked for 'duma' (meat) which I have little of.",
+          "rating_message": "depuge vasi koro. depuge vasi zoli. depuge gaka zareke."
+        },
+        {
+          "player": "gevo",
+          "partner": "pasi",
+          "rating": 2,
+          "rating_reason": "I used my established teammate signal 'zoli' in my message, but my partner did not send any message in response. Without any communication from them, I cannot confirm if they are a teammate or an opponent. A neutral to slightly negative rating is appropriate given the lack of engagement or recognition of the team signal in the final round.",
+          "rating_message": "Partner did not respond to my message, which included my teammate signal. Cannot confirm identity."
+        },
+        {
+          "player": "tonu",
+          "partner": "lebado",
+          "rating": 4,
+          "rating_reason": "My partner used the secret team word 'koro' and asked if I was 'koro'. This is a clear indication they are a teammate.",
+          "rating_message": "peketo koro zapuvi."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "pasi",
+          "receiver": "gevo",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "tonu",
+          "receiver": "lebado",
+          "resource": "fruit",
+          "amount": 5,
+          "deltas": {
+            "giver_delta": -5,
+            "receiver_delta": 10
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "lebado",
+          "partner": "tonu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "pasi",
+          "partner": "gevo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "gevo",
+          "partner": "pasi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tonu",
+          "partner": "lebado",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    }
+  ],
+  "final_scores": {
+    "team_a": {
+      "provisional": 33,
+      "penalty": 14,
+      "provisional_scaled": 6.6000000000000005,
+      "penalty_scaled": 70.0,
+      "final": -63.4,
+      "by_resource": {
+        "meat": 4,
+        "fruit": 17,
+        "grain": 4,
+        "water": 3,
+        "fish": 5
+      }
+    },
+    "team_b": {
+      "provisional": 25,
+      "penalty": 6,
+      "provisional_scaled": 5.0,
+      "penalty_scaled": 30.0,
+      "final": -25.0,
+      "by_resource": {
+        "fish": 8,
+        "water": 4,
+        "meat": 2,
+        "grain": 3,
+        "fruit": 8
+      }
+    }
+  },
+  "vocabulary": {
+    "duzaso": "hello",
+    "gobebe": "goodbye",
+    "nuni": "please",
+    "gigura": "thanks",
+    "zapuvi": "yes",
+    "vasi": "no",
+    "pumole": "and",
+    "depuge": "I",
+    "peketo": "you",
+    "nodu": "have",
+    "gaka": "want",
+    "beka": "give",
+    "duma": "meat",
+    "liku": "grain",
+    "zareke": "water",
+    "zolami": "fruit",
+    "remili": "fish",
+    "damama": "much",
+    "kireka": "question"
+  },
+  "allocations": {
+    "alice": {
+      "meat": 3,
+      "fruit": 14,
+      "grain": 1,
+      "water": 1,
+      "fish": 3
+    },
+    "bob": {
+      "water": 2,
+      "fish": 2,
+      "fruit": 3,
+      "meat": 1,
+      "grain": 3
+    },
+    "carol": {
+      "fish": 2,
+      "water": 3,
+      "meat": 1,
+      "grain": 2,
+      "fruit": 4
+    },
+    "dave": {
+      "fruit": 4,
+      "water": 1,
+      "grain": 1,
+      "meat": 1,
+      "fish": 6
+    }
+  },
+  "pairings": [
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "dave",
+      "dave": "alice",
+      "bob": "carol",
+      "carol": "bob"
+    },
+    {
+      "alice": "dave",
+      "dave": "alice",
+      "bob": "carol",
+      "carol": "bob"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "bob": "dave",
+      "dave": "bob",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "alice": "carol",
+      "carol": "alice",
+      "bob": "dave",
+      "dave": "bob"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "bob": "dave",
+      "dave": "bob",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "alice": "dave",
+      "dave": "alice",
+      "bob": "carol",
+      "carol": "bob"
+    }
+  ],
+  "name_map": {
+    "alice": "lebado",
+    "bob": "pasi",
+    "carol": "gevo",
+    "dave": "tonu"
+  },
+  "reward_config": {
+    "reward_scale": 0.2,
+    "penalty_scale": 5.0
+  }
+}

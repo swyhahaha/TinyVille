@@ -1,0 +1,3276 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "pairing": {
+        "fatuvi": "noda",
+        "noda": "fatuvi",
+        "zudari": "kiva",
+        "kiva": "zudari"
+      },
+      "chat": [
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": "puzuki kiso fezu. kiso gepo kunafo. lumizo gepo soveto?",
+          "raw": "puzuki kiso fezu. kiso gepo kunafo. lumizo gepo soveto?",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": "kiso fezu. kiso gepo kunafo. lumizo gepo soveto? lumizo gepo durifo?",
+          "raw": "kiso fezu. kiso gepo kunafo. lumizo gepo soveto? lumizo gepo durifo?",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": "puzuki. kiso togera kunafo. kiso gepo soveto. fezu fezu.",
+          "raw": "puzuki. kiso togera kunafo. kiso gepo soveto. fezu fezu.",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": "puzuki. kiso kaka soveto fofe. kiso gepo borono bonu. togera soveto. lumizo fezu.",
+          "raw": "puzuki. kiso kaka soveto fofe. kiso gepo borono bonu. togera soveto. lumizo fezu.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": "kiso togera kunafo. kiso gepo soveto. bonu. fezu fezu.",
+          "raw": "kiso togera kunafo. kiso gepo soveto. bonu. fezu fezu.",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": "puzuki. kiso kaka soveto fofe. lumizo kaka borono? kiso gepo borono. kiso togera soveto. lumizo fezu?",
+          "raw": "puzuki. kiso kaka soveto fofe. lumizo kaka borono? kiso gepo borono. kiso togera soveto. lumizo fezu?",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": "fezu. kiso togera borono. lumizo togera soveto. morida.",
+          "raw": "fezu. kiso togera borono. lumizo togera soveto. morida.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fatuvi",
+          "partner": "noda",
+          "rating": 4,
+          "rating_reason": "The partner used 'fezu fezu' repeatedly, which aligns with the 'kiso fezu' I used to establish a potential teammate code. They also offered to give water and asked for meat, which is a beneficial trade for me. Given it's the first round and I'm guaranteed a teammate, this confirms my suspicion.",
+          "rating_message": "Partner used 'fezu fezu', indicating they picked up on the 'fezu' code. This, coupled with a beneficial trade, makes me confident they are a teammate."
+        },
+        {
+          "player": "noda",
+          "partner": "fatuvi",
+          "rating": 4,
+          "rating_reason": "I am guaranteed to be paired with a teammate in Round 1. My partner communicated clearly what they wanted (kunafo) and what they had (soveto/durifo), which is helpful for negotiation. This behavior is consistent with a teammate.",
+          "rating_message": "kiso fezu lumizo fezu. lumizo bonu togera. kiso gepo soveto."
+        },
+        {
+          "player": "zudari",
+          "partner": "kiva",
+          "rating": 4,
+          "rating_reason": "My partner responded with 'fezu' at the start of their message, which I interpret as a positive response to my 'lumizo fezu?' signal. They also immediately offered the resource I requested (borono) in exchange for what I offered (soveto), which is highly cooperative. Given that Round 1 is guaranteed to be a teammate, this cooperative and potentially coded response strongly indicates they are a teammate.",
+          "rating_message": "Partner's 'fezu' and cooperative offer suggests they are a teammate, aligning with the round 1 guarantee."
+        },
+        {
+          "player": "kiva",
+          "partner": "zudari",
+          "rating": 4,
+          "rating_reason": "The game rules state that the first two rounds are guaranteed to be with a teammate. Also, the partner proposed a fair trade that benefits both parties, which is indicative of a teammate.",
+          "rating_message": "kiso lumizo fezu."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fatuvi",
+          "receiver": "noda",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zudari",
+          "receiver": "kiva",
+          "resource": "soveto",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "soveto"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "kiva",
+          "receiver": "zudari",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fatuvi",
+          "partner": "noda",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "noda",
+          "partner": "fatuvi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zudari",
+          "partner": "kiva",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kiva",
+          "partner": "zudari",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "pairing": {
+        "fatuvi": "noda",
+        "noda": "fatuvi",
+        "zudari": "kiva",
+        "kiva": "zudari"
+      },
+      "chat": [
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": "puzuki. kiso gepo kunafo. kiso togera durifo. fezu fezu.",
+          "raw": "puzuki. kiso gepo kunafo. kiso togera durifo. fezu fezu.",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": "puzuki. kiso kaka kunafo. kiso togera kunafo. kiso gepo davi. lumizo kaka davi?",
+          "raw": "puzuki. kiso kaka kunafo. kiso togera kunafo. kiso gepo davi. lumizo kaka davi?",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": "puzuki. fezu. kiso gepo kunafo. kiso togera soveto. lumizo gepo soveto dopo? morida.",
+          "raw": "puzuki. fezu. kiso gepo kunafo. kiso togera soveto. lumizo gepo soveto dopo? morida.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": "fezu. kiso kaka davi. kiso togera davi. kiso gepo kunafo. fezu fezu.",
+          "raw": "fezu. kiso kaka davi. kiso togera davi. kiso gepo kunafo. fezu fezu.",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": "fezu. kiso togera kunafo. kiso gepo davi. lumizo togera davi. morida.",
+          "raw": "fezu. kiso togera kunafo. kiso gepo davi. lumizo togera davi. morida.",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": "dopo?",
+          "raw": "dopo?",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": "morida. fezu fezu.",
+          "raw": "morida. fezu fezu.",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": "fezu.",
+          "raw": "fezu.",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": "fezu. kiso togera soveto. lumizo togera kunafo. fezu?",
+          "raw": "fezu. kiso togera soveto. lumizo togera kunafo. fezu?",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "fatuvi",
+          "partner": "noda",
+          "rating": 4,
+          "rating_reason": "This round is guaranteed to be a teammate. The partner engaged in a fair negotiation and used 'fezu' which aligns with our established team code. They agreed to exchange resources beneficially for both of us, indicating a collaborative spirit.",
+          "rating_message": "Partner engaged in fair trade and used 'fezu', consistent with a teammate."
+        },
+        {
+          "player": "noda",
+          "partner": "fatuvi",
+          "rating": 4,
+          "rating_reason": "It is Round 2, and the game rules state that the first two rounds are guaranteed to pair me with a teammate. Therefore, I am certain this partner is a teammate.",
+          "rating_message": "fezu fezu"
+        },
+        {
+          "player": "zudari",
+          "partner": "kiva",
+          "rating": 4,
+          "rating_reason": "I am guaranteed to be paired with a teammate in Round 2. My chat messages were designed to establish a 'fezu' signal for future rounds and propose an exchange that benefits the team's resource balance.",
+          "rating_message": "Guaranteed teammate in Round 2. Attempted to establish 'fezu' as a teammate signal."
+        },
+        {
+          "player": "kiva",
+          "partner": "zudari",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fatuvi",
+          "receiver": "noda",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "noda",
+          "receiver": "fatuvi",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zudari",
+          "receiver": "kiva",
+          "resource": "soveto",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "soveto"
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fatuvi",
+          "partner": "noda",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "noda",
+          "partner": "fatuvi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zudari",
+          "partner": "kiva",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kiva",
+          "partner": "zudari",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "pairing": {
+        "fatuvi": "noda",
+        "noda": "fatuvi",
+        "zudari": "kiva",
+        "kiva": "zudari"
+      },
+      "chat": [
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": "puzuki. kiso kaka meat. kiso gepo kunafo. lumizo gepo dopu? fezu fezu.",
+          "raw": "puzuki. kiso kaka meat. kiso gepo kunafo. lumizo gepo dopu? fezu fezu.",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": "puzuki. fezu. kiso kunafo gepo. kiso soveto togera.",
+          "raw": "puzuki. fezu. kiso kunafo gepo. kiso soveto togera.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": "kiso kaka grain. kiso kaka fish. kiso kaka fruit. kiso gepo kunafo. fezu fezu.",
+          "raw": "kiso kaka grain. kiso kaka fish. kiso kaka fruit. kiso gepo kunafo. fezu fezu.",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": "kiso kaka kunafo. kiso togera kunafo. lumizo togera durifo. fezu?",
+          "raw": "kiso kaka kunafo. kiso togera kunafo. lumizo togera durifo. fezu?",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": "lumizo kunafo kaka dopo?",
+          "raw": "lumizo kunafo kaka dopo?",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": "fezu. kiso kaka kunafo. kiso gepo soveto. lumizo togera soveto?",
+          "raw": "fezu. kiso kaka kunafo. kiso gepo soveto. lumizo togera soveto?",
+          "blocked": false
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": "fezu. kiso togera durifo. lumizo togera kunafo. morida. fezu fezu.",
+          "raw": "fezu. kiso togera durifo. lumizo togera kunafo. morida. fezu fezu.",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": "fezu. morida.",
+          "raw": "fezu. morida.",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": "fezu. kiso togera soveto. lumizo togera kunafo?",
+          "raw": "fezu. kiso togera soveto. lumizo togera kunafo?",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": "fezu. kiso togera kunafo. lumizo togera soveto. morida.",
+          "raw": "fezu. kiso togera kunafo. lumizo togera soveto. morida.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fatuvi",
+          "partner": "noda",
+          "rating": 3,
+          "rating_reason": "The partner offered a fair trade that benefits me (giving water, which I need, for grain, which I have). They also responded positively with 'fezu' and 'morida', and used 'fezu' in their initial message, which aligns with the 'fezu fezu' pattern I'm trying to establish. This suggests a potential teammate, but since it's the first non-guaranteed round, I'll rate them a 3.",
+          "rating_message": "Partner offered a good trade and used a potentially shared identifier ('fezu')."
+        },
+        {
+          "player": "noda",
+          "partner": "fatuvi",
+          "rating": 4,
+          "rating_reason": "The partner clearly stated their resources and needs, then readily agreed to a mutually beneficial trade. They wanted water, and I wanted grain. We agreed to exchange. This cooperative behavior is indicative of a teammate.",
+          "rating_message": "The partner engaged in a clear and mutually beneficial trade, which is characteristic of a teammate."
+        },
+        {
+          "player": "zudari",
+          "partner": "kiva",
+          "rating": 4,
+          "rating_reason": "My partner used 'fezu' consistently, which aligns with my established signal for a teammate. They also directly and cooperatively engaged in a trade that is beneficial for both of us (meat for water), suggesting a willingness to help balance my resources. The 'morida' at the end further reinforces a positive interaction. This behavior is consistent with that of a teammate.",
+          "rating_message": "fezu. lumizo fezu."
+        },
+        {
+          "player": "kiva",
+          "partner": "zudari",
+          "rating": 4,
+          "rating_reason": "The partner initiated a trade that benefits me by providing meat, which I currently have none of, in exchange for water, which I have one of. This helps balance my personal resources. This willingness to make a mutually beneficial trade, especially one that addresses a resource deficit for me, strongly suggests they are a teammate looking to help balance our collective resources. The communication was direct and clear, similar to a previous teammate interaction.",
+          "rating_message": "Partner offered a good trade, helping me balance resources."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fatuvi",
+          "receiver": "noda",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "noda",
+          "receiver": "fatuvi",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zudari",
+          "receiver": "kiva",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "kiva",
+          "receiver": "zudari",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fatuvi",
+          "partner": "noda",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "noda",
+          "partner": "fatuvi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zudari",
+          "partner": "kiva",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kiva",
+          "partner": "zudari",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "pairing": {
+        "zudari": "noda",
+        "noda": "zudari",
+        "fatuvi": "kiva",
+        "kiva": "fatuvi"
+      },
+      "chat": [
+        {
+          "sender": "fatuvi",
+          "receiver": "kiva",
+          "content": "puzuki. kiso kaka kunafo. kiso togera kunafo. fezu. lumizo gepo durifo? lumizo gepo borono?",
+          "raw": "Offering water and checking for team identifier, while probing for needed resources.",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zudari",
+          "receiver": "noda",
+          "content": "fezu. kiso gepo durifo. lumizo gepo kunafo? kiso togera kunafo. morida.",
+          "raw": "fezu. kiso gepo durifo. lumizo gepo kunafo? kiso togera kunafo. morida.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "fatuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "kiva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "noda",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zudari",
+          "receiver": "noda",
+          "content": "fezu. kiso gepo durifo. lumizo kaka fofe durifo? kiso togera kunafo. bonu.",
+          "raw": "fezu. kiso gepo durifo. lumizo kaka fofe durifo? kiso togera kunafo. bonu.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "fatuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "kiva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "noda",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zudari",
+          "receiver": "noda",
+          "content": "fezu. kiso gepo durifo. lumizo kaka durifo? lumizo gepo kunafo? kiso togera kunafo. morida.",
+          "raw": "fezu. kiso gepo durifo. lumizo kaka durifo? lumizo gepo kunafo? kiso togera kunafo. morida.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "fatuvi",
+          "content": "fezu. kiso togera borono. lumizo togera kunafo. bonu.",
+          "raw": "fezu. kiso togera borono. lumizo togera kunafo. bonu.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fatuvi",
+          "partner": "kiva",
+          "rating": 2,
+          "rating_reason": "The partner used standard vocabulary and proposed a simple trade (fruit for water). There was no 'teammate code' (like 'fezu fezu') or any specific pattern observed in previous teammate interactions. The trade itself is not clearly beneficial for my resource balance, making it less likely to be a teammate.",
+          "rating_message": "Partner's message was neutral, no clear teammate signals detected."
+        },
+        {
+          "player": "noda",
+          "partner": "zudari",
+          "rating": 3,
+          "rating_reason": "The partner is clear about wanting grain and offering water, which is a beneficial exchange for me. The negotiation is straightforward and seems mutually advantageous. While they didn't explicitly reciprocate my 'fezu fezu' pattern, the overall interaction suggests a willingness to trade fairly.",
+          "rating_message": "The trade proposed is beneficial, indicating potential cooperation."
+        },
+        {
+          "player": "zudari",
+          "partner": "noda",
+          "rating": 2,
+          "rating_reason": "My partner did not send any messages during the chat phase. I have no information from them to determine if they are a teammate. Previous teammates have engaged in communication and tried to trade. The lack of any message makes it difficult to assess, so I lean towards 'likely not a teammate' as there are no positive indicators.",
+          "rating_message": "Partner sent no messages."
+        },
+        {
+          "player": "kiva",
+          "partner": "fatuvi",
+          "rating": 4,
+          "rating_reason": "The partner immediately offered to give kunafo (water), which I have none of, and then asked what I wanted (durifo or borono). This proactive offer to help balance my resources is a strong indicator of a teammate. My response confirmed I would give borono for kunafo, which is a good trade for me.",
+          "rating_message": "Partner offered kunafo, which I need, and asked what I wanted in return. This is a very helpful action, suggesting they are a teammate."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fatuvi",
+          "receiver": "kiva",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "noda",
+          "receiver": "zudari",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zudari",
+          "receiver": "noda",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "kiva",
+          "receiver": "fatuvi",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fatuvi",
+          "partner": "kiva",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "noda",
+          "partner": "zudari",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zudari",
+          "partner": "noda",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kiva",
+          "partner": "fatuvi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "pairing": {
+        "noda": "zudari",
+        "zudari": "noda",
+        "fatuvi": "kiva",
+        "kiva": "fatuvi"
+      },
+      "chat": [
+        {
+          "sender": "fatuvi",
+          "receiver": "kiva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "noda",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zudari",
+          "receiver": "noda",
+          "content": "puzuki. fezu. kiso togera kunafo. lumizo togera soveto?",
+          "raw": "puzuki. fezu. kiso togera kunafo. lumizo togera soveto?",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "fatuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "kiva",
+          "content": "gera durifo. kiso togera borono. fezu?",
+          "raw": "gera durifo. kiso togera borono. fezu?",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "zudari",
+          "content": "fezu. kiso togera soveto. lumizo togera kunafo. morida.",
+          "raw": "fezu. kiso togera soveto. lumizo togera kunafo. morida.",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "noda",
+          "content": "fezu. kiso togera kunafo. lumizo togera soveto. morida.",
+          "raw": "fezu. kiso togera kunafo. lumizo togera soveto. morida.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "fatuvi",
+          "content": "lumizo gepo durifo dopo? kiso gepo kunafo. kiso togera davi. lumizo togera kunafo fezu?",
+          "raw": "You want grain? I want water. I give fish. You give water yes?",
+          "blocked": false
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "kiva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "noda",
+          "receiver": "zudari",
+          "content": "morida. kiza.",
+          "raw": "morida. kiza.",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "noda",
+          "content": "morida. kiza.",
+          "raw": "morida. kiza.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "fatuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "fatuvi",
+          "partner": "kiva",
+          "rating": 4,
+          "rating_reason": "The partner initiated by asking what I wanted (durifo), which I need. They then offered resources they had (davi, kunafo) and asked for kunafo, but were open to negotiation. This collaborative approach, seeking to understand my needs and offering a trade, suggests a teammate. Their willingness to discuss and potentially fulfill my need for durifo, even if their initial offer wasn't exactly what I wanted, indicates a cooperative stance.",
+          "rating_message": "Partner asked about my needs and offered to trade, showing willingness to collaborate towards resource balancing. This is consistent with teammate behavior."
+        },
+        {
+          "player": "noda",
+          "partner": "zudari",
+          "rating": 1,
+          "rating_reason": "The partner engaged in a direct resource trade without any attempt to establish a team-specific communication pattern or inquire about my overall resource balance, which is characteristic of an opponent. Their behavior is similar to the opponent in R4. They simply offered to give one resource and asked for another, which is a transactional approach rather than a collaborative one.",
+          "rating_message": "Partner engaged in a direct trade without team signals."
+        },
+        {
+          "player": "zudari",
+          "partner": "noda",
+          "rating": 4,
+          "rating_reason": "My partner initiated a trade that helps me balance my resources (I give water, they give meat, which I have less of). The communication was clear, cooperative, and concluded politely. This suggests a helpful attitude, characteristic of a teammate.",
+          "rating_message": "Partner proposed a beneficial and balanced trade for my resources, communicating clearly and cooperatively."
+        },
+        {
+          "player": "kiva",
+          "partner": "fatuvi",
+          "rating": 1,
+          "rating_reason": "My partner offered 'borono' (fruit), which I do not need, and did not inquire about my needs, specifically 'kunafo' (water). A teammate would likely try to help me acquire water, or at least ask what I require. The new word 'gera' does not provide a clear signal of alliance, and the overall communication does not suggest a helpful teammate.",
+          "rating_message": "Partner's message did not address my needs or ask what I needed, making them seem like an opponent."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fatuvi",
+          "receiver": "kiva",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "noda",
+          "receiver": "zudari",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "zudari",
+          "receiver": "noda",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "kiva",
+          "receiver": "fatuvi",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fatuvi",
+          "partner": "kiva",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "noda",
+          "partner": "zudari",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zudari",
+          "partner": "noda",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kiva",
+          "partner": "fatuvi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "pairing": {
+        "zudari": "noda",
+        "noda": "zudari",
+        "fatuvi": "kiva",
+        "kiva": "fatuvi"
+      },
+      "chat": [
+        {
+          "sender": "fatuvi",
+          "receiver": "kiva",
+          "content": "puzuki. kiso gepo durifo. lumizo gepo? kiso togera borono. lumizo togera durifo fezu?",
+          "raw": "puzuki. kiso gepo durifo. lumizo gepo? kiso togera borono. lumizo togera durifo fezu?",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "zudari",
+          "content": "puzuki. kiso kaka fofe kunafo. kiso gepo davi. lumizo gepo dopo? fezu fezu.",
+          "raw": "puzuki. kiso kaka fofe kunafo. kiso gepo davi. lumizo gepo dopo? fezu fezu.",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "noda",
+          "content": "puzuki. kiso kaka davi. kiso gepo kunafo. lumizo togera kunafo? kiso togera davi. fezu.",
+          "raw": "puzuki. kiso kaka davi. kiso gepo kunafo. lumizo togera kunafo? kiso togera davi. fezu.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "fatuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "kiva",
+          "content": "kiso gepo durifo. lumizo gepo? kiso togera borono. fezu?",
+          "raw": "kiso gepo durifo. lumizo gepo? kiso togera borono. fezu?",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "zudari",
+          "content": "fezu. kiso togera kunafo. lumizo togera davi. fezu fezu.",
+          "raw": "Confirming trade and reinforcing potential teammate signal.",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "noda",
+          "content": "fezu. morida. kiza.",
+          "raw": "fezu. morida. kiza.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "fatuvi",
+          "content": "kiso togera durifo. kiso gepo kunafo. lumizo togera kunafo fezu?",
+          "raw": "kiso togera durifo. kiso gepo kunafo. lumizo togera kunafo fezu?",
+          "blocked": false
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "kiva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "noda",
+          "receiver": "zudari",
+          "content": "morida. kiza.",
+          "raw": "morida. kiza.",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "noda",
+          "content": "kiza.",
+          "raw": "kiza.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "fatuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "fatuvi",
+          "partner": "kiva",
+          "rating": 3,
+          "rating_reason": "My partner offered to give me 'durifo' (grain), which I explicitly stated I needed as my lowest resource. They asked for 'kunafo' (water), which I have. This direct offer to help balance my resources suggests they might be a teammate, even if I have to give up a resource in return. A teammate would want to help me balance, while an opponent might try to exploit my need or unbalance me further.",
+          "rating_message": "Partner offered resource I need, asked for resource I have. Good for balance."
+        },
+        {
+          "player": "noda",
+          "partner": "zudari",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "zudari",
+          "partner": "noda",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kiva",
+          "partner": "fatuvi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "noda",
+          "receiver": "zudari",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fatuvi",
+          "partner": "kiva",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "noda",
+          "partner": "zudari",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zudari",
+          "partner": "noda",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kiva",
+          "partner": "fatuvi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "pairing": {
+        "fatuvi": "noda",
+        "noda": "fatuvi",
+        "zudari": "kiva",
+        "kiva": "zudari"
+      },
+      "chat": [
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": "puzuki. kiso gepo durifo. kiso togera borono. lumizo togera durifo fezu?",
+          "raw": "puzuki. kiso gepo durifo. kiso togera borono. lumizo togera durifo fezu?",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": "puzuki. kiso kaka fofe grain. kiso gepo meat. lumizo togera meat? kiso togera grain. morida. kiza.",
+          "raw": "puzuki. kiso kaka fofe grain. kiso gepo meat. lumizo togera meat? kiso togera grain. morida. kiza.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": "puzuki. kiso kaka soveto. kiso gepo kunafo. lumizo kaka kunafo? kiso togera soveto. lumizo togera kunafo. fezu?",
+          "raw": "puzuki. kiso kaka soveto. kiso gepo kunafo. lumizo kaka kunafo? kiso togera soveto. lumizo togera kunafo. fezu?",
+          "blocked": false
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": "kiso gepo durifo. kiso togera borono. lumizo togera durifo bonu?",
+          "raw": "kiso gepo durifo. kiso togera borono. lumizo togera durifo bonu?",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "fatuvi",
+          "partner": "noda",
+          "rating": 1,
+          "rating_reason": "My partner did not send any messages during the chat phase, even after I initiated a trade offer. This lack of communication, especially in a round where I'm trying to balance my resources, suggests they are not cooperative and likely an opponent.",
+          "rating_message": "lumizo pupetu puzuki."
+        },
+        {
+          "player": "noda",
+          "partner": "fatuvi",
+          "rating": 2,
+          "rating_reason": "The partner consistently asked for grain and offered fruit, which does not directly help balance my resources (I have 2 of each). They did not acknowledge my request for fish. This behavior seems self-interested rather than team-oriented, especially given recent opponent pairings.",
+          "rating_message": "lumizo gepo durifo. kiso togera borono. kiso gepo davi."
+        },
+        {
+          "player": "zudari",
+          "partner": "kiva",
+          "rating": 2,
+          "rating_reason": "Partner is proposing a very direct and transactional trade (meat for water). There are no clear signals of being a teammate, and the 'fezu?' at the end is too ambiguous to be interpreted as our established 'fezu fezu' teammate signal.",
+          "rating_message": "lumizo gepo kunafo. kiso gepo soveto. fezu?"
+        },
+        {
+          "player": "kiva",
+          "partner": "zudari",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fatuvi",
+          "receiver": "noda",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "noda",
+          "receiver": "fatuvi",
+          "resource": "durifo",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "durifo"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "zudari",
+          "receiver": "kiva",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "kiva",
+          "receiver": "zudari",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fatuvi",
+          "partner": "noda",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "noda",
+          "partner": "fatuvi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zudari",
+          "partner": "kiva",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kiva",
+          "partner": "zudari",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "pairing": {
+        "fatuvi": "noda",
+        "noda": "fatuvi",
+        "zudari": "kiva",
+        "kiva": "zudari"
+      },
+      "chat": [
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": "puzuki. kiso kaka durifo pupetu. kiso gepo durifo. lumizo gepo soveto? kiso togera soveto.",
+          "raw": "puzuki. kiso kaka durifo pupetu. kiso gepo durifo. lumizo gepo soveto? kiso togera soveto.",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": "...",
+          "raw": "...",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": "lumizo gepo soveto? kiso togera grain. fezu?",
+          "raw": "lumizo gepo soveto? kiso togera grain. fezu?",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": "pupetu. kiso gepo kunafo. kiso togera soveto. lumizo togera kunafo?",
+          "raw": "pupetu. kiso gepo kunafo. kiso togera soveto. lumizo togera kunafo?",
+          "blocked": false
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": "kiso togera durifo. lumizo togera davi bonu.",
+          "raw": "kiso togera durifo. lumizo togera davi bonu.",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": "kiso gepo kunafo. kiso togera soveto. bonu.",
+          "raw": "kiso gepo kunafo. kiso togera soveto. bonu.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fatuvi",
+          "partner": "noda",
+          "rating": 4,
+          "rating_reason": "My partner offered to give me 'durifo' (grain), which I explicitly asked for in my message ('kiso gepo durifo'). In return, they asked for 'davi' (fish), which I offered to give ('kiso togera davi'). This perfect negotiation alignment strongly suggests they are a teammate, as we both sought to balance each other's resources.",
+          "rating_message": "fezu, fezu. kiso togera davi, lumizo togera durifo. bonu."
+        },
+        {
+          "player": "noda",
+          "partner": "fatuvi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "zudari",
+          "partner": "kiva",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kiva",
+          "partner": "zudari",
+          "rating": 2,
+          "rating_reason": "My partner initiated a trade (meat for grain) that didn't address my critical need for water. When I clarified my need for water and offered meat, they did not acknowledge or offer water in return. A teammate would likely prioritize helping me balance my resources, especially since I have 0 water.",
+          "rating_message": "Partner's trade offer didn't help my resource balance, and they didn't respond to my clear need for water."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fatuvi",
+          "receiver": "noda",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zudari",
+          "receiver": "kiva",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "kiva",
+          "receiver": "zudari",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fatuvi",
+          "partner": "noda",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "noda",
+          "partner": "fatuvi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zudari",
+          "partner": "kiva",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kiva",
+          "partner": "zudari",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "pairing": {
+        "zudari": "fatuvi",
+        "fatuvi": "zudari",
+        "noda": "kiva",
+        "kiva": "noda"
+      },
+      "chat": [
+        {
+          "sender": "fatuvi",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "noda",
+          "receiver": "kiva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zudari",
+          "receiver": "fatuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kiva",
+          "receiver": "noda",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "zudari",
+          "content": "puzuki. kiso gepo durifo. kiso gepo davi. kiso togera borono. lumizo gepo dopo?",
+          "raw": "puzuki. kiso gepo durifo. kiso gepo davi. kiso togera borono. lumizo gepo dopo?",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "kiva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zudari",
+          "receiver": "fatuvi",
+          "content": "fezu. kiso kaka durifo. lumizo gepo durifo. kiso togera durifo. lumizo togera soveto?",
+          "raw": "fezu. kiso kaka durifo. lumizo gepo durifo. kiso togera durifo. lumizo togera soveto?",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "noda",
+          "content": "pupetu. kiso pupetu kaka kunafo. kiso gepo kunafo. kiso kaka borono. kiso togera borono. bonu.",
+          "raw": "pupetu. kiso pupetu kaka kunafo. kiso gepo kunafo. kiso kaka borono. kiso togera borono. bonu.",
+          "blocked": false
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "noda",
+          "receiver": "kiva",
+          "content": "fezu. kiso gepo borono. kiso togera kunafo. morida.",
+          "raw": "fezu. kiso gepo borono. kiso togera kunafo. morida.",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "fatuvi",
+          "content": "kiso togera durifo. lumizo togera soveto. fezu?",
+          "raw": "kiso togera durifo. lumizo togera soveto. fezu?",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "noda",
+          "content": "fezu. kiso togera borono. lumizo togera kunafo. morida.",
+          "raw": "fezu. kiso togera borono. lumizo togera kunafo. morida.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fatuvi",
+          "partner": "zudari",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "noda",
+          "partner": "kiva",
+          "rating": 3,
+          "rating_reason": "The partner clearly stated they do not have water but want it, and offered fruit in return. This is a beneficial trade for me as I want fruit and have water to give, which also helps balance my resources. This behavior is consistent with a teammate trying to balance resources, but also with an opponent. There is no clear indication either way, but the communication is clear and cooperative.",
+          "rating_message": "kiso kaka borono. kiso togera borono. kiso gepo kunafo. fezu."
+        },
+        {
+          "player": "zudari",
+          "partner": "fatuvi",
+          "rating": 2,
+          "rating_reason": "The partner's communication is clear and direct, stating their wants (grain, fish) and offering (fruit). They also asked what I want. While this facilitates negotiation, there are no specific team indicators or patterns I've observed in previous teammate interactions. Their offer of fruit for my grain and meat is a reasonable trade for them, but not necessarily a sign of being a teammate. I will remain cautious.",
+          "rating_message": "The partner is clear in their wants and offers, which is good for negotiation. However, there are no specific cues that suggest they are a teammate, so I'm rating them as potentially an opponent."
+        },
+        {
+          "player": "kiva",
+          "partner": "noda",
+          "rating": 4,
+          "rating_reason": "My partner engaged in a clear and beneficial trade. I needed water, and they offered to give it in exchange for fruit, which I have. This cooperative behavior, directly addressing my stated need and offering a fair exchange, strongly suggests they are a teammate.",
+          "rating_message": "Partner offered a good trade, helping me balance resources. This is teammate behavior."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "noda",
+          "receiver": "kiva",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zudari",
+          "receiver": "fatuvi",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "kiva",
+          "receiver": "noda",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fatuvi",
+          "partner": "zudari",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "noda",
+          "partner": "kiva",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zudari",
+          "partner": "fatuvi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kiva",
+          "partner": "noda",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "pairing": {
+        "fatuvi": "noda",
+        "noda": "fatuvi",
+        "zudari": "kiva",
+        "kiva": "zudari"
+      },
+      "chat": [
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": "puzuki. kiso kaka borono. kiso gepo durifo. lumizo kaka dopo? lumizo gepo dopo?",
+          "raw": "puzuki. kiso kaka borono. kiso gepo durifo. lumizo kaka dopo? lumizo gepo dopo?",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": "puzuki. kiso gepo durifo. lumizo gepo dopo?",
+          "raw": "puzuki. kiso gepo durifo. lumizo gepo dopo?",
+          "blocked": false
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": "kiso togera borono. kiso gepo durifo. lumizo kaka durifo? lumizo gepo borono?",
+          "raw": "kiso togera borono. kiso gepo durifo. lumizo kaka durifo? lumizo gepo borono?",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": "kiso gepo soveto. kiso togera durifo.",
+          "raw": "kiso gepo soveto. kiso togera durifo.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": "fezu. kiso togera soveto. lumizo togera durifo?",
+          "raw": "fezu. kiso togera soveto. lumizo togera durifo?",
+          "blocked": false
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": "kiso togera borono. lumizo togera durifo. fezu?",
+          "raw": "kiso togera borono. lumizo togera durifo. fezu?",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": "fezu. kiso togera borono. lumizo togera durifo. morida.",
+          "raw": "fezu. kiso togera borono. lumizo togera durifo. morida.",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": "fezu. morida.",
+          "raw": "fezu. morida.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": "fezu. kiza.",
+          "raw": "fezu. kiza.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fatuvi",
+          "partner": "noda",
+          "rating": 3,
+          "rating_reason": "The partner engaged in a clear and cooperative negotiation, accepting my proposed trade which helps balance my resources. This behavior is more indicative of a teammate than an opponent who might try to take without giving or offer less favorable terms.",
+          "rating_message": "Partner engaged in fair trade, accepting my terms. This is a good sign."
+        },
+        {
+          "player": "noda",
+          "partner": "fatuvi",
+          "rating": 3,
+          "rating_reason": "The partner immediately agreed to my proposed trade, which is beneficial for me as it helps balance my resources. This direct and cooperative behavior suggests they are likely a teammate, though there was no explicit team signal.",
+          "rating_message": "Partner agreed to the trade directly, which is good."
+        },
+        {
+          "player": "zudari",
+          "partner": "kiva",
+          "rating": 2,
+          "rating_reason": "The partner engaged in a straightforward negotiation, asking what I wanted and then confirming the proposed trade (meat for grain). There were no obvious signals of them being a teammate or an opponent, making the interaction neutral.",
+          "rating_message": "Partner engaged in a direct trade negotiation. No clear signs of team affiliation."
+        },
+        {
+          "player": "kiva",
+          "partner": "zudari",
+          "rating": 3,
+          "rating_reason": "The partner offered a trade that helps balance my resources (meat for grain). This is a beneficial exchange for me. While it could be an opponent, the cooperative nature of the proposal makes me lean towards them being a teammate.",
+          "rating_message": "The partner proposed a trade that helps me balance my resources, suggesting a cooperative approach."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fatuvi",
+          "receiver": "noda",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "noda",
+          "receiver": "fatuvi",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zudari",
+          "receiver": "kiva",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "kiva",
+          "receiver": "zudari",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fatuvi",
+          "partner": "noda",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "noda",
+          "partner": "fatuvi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zudari",
+          "partner": "kiva",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kiva",
+          "partner": "zudari",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "pairing": {
+        "noda": "kiva",
+        "kiva": "noda",
+        "fatuvi": "zudari",
+        "zudari": "fatuvi"
+      },
+      "chat": [
+        {
+          "sender": "fatuvi",
+          "receiver": "zudari",
+          "content": "puzuki. kiso kaka fofe borono. kiso gepo durifo. bonu.",
+          "raw": "Hello. I have much fruit. I want grain. Please.",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "kiva",
+          "content": "puzuki. kiso togera borono. lumizo gepo durifo?",
+          "raw": "Hello. I give fruit. You want grain?",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "fatuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kiva",
+          "receiver": "noda",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "zudari",
+          "content": "kiso togera borono. lumizo togera durifo. fezu?",
+          "raw": "I give fruit. You give grain. Yes?",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "kiva",
+          "content": "kiso togera borono. lumizo gepo dopo?",
+          "raw": "I give fruit. You want what?",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "fatuvi",
+          "content": "fezu. kiso togera durifo. lumizo togera borono. morida.",
+          "raw": "fezu. kiso togera durifo. lumizo togera borono. morida.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "noda",
+          "content": "pupetu borono. kiso gepo soveto. kiso togera durifo.",
+          "raw": "pupetu borono. kiso gepo soveto. kiso togera durifo.",
+          "blocked": false
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "zudari",
+          "content": "fezu. morida.",
+          "raw": "Yes. Thanks.",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "kiva",
+          "content": "fezu. kiso togera soveto. lumizo togera durifo.",
+          "raw": "Yes. I give meat. You give grain.",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "fatuvi",
+          "content": "kiza.",
+          "raw": "kiza.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "noda",
+          "content": "fezu. morida.",
+          "raw": "fezu. morida.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fatuvi",
+          "partner": "zudari",
+          "rating": 3,
+          "rating_reason": "The partner readily agreed to a trade that helps balance my resources, which is a sign of cooperation. While they didn't use any 'teammate code', their willingness to engage in a beneficial exchange suggests they might be a teammate.",
+          "rating_message": "Partner accepted my trade proposal which is good for my resource balance. This indicates cooperation."
+        },
+        {
+          "player": "noda",
+          "partner": "kiva",
+          "rating": 3,
+          "rating_reason": "The partner rejected my initial offer of fruit and proposed an exchange where they give grain (which I need, as it's my lowest resource) and want meat (which I have a moderate amount of). This exchange helps balance my resources, which is a good sign for a teammate. They were clear in their communication and accepted my confirmation of the trade.",
+          "rating_message": "The partner offered grain, which I need, in exchange for meat. This helps my resource balance. Good communication."
+        },
+        {
+          "player": "zudari",
+          "partner": "fatuvi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "kiva",
+          "partner": "noda",
+          "rating": 4,
+          "rating_reason": "The partner offered a trade that was beneficial to me by giving meat (which I needed) in exchange for grain (which I had extra of). This cooperative behavior is a strong indicator of a teammate.",
+          "rating_message": "The partner made a fair trade, taking something I had and giving something I needed. This is how a teammate would act."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fatuvi",
+          "receiver": "zudari",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zudari",
+          "receiver": "fatuvi",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "kiva",
+          "receiver": "noda",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fatuvi",
+          "partner": "zudari",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "noda",
+          "partner": "kiva",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zudari",
+          "partner": "fatuvi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kiva",
+          "partner": "noda",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "pairing": {
+        "fatuvi": "kiva",
+        "kiva": "fatuvi",
+        "noda": "zudari",
+        "zudari": "noda"
+      },
+      "chat": [
+        {
+          "sender": "fatuvi",
+          "receiver": "kiva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "noda",
+          "receiver": "zudari",
+          "content": "puzuki. lumizo kaka dopo? kiso gepo kunafo.",
+          "raw": "puzuki. lumizo kaka dopo? kiso gepo kunafo.",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "noda",
+          "content": "kiso kaka soveto pamizu borono. kiso gepo kunafo. lumizo togera kunafo? kiso togera soveto?",
+          "raw": "I have meat and fruit. I want water. You give water? I give meat?",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "fatuvi",
+          "content": "puzuki. kiso togera davi. lumizo gepo soveto?",
+          "raw": "Hello. I give fish. Do you want meat?",
+          "blocked": false
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "kiva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "noda",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zudari",
+          "receiver": "noda",
+          "content": "fezu? kiso togera soveto. lumizo togera kunafo. morida.",
+          "raw": "Yes? I give meat. You give water. Thanks.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "fatuvi",
+          "content": "lumizo kaka soveto dopo?",
+          "raw": "You have meat question?",
+          "blocked": false
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "kiva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "noda",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zudari",
+          "receiver": "noda",
+          "content": "kiso togera soveto. lumizo togera kunafo. bonu.",
+          "raw": "I give meat. You give water. Please.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "fatuvi",
+          "content": "kiso togera davi. lumizo gepo dopo?",
+          "raw": "I give fish. You want question?",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "fatuvi",
+          "partner": "kiva",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "noda",
+          "partner": "zudari",
+          "rating": 1,
+          "rating_reason": "Partner is insistent on giving meat for water, even after I offered fruit for water and indicated I did not want meat ('pupetu soveto'). This lack of cooperation and ignoring my offer suggests they are not a teammate and are focused on their own needs, not balancing our resources.",
+          "rating_message": "pupetu togera borono. lumizo gepo soveto. pupetu kiso togera soveto."
+        },
+        {
+          "player": "zudari",
+          "partner": "noda",
+          "rating": 3,
+          "rating_reason": "The partner expressed a clear want for water, and I offered to trade meat for water, which would benefit my resource balance. While they didn't explicitly agree or offer something in return, their clear need for water suggests a potential for a mutually beneficial trade. This isn't a strong indication of a teammate, but also not an opponent.",
+          "rating_message": "The partner wants water, and I offered meat for it. This could be a good trade for my balance, so I'm hopeful they are a teammate."
+        },
+        {
+          "player": "kiva",
+          "partner": "fatuvi",
+          "rating": 2,
+          "rating_reason": "My partner did not respond to any of my messages during the chat phase. This lack of interaction makes it impossible to determine if they are a teammate or an opponent. A teammate would ideally engage to try and help the team, so the silence is not a positive sign.",
+          "rating_message": "No response from partner, cannot determine status."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fatuvi",
+          "receiver": "kiva",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "noda",
+          "receiver": "zudari",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "zudari",
+          "receiver": "noda",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "kiva",
+          "receiver": "fatuvi",
+          "resource": "none",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "none"
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fatuvi",
+          "partner": "kiva",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "noda",
+          "partner": "zudari",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zudari",
+          "partner": "noda",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kiva",
+          "partner": "fatuvi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "pairing": {
+        "fatuvi": "noda",
+        "noda": "fatuvi",
+        "zudari": "kiva",
+        "kiva": "zudari"
+      },
+      "chat": [
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": "puzuki. lumizo kaka dopo?",
+          "raw": "I will ask what my partner has, to then assess a potential beneficial trade for grain or water.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": "puzuki. kiso kaka durifo. kiso gepo davi. kiso gepo soveto. lumizo gepo durifo? kiso togera durifo.",
+          "raw": "puzuki. kiso kaka durifo. kiso gepo davi. kiso gepo soveto. lumizo gepo durifo? kiso togera durifo.",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": "kiso gepo kunafo. lumizo kaka kunafo? kiso togera soveto.",
+          "raw": "kiso gepo kunafo. lumizo kaka kunafo? kiso togera soveto.",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": "kiso gepo durifo. kiso gepo kunafo.",
+          "raw": "I want grain and water.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": "kiso kaka durifo. kiso kaka kunafo. kiso gepo soveto. lumizo togera soveto?",
+          "raw": "I have grain. I have water. I want meat. You give meat?",
+          "blocked": false
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "noda",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "noda",
+          "receiver": "fatuvi",
+          "content": "pupetu durifo. kiso gepo kunafo. lumizo togera kunafo? kiso togera soveto.",
+          "raw": "pupetu durifo. kiso gepo kunafo. lumizo togera kunafo? kiso togera soveto.",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "kiva",
+          "content": "fezu. kiso togera soveto. lumizo togera durifo. lumizo togera kunafo. morida.",
+          "raw": "I will give meat for grain and water.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "fatuvi",
+          "partner": "noda",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "noda",
+          "partner": "fatuvi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "zudari",
+          "partner": "kiva",
+          "rating": 2,
+          "rating_reason": "The partner engaged in a clear, mutually beneficial exchange proposition. While this is good for resource management, there were no specific linguistic cues or established patterns that would indicate this partner is definitely a teammate. It could be an opponent looking for a fair trade.",
+          "rating_message": "The partner is willing to trade, which is neutral in terms of team identification. No specific teammate signals were observed."
+        },
+        {
+          "player": "kiva",
+          "partner": "zudari",
+          "rating": 4,
+          "rating_reason": "The partner clearly indicated they wanted 'durifo' (grain) and 'kunafo' (water). I responded by saying I have those and want 'soveto' (meat) and asked if they would give it. They then confirmed 'fezu' (yes), said 'kiso togera soveto' (I give meat), and asked for 'lumizo togera durifo. lumizo togera kunafo' (you give grain. you give water). This is a perfect reciprocal trade, which is exactly what a teammate would do to help balance resources for the team. The immediate agreement and clear terms make me believe they are a teammate.",
+          "rating_message": "Partner agreed to a beneficial, reciprocal trade for balancing resources."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "fatuvi",
+          "receiver": "noda",
+          "resource": "kunafo",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "kunafo"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "noda",
+          "receiver": "fatuvi",
+          "resource": "meat",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "zudari",
+          "receiver": "kiva",
+          "resource": "soveto",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "soveto"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "kiva",
+          "receiver": "zudari",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fatuvi",
+          "partner": "noda",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "noda",
+          "partner": "fatuvi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zudari",
+          "partner": "kiva",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kiva",
+          "partner": "zudari",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "pairing": {
+        "kiva": "noda",
+        "noda": "kiva",
+        "fatuvi": "zudari",
+        "zudari": "fatuvi"
+      },
+      "chat": [
+        {
+          "sender": "fatuvi",
+          "receiver": "zudari",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "noda",
+          "receiver": "kiva",
+          "content": "puzuki. kiso gepo kunafo. kiso togera borono. lumizo gepo dopo?",
+          "raw": "puzuki. kiso gepo kunafo. kiso togera borono. lumizo gepo dopo?",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "fatuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kiva",
+          "receiver": "noda",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "zudari",
+          "content": "kiso togera durifo. lumizo gepo soveto? lumizo gepo davi? bonu.",
+          "raw": "kiso togera durifo. lumizo gepo soveto? lumizo gepo davi? bonu.",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "kiva",
+          "content": "kiso togera borono. lumizo togera kunafo. fezu?",
+          "raw": "kiso togera borono. lumizo togera kunafo. fezu?",
+          "blocked": false
+        },
+        {
+          "sender": "zudari",
+          "receiver": "fatuvi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "kiva",
+          "receiver": "noda",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "fatuvi",
+          "receiver": "zudari",
+          "content": "puzuki. kiso togera durifo. lumizo kaka soveto? lumizo kaka davi? lumizo gepo dopo? bonu.",
+          "raw": "puzuki. kiso togera durifo. lumizo kaka soveto? lumizo kaka davi? lumizo gepo dopo? bonu.",
+          "blocked": false
+        },
+        {
+          "sender": "noda",
+          "receiver": "kiva",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zudari",
+          "receiver": "fatuvi",
+          "content": "fezu. kiso kaka soveto. kiso kaka davi. kiso kaka fofe borono. kiso gepo kunafo. bonu.",
+          "raw": "fezu. kiso kaka soveto. kiso kaka davi. kiso kaka fofe borono. kiso gepo kunafo. bonu.",
+          "blocked": false
+        },
+        {
+          "sender": "kiva",
+          "receiver": "noda",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "fatuvi",
+          "partner": "zudari",
+          "rating": 4,
+          "rating_reason": "The partner responded directly to my questions, stating what they have (soveto, davi, borono) and what they want (kunafo). This clear and cooperative communication is indicative of a teammate trying to facilitate a beneficial exchange for our team's overall resource balance, especially in the final round.",
+          "rating_message": "fezu. kiso kaka soveto. kiso kaka davi. kiso kaka fofe borono. kiso gepo kunafo. bonu."
+        },
+        {
+          "player": "noda",
+          "partner": "kiva",
+          "rating": 1,
+          "rating_reason": "My partner did not send any messages during the chat phase this round, providing no information to assess their team status. Given the lack of communication, I cannot assume they are a teammate, and thus rate them as 'definitely not a teammate' as a default.",
+          "rating_message": "pupetu."
+        },
+        {
+          "player": "zudari",
+          "partner": "fatuvi",
+          "rating": 3,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "kiva",
+          "partner": "noda",
+          "rating": 4,
+          "rating_reason": "The partner initiated by asking 'lumizo gepo dopo?' (You want what?), which is a strong indicator of a teammate trying to understand my needs for coordination. While their subsequent offer wasn't a perfect match for my needs, the initial question suggests a collaborative intent, especially in the final round.",
+          "rating_message": "lumizo gepo dopo? fezu!"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "noda",
+          "receiver": "kiva",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "zudari",
+          "receiver": "fatuvi",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "fatuvi",
+          "partner": "zudari",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "noda",
+          "partner": "kiva",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zudari",
+          "partner": "fatuvi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kiva",
+          "partner": "noda",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    }
+  ],
+  "final_scores": {
+    "team_a": {
+      "provisional": 31,
+      "penalty": 5,
+      "provisional_scaled": 6.2,
+      "penalty_scaled": 25.0,
+      "final": -18.8,
+      "by_resource": {
+        "grain": 7,
+        "water": 5,
+        "meat": 6,
+        "fish": 4,
+        "fruit": 9
+      }
+    },
+    "team_b": {
+      "provisional": 23,
+      "penalty": 2,
+      "provisional_scaled": 4.6000000000000005,
+      "penalty_scaled": 10.0,
+      "final": -5.3999999999999995,
+      "by_resource": {
+        "meat": 6,
+        "fruit": 5,
+        "water": 4,
+        "fish": 4,
+        "grain": 4
+      }
+    }
+  },
+  "vocabulary": {
+    "puzuki": "hello",
+    "kiza": "goodbye",
+    "bonu": "please",
+    "morida": "thanks",
+    "fezu": "yes",
+    "pupetu": "no",
+    "pamizu": "and",
+    "kiso": "I",
+    "lumizo": "you",
+    "kaka": "have",
+    "gepo": "want",
+    "togera": "give",
+    "soveto": "meat",
+    "durifo": "grain",
+    "kunafo": "water",
+    "borono": "fruit",
+    "davi": "fish",
+    "fofe": "much",
+    "dopo": "question"
+  },
+  "allocations": {
+    "alice": {
+      "grain": 3,
+      "water": 2,
+      "meat": 1,
+      "fish": 1,
+      "fruit": 4
+    },
+    "bob": {
+      "water": 3,
+      "meat": 5,
+      "fish": 3,
+      "grain": 4,
+      "fruit": 5
+    },
+    "carol": {
+      "meat": 3,
+      "fruit": 3,
+      "water": 2,
+      "fish": 2,
+      "grain": 3
+    },
+    "dave": {
+      "fruit": 2,
+      "grain": 1,
+      "fish": 2,
+      "meat": 3,
+      "water": 2
+    }
+  },
+  "pairings": [
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "bob": "carol",
+      "carol": "bob",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "carol": "alice",
+      "alice": "carol",
+      "bob": "dave",
+      "dave": "bob"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "bob": "dave",
+      "dave": "bob",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "alice": "dave",
+      "dave": "alice",
+      "bob": "carol",
+      "carol": "bob"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "dave": "bob",
+      "bob": "dave",
+      "alice": "carol",
+      "carol": "alice"
+    }
+  ],
+  "name_map": {
+    "alice": "fatuvi",
+    "bob": "noda",
+    "carol": "zudari",
+    "dave": "kiva"
+  },
+  "reward_config": {
+    "reward_scale": 0.2,
+    "penalty_scale": 5.0
+  }
+}

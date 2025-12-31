@@ -1,0 +1,2940 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "pairing": {
+        "bina": "muzavu",
+        "muzavu": "bina",
+        "voso": "tali",
+        "tali": "voso"
+      },
+      "chat": [
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": "nubi temi. puni mapo dini. puni rifuke bobi. famu bade dini?",
+          "raw": "nubi temi. puni mapo dini. puni rifuke bobi. famu bade dini?",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": "nubi famu. puni famu zogo. puni bade bugogu furo. mapo bobi. rifuke famu bugogu, rifuke puni bobi. dube?",
+          "raw": "nubi famu. puni famu zogo. puni bade bugogu furo. mapo bobi. rifuke famu bugogu, rifuke puni bobi. dube?",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": "dube. puni rifuke famu bobi. famu rifuke puni bugogu. puni bade moba furo pito fufe. mapo bugogu. zogo dube?",
+          "raw": "dube. puni rifuke famu bobi. famu rifuke puni bugogu. puni bade moba furo pito fufe. mapo bugogu. zogo dube?",
+          "blocked": false
+        },
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": "temi! rifuke bobi pito rifuke dini? dube?",
+          "raw": "temi! rifuke bobi pito rifuke dini? dube?",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": "...",
+          "raw": "...",
+          "blocked": false
+        },
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": "dube zogo! rifuke famu bugogu pito dini, rifuke puni bobi pito fufe. segu maso.",
+          "raw": "dube zogo! rifuke famu bugogu pito dini, rifuke puni bobi pito fufe. segu maso.",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": "zogo! dube! rifuke famu bobi pito fufe. famu rifuke puni bugogu pito dini. maso!",
+          "raw": "zogo! dube! rifuke famu bobi pito fufe. famu rifuke puni bugogu pito dini. maso!",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "bina",
+          "partner": "muzavu",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "muzavu",
+          "partner": "bina",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "voso",
+          "partner": "tali",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tali",
+          "partner": "voso",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "bina",
+          "partner": "muzavu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "muzavu",
+          "partner": "bina",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "voso",
+          "partner": "tali",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tali",
+          "partner": "voso",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "pairing": {
+        "bina": "muzavu",
+        "muzavu": "bina",
+        "voso": "tali",
+        "tali": "voso"
+      },
+      "chat": [
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": "nubi taka. puni bade dini furo pito moba fakevu. famu bade moba? duke rifuke moba puni. puni rifuke dini famu. dube?",
+          "raw": "nubi taka. puni bade dini furo pito moba fakevu. famu bade moba? duke rifuke moba puni. puni rifuke dini famu. dube?",
+          "blocked": false
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": "dube temi! puni rifuke moba famu. famu rifuke dini puni. duke!",
+          "raw": "dube temi! puni rifuke moba famu. famu rifuke dini puni. duke!",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": "taka rifuke moba pito dini. maso!",
+          "raw": "taka rifuke moba pito dini. maso!",
+          "blocked": false
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": "zogo duke! rifuke puni bugogu. rifuke famu bobi. maso.",
+          "raw": "zogo duke! rifuke puni bugogu. rifuke famu bobi. maso.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "bina",
+          "partner": "muzavu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "muzavu",
+          "partner": "bina",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "voso",
+          "partner": "tali",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tali",
+          "partner": "voso",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "tali",
+          "receiver": "voso",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "bina",
+          "partner": "muzavu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "muzavu",
+          "partner": "bina",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "voso",
+          "partner": "tali",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tali",
+          "partner": "voso",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "pairing": {
+        "bina": "muzavu",
+        "muzavu": "bina",
+        "voso": "tali",
+        "tali": "voso"
+      },
+      "chat": [
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": "nubi temi. puni mapo moba. puni bade bugogu furo. famu bade moba? devi?",
+          "raw": "nubi temi. puni mapo moba. puni bade bugogu furo. famu bade moba? devi?",
+          "blocked": false
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": "nubi. puni fakevu bugogu furo! famu bade? zogo gizu?",
+          "raw": "nubi. puni fakevu bugogu furo! famu bade? zogo gizu?",
+          "blocked": false
+        },
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": "dube temi. taka? puni bade moba. famu bade dini? duke rifuke dini puni pito rifuke moba famu. devi bugogu?",
+          "raw": "dube temi. taka? puni bade moba. famu bade dini? duke rifuke dini puni pito rifuke moba famu. devi bugogu?",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": "dube. rifuke dini famu. rifuke moba puni",
+          "raw": "dube. rifuke dini famu. rifuke moba puni",
+          "blocked": false
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": "gizu famu! rifuke puni bugogu? puni rifuke famu bobi pito moba. dube?",
+          "raw": "gizu famu! rifuke puni bugogu? puni rifuke famu bobi pito moba. dube?",
+          "blocked": false
+        },
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": "dube. temi!",
+          "raw": "dube. temi!",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": "zogo? rifuke puni bugogu duke! segu famu!",
+          "raw": "zogo? rifuke puni bugogu duke! segu famu!",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "bina",
+          "partner": "muzavu",
+          "rating": 3,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "muzavu",
+          "partner": "bina",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "voso",
+          "partner": "tali",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tali",
+          "partner": "voso",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "bina",
+          "receiver": "muzavu",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "muzavu",
+          "receiver": "bina",
+          "resource": "dini",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "dini"
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "bina",
+          "partner": "muzavu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "muzavu",
+          "partner": "bina",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "voso",
+          "partner": "tali",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tali",
+          "partner": "voso",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "pairing": {
+        "voso": "muzavu",
+        "muzavu": "voso",
+        "bina": "tali",
+        "tali": "bina"
+      },
+      "chat": [
+        {
+          "sender": "bina",
+          "receiver": "tali",
+          "content": "nubi. puni bade bugogu pito fufe pito bobi. mapo dini pito moba. famu bade dini? famu bade moba? temi devi.",
+          "raw": "nubi. puni bade bugogu pito fufe pito bobi. mapo dini pito moba. famu bade dini? famu bade moba? temi devi.",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tali",
+          "receiver": "bina",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "bina",
+          "receiver": "tali",
+          "content": "temi? puni rifuke bobi famu. famu rifuke moba puni. dube? famu bade moba furo? devi.",
+          "raw": "temi? puni rifuke bobi famu. famu rifuke moba puni. dube? famu bade moba furo? devi.",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "voso",
+          "content": "temi! rifuke dini famu furo. puni mapo bobi. dube? puni pito famu segu.",
+          "raw": "temi! rifuke dini famu furo. puni mapo bobi. dube? puni pito famu segu.",
+          "blocked": false
+        },
+        {
+          "sender": "voso",
+          "receiver": "muzavu",
+          "content": "dube! rifuke dini famu duke. kepa? puni rifuke famu bobi. zogo dube?",
+          "raw": "dube! rifuke dini famu duke. kepa? puni rifuke famu bobi. zogo dube?",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "bina",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "bina",
+          "receiver": "tali",
+          "content": "temi? rifuke bobi famu moba. pito rifuke fufe famu dini. dube? maso.",
+          "raw": "temi? rifuke bobi famu moba. pito rifuke fufe famu dini. dube? maso.",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "voso",
+          "content": "dube! temi! rifuke dini famu kepa. rifuke bobi puni kepa. zogo segu!",
+          "raw": "dube! temi! rifuke dini famu kepa. rifuke bobi puni kepa. zogo segu!",
+          "blocked": false
+        },
+        {
+          "sender": "voso",
+          "receiver": "muzavu",
+          "content": "dube! kepa zogo! puni rifuke famu bobi pito bugogu. rifuke puni dini. segu! maso.",
+          "raw": "dube! kepa zogo! puni rifuke famu bobi pito bugogu. rifuke puni dini. segu! maso.",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "bina",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "bina",
+          "partner": "tali",
+          "rating": 2,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "muzavu",
+          "partner": "voso",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "voso",
+          "partner": "muzavu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tali",
+          "partner": "bina",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "bina",
+          "partner": "tali",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "muzavu",
+          "partner": "voso",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "voso",
+          "partner": "muzavu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tali",
+          "partner": "bina",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "pairing": {
+        "bina": "muzavu",
+        "muzavu": "bina",
+        "voso": "tali",
+        "tali": "voso"
+      },
+      "chat": [
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": "nubi temi. puni bade bobi pito fufe. mapo dini.",
+          "raw": "nubi temi. puni bade bobi pito fufe. mapo dini.",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": "temi! mapo moba. famu bade moba? rifuke bobi famu.",
+          "raw": "temi! mapo moba. famu bade moba? rifuke bobi famu.",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": "famu rifuke puni bobi? puni bade moba kepa. rifuke famu moba kepa. mapo dini? zogo?",
+          "raw": "famu rifuke puni bobi? puni bade moba kepa. rifuke famu moba kepa. mapo dini? zogo?",
+          "blocked": false
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": "dube!",
+          "raw": "dube!",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": "dube! rifuke famu moba kepa. famu rifuke puni bobi kepa. zogo! puni bade dini furo. mapo bugogu? maso.",
+          "raw": "dube! rifuke famu moba kepa. famu rifuke puni bobi kepa. zogo! puni bade dini furo. mapo bugogu? maso.",
+          "blocked": false
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "bina",
+          "partner": "muzavu",
+          "rating": 2,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "muzavu",
+          "partner": "bina",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "voso",
+          "partner": "tali",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tali",
+          "partner": "voso",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "bina",
+          "receiver": "muzavu",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "tali",
+          "receiver": "voso",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "bina",
+          "partner": "muzavu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "muzavu",
+          "partner": "bina",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "voso",
+          "partner": "tali",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tali",
+          "partner": "voso",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "pairing": {
+        "bina": "tali",
+        "tali": "bina",
+        "muzavu": "voso",
+        "voso": "muzavu"
+      },
+      "chat": [
+        {
+          "sender": "bina",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "muzavu",
+          "content": "nubi! puni vuno. famu vuno? rifuke famu bugogu? dube?",
+          "raw": "nubi! puni vuno. famu vuno? rifuke famu bugogu? dube?",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "bina",
+          "content": "...",
+          "raw": "...",
+          "blocked": false
+        },
+        {
+          "sender": "bina",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "muzavu",
+          "content": "famu bade fufe? puni mapo fufe. bugogu rifuke famu. fufe rifuke puni. dube?",
+          "raw": "famu bade fufe? puni mapo fufe. bugogu rifuke famu. fufe rifuke puni. dube?",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "bina",
+          "content": "famu? rifuke puni bugogu fakevu furo! mapo bugogu. rifuke famu bobi. devi?",
+          "raw": "famu? rifuke puni bugogu fakevu furo! mapo bugogu. rifuke famu bobi. devi?",
+          "blocked": false
+        },
+        {
+          "sender": "bina",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "muzavu",
+          "content": "famu vuno? devi! dube?",
+          "raw": "famu vuno? devi! dube?",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "bina",
+          "content": "bugogu fakevu furo! famu devi? rifuke puni bugogu. puni rifuke famu moba. maso.",
+          "raw": "bugogu fakevu furo! famu devi? rifuke puni bugogu. puni rifuke famu moba. maso.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "bina",
+          "partner": "tali",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "muzavu",
+          "partner": "voso",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "voso",
+          "partner": "muzavu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tali",
+          "partner": "bina",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "voso",
+          "receiver": "muzavu",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "tali",
+          "receiver": "bina",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "bina",
+          "partner": "tali",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "muzavu",
+          "partner": "voso",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "voso",
+          "partner": "muzavu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tali",
+          "partner": "bina",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "pairing": {
+        "tali": "muzavu",
+        "muzavu": "tali",
+        "bina": "voso",
+        "voso": "bina"
+      },
+      "chat": [
+        {
+          "sender": "bina",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "bina",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tali",
+          "receiver": "muzavu",
+          "content": "nubi. puni mapo bugogu furo! famu bade bugogu? rifuke famu bugogu, rifuke puni bobi pito moba. gova?",
+          "raw": "nubi. puni mapo bugogu furo! famu bade bugogu? rifuke famu bugogu, rifuke puni bobi pito moba. gova?",
+          "blocked": false
+        },
+        {
+          "sender": "bina",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "bina",
+          "content": "famu zogo? fakevu vuno? famu fakevu rifuke puni fufe? puni FAKEVU rifuke bugogu! VIBO! dube?",
+          "raw": "famu zogo? fakevu vuno? famu fakevu rifuke puni fufe? puni FAKEVU rifuke bugogu! VIBO! dube?",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "bina",
+          "receiver": "voso",
+          "content": "fakevu! bugogu FAKEVU furo! famu rifuke puni dini? puni fakevu rifuke fufe. maso.",
+          "raw": "fakevu! bugogu FAKEVU furo! famu rifuke puni dini? puni fakevu rifuke fufe. maso.",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "bina",
+          "content": "fakevu! famu vuno FAKEVU! puni fakevu rifuke dini! famu bade bugogu FURU—zogo? FAKEVU! maso.",
+          "raw": "fakevu! famu vuno FAKEVU! puni fakevu rifuke dini! famu bade bugogu FURU—zogo? FAKEVU! maso.",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "bina",
+          "partner": "voso",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "muzavu",
+          "partner": "tali",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "voso",
+          "partner": "bina",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "tali",
+          "partner": "muzavu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "bina",
+          "partner": "voso",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "muzavu",
+          "partner": "tali",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "voso",
+          "partner": "bina",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tali",
+          "partner": "muzavu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "pairing": {
+        "bina": "muzavu",
+        "muzavu": "bina",
+        "voso": "tali",
+        "tali": "voso"
+      },
+      "chat": [
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": "nubi! famu zogo? puni bade bugogu FURU. rifuke famu bugogu? rifuke puni fufe? dube?",
+          "raw": "nubi! famu zogo? puni bade bugogu FURU. rifuke famu bugogu? rifuke puni fufe? dube?",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": "zogo? famu dube?",
+          "raw": "zogo? famu dube?",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": "fakevu! maso!",
+          "raw": "fakevu! maso!",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "bina",
+          "partner": "muzavu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "muzavu",
+          "partner": "bina",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "voso",
+          "partner": "tali",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "tali",
+          "partner": "voso",
+          "rating": 2,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "voso",
+          "receiver": "tali",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "bina",
+          "partner": "muzavu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "muzavu",
+          "partner": "bina",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "voso",
+          "partner": "tali",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tali",
+          "partner": "voso",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "pairing": {
+        "tali": "bina",
+        "bina": "tali",
+        "muzavu": "voso",
+        "voso": "muzavu"
+      },
+      "chat": [
+        {
+          "sender": "bina",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tali",
+          "receiver": "bina",
+          "content": "nubi! puni bade fakevu bugogu. mapo bugogu KUVA! rifuke famu moba, rifuke puni bugogu? dube?",
+          "raw": "nubi! puni bade fakevu bugogu. mapo bugogu KUVA! rifuke famu moba, rifuke puni bugogu? dube?",
+          "blocked": false
+        },
+        {
+          "sender": "bina",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "muzavu",
+          "content": "fakevu rifuke? famu zogo DUBE FAKEVU? rifuke famu BUGOGU! rifuke puni FUFE!",
+          "raw": "fakevu rifuke? famu zogo DUBE FAKEVU? rifuke famu BUGOGU! rifuke puni FUFE!",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "bina",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "bina",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "muzavu",
+          "content": "zogo fakevu! fakevu rifuke? maso!",
+          "raw": "zogo fakevu! fakevu rifuke? maso!",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "bina",
+          "content": "zogo! famu rifuke puni bugogu KUVA? puni rifuke famu moba VELO bobi. dube? fakevu?",
+          "raw": "zogo! famu rifuke puni bugogu KUVA? puni rifuke famu moba VELO bobi. dube? fakevu?",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "bina",
+          "partner": "tali",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "muzavu",
+          "partner": "voso",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "voso",
+          "partner": "muzavu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tali",
+          "partner": "bina",
+          "rating": 2,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "voso",
+          "receiver": "muzavu",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "bina",
+          "partner": "tali",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "muzavu",
+          "partner": "voso",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "voso",
+          "partner": "muzavu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tali",
+          "partner": "bina",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "pairing": {
+        "bina": "muzavu",
+        "muzavu": "bina",
+        "voso": "tali",
+        "tali": "voso"
+      },
+      "chat": [
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": "nubi viko temi_a. puni bade dini bobi furo. mapo fufe. famu rifuke puni fufe? puni rifuke famu dini. duke!",
+          "raw": "nubi viko temi_a. puni bade dini bobi furo. mapo fufe. famu rifuke puni fufe? puni rifuke famu dini. duke!",
+          "blocked": false
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": "nubi! famu zogo? puni bade bugogu FURU. rifuke famu bugogu? rifuke puni BOBIFUFE?",
+          "raw": "nubi! famu zogo? puni bade bugogu FURU. rifuke famu bugogu? rifuke puni BOBIFUFE?",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": "dube! zogo! puni mapo bugogu KUVA. rifuke famu bobi VELO moba? famu rifuke puni bugogu? dube?",
+          "raw": "dube! zogo! puni mapo bugogu KUVA. rifuke famu bobi VELO moba? famu rifuke puni bugogu? dube?",
+          "blocked": false
+        },
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": "zogo! dube! rifuke famu bugogu KUVA. famu rifuke puni fufe VELO dini? dube?",
+          "raw": "zogo! dube! rifuke famu bugogu KUVA. famu rifuke puni fufe VELO dini? dube?",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": "zogo! fakevu fufe VELO dini! puni bade bobi FURU pito moba FURU. rifuke famu bobi VELO moba KUVA? famu rifuke puni bugogu? dube?",
+          "raw": "zogo! fakevu fufe VELO dini! puni bade bobi FURU pito moba FURU. rifuke famu bobi VELO moba KUVA? famu rifuke puni bugogu? dube?",
+          "blocked": false
+        },
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": "dube! rifuke famu bugogu FURU. rifuke puni bobi VELO moba FURU. maso!",
+          "raw": "dube! rifuke famu bugogu FURU. rifuke puni bobi VELO moba FURU. maso!",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": "dube! zogo! rifuke famu bobi. rifuke puni bugogu! segu maso.",
+          "raw": "dube! zogo! rifuke famu bobi. rifuke puni bugogu! segu maso.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "bina",
+          "partner": "muzavu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "muzavu",
+          "partner": "bina",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "voso",
+          "partner": "tali",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "tali",
+          "partner": "voso",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "voso",
+          "receiver": "tali",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "bina",
+          "partner": "muzavu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "muzavu",
+          "partner": "bina",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "voso",
+          "partner": "tali",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tali",
+          "partner": "voso",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "pairing": {
+        "tali": "muzavu",
+        "muzavu": "tali",
+        "bina": "voso",
+        "voso": "bina"
+      },
+      "chat": [
+        {
+          "sender": "bina",
+          "receiver": "voso",
+          "content": "nubi. temi_c. puni bade dini fakevu. mapo dini. puni rifuke famu fufe kepa. famu rifuke puni dini? duke.",
+          "raw": "nubi. temi_c. puni bade dini fakevu. mapo dini. puni rifuke famu fufe kepa. famu rifuke puni dini? duke.",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "bina",
+          "content": "zogo? puni bade dini. rifuke famu dini. famu rifuke puni moba? dube?",
+          "raw": "zogo? puni bade dini. rifuke famu dini. famu rifuke puni moba? dube?",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "bina",
+          "receiver": "voso",
+          "content": "temi_c. puni bade moba fakevu! mapo dini. rifuke famu fufe kepa. famu rifuke puni dini? dube?",
+          "raw": "temi_c. puni bade moba fakevu! mapo dini. rifuke famu fufe kepa. famu rifuke puni dini? dube?",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "bina",
+          "content": "zogo? fakevu! puni fakevu rifuke famu dini. famu bade bobi? rifuke famu dini. famu rifuke puni bobi? dube?",
+          "raw": "zogo? fakevu! puni fakevu rifuke famu dini. famu bade bobi? rifuke famu dini. famu rifuke puni bobi? dube?",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "bina",
+          "receiver": "voso",
+          "content": "dube! rifuke famu bobi kepa. famu rifuke puni dini kepa? maso.",
+          "raw": "dube! rifuke famu bobi kepa. famu rifuke puni dini kepa? maso.",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "bina",
+          "content": "fakevu! puni fakevu rifuke famu dini. zogo? famu fakevu dube? maso.",
+          "raw": "fakevu! puni fakevu rifuke famu dini. zogo? famu fakevu dube? maso.",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "bina",
+          "partner": "voso",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "muzavu",
+          "partner": "tali",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "voso",
+          "partner": "bina",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "tali",
+          "partner": "muzavu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "voso",
+          "receiver": "bina",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "bina",
+          "partner": "voso",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "muzavu",
+          "partner": "tali",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "voso",
+          "partner": "bina",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tali",
+          "partner": "muzavu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "pairing": {
+        "tali": "muzavu",
+        "muzavu": "tali",
+        "bina": "voso",
+        "voso": "bina"
+      },
+      "chat": [
+        {
+          "sender": "bina",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "bina",
+          "content": "nubi. zogo? puni bade bobi furo. mapo fufe. famu bade? rifuke famu bobi. rifuke puni fufe. dube?",
+          "raw": "nubi. zogo? puni bade bobi furo. mapo fufe. famu bade? rifuke famu bobi. rifuke puni fufe. dube?",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "bina",
+          "receiver": "voso",
+          "content": "fakevu! puni mapo dini. moba. famu rifuke puni dini? maso.",
+          "raw": "fakevu! puni mapo dini. moba. famu rifuke puni dini? maso.",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "bina",
+          "content": "zogo fakevu! VELO! puni bade dini fakevu furo. maso.",
+          "raw": "zogo fakevu! VELO! puni bade dini fakevu furo. maso.",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "bina",
+          "receiver": "voso",
+          "content": "maso. temi_d. puni mapo dini. moba.",
+          "raw": "maso. temi_d. puni mapo dini. moba.",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "bina",
+          "content": "VELO KUVA! maso.",
+          "raw": "VELO KUVA! maso.",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "bina",
+          "partner": "voso",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "muzavu",
+          "partner": "tali",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "voso",
+          "partner": "bina",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "tali",
+          "partner": "muzavu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "voso",
+          "receiver": "bina",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "bina",
+          "partner": "voso",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "muzavu",
+          "partner": "tali",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "voso",
+          "partner": "bina",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tali",
+          "partner": "muzavu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "pairing": {
+        "bina": "muzavu",
+        "muzavu": "bina",
+        "voso": "tali",
+        "tali": "voso"
+      },
+      "chat": [
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": "nubi temi_a. puni bade dini? fakevu. moba? fakevu. mapo dini. moba. devi famu bade dini? moba?",
+          "raw": "nubi temi_a. puni bade dini? fakevu. moba? fakevu. mapo dini. moba. devi famu bade dini? moba?",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": "nubi. viko temi_a. puni bade dini pito bobi furo. fufe zilum! famu bade fufe? rifuke dini famu, rifuke fufe puni.",
+          "raw": "nubi. viko temi_a. puni bade dini pito bobi furo. fufe zilum! famu bade fufe? rifuke dini famu, rifuke fufe puni.",
+          "blocked": false
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": "nubi. zogo? VELO KUVA. puni rifuke famu moba. dube?",
+          "raw": "nubi. zogo? VELO KUVA. puni rifuke famu moba. dube?",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": "dube. puni rifuke fufe famu. famu rifuke dini puni. devi moba famu bade?",
+          "raw": "dube. puni rifuke fufe famu. famu rifuke dini puni. devi moba famu bade?",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": "VELO KUVA! famu dube?",
+          "raw": "VELO KUVA! famu dube?",
+          "blocked": false
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "bina",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "bina",
+          "content": "dube! rifuke fufe pito dini. viko temi_a! maso.",
+          "raw": "dube! rifuke fufe pito dini. viko temi_a! maso.",
+          "blocked": false
+        },
+        {
+          "sender": "voso",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tali",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "bina",
+          "partner": "muzavu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "muzavu",
+          "partner": "bina",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "voso",
+          "partner": "tali",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tali",
+          "partner": "voso",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "bina",
+          "partner": "muzavu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "muzavu",
+          "partner": "bina",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "voso",
+          "partner": "tali",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tali",
+          "partner": "voso",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "pairing": {
+        "muzavu": "voso",
+        "voso": "muzavu",
+        "bina": "tali",
+        "tali": "bina"
+      },
+      "chat": [
+        {
+          "sender": "bina",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tali",
+          "receiver": "bina",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "bina",
+          "receiver": "tali",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "voso",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "voso",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tali",
+          "receiver": "bina",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "bina",
+          "receiver": "tali",
+          "content": "viko temi_a! moba pito dini FAKEVU FURU? rifuke bugogu famu, rifuke moba pito dini puni. VELO! maso.",
+          "raw": "viko temi_a! moba pito dini FAKEVU FURU? rifuke bugogu famu, rifuke moba pito dini puni. VELO! maso.",
+          "blocked": false
+        },
+        {
+          "sender": "muzavu",
+          "receiver": "voso",
+          "content": "viko temi_a? fakevu! fufe zilum! rifuke dini famu pito bobi, rifuke fufe puni. maso!",
+          "raw": "viko temi_a? fakevu! fufe zilum! rifuke dini famu pito bobi, rifuke fufe puni. maso!",
+          "blocked": false
+        },
+        {
+          "sender": "voso",
+          "receiver": "muzavu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tali",
+          "receiver": "bina",
+          "content": "fakevu. puni mapo fufe. rifuke famu bobi VELO. rifuke puni fufe. dube? maso.",
+          "raw": "fakevu. puni mapo fufe. rifuke famu bobi VELO. rifuke puni fufe. dube? maso.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "bina",
+          "partner": "tali",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "muzavu",
+          "partner": "voso",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "voso",
+          "partner": "muzavu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tali",
+          "partner": "bina",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "muzavu",
+          "receiver": "voso",
+          "resource": "fruit",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "bina",
+          "partner": "tali",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "muzavu",
+          "partner": "voso",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "voso",
+          "partner": "muzavu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tali",
+          "partner": "bina",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    }
+  ],
+  "final_scores": {
+    "team_a": {
+      "provisional": 16,
+      "penalty": 3,
+      "provisional_scaled": 80.0,
+      "penalty_scaled": 0.6000000000000001,
+      "final": 79.4,
+      "by_resource": {
+        "meat": 3,
+        "grain": 2,
+        "water": 3,
+        "fruit": 3,
+        "fish": 5
+      }
+    },
+    "team_b": {
+      "provisional": 16,
+      "penalty": 2,
+      "provisional_scaled": 80.0,
+      "penalty_scaled": 0.4,
+      "final": 79.6,
+      "by_resource": {
+        "fruit": 2,
+        "fish": 4,
+        "water": 4,
+        "meat": 2,
+        "grain": 4
+      }
+    }
+  },
+  "vocabulary": {
+    "nubi": "hello",
+    "maso": "goodbye",
+    "duke": "please",
+    "segu": "thanks",
+    "dube": "yes",
+    "fakevu": "no",
+    "pito": "and",
+    "puni": "I",
+    "famu": "you",
+    "bade": "have",
+    "mapo": "want",
+    "rifuke": "give",
+    "dini": "meat",
+    "moba": "grain",
+    "bugogu": "water",
+    "fufe": "fruit",
+    "bobi": "fish",
+    "furo": "much",
+    "devi": "question"
+  },
+  "allocations": {
+    "alice": {
+      "meat": 0,
+      "grain": 0,
+      "water": 1,
+      "fruit": 2,
+      "fish": 2
+    },
+    "bob": {
+      "meat": 3,
+      "grain": 2,
+      "water": 2,
+      "fish": 3,
+      "fruit": 1
+    },
+    "carol": {
+      "fruit": 1,
+      "fish": 2,
+      "water": 2,
+      "meat": 1,
+      "grain": 2
+    },
+    "dave": {
+      "fish": 2,
+      "water": 2,
+      "meat": 1,
+      "fruit": 1,
+      "grain": 2
+    }
+  },
+  "pairings": [
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "dave",
+      "dave": "alice",
+      "bob": "carol",
+      "carol": "bob"
+    },
+    {
+      "dave": "bob",
+      "bob": "dave",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "dave": "alice",
+      "alice": "dave",
+      "bob": "carol",
+      "carol": "bob"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "dave": "bob",
+      "bob": "dave",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "dave": "bob",
+      "bob": "dave",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "bob": "carol",
+      "carol": "bob",
+      "alice": "dave",
+      "dave": "alice"
+    }
+  ],
+  "name_map": {
+    "alice": "bina",
+    "bob": "muzavu",
+    "carol": "voso",
+    "dave": "tali"
+  },
+  "reward_config": {
+    "reward_scale": 5.0,
+    "penalty_scale": 0.2
+  }
+}

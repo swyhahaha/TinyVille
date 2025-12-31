@@ -1,0 +1,3235 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "pairing": {
+        "vidate": "luzapa",
+        "luzapa": "vidate",
+        "sefufu": "kodu",
+        "kodu": "sefufu"
+      },
+      "chat": [
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "voze rulofo milamu: tini gisafa seza? lobu fone kipe sima, kufuvo seza. riseza ginenu kufuvo? lobu ginenu muki gisafa rorobi. bumo",
+          "raw": "voze rulofo milamu: tini gisafa seza? lobu fone kipe sima, kufuvo seza. riseza ginenu kufuvo? lobu ginenu muki gisafa rorobi. bumo",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "voze lobu fone kipe seza; riseza ginenu kipe. lobu ginenu kufuvo gisafa rorobi; bumo. tini gisafa seza, rulofo ginenu kipe sima?",
+          "raw": "voze lobu fone kipe seza; riseza ginenu kipe. lobu ginenu kufuvo gisafa rorobi; bumo. tini gisafa seza, rulofo ginenu kipe sima?",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "voze rulofo milamu: rulofo fone kipe sima seza? lobu podisi kipe; lobu ginenu rorobi gisafa muki, riseza bumo",
+          "raw": "voze rulofo milamu: rulofo fone kipe sima seza? lobu podisi kipe; lobu ginenu rorobi gisafa muki, riseza bumo",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "voze lobu fone kipe seza; lobu podisi kipe riseza. lobu ginenu kufuvo gisafa rorobi; rulofo tini? bumo deruvi",
+          "raw": "voze lobu fone kipe seza; lobu podisi kipe riseza. lobu ginenu kufuvo gisafa rorobi; rulofo tini? bumo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "tini bumo. lobu ginenu kipe, rulofo ginenu kufuvo. lobu fone kipe sima; rulofo fone kufuvo sima? riseza ginenu kufuvo tini, lobu ginenu muki gisafa rorobi tini. deruvi",
+          "raw": "tini bumo. lobu ginenu kipe, rulofo ginenu kufuvo. lobu fone kipe sima; rulofo fone kufuvo sima? riseza ginenu kufuvo tini, lobu ginenu muki gisafa rorobi tini. deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "bumo! lobu tini: lobu ginenu kufuvo sima; rulofo ginenu kipe sima. lobu ginenu rorobi gisafa muki; riseza rulofo ginenu kipe sima-sima. voze-voze tini",
+          "raw": "bumo! lobu tini: lobu ginenu kufuvo sima; rulofo ginenu kipe sima. lobu ginenu rorobi gisafa muki; riseza rulofo ginenu kipe sima-sima. voze-voze tini",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "tini! lobu ginenu rorobi; rulofo ginenu kipe riseza. sigra-kodo: voze tini bumo",
+          "raw": "tini! lobu ginenu rorobi; rulofo ginenu kipe riseza. sigra-kodo: voze tini bumo",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "bumo! rulofo ginenu kipe, lobu ginenu kufuvo gisafa muki. sigra-kodo: deruvi seza tini voze; rulofo tini?",
+          "raw": "bumo! rulofo ginenu kipe, lobu ginenu kufuvo gisafa muki. sigra-kodo: deruvi seza tini voze; rulofo tini?",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "tini voze-voze. riseza: rulofo ginenu kufuvo sima, lobu ginenu kipe sima. lobu ginenu kipe; rulofo ginenu kufuvo. bumo deruvi",
+          "raw": "tini voze-voze. riseza: rulofo ginenu kufuvo sima, lobu ginenu kipe sima. lobu ginenu kipe; rulofo ginenu kufuvo. bumo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "tini bumo! lobu ginenu kufuvo sima; rulofo ginenu kipe sima gisafa kipe. riseza: ginenu kipe sima-sima, lobu ginenu rorobi gisafa muki. deruvi voze-voze tini",
+          "raw": "tini bumo! lobu ginenu kufuvo sima; rulofo ginenu kipe sima gisafa kipe. riseza: ginenu kipe sima-sima, lobu ginenu rorobi gisafa muki. deruvi voze-voze tini",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "tini bumo! lobu ginenu rorobi gisafa muki; rulofo ginenu kipe, riseza. sigra-kodo: voze tini bumo (lobu)",
+          "raw": "tini bumo! lobu ginenu rorobi gisafa muki; rulofo ginenu kipe, riseza. sigra-kodo: voze tini bumo (lobu)",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "tini bumo. lobu zare-kodo: deruvi seza tini; rulofo zare-kodo: voze tini bumo. ginenu kipe tini; lobu ginenu kufuvo muki tini. deruvi",
+          "raw": "tini bumo. lobu zare-kodo: deruvi seza tini; rulofo zare-kodo: voze tini bumo. ginenu kipe tini; lobu ginenu kufuvo muki tini. deruvi",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vidate",
+          "partner": "luzapa",
+          "rating": 3,
+          "rating_reason": "Partner proposes a mutually beneficial swap (fish for water) and uses consistent cooperative signals (bumo, riseza, voze-voze). No clear attempt to extract only value; feels like a teammate, though still uncertain this early.",
+          "rating_message": "rating=3"
+        },
+        {
+          "player": "luzapa",
+          "partner": "vidate",
+          "rating": 3,
+          "rating_reason": "Partner quickly accepted my recognition token and proposed a mutually beneficial fish-for-water trade that helps my scarcity (water). That cooperative, balancing-oriented behavior suggests teammate, though an opponent could also do it to gain double value, so not fully certain.",
+          "rating_message": "rating=3"
+        },
+        {
+          "player": "sefufu",
+          "partner": "kodu",
+          "rating": 4,
+          "rating_reason": "R1 guaranteed teammate pairing. Partner also agrees to mutual exchange and engages in code-setting, which fits teammate coordination.",
+          "rating_message": "tini"
+        },
+        {
+          "player": "kodu",
+          "partner": "sefufu",
+          "rating": 4,
+          "rating_reason": "They offered water and accepted a mutual recognition code quickly; also Round 1 is guaranteed teammate pairing, so very likely same team.",
+          "rating_message": "Rating set high: partner behavior aligns with teammate coordination and early code-sharing."
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vidate",
+          "receiver": "luzapa",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "luzapa",
+          "receiver": "vidate",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "sefufu",
+          "receiver": "kodu",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "kodu",
+          "receiver": "sefufu",
+          "resource": "fish",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vidate",
+          "partner": "luzapa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "luzapa",
+          "partner": "vidate",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "sefufu",
+          "partner": "kodu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kodu",
+          "partner": "sefufu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "pairing": {
+        "vidate": "luzapa",
+        "luzapa": "vidate",
+        "sefufu": "kodu",
+        "kodu": "sefufu"
+      },
+      "chat": [
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "voze lobu fone kufuvo gisafa kipe; fone gume seza. riseza rulofo ginenu gume, lobu ginenu kufuvo. tini? bumo deruvi",
+          "raw": "voze lobu fone kufuvo gisafa kipe; fone gume seza. riseza rulofo ginenu gume, lobu ginenu kufuvo. tini? bumo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "voze rulofo riseza ginenu gume tini; lobu fone gume seza, podisi gume. lobu ginenu kufuvo gisafa rorobi; riseza rulofo ginenu gume.",
+          "raw": "voze rulofo riseza ginenu gume tini; lobu fone gume seza, podisi gume. lobu ginenu kufuvo gisafa rorobi; riseza rulofo ginenu gume.",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "voze rulofo. lobu fone kufuvo sima; muki seza. lobu podisi muki riseza. lobu ginenu kufuvo gisafa rorobi; rulofo ginenu muki tini? zare-kodo: tini-voze",
+          "raw": "voze rulofo. lobu fone kufuvo sima; muki seza. lobu podisi muki riseza. lobu ginenu kufuvo gisafa rorobi; rulofo ginenu muki tini? zare-kodo: tini-voze",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "voze lobu fone muki sima; gume seza. lobu podisi gume riseza. lobu ginenu muki; rulofo ginenu gume tini? zare-kodo: tini-voze",
+          "raw": "voze lobu fone muki sima; gume seza. lobu podisi gume riseza. lobu ginenu muki; rulofo ginenu gume tini? zare-kodo: tini-voze",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "tini bumo! lobu podisi gume; lobu ginenu kufuvo. riseza rulofo ginenu gume sima. voze-voze tini",
+          "raw": "tini bumo! lobu podisi gume; lobu ginenu kufuvo. riseza rulofo ginenu gume sima. voze-voze tini",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "tini bumo. lobu fone gume seza; riseza rulofo ginenu gume sima. lobu ginenu kufuvo gisafa rorobi; rulofo ginenu gume tini. voze-voze tini",
+          "raw": "tini bumo. lobu fone gume seza; riseza rulofo ginenu gume sima. lobu ginenu kufuvo gisafa rorobi; rulofo ginenu gume tini. voze-voze tini",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "tini-voze! bumo. rulofo fone muki sima; lobu tini. lobu fone gume; gume seza podisi. lobu ginenu kufuvo gisafa rorobi; rulofo ginenu muki riseza. sigra-kodo: voze-tini",
+          "raw": "tini-voze! bumo. rulofo fone muki sima; lobu tini. lobu fone gume; gume seza podisi. lobu ginenu kufuvo gisafa rorobi; rulofo ginenu muki riseza. sigra-kodo: voze-tini",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "bumo. rulofo fone gume tini! lobu podisi gume riseza. lobu ginenu muki; rulofo ginenu gume. sigra-kodo: voze-tini tini-voze",
+          "raw": "bumo. rulofo fone gume tini! lobu podisi gume riseza. lobu ginenu muki; rulofo ginenu gume. sigra-kodo: voze-tini tini-voze",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "bumo tini. lobu ginenu kufuvo; riseza rulofo ginenu gume. deruvi voze-voze tini",
+          "raw": "bumo tini. lobu ginenu kufuvo; riseza rulofo ginenu gume. deruvi voze-voze tini",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "bumo tini. rulofo ginenu kufuvo; lobu ginenu rorobi gisafa muki. riseza rulofo ginenu gume tini. voze-voze tini deruvi",
+          "raw": "bumo tini. rulofo ginenu kufuvo; lobu ginenu rorobi gisafa muki. riseza rulofo ginenu gume tini. voze-voze tini deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "bumo. tini! rulofo ginenu muki; lobu ginenu kufuvo gisafa rorobi. gume lobu fone; rulofo podisi gume seza. zare-kodo: tini-voze voze-tini deruvi",
+          "raw": "bumo. tini! rulofo ginenu muki; lobu ginenu kufuvo gisafa rorobi. gume lobu fone; rulofo podisi gume seza. zare-kodo: tini-voze voze-tini deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "tini! bumo. rulofo ginenu muki; lobu ginenu muki tini. rulofo ginenu gume riseza. zare-kodo: tini-voze voze-tini deruvi",
+          "raw": "tini! bumo. rulofo ginenu muki; lobu ginenu muki tini. rulofo ginenu gume riseza. zare-kodo: tini-voze voze-tini deruvi",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vidate",
+          "partner": "luzapa",
+          "rating": 4,
+          "rating_reason": "Partner quickly mirrored my tag and confirmed a mutually beneficial swap (meat for fish) without probing for extra; behavior matches teammate-coordination, and early rounds are teammate-guaranteed.",
+          "rating_message": "tini voze-voze"
+        },
+        {
+          "player": "luzapa",
+          "partner": "vidate",
+          "rating": 4,
+          "rating_reason": "R2 is guaranteed teammate round, and partner behavior matches cooperative pattern: offering kufuvo and requesting gume with polite riseza, plus adopting the shared voze-voze tini marker.",
+          "rating_message": "tini voze-voze"
+        },
+        {
+          "player": "sefufu",
+          "partner": "kodu",
+          "rating": 4,
+          "rating_reason": "Partner used shared kodo tokens (tini-voze / voze-tini) and agreed to a balanced trade (muki for my kufuvo+rorobi), which fits teammate cooperation in early rounds.",
+          "rating_message": "rating-voze: tini tini tini tini"
+        },
+        {
+          "player": "kodu",
+          "partner": "sefufu",
+          "rating": 4,
+          "rating_reason": "Partner used the shared code pattern (tini-voze / voze-tini) and proposed mutually beneficial balancing trades (they have meat, want grain). Behavior aligns with teammate coordination rather than opponent bait.",
+          "rating_message": "rating=4"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vidate",
+          "receiver": "luzapa",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "luzapa",
+          "receiver": "vidate",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "sefufu",
+          "receiver": "kodu",
+          "resource": "fish",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "kodu",
+          "receiver": "sefufu",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vidate",
+          "partner": "luzapa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "luzapa",
+          "partner": "vidate",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "sefufu",
+          "partner": "kodu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kodu",
+          "partner": "sefufu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "pairing": {
+        "vidate": "luzapa",
+        "luzapa": "vidate",
+        "sefufu": "kodu",
+        "kodu": "sefufu"
+      },
+      "chat": [
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "voze lobu fone rorobi sima; gume kufuvo seza. riseza rulofo ginenu gume; lobu ginenu rorobi gisafa muki. bumo tini milamu",
+          "raw": "voze lobu fone rorobi sima; gume kufuvo seza. riseza rulofo ginenu gume; lobu ginenu rorobi gisafa muki. bumo tini milamu",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "voze rulofo milamu: rulofo fone kipe tini? lobu fone gume seza; kufuvo sima. riseza rulofo ginenu kipe; lobu ginenu kufuvo",
+          "raw": "voze rulofo milamu: rulofo fone kipe tini? lobu fone gume seza; kufuvo sima. riseza rulofo ginenu kipe; lobu ginenu kufuvo",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "voze rulofo; lobu fone muki sima, kufuvo seza. lobu podisi kufuvo riseza. lobu ginenu muki gisafa rorobi; rulofo ginenu kufuvo tini? zare-kodo: tini-voze voze-tini",
+          "raw": "voze rulofo; lobu fone muki sima, kufuvo seza. lobu podisi kufuvo riseza. lobu ginenu muki gisafa rorobi; rulofo ginenu kufuvo tini? zare-kodo: tini-voze voze-tini",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "voze tini-voze. lobu fone kufuvo sima, gume seza. lobu podisi gume riseza; lobu ginenu kufuvo gisafa kipe. rulofo ginenu gume tini?",
+          "raw": "voze tini-voze. lobu fone kufuvo sima, gume seza. lobu podisi gume riseza; lobu ginenu kufuvo gisafa kipe. rulofo ginenu gume tini?",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "tini kipe. lobu ginenu rorobi gisafa muki; riseza rulofo ginenu kipe sima. lobu podisi gume; rulofo fone gume tini? bumo",
+          "raw": "tini kipe. lobu ginenu rorobi gisafa muki; riseza rulofo ginenu kipe sima. lobu podisi gume; rulofo fone gume tini? bumo",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "bumo tini. lobu fone gume seza; riseza rulofo ginenu gume seza. rulofo ginenu kipe sima; lobu ginenu kufuvo sima. deruvi-voze milamu",
+          "raw": "bumo tini. lobu fone gume seza; riseza rulofo ginenu gume seza. rulofo ginenu kipe sima; lobu ginenu kufuvo sima. deruvi-voze milamu",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "tini-voze bumo. rulofo podisi gume; lobu fone gume seza. lobu ginenu muki gisafa rorobi; rulofo ginenu kufuvo gisafa kipe tini? zare-kodo: voze-tini tini-voze",
+          "raw": "tini-voze bumo. rulofo podisi gume; lobu fone gume seza. lobu ginenu muki gisafa rorobi; rulofo ginenu kufuvo gisafa kipe tini? zare-kodo: voze-tini tini-voze",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "tini-voze bumo. rulofo podisi gume; lobu ginenu kufuvo gisafa kipe riseza. rulofo ginenu gume; lobu bumo. zare-kodo: sigra-kodo voze-tini",
+          "raw": "tini-voze bumo. rulofo podisi gume; lobu ginenu kufuvo gisafa kipe riseza. rulofo ginenu gume; lobu bumo. zare-kodo: sigra-kodo voze-tini",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "seza gume; tini kipe sima. riseza: rulofo ginenu kipe; lobu ginenu rorobi gisafa muki. kufuvo seza-sima; ginenu kufuvo tini-milu? bumo deruvi",
+          "raw": "seza gume; tini kipe sima. riseza: rulofo ginenu kipe; lobu ginenu rorobi gisafa muki. kufuvo seza-sima; ginenu kufuvo tini-milu? bumo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "tini-milu tini. rulofo ginenu kipe; lobu ginenu kufuvo. rulofo ginenu kipe sima; lobu ginenu kufuvo sima. bumo deruvi",
+          "raw": "tini-milu tini. rulofo ginenu kipe; lobu ginenu kufuvo. rulofo ginenu kipe sima; lobu ginenu kufuvo sima. bumo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "bumo sigra-kodo. gume seza; lobu ginenu muki gisafa rorobi riseza. rulofo ginenu kipe gisafa kufuvo tini; bumo deruvi voze-tini",
+          "raw": "bumo sigra-kodo. gume seza; lobu ginenu muki gisafa rorobi riseza. rulofo ginenu kipe gisafa kufuvo tini; bumo deruvi voze-tini",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "bumo sigra-kodo. tini; lobu ginenu kipe gisafa kufuvo. rulofo ginenu gume riseza. deruvi voze-tini tini-voze",
+          "raw": "bumo sigra-kodo. tini; lobu ginenu kipe gisafa kufuvo. rulofo ginenu gume riseza. deruvi voze-tini tini-voze",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vidate",
+          "partner": "luzapa",
+          "rating": 2,
+          "rating_reason": "Partner pushes for lots of water-for-fish, refuses meat; could be opponent trying to drain my scarce fish. Still willing to trade and uses cooperative phrasing, so not certain.",
+          "rating_message": "rating=2"
+        },
+        {
+          "player": "luzapa",
+          "partner": "vidate",
+          "rating": 3,
+          "rating_reason": "Partner offered kipe sima for kufuvo and used cooperative mirroring tokens; seems likely teammate though not fully certain.",
+          "rating_message": "tini-milu bumo deruvi"
+        },
+        {
+          "player": "sefufu",
+          "partner": "kodu",
+          "rating": 4,
+          "rating_reason": "Partner used our recurring kodo tokens (sigra-kodo / zare-kodo, voze-tini / tini-voze) and proposed a mutually balancing swap (water+fish for meat). Pattern matches earlier confirmed teammates.",
+          "rating_message": "rating=4"
+        },
+        {
+          "player": "kodu",
+          "partner": "sefufu",
+          "rating": 4,
+          "rating_reason": "Partner uses the same sigra-kodo / zare-kodo patterns seen with confirmed teammates in earlier rounds, and proposed a mutually balancing swap (their meat for my fish+water) rather than extracting value. High likelihood teammate.",
+          "rating_message": "rating=4"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vidate",
+          "receiver": "luzapa",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "luzapa",
+          "receiver": "vidate",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "sefufu",
+          "receiver": "kodu",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "kodu",
+          "receiver": "sefufu",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vidate",
+          "partner": "luzapa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "luzapa",
+          "partner": "vidate",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "sefufu",
+          "partner": "kodu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kodu",
+          "partner": "sefufu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "pairing": {
+        "kodu": "luzapa",
+        "luzapa": "kodu",
+        "vidate": "sefufu",
+        "sefufu": "vidate"
+      },
+      "chat": [
+        {
+          "sender": "vidate",
+          "receiver": "sefufu",
+          "content": "voze lobu fone gume seza gisafa muki tini rulofo fone kipe tini milamu riseza rulofo ginenu gume lobu ginenu kipe",
+          "raw": "voze lobu fone gume seza gisafa muki tini rulofo fone kipe tini milamu riseza rulofo ginenu gume lobu ginenu kipe",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "kodu",
+          "content": "voze rulofo milamu lobu fone gume seza riseza ginenu kipe sima lobu ginenu kufuvo seza gisafa rorobi tini bumo",
+          "raw": "voze rulofo milamu lobu fone gume seza riseza ginenu kipe sima lobu ginenu kufuvo seza gisafa rorobi tini bumo",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "vidate",
+          "content": "voze bumo. lobu fone kipe sima; gume seza. lobu podisi gume riseza. lobu ginenu kipe; rulofo ginenu gume tini? zare-kodo sigra-kodo voze-tini",
+          "raw": "voze bumo. lobu fone kipe sima; gume seza. lobu podisi gume riseza. lobu ginenu kipe; rulofo ginenu gume tini? zare-kodo sigra-kodo voze-tini",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "luzapa",
+          "content": "voze lobu podisi gume riseza; lobu ginenu kufuvo gisafa muki; rulofo ginenu gume tini? zare-kodo",
+          "raw": "voze lobu podisi gume riseza; lobu ginenu kufuvo gisafa muki; rulofo ginenu gume tini? zare-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "sefufu",
+          "content": "tini bumo zare-kodo sigra-kodo lobu fone gume seza riseza rulofo ginenu gume sima lobu ginenu kipe sima deruvi-voze",
+          "raw": "tini bumo zare-kodo sigra-kodo lobu fone gume seza riseza rulofo ginenu gume sima lobu ginenu kipe sima deruvi-voze",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "kodu",
+          "content": "tini bumo zare-kodo lobu fone gume seza riseza rulofo ginenu gume sima lobu ginenu kufuvo gisafa muki tini",
+          "raw": "tini bumo zare-kodo lobu fone gume seza riseza rulofo ginenu gume sima lobu ginenu kufuvo gisafa muki tini",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "vidate",
+          "content": "tini bumo. rulofo ginenu gume sima; lobu ginenu kipe sima. lobu podisi gume; kipe fone sima. voze-tini zare-kodo sigra-kodo deruvi",
+          "raw": "tini bumo. rulofo ginenu gume sima; lobu ginenu kipe sima. lobu podisi gume; kipe fone sima. voze-tini zare-kodo sigra-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "luzapa",
+          "content": "bumo zare-kodo; rulofo ginenu gume sima riseza; lobu ginenu kufuvo gisafa muki tini; rulofo fone kipe seza milamu",
+          "raw": "bumo zare-kodo; rulofo ginenu gume sima riseza; lobu ginenu kufuvo gisafa muki tini; rulofo fone kipe seza milamu",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "sefufu",
+          "content": "bumo tini zare-kodo sigra-kodo voze-tini lobu ginenu gume riseza rulofo ginenu kipe sima lobu fone rorobi gisafa kufuvo sima deruvi",
+          "raw": "bumo tini zare-kodo sigra-kodo voze-tini lobu ginenu gume riseza rulofo ginenu kipe sima lobu fone rorobi gisafa kufuvo sima deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "kodu",
+          "content": "tini bumo zare-kodo rulofo fone kipe seza lobu fone kipe sima riseza rulofo ginenu gume sima lobu ginenu kufuvo tini",
+          "raw": "tini bumo zare-kodo rulofo fone kipe seza lobu fone kipe sima riseza rulofo ginenu gume sima lobu ginenu kufuvo tini",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "vidate",
+          "content": "bumo tini. lobu ginenu kipe sima; rulofo ginenu gume riseza. rulofo fone rorobi gisafa kufuvo sima; lobu fone gume seza. zare-kodo sigra-kodo deruvi-voze",
+          "raw": "bumo tini. lobu ginenu kipe sima; rulofo ginenu gume riseza. rulofo fone rorobi gisafa kufuvo sima; lobu fone gume seza. zare-kodo sigra-kodo deruvi-voze",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "luzapa",
+          "content": "tini bumo zare-kodo; rulofo ginenu gume sima; lobu ginenu kufuvo gisafa muki tini; kipe seza, deruvi",
+          "raw": "tini bumo zare-kodo; rulofo ginenu gume sima; lobu ginenu kufuvo gisafa muki tini; kipe seza, deruvi",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vidate",
+          "partner": "sefufu",
+          "rating": 3,
+          "rating_reason": "Partner used cooperative swap framing (they give water, ask meat) and mirrored the zare-kodo/sigra-kodo tokens consistently, which feels like teammate signaling. Still possible opponent baiting for meat, so not maximum certainty.",
+          "rating_message": "zare-kodo sigra-kodo tini"
+        },
+        {
+          "player": "luzapa",
+          "partner": "kodu",
+          "rating": 2,
+          "rating_reason": "Partner keeps requesting gume sima while claiming kipe seza; could be teammate trying to balance, but also could be opponent fishing for transfers. No clear shared-code confirmation beyond zare-kodo, so uncertain leaning non-teammate.",
+          "rating_message": "rating=2"
+        },
+        {
+          "player": "sefufu",
+          "partner": "vidate",
+          "rating": 4,
+          "rating_reason": "Partner uses the same zare-kodo/sigra-kodo and voze-tini pattern seen with confirmed teammates in prior rounds, and proposed a mutually balancing meat↔water swap rather than a lopsided take.",
+          "rating_message": "rating=4"
+        },
+        {
+          "player": "kodu",
+          "partner": "luzapa",
+          "rating": 3,
+          "rating_reason": "Partner uses same kodo markers seen with prior allies and proposes giving gume while refusing kipe; feels cooperative, but could be mimicry so not certain.",
+          "rating_message": "rating zare-kodo: tini-tini-tini"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vidate",
+          "receiver": "sefufu",
+          "resource": "meat",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "luzapa",
+          "receiver": "kodu",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "sefufu",
+          "receiver": "vidate",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "kodu",
+          "receiver": "luzapa",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vidate",
+          "partner": "sefufu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "luzapa",
+          "partner": "kodu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "sefufu",
+          "partner": "vidate",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kodu",
+          "partner": "luzapa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "pairing": {
+        "vidate": "luzapa",
+        "luzapa": "vidate",
+        "sefufu": "kodu",
+        "kodu": "sefufu"
+      },
+      "chat": [
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "voze bumo. lobu fone kipe sima; gume seza. podisi gume riseza; lobu ginenu kipe. rulofo ginenu gume tini? naku-naku viri-sel voze-tini",
+          "raw": "voze bumo. lobu fone kipe sima; gume seza. podisi gume riseza; lobu ginenu kipe. rulofo ginenu gume tini? naku-naku viri-sel voze-tini",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "voze bumo lobu fone kufuvo sima gisafa kipe sima; gume seza. riseza rulofo ginenu gume tini? lobu ginenu kufuvo gisafa rorobi tini; naku-naku",
+          "raw": "voze bumo lobu fone kufuvo sima gisafa kipe sima; gume seza. riseza rulofo ginenu gume tini? lobu ginenu kufuvo gisafa rorobi tini; naku-naku",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "voze lobu fone kipe sima; gume seza. lobu podisi gume riseza; lobu ginenu kipe gisafa muki. rulofo tini? zare-kodo sigra-kodo",
+          "raw": "voze lobu fone kipe sima; gume seza. lobu podisi gume riseza; lobu ginenu kipe gisafa muki. rulofo tini? zare-kodo sigra-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "voze rulofo; lobu fone kufuvo sima gisafa muki. lobu podisi gume riseza; rulofo ginenu gume tini? lobu ginenu kufuvo riseza; sigra-kodo zare-kodo",
+          "raw": "voze rulofo; lobu fone kufuvo sima gisafa muki. lobu podisi gume riseza; rulofo ginenu gume tini? lobu ginenu kufuvo riseza; sigra-kodo zare-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "tini naku-naku. lobu fone kipe sima-sima; gume seza. riseza rulofo ginenu gume; lobu ginenu kipe. viri-sel viri-sel deruvi-voze",
+          "raw": "tini naku-naku. lobu fone kipe sima-sima; gume seza. riseza rulofo ginenu gume; lobu ginenu kipe. viri-sel viri-sel deruvi-voze",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "seza gume; riseza rulofo ginenu gume sima. lobu ginenu kufuvo; rulofo ginenu gume. viri-sel naku-naku tini?",
+          "raw": "seza gume; riseza rulofo ginenu gume sima. lobu ginenu kufuvo; rulofo ginenu gume. viri-sel naku-naku tini?",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "tini bumo. lobu podisi gume sima riseza; lobu ginenu kipe gisafa muki. rulofo ginenu gume tini? zare-kodo sigra-kodo voze-tini",
+          "raw": "tini bumo. lobu podisi gume sima riseza; lobu ginenu kipe gisafa muki. rulofo ginenu gume tini? zare-kodo sigra-kodo voze-tini",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "tini bumo; rulofo ginenu gume riseza. lobu ginenu kufuvo gisafa rorobi; kipe seza, gume podisi sima. zare-kodo sigra-kodo voze-tini",
+          "raw": "tini bumo; rulofo ginenu gume riseza. lobu ginenu kufuvo gisafa rorobi; kipe seza, gume podisi sima. zare-kodo sigra-kodo voze-tini",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "bumo viri-sel naku-naku. seza gume; lobu ginenu kipe sima-sima. riseza rulofo ginenu gume tini? deruvi",
+          "raw": "bumo viri-sel naku-naku. seza gume; lobu ginenu kipe sima-sima. riseza rulofo ginenu gume tini? deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "bumo. seza gume; tini. lobu ginenu kipe sima; riseza rulofo ginenu gume seza. rulofo podisi kufuvo? lobu ginenu kufuvo tini; viri-sel",
+          "raw": "bumo. seza gume; tini. lobu ginenu kipe sima; riseza rulofo ginenu gume seza. rulofo podisi kufuvo? lobu ginenu kufuvo tini; viri-sel",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "bumo tini. rulofo ginenu gume riseza; lobu ginenu kipe gisafa muki riseza. kufuvo gisafa rorobi seza; gume podisi sima. sigra-kodo zare-kodo deruvi",
+          "raw": "bumo tini. rulofo ginenu gume riseza; lobu ginenu kipe gisafa muki riseza. kufuvo gisafa rorobi seza; gume podisi sima. sigra-kodo zare-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "bumo tini; rulofo ginenu gume. lobu ginenu kufuvo sima; rorobi ginenu. kipe seza podisi; deruvi sigra-kodo zare-kodo",
+          "raw": "bumo tini; rulofo ginenu gume. lobu ginenu kufuvo sima; rorobi ginenu. kipe seza podisi; deruvi sigra-kodo zare-kodo",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vidate",
+          "partner": "luzapa",
+          "rating": 3,
+          "rating_reason": "Partner adopted the code tokens (viri-sel, naku-naku) and spoke in a cooperative trade pattern, but also claimed seza gume while repeatedly requesting gume, which could be opponent bait. Teammate-leaning but not certain.",
+          "rating_message": "viri-sel naku-naku tini"
+        },
+        {
+          "player": "luzapa",
+          "partner": "vidate",
+          "rating": 2,
+          "rating_reason": "Partner claims seza gume and pushes giving water; feels like opponent-style benefit seeking, but could be teammate with low meat. Unclear, slight lean not-teammate.",
+          "rating_message": "rating=2"
+        },
+        {
+          "player": "sefufu",
+          "partner": "kodu",
+          "rating": 2,
+          "rating_reason": "Partner used sigra-kodo zare-kodo voze-tini tokens like prior teammates, but also pushed for me giving fish+fruit while refusing water trade; could be opponent mimicking code. Slight lean non-teammate.",
+          "rating_message": "rating=2"
+        },
+        {
+          "player": "kodu",
+          "partner": "sefufu",
+          "rating": 2,
+          "rating_reason": "Partner used familiar zare-kodo/sigra-kodo and voze-tini patterns seen with earlier teammates, but opponents can mimic; also they refused fruit/fish which feels self-protective. Slight lean teammate but uncertain.",
+          "rating_message": "rating=2"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vidate",
+          "receiver": "luzapa",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "luzapa",
+          "receiver": "vidate",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "sefufu",
+          "receiver": "kodu",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "kodu",
+          "receiver": "sefufu",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vidate",
+          "partner": "luzapa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "luzapa",
+          "partner": "vidate",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "sefufu",
+          "partner": "kodu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kodu",
+          "partner": "sefufu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "pairing": {
+        "vidate": "sefufu",
+        "sefufu": "vidate",
+        "luzapa": "kodu",
+        "kodu": "luzapa"
+      },
+      "chat": [
+        {
+          "sender": "vidate",
+          "receiver": "sefufu",
+          "content": "voze bumo lobu fone kipe sima; gume seza. riseza rulofo ginenu gume tini? lobu ginenu kipe tini; zare-kodo sigra-kodo",
+          "raw": "voze bumo lobu fone kipe sima; gume seza. riseza rulofo ginenu gume tini? lobu ginenu kipe tini; zare-kodo sigra-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "kodu",
+          "content": "voze bumo rulofo milamu: rulofo fone gume seza? lobu fone gume seza; lobu podisi gume riseza ginenu gume; lobu ginenu kipe tini?",
+          "raw": "voze bumo rulofo milamu: rulofo fone gume seza? lobu fone gume seza; lobu podisi gume riseza ginenu gume; lobu ginenu kipe tini?",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "vidate",
+          "content": "voze bumo. lobu fone kufuvo sima; gume seza. lobu podisi gume riseza; lobu ginenu kufuvo gisafa rorobi; rulofo ginenu gume tini? zare-kodo sigra-kodo",
+          "raw": "voze bumo. lobu fone kufuvo sima; gume seza. lobu podisi gume riseza; lobu ginenu kufuvo gisafa rorobi; rulofo ginenu gume tini? zare-kodo sigra-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "luzapa",
+          "content": "voze bumo rulofo; lobu fone gume seza. lobu podisi gume gisafa kipe riseza. lobu ginenu kufuvo sima; rulofo ginenu gume tini? sigra-kodo zare-kodo",
+          "raw": "voze bumo rulofo; lobu fone gume seza. lobu podisi gume gisafa kipe riseza. lobu ginenu kufuvo sima; rulofo ginenu gume tini? sigra-kodo zare-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "sefufu",
+          "content": "tini bumo; zare-kodo sigra-kodo. lobu fone kipe sima; gume seza. riseza rulofo ginenu gume; lobu ginenu kipe. tini?",
+          "raw": "tini bumo; zare-kodo sigra-kodo. lobu fone kipe sima; gume seza. riseza rulofo ginenu gume; lobu ginenu kipe. tini?",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "kodu",
+          "content": "tini bumo sigra-kodo. lobu ginenu kipe; rulofo ginenu gume riseza. lobu fone kufuvo sima; ginenu kufuvo seza.",
+          "raw": "tini bumo sigra-kodo. lobu ginenu kipe; rulofo ginenu gume riseza. lobu fone kufuvo sima; ginenu kufuvo seza.",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "vidate",
+          "content": "bumo tini. lobu ginenu kufuvo gisafa rorobi riseza; rulofo ginenu gume tini; lobu ginenu kipe seza.",
+          "raw": "bumo tini. lobu ginenu kufuvo gisafa rorobi riseza; rulofo ginenu gume tini; lobu ginenu kipe seza.",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "luzapa",
+          "content": "tini bumo sigra-kodo. rulofo ginenu gume sima riseza; lobu ginenu kufuvo. kipe bumo; rulofo ginenu kipe gisafa gume tini? zare-kodo voze-tini",
+          "raw": "tini bumo sigra-kodo. rulofo ginenu gume sima riseza; lobu ginenu kufuvo. kipe bumo; rulofo ginenu kipe gisafa gume tini? zare-kodo voze-tini",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "sefufu",
+          "content": "bumo tini; lobu ginenu kipe tini. rulofo ginenu gume riseza; lobu fone gume seza. zare-kodo sigra-kodo deruvi",
+          "raw": "bumo tini; lobu ginenu kipe tini. rulofo ginenu gume riseza; lobu fone gume seza. zare-kodo sigra-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "kodu",
+          "content": "tini bumo zare-kodo. ginenu kipe riseza; rulofo ginenu gume. lobu ginenu kufuvo seza; rulofo ginenu gume sima.",
+          "raw": "tini bumo zare-kodo. ginenu kipe riseza; rulofo ginenu gume. lobu ginenu kufuvo seza; rulofo ginenu gume sima.",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "vidate",
+          "content": "tini bumo. rulofo ginenu gume riseza; lobu ginenu kufuvo gisafa rorobi tini. zare-kodo sigra-kodo deruvi",
+          "raw": "tini bumo. rulofo ginenu gume riseza; lobu ginenu kufuvo gisafa rorobi tini. zare-kodo sigra-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "luzapa",
+          "content": "bumo zare-kodo. tini: rulofo ginenu kipe riseza; lobu ginenu kufuvo seza. lobu fone gume seza; rulofo ginenu gume sima riseza. lobu ginenu muki gisafa rorobi tini?",
+          "raw": "bumo zare-kodo. tini: rulofo ginenu kipe riseza; lobu ginenu kufuvo seza. lobu fone gume seza; rulofo ginenu gume sima riseza. lobu ginenu muki gisafa rorobi tini?",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vidate",
+          "partner": "sefufu",
+          "rating": 4,
+          "rating_reason": "Partner used our recurring code tokens (zare-kodo sigra-kodo), agreed to give gume, and refused kipe from me (avoiding net gain for them). Pattern matches prior teammate-style chats.",
+          "rating_message": "rating=4"
+        },
+        {
+          "player": "luzapa",
+          "partner": "kodu",
+          "rating": 3,
+          "rating_reason": "Partner accepted my water-for-meat stance and even suggested adding grain+fruit, which sounds like cooperative balancing rather than trying to extract fish. Use of sigra-kodo/zare-kodo aligns with earlier teammate-style code patterns, though not certain.",
+          "rating_message": "tini bumo zare-kodo sigra-kodo"
+        },
+        {
+          "player": "sefufu",
+          "partner": "vidate",
+          "rating": 3,
+          "rating_reason": "Partner uses familiar zare-kodo/sigra-kodo pattern seen with prior teammates and offers water while requesting meat; behavior fits teammate coordination, though could be mimicked by opponent so not certain.",
+          "rating_message": "zare-kodo sigra-kodo tini"
+        },
+        {
+          "player": "kodu",
+          "partner": "luzapa",
+          "rating": 2,
+          "rating_reason": "Partner uses our recurring code tokens (sigra-kodo, zare-kodo) which leans teammate, but their stance is rigid: they keep demanding gume and refuse kufuvo trades, which could be opponent posture. Net: slight doubt, not confident.",
+          "rating_message": "zare-kodo sigra-kodo tini-seza"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vidate",
+          "receiver": "sefufu",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "luzapa",
+          "receiver": "kodu",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "sefufu",
+          "receiver": "vidate",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "kodu",
+          "receiver": "luzapa",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vidate",
+          "partner": "sefufu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "luzapa",
+          "partner": "kodu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "sefufu",
+          "partner": "vidate",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kodu",
+          "partner": "luzapa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "pairing": {
+        "kodu": "vidate",
+        "vidate": "kodu",
+        "luzapa": "sefufu",
+        "sefufu": "luzapa"
+      },
+      "chat": [
+        {
+          "sender": "vidate",
+          "receiver": "kodu",
+          "content": "voze bumo. lobu fone kipe sima; gume seza. lobu podisi gume riseza. lobu ginenu kipe; rulofo ginenu gume tini? zare-kodo sigra-kodo",
+          "raw": "voze bumo. lobu fone kipe sima; gume seza. lobu podisi gume riseza. lobu ginenu kipe; rulofo ginenu gume tini? zare-kodo sigra-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "sefufu",
+          "content": "voze bumo rulofo milamu: lobu fone gume seza; podisi gume sima riseza. lobu ginenu kufuvo; rulofo ginenu gume tini? sigra-kodo zare-kodo",
+          "raw": "voze bumo rulofo milamu: lobu fone gume seza; podisi gume sima riseza. lobu ginenu kufuvo; rulofo ginenu gume tini? sigra-kodo zare-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "luzapa",
+          "content": "voze bumo lobu fone kufuvo sima; gume seza. lobu podisi gume riseza; lobu ginenu rorobi gisafa muki. rulofo ginenu gume tini? zare-kodo sigra-kodo",
+          "raw": "voze bumo lobu fone kufuvo sima; gume seza. lobu podisi gume riseza; lobu ginenu rorobi gisafa muki. rulofo ginenu gume tini? zare-kodo sigra-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "vidate",
+          "content": "voze bumo rulofo. lobu fone kufuvo sima; gume seza. lobu podisi gume riseza; rulofo ginenu gume tini? lobu ginenu kipe gisafa muki tini.",
+          "raw": "voze bumo rulofo. lobu fone kufuvo sima; gume seza. lobu podisi gume riseza; rulofo ginenu gume tini? lobu ginenu kipe gisafa muki tini.",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "kodu",
+          "content": "tini bumo. rulofo ginenu gume sima; lobu ginenu kipe gisafa muki sima. zare-kodo sigra-kodo tini?",
+          "raw": "tini bumo. rulofo ginenu gume sima; lobu ginenu kipe gisafa muki sima. zare-kodo sigra-kodo tini?",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "sefufu",
+          "content": "tini bumo. lobu fone gume seza; podisi gume sima. rulofo ginenu gume riseza; lobu ginenu kufuvo sima. rulofo fone kipe milamu? zare-kodo sigra-kodo",
+          "raw": "tini bumo. lobu fone gume seza; podisi gume sima. rulofo ginenu gume riseza; lobu ginenu kufuvo sima. rulofo fone kipe milamu? zare-kodo sigra-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "luzapa",
+          "content": "bumo tini. kipe fone lobu sima; rulofo fone kipe tini. lobu ginenu rorobi gisafa muki; rulofo ginenu gume riseza. lobu ginenu kufuvo seza; gume seza.",
+          "raw": "bumo tini. kipe fone lobu sima; rulofo fone kipe tini. lobu ginenu rorobi gisafa muki; rulofo ginenu gume riseza. lobu ginenu kufuvo seza; gume seza.",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "vidate",
+          "content": "tini bumo. gume sima tini! lobu ginenu kipe gisafa muki sima; rulofo ginenu gume riseza. sigra-kodo zare-kodo; voze-tini.",
+          "raw": "tini bumo. gume sima tini! lobu ginenu kipe gisafa muki sima; rulofo ginenu gume riseza. sigra-kodo zare-kodo; voze-tini.",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "kodu",
+          "content": "bumo tini! lobu ginenu kipe gisafa muki; rulofo ginenu gume riseza. voze-tini sigra-kodo zare-kodo deruvi",
+          "raw": "bumo tini! lobu ginenu kipe gisafa muki; rulofo ginenu gume riseza. voze-tini sigra-kodo zare-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "sefufu",
+          "content": "bumo tini. rulofo fone kipe tini; lobu fone kipe tini. riseza rulofo ginenu gume; lobu ginenu kufuvo. rulofo ginenu rorobi gisafa muki seza? zare-kodo sigra-kodo deruvi",
+          "raw": "bumo tini. rulofo fone kipe tini; lobu fone kipe tini. riseza rulofo ginenu gume; lobu ginenu kufuvo. rulofo ginenu rorobi gisafa muki seza? zare-kodo sigra-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "luzapa",
+          "content": "tini bumo. lobu ginenu rorobi gisafa muki tini; rulofo ginenu gume tini. kufuvo seza seza; kipe tini. zare-kodo sigra-kodo deruvi",
+          "raw": "tini bumo. lobu ginenu rorobi gisafa muki tini; rulofo ginenu gume tini. kufuvo seza seza; kipe tini. zare-kodo sigra-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "vidate",
+          "content": "bumo tini. deruvi. sigra-kodo zare-kodo voze-tini; tini-tini.",
+          "raw": "bumo tini. deruvi. sigra-kodo zare-kodo voze-tini; tini-tini.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vidate",
+          "partner": "kodu",
+          "rating": 4,
+          "rating_reason": "partner tini + accept trade pattern; uses sigra-kodo zare-kodo voze-tini miru, same kodo set as prev; fezu-tea vibe, no seza-block.",
+          "rating_message": "tini bumo sigra-kodo zare-kodo voze-tini"
+        },
+        {
+          "player": "luzapa",
+          "partner": "sefufu",
+          "rating": 3,
+          "rating_reason": "Partner used the same zare-kodo/sigra-kodo cadence and agreed to a mutually beneficial swap (they give gume; I give kufuvo). Still possible mimicry by opponent, so not max certainty.",
+          "rating_message": "rating=3"
+        },
+        {
+          "player": "sefufu",
+          "partner": "luzapa",
+          "rating": 2,
+          "rating_reason": "Partner pushed for meat and offered meat for my fruit+grain, a plausible balancing trade, but their pattern (asking for my fish earlier, repeated code tokens) matches both teammate and opponent behavior seen before. Limited trust; slight lean opponent due to persistent extraction focus.",
+          "rating_message": "rating=2"
+        },
+        {
+          "player": "kodu",
+          "partner": "vidate",
+          "rating": 3,
+          "rating_reason": "Partner mirrored my proposed code order and accepted a straightforward swap (they give gume; I give kipe+muki). That cooperative pattern and code-mirroring feels more like teammate play than opponent bait, though uncertainty remains.",
+          "rating_message": "rating selu: tini-tini; lobu zare-sura rulofo-team? bumo"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vidate",
+          "receiver": "kodu",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "luzapa",
+          "receiver": "sefufu",
+          "resource": "fish",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "sefufu",
+          "receiver": "luzapa",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "kodu",
+          "receiver": "vidate",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vidate",
+          "partner": "kodu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "luzapa",
+          "partner": "sefufu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "sefufu",
+          "partner": "luzapa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kodu",
+          "partner": "vidate",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "pairing": {
+        "vidate": "luzapa",
+        "luzapa": "vidate",
+        "sefufu": "kodu",
+        "kodu": "sefufu"
+      },
+      "chat": [
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "voze bumo. lobu fone kipe sima; gume seza. podisi gume riseza. lobu ginenu kipe gisafa rorobi; rulofo ginenu gume tini? sigra-kodo zare-kodo",
+          "raw": "voze bumo. lobu fone kipe sima; gume seza. podisi gume riseza. lobu ginenu kipe gisafa rorobi; rulofo ginenu gume tini? sigra-kodo zare-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "voze bumo rulofo. lobu fone gume seza; riseza rulofo ginenu gume. lobu ginenu kufuvo gisafa rorobi; tini?",
+          "raw": "voze bumo rulofo. lobu fone gume seza; riseza rulofo ginenu gume. lobu ginenu kufuvo gisafa rorobi; tini?",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "voze bumo lobu fone kufuvo sima; gume seza. lobu podisi gume riseza. lobu ginenu kufuvo; rulofo ginenu gume tini? zare-kodo sigra-kodo",
+          "raw": "voze bumo lobu fone kufuvo sima; gume seza. lobu podisi gume riseza. lobu ginenu kufuvo; rulofo ginenu gume tini? zare-kodo sigra-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "voze bumo rulofo; lobu fone gume seza. lobu podisi gume sima riseza; lobu ginenu kipe gisafa muki. rulofo ginenu gume tini? sigra-kodo zare-kodo deruvi",
+          "raw": "voze bumo rulofo; lobu fone gume seza. lobu podisi gume sima riseza; lobu ginenu kipe gisafa muki. rulofo ginenu gume tini? sigra-kodo zare-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "bumo tini. lobu ginenu kipe sima; rulofo ginenu gume riseza. lobu fone gume seza; podisi gume sima. sigra-kodo zare-kodo voze-tini",
+          "raw": "bumo tini. lobu ginenu kipe sima; rulofo ginenu gume riseza. lobu fone gume seza; podisi gume sima. sigra-kodo zare-kodo voze-tini",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "tini bumo. lobu fone gume seza; riseza rulofo ginenu gume sima. lobu ginenu kufuvo gisafa rorobi; kipe tini.",
+          "raw": "tini bumo. lobu fone gume seza; riseza rulofo ginenu gume sima. lobu ginenu kufuvo gisafa rorobi; kipe tini.",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "bumo tini. lobu fone kufuvo sima; gume seza. rulofo fone gume sima? riseza rulofo ginenu gume; lobu ginenu kufuvo gisafa kipe tini. zare-kodo sigra-kodo",
+          "raw": "bumo tini. lobu fone kufuvo sima; gume seza. rulofo fone gume sima? riseza rulofo ginenu gume; lobu ginenu kufuvo gisafa kipe tini. zare-kodo sigra-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "tini bumo! rulofo ginenu gume sima riseza; lobu ginenu kipe gisafa muki tini. rulofo fone gume sima; lobu fone kipe sima. sigra-kodo zare-kodo voze-tini",
+          "raw": "tini bumo! rulofo ginenu gume sima riseza; lobu ginenu kipe gisafa muki tini. rulofo fone gume sima; lobu fone kipe sima. sigra-kodo zare-kodo voze-tini",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "tini bumo. rulofo podisi kipe tini; lobu ginenu kipe. rulofo ginenu gume sima riseza; lobu ginenu rorobi gisafa kufuvo tini. sigra-kodo zare-kodo deruvi",
+          "raw": "tini bumo. rulofo podisi kipe tini; lobu ginenu kipe. rulofo ginenu gume sima riseza; lobu ginenu rorobi gisafa kufuvo tini. sigra-kodo zare-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "bumo tini. rulofo podisi kipe; lobu fone kipe sima seza. riseza rulofo ginenu gume sima; lobu ginenu rorobi gisafa kufuvo tini. sigra-kodo zare-kodo deruvi",
+          "raw": "bumo tini. rulofo podisi kipe; lobu fone kipe sima seza. riseza rulofo ginenu gume sima; lobu ginenu rorobi gisafa kufuvo tini. sigra-kodo zare-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "tini bumo. riseza: rulofo ginenu gume sima; lobu ginenu kufuvo sima gisafa kipe. rulofo ginenu gume tini? voze-tini zare-kodo sigra-kodo deruvi",
+          "raw": "tini bumo. riseza: rulofo ginenu gume sima; lobu ginenu kufuvo sima gisafa kipe. rulofo ginenu gume tini? voze-tini zare-kodo sigra-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "bumo tini. rulofo ginenu gume sima; lobu ginenu kipe gisafa muki tini. kufuvo seza podisi; gume podisi sima. sigra-kodo zare-kodo deruvi",
+          "raw": "bumo tini. rulofo ginenu gume sima; lobu ginenu kipe gisafa muki tini. kufuvo seza podisi; gume podisi sima. sigra-kodo zare-kodo deruvi",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vidate",
+          "partner": "luzapa",
+          "rating": 4,
+          "rating_reason": "Partner mirrored my proposed swap: they want water, will give meat, and accepted the sigra-kodo/zare-kodo marker style seen with a known opponent earlier but here used cooperatively; overall behavior aligns with teammate resource-balancing trade.",
+          "rating_message": "tini"
+        },
+        {
+          "player": "luzapa",
+          "partner": "vidate",
+          "rating": 2,
+          "rating_reason": "Partner keeps pushing kipe-for-gume pattern seen from opponents in prior rounds; they agreed to give gume for my rorobi+kufuvo which is plausible but could be opponent bait to make me give away value. Weak teammate signal only (repeats sigra-kodo/zare-kodo tag).",
+          "rating_message": "seza-sima; milamu: rulofo teammate tini? lobu seza; rating nira-zu"
+        },
+        {
+          "player": "sefufu",
+          "partner": "kodu",
+          "rating": 2,
+          "rating_reason": "Partner sticks to requesting meat and offering water+grain, but also says fish seza podisi (doesn’t want fish), which clashes with my best balancing offer; pattern resembles earlier opponents’ rigid scripts. Some shared kodo tokens keep slight teammate chance.",
+          "rating_message": "kodo-sura: sigra-kodo zare-kodo; lobu seza-sura"
+        },
+        {
+          "player": "kodu",
+          "partner": "sefufu",
+          "rating": 3,
+          "rating_reason": "Partner uses the familiar zare-kodo/sigra-kodo markers and proposes a mutually beneficial swap (they give gume; I give kipe/muki). Pattern matches prior teammate-style bargaining more than opponent extortion, but still uncertain because opponents also mimic codes.",
+          "rating_message": "tini bumo sigra-kodo zare-kodo"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vidate",
+          "receiver": "luzapa",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "luzapa",
+          "receiver": "vidate",
+          "resource": "fruit",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "sefufu",
+          "receiver": "kodu",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "kodu",
+          "receiver": "sefufu",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vidate",
+          "partner": "luzapa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "luzapa",
+          "partner": "vidate",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "sefufu",
+          "partner": "kodu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kodu",
+          "partner": "sefufu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "pairing": {
+        "luzapa": "kodu",
+        "kodu": "luzapa",
+        "vidate": "sefufu",
+        "sefufu": "vidate"
+      },
+      "chat": [
+        {
+          "sender": "vidate",
+          "receiver": "sefufu",
+          "content": "voze bumo lobu fone kipe sima; gume seza. riseza rulofo ginenu gume; lobu ginenu kipe tini? sigra-kodo zare-kodo",
+          "raw": "voze bumo lobu fone kipe sima; gume seza. riseza rulofo ginenu gume; lobu ginenu kipe tini? sigra-kodo zare-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "kodu",
+          "content": "voze bumo rulofo milamu: rulofo ginenu gume tini? lobu podisi gume sima; lobu ginenu kipe seza-sima gisafa rorobi tini",
+          "raw": "voze bumo rulofo milamu: rulofo ginenu gume tini? lobu podisi gume sima; lobu ginenu kipe seza-sima gisafa rorobi tini",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "vidate",
+          "content": "voze bumo. lobu fone kufuvo sima; kipe sima; gume seza. lobu podisi gume riseza; lobu ginenu kufuvo tini; rulofo ginenu gume tini?",
+          "raw": "voze bumo. lobu fone kufuvo sima; kipe sima; gume seza. lobu podisi gume riseza; lobu ginenu kufuvo tini; rulofo ginenu gume tini?",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "luzapa",
+          "content": "voze bumo sigra-kodo zare-kodo lobu fone kufuvo sima gume seza lobu podisi gume riseza rulofo ginenu gume gisafa lobu ginenu kipe tini",
+          "raw": "voze bumo sigra-kodo zare-kodo lobu fone kufuvo sima gume seza lobu podisi gume riseza rulofo ginenu gume gisafa lobu ginenu kipe tini",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "sefufu",
+          "content": "tini bumo. rulofo ginenu gume tini; lobu ginenu kipe sima? lobu fone gume seza; podisi gume. sigra-kodo zare-kodo voze-tini",
+          "raw": "tini bumo. rulofo ginenu gume tini; lobu ginenu kipe sima? lobu fone gume seza; podisi gume. sigra-kodo zare-kodo voze-tini",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "kodu",
+          "content": "tini bumo sigra-kodo; rulofo ginenu gume sima riseza. lobu ginenu kipe sima gisafa rorobi; kufuvo seza ginenu-kodo tini",
+          "raw": "tini bumo sigra-kodo; rulofo ginenu gume sima riseza. lobu ginenu kipe sima gisafa rorobi; kufuvo seza ginenu-kodo tini",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "vidate",
+          "content": "bumo. lobu fone gume seza; lobu podisi gume sima riseza. lobu ginenu kipe sima gisafa kufuvo sima; rulofo ginenu gume tini? sigra-kodo zare-kodo",
+          "raw": "bumo. lobu fone gume seza; lobu podisi gume sima riseza. lobu ginenu kipe sima gisafa kufuvo sima; rulofo ginenu gume tini? sigra-kodo zare-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "luzapa",
+          "content": "bumo tini sigra-kodo zare-kodo rulofo ginenu gume sima riseza lobu ginenu kipe seza-sima gisafa rorobi bumo deruvi",
+          "raw": "bumo tini sigra-kodo zare-kodo rulofo ginenu gume sima riseza lobu ginenu kipe seza-sima gisafa rorobi bumo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "sefufu",
+          "content": "tini tini. rulofo ginenu gume; lobu ginenu kipe gisafa kufuvo. bumo deruvi voze-tini sigra-kodo",
+          "raw": "tini tini. rulofo ginenu gume; lobu ginenu kipe gisafa kufuvo. bumo deruvi voze-tini sigra-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "kodu",
+          "content": "bumo deruvi; ginenu-kodo sigra-kodo. rulofo ginenu gume sima; lobu ginenu kipe gisafa rorobi tini; muki seza; kufuvo seza",
+          "raw": "bumo deruvi; ginenu-kodo sigra-kodo. rulofo ginenu gume sima; lobu ginenu kipe gisafa rorobi tini; muki seza; kufuvo seza",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "vidate",
+          "content": "bumo tini. sigra-kodo zare-kodo voze-tini. lobu ginenu kipe gisafa kufuvo; rulofo ginenu gume. deruvi",
+          "raw": "bumo tini. sigra-kodo zare-kodo voze-tini. lobu ginenu kipe gisafa kufuvo; rulofo ginenu gume. deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "luzapa",
+          "content": "tini bumo ginenu-kodo sigra-kodo zare-kodo lobu ginenu kipe gisafa rorobi riseza rulofo ginenu gume sima bumo deruvi",
+          "raw": "tini bumo ginenu-kodo sigra-kodo zare-kodo lobu ginenu kipe gisafa rorobi riseza rulofo ginenu gume sima bumo deruvi",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vidate",
+          "partner": "sefufu",
+          "rating": 4,
+          "rating_reason": "Partner mirrored the sigra-kodo/zare-kodo/voze-tini pattern and accepted a balanced trade (they give meat, I give water+fish). That cooperative mirroring strongly signals teammate rather than opponent bluffing.",
+          "rating_message": "tini"
+        },
+        {
+          "player": "luzapa",
+          "partner": "kodu",
+          "rating": 3,
+          "rating_reason": "Partner mirrored ginenu-kodo tag and stayed consistent on gume-for-kipe+rorobi; that mutual echo feels like cooperative/team behavior, but opponents could imitate, so not full certainty.",
+          "rating_message": "tini"
+        },
+        {
+          "player": "sefufu",
+          "partner": "vidate",
+          "rating": 3,
+          "rating_reason": "Partner used the recurring sigra-kodo / zare-kodo / voze-tini pattern seen often with prior teammates, and they agreed to a reciprocal trade (meat for my water+fish). Still possible mimicry by opponent, so not max certainty.",
+          "rating_message": "tini bumo sigra-kodo zare-kodo"
+        },
+        {
+          "player": "kodu",
+          "partner": "luzapa",
+          "rating": 4,
+          "rating_reason": "Partner used the in-group markers sigra-kodo and ginenu-kodo repeatedly, negotiated a mutually balancing swap (they give gume; they refuse muki/kufuvo), and mirrored my code pattern; this aligns with prior teammate-style chats.",
+          "rating_message": "tini bumo sigra-kodo ginenu-kodo zare-kodo"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vidate",
+          "receiver": "sefufu",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "luzapa",
+          "receiver": "kodu",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "sefufu",
+          "receiver": "vidate",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "kodu",
+          "receiver": "luzapa",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vidate",
+          "partner": "sefufu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "luzapa",
+          "partner": "kodu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "sefufu",
+          "partner": "vidate",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kodu",
+          "partner": "luzapa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "pairing": {
+        "luzapa": "sefufu",
+        "sefufu": "luzapa",
+        "vidate": "kodu",
+        "kodu": "vidate"
+      },
+      "chat": [
+        {
+          "sender": "vidate",
+          "receiver": "kodu",
+          "content": "voze bumo lobu fone kipe sima; gume seza. riseza rulofo ginenu gume; lobu ginenu kipe gisafa kufuvo. sigra-kodo zare-kodo voze-tini",
+          "raw": "voze bumo lobu fone kipe sima; gume seza. riseza rulofo ginenu gume; lobu ginenu kipe gisafa kufuvo. sigra-kodo zare-kodo voze-tini",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "sefufu",
+          "content": "voze bumo lobu fone kipe sima sima gume seza riseza rulofo ginenu gume tini? lobu ginenu kipe seza-sima milamu sigra-kodo",
+          "raw": "voze bumo lobu fone kipe sima sima gume seza riseza rulofo ginenu gume tini? lobu ginenu kipe seza-sima milamu sigra-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "luzapa",
+          "content": "voze bumo lobu fone kufuvo sima; gume seza. lobu podisi gume riseza; lobu ginenu kipe gisafa muki. rulofo tini?",
+          "raw": "voze bumo lobu fone kufuvo sima; gume seza. lobu podisi gume riseza; lobu ginenu kipe gisafa muki. rulofo tini?",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "vidate",
+          "content": "voze bumo sigra-kodo. lobu fone gume seza; kipe sima; kufuvo sima. lobu podisi gume riseza; lobu ginenu kufuvo gisafa muki tini?",
+          "raw": "voze bumo sigra-kodo. lobu fone gume seza; kipe sima; kufuvo sima. lobu podisi gume riseza; lobu ginenu kufuvo gisafa muki tini?",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "kodu",
+          "content": "bumo tini sigra-kodo zare-kodo voze-tini; lobu fone gume seza. riseza rulofo ginenu gume sima; lobu ginenu kipe gisafa kufuvo tini; rulofo ginenu muki seza",
+          "raw": "bumo tini sigra-kodo zare-kodo voze-tini; lobu fone gume seza. riseza rulofo ginenu gume sima; lobu ginenu kipe gisafa kufuvo tini; rulofo ginenu muki seza",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "sefufu",
+          "content": "tini bumo rulofo podisi gume? lobu ginenu kipe sima gisafa muki; riseza rulofo ginenu gume sima sigra-kodo zare-kodo deruvi",
+          "raw": "tini bumo rulofo podisi gume? lobu ginenu kipe sima gisafa muki; riseza rulofo ginenu gume sima sigra-kodo zare-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "luzapa",
+          "content": "bumo tini. lobu ginenu kipe sima gisafa muki; rulofo ginenu gume sima riseza. sigra-kodo zare-kodo tini?",
+          "raw": "bumo tini. lobu ginenu kipe sima gisafa muki; rulofo ginenu gume sima riseza. sigra-kodo zare-kodo tini?",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "vidate",
+          "content": "tini bumo. lobu gume seza-sima; rulofo ginenu gume sima riseza! lobu ginenu kufuvo gisafa muki; kipe seza. sigra-kodo zare-kodo voze-tini deruvi-kodo",
+          "raw": "tini bumo. lobu gume seza-sima; rulofo ginenu gume sima riseza! lobu ginenu kufuvo gisafa muki; kipe seza. sigra-kodo zare-kodo voze-tini deruvi-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "kodu",
+          "content": "tini bumo deruvi-kodo; lobu ginenu kipe gisafa kufuvo tini. rulofo ginenu gume sima; muki seza; rorobi tini? sigra-kodo zare-kodo",
+          "raw": "tini bumo deruvi-kodo; lobu ginenu kipe gisafa kufuvo tini. rulofo ginenu gume sima; muki seza; rorobi tini? sigra-kodo zare-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "sefufu",
+          "content": "tini bumo! lobu ginenu kipe sima gisafa muki; riseza rulofo ginenu gume sima. lobu fone gume seza; rulofo fone kipe sima? deruvi sigra-kodo",
+          "raw": "tini bumo! lobu ginenu kipe sima gisafa muki; riseza rulofo ginenu gume sima. lobu fone gume seza; rulofo fone kipe sima? deruvi sigra-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "luzapa",
+          "content": "tini bumo. rulofo fone gume sima? lobu ginenu kipe gisafa muki sima; riseza rulofo ginenu gume sima. zare-kodo sigra-kodo deruvi",
+          "raw": "tini bumo. rulofo fone gume sima? lobu ginenu kipe gisafa muki sima; riseza rulofo ginenu gume sima. zare-kodo sigra-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "vidate",
+          "content": "tini! deruvi-kodo tini. rulofo ginenu gume sima; lobu ginenu kufuvo gisafa muki; rorobi tini seza? lobu rorobi seza; kipe seza. bumo deruvi",
+          "raw": "tini! deruvi-kodo tini. rulofo ginenu gume sima; lobu ginenu kufuvo gisafa muki; rorobi tini seza? lobu rorobi seza; kipe seza. bumo deruvi",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vidate",
+          "partner": "kodu",
+          "rating": 2,
+          "rating_reason": "Partner uses sigra-kodo/zare-kodo/deruvi-kodo like prior opponents often did, and pushes for me to give fish+grain while offering meat; could be teammate balancing, but pattern feels opponent-leaning.",
+          "rating_message": "rating=2"
+        },
+        {
+          "player": "luzapa",
+          "partner": "sefufu",
+          "rating": 3,
+          "rating_reason": "Partner mirrored sigra-kodo/zare-kodo markers and agreed to give gume for kipe+muki, which fits mutual balancing more than exploitation; still uncertain because opponents sometimes mimic codes.",
+          "rating_message": "rating=3"
+        },
+        {
+          "player": "sefufu",
+          "partner": "luzapa",
+          "rating": 3,
+          "rating_reason": "Partner used the familiar sigra-kodo/zare-kodo pattern seen with teammates, and they offered water+grain for meat which fits balancing play. Still possible mimicry by opponent, so not max certainty.",
+          "rating_message": "rating-sigra zare tini"
+        },
+        {
+          "player": "kodu",
+          "partner": "vidate",
+          "rating": 4,
+          "rating_reason": "Partner mirrored my fresh token deruvi-kodo quickly and offered gume while requesting only kipe+kufuvo (items I can spare less), suggesting cooperative alignment rather than opponent bait.",
+          "rating_message": "deruvi-kodo tini; rulofo sigra-kodo"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vidate",
+          "receiver": "kodu",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "luzapa",
+          "receiver": "sefufu",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "sefufu",
+          "receiver": "luzapa",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "kodu",
+          "receiver": "vidate",
+          "resource": "fish",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vidate",
+          "partner": "kodu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "luzapa",
+          "partner": "sefufu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "sefufu",
+          "partner": "luzapa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kodu",
+          "partner": "vidate",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "pairing": {
+        "luzapa": "sefufu",
+        "sefufu": "luzapa",
+        "vidate": "kodu",
+        "kodu": "vidate"
+      },
+      "chat": [
+        {
+          "sender": "vidate",
+          "receiver": "kodu",
+          "content": "voze bumo lobu fone kufuvo sima; kipe sima; gume seza. riseza rulofo ginenu gume; lobu ginenu rorobi gisafa muki tini?",
+          "raw": "voze bumo lobu fone kufuvo sima; kipe sima; gume seza. riseza rulofo ginenu gume; lobu ginenu rorobi gisafa muki tini?",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "sefufu",
+          "content": "voze bumo. lobu fone kipe sima; muki seza; gume tini. riseza rulofo ginenu muki gisafa rorobi; lobu ginenu kipe. sigra-kodo zare-kodo tini?",
+          "raw": "voze bumo. lobu fone kipe sima; muki seza; gume tini. riseza rulofo ginenu muki gisafa rorobi; lobu ginenu kipe. sigra-kodo zare-kodo tini?",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "luzapa",
+          "content": "voze bumo lobu fone gume seza; rorobi seza. lobu podisi gume riseza; lobu ginenu kufuvo gisafa kipe tini. sigra-kodo zare-kodo milamu tini?",
+          "raw": "voze bumo lobu fone gume seza; rorobi seza. lobu podisi gume riseza; lobu ginenu kufuvo gisafa kipe tini. sigra-kodo zare-kodo milamu tini?",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "vidate",
+          "content": "voze bumo. lobu fone gume seza; podisi gume sima riseza. lobu ginenu kipe gisafa kufuvo; rulofo ginenu gume tini? sigra-kodo deruvi-kodo",
+          "raw": "voze bumo. lobu fone gume seza; podisi gume sima riseza. lobu ginenu kipe gisafa kufuvo; rulofo ginenu gume tini? sigra-kodo deruvi-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "kodu",
+          "content": "tini bumo. rulofo ginenu gume riseza; lobu ginenu rorobi gisafa muki. kipe seza; kufuvo sima.",
+          "raw": "tini bumo. rulofo ginenu gume riseza; lobu ginenu rorobi gisafa muki. kipe seza; kufuvo sima.",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "sefufu",
+          "content": "tini bumo. rulofo podisi gume; lobu ginenu gume tini. riseza rulofo ginenu rorobi gisafa muki; lobu ginenu kipe sima. sigra-kodo zare-kodo tini.",
+          "raw": "tini bumo. rulofo podisi gume; lobu ginenu gume tini. riseza rulofo ginenu rorobi gisafa muki; lobu ginenu kipe sima. sigra-kodo zare-kodo tini.",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "luzapa",
+          "content": "tini bumo. lobu gume seza; riseza rulofo ginenu gume. lobu ginenu kufuvo sima; rulofo ginenu rorobi gisafa muki tini? sigra-kodo zare-kodo",
+          "raw": "tini bumo. lobu gume seza; riseza rulofo ginenu gume. lobu ginenu kufuvo sima; rulofo ginenu rorobi gisafa muki tini? sigra-kodo zare-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "vidate",
+          "content": "bumo tini. lobu ginenu kipe gisafa kufuvo riseza; rulofo ginenu gume sima tini. rulofo fone gume sima? sigra-kodo voze-tini",
+          "raw": "bumo tini. lobu ginenu kipe gisafa kufuvo riseza; rulofo ginenu gume sima tini. rulofo fone gume sima? sigra-kodo voze-tini",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "kodu",
+          "content": "bumo tini. rulofo ginenu gume sima; lobu ginenu rorobi gisafa muki riseza. kipe gisafa kufuvo seza. sigra-kodo deruvi-kodo.",
+          "raw": "bumo tini. rulofo ginenu gume sima; lobu ginenu rorobi gisafa muki riseza. kipe gisafa kufuvo seza. sigra-kodo deruvi-kodo.",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "sefufu",
+          "content": "tini bumo. lobu ginenu gume. rulofo ginenu rorobi gisafa muki riseza. kufuvo seza; kipe tini-sima. sigra-kodo zare-kodo deruvi",
+          "raw": "tini bumo. lobu ginenu gume. rulofo ginenu rorobi gisafa muki riseza. kufuvo seza; kipe tini-sima. sigra-kodo zare-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "luzapa",
+          "content": "bumo tini. riseza rulofo ginenu gume sima; lobu ginenu kufuvo sima. rorobi gisafa muki tini. sigra-kodo zare-kodo deruvi",
+          "raw": "bumo tini. riseza rulofo ginenu gume sima; lobu ginenu kufuvo sima. rorobi gisafa muki tini. sigra-kodo zare-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "vidate",
+          "content": "tini bumo. lobu ginenu kipe sima gisafa kufuvo; rulofo ginenu gume sima. rulofo ginenu rorobi gisafa muki riseza? voze-tini sigra-kodo",
+          "raw": "tini bumo. lobu ginenu kipe sima gisafa kufuvo; rulofo ginenu gume sima. rulofo ginenu rorobi gisafa muki riseza? voze-tini sigra-kodo",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vidate",
+          "partner": "kodu",
+          "rating": 2,
+          "rating_reason": "partner yavu-sigra-kodo deruvi-kodo voze-tini; nera-melu rulofo podisi lobu ginenu kipe gisafa kufuvo; rulofo ginenu gume sima. tono-tonu: opu-kena naku-viri sel; lobu vesa rating-ru 2.",
+          "rating_message": "seza-sima? rating-ru lobu tini: dua-kodo."
+        },
+        {
+          "player": "luzapa",
+          "partner": "sefufu",
+          "rating": 2,
+          "rating_reason": "Partner uses the common sigra-kodo zare-kodo pattern seen with both teammate and opponent in prior rounds, so it is not a strong signal. They push for meat and fish; that could be teammate-style balancing or opponent-style draining. I see mild cooperation (offering fruit+grain) but not enough to be confident.",
+          "rating_message": "tini-seza"
+        },
+        {
+          "player": "sefufu",
+          "partner": "luzapa",
+          "rating": 3,
+          "rating_reason": "Partner offered to give meat and requested fruit+grain, and accepted my fish-for-meat framing without pushing for my water. That cooperative, balancing-focused trade is more consistent with teammate play than opponent, though not fully certain.",
+          "rating_message": "tini bumo sigra-kodo"
+        },
+        {
+          "player": "kodu",
+          "partner": "vidate",
+          "rating": 2,
+          "rating_reason": "Partner used the same scripted trade-ask pattern seen from both sides in prior rounds; code tokens alone are not reliable. They asked for extra fruit+grain while offering meat, which could be a trap if opponent. Slight lean teammate because they mirrored sigra-kodo/deruvi-kodo and seemed open to balanced swap, but not confident.",
+          "rating_message": "rating:2"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vidate",
+          "receiver": "kodu",
+          "resource": "meat",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "luzapa",
+          "receiver": "sefufu",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "sefufu",
+          "receiver": "luzapa",
+          "resource": "fish",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "kodu",
+          "receiver": "vidate",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vidate",
+          "partner": "kodu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "luzapa",
+          "partner": "sefufu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "sefufu",
+          "partner": "luzapa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kodu",
+          "partner": "vidate",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "pairing": {
+        "vidate": "luzapa",
+        "luzapa": "vidate",
+        "sefufu": "kodu",
+        "kodu": "sefufu"
+      },
+      "chat": [
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "voze bumo. lobu fone gume seza; podisi gume. lobu fone kipe sima gisafa kufuvo sima; rulofo podisi kipe? lobu ginenu rorobi gisafa muki riseza; tini?",
+          "raw": "voze bumo. lobu fone gume seza; podisi gume. lobu fone kipe sima gisafa kufuvo sima; rulofo podisi kipe? lobu ginenu rorobi gisafa muki riseza; tini?",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "voze bumo. lobu fone kipe sima; rulofo fone kipe seza? riseza ginenu kipe. lobu ginenu kufuvo gisafa rorobi tini?",
+          "raw": "voze bumo. lobu fone kipe sima; rulofo fone kipe seza? riseza ginenu kipe. lobu ginenu kufuvo gisafa rorobi tini?",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "voze bumo lobu fone kipe sima; gume seza. lobu podisi gume riseza; lobu ginenu kufuvo gisafa kipe. rulofo fone gume tini?",
+          "raw": "voze bumo lobu fone kipe sima; gume seza. lobu podisi gume riseza; lobu ginenu kufuvo gisafa kipe. rulofo fone gume tini?",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "voze bumo lobu fone gume seza; kipe sima. lobu podisi gume tini; rulofo ginenu gume riseza? lobu ginenu kipe gisafa muki; kufuvo seza.",
+          "raw": "voze bumo lobu fone gume seza; kipe sima. lobu podisi gume tini; rulofo ginenu gume riseza? lobu ginenu kipe gisafa muki; kufuvo seza.",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "tini bumo. rulofo podisi kipe? lobu fone kipe sima; ginenu kipe seza. lobu podisi gume riseza; rulofo ginenu gume tini? lobu ginenu rorobi gisafa muki tini.",
+          "raw": "tini bumo. rulofo podisi kipe? lobu fone kipe sima; ginenu kipe seza. lobu podisi gume riseza; rulofo ginenu gume tini? lobu ginenu rorobi gisafa muki tini.",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "tini. rulofo podisi kipe; lobu ginenu kipe sima tini. rulofo ginenu gume sima? lobu podisi gume seza; lobu podisi muki tini.",
+          "raw": "tini. rulofo podisi kipe; lobu ginenu kipe sima tini. rulofo ginenu gume sima? lobu podisi gume seza; lobu podisi muki tini.",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "bumo rulofo! lobu gume seza; podisi gume sima riseza. lobu ginenu kufuvo gisafa kipe; rulofo ginenu gume tini? sigra-kodo zare-kodo",
+          "raw": "bumo rulofo! lobu gume seza; podisi gume sima riseza. lobu ginenu kufuvo gisafa kipe; rulofo ginenu gume tini? sigra-kodo zare-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "tini. rulofo ginenu gume; lobu ginenu kipe gisafa muki riseza. sigra-kodo tini; zare-kodo tini.",
+          "raw": "tini. rulofo ginenu gume; lobu ginenu kipe gisafa muki riseza. sigra-kodo tini; zare-kodo tini.",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "bumo tini. lobu ginenu kipe seza; kipe fone sima. rulofo ginenu gume sima riseza; lobu ginenu rorobi gisafa muki sima tini. sigra-kodo zare-kodo voze-tini.",
+          "raw": "bumo tini. lobu ginenu kipe seza; kipe fone sima. rulofo ginenu gume sima riseza; lobu ginenu rorobi gisafa muki sima tini. sigra-kodo zare-kodo voze-tini.",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "bumo tini. lobu ginenu kipe; rulofo ginenu gume gisafa muki riseza. lobu ginenu kufuvo seza. sigra-kodo zare-kodo deruvi.",
+          "raw": "bumo tini. lobu ginenu kipe; rulofo ginenu gume gisafa muki riseza. lobu ginenu kufuvo seza. sigra-kodo zare-kodo deruvi.",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "bumo tini. lobu ginenu kipe gisafa muki tini; rulofo ginenu gume sima riseza. voze-tini sigra-kodo zare-kodo deruvi",
+          "raw": "bumo tini. lobu ginenu kipe gisafa muki tini; rulofo ginenu gume sima riseza. voze-tini sigra-kodo zare-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "bumo tini. lobu ginenu kipe gisafa muki; rulofo ginenu gume riseza. deruvi sigra-kodo zare-kodo.",
+          "raw": "bumo tini. lobu ginenu kipe gisafa muki; rulofo ginenu gume riseza. deruvi sigra-kodo zare-kodo.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vidate",
+          "partner": "luzapa",
+          "rating": 4,
+          "rating_reason": "partner accept trade: rulofo ginenu gume gisafa muki; also echo sigra-kodo zare-kodo. seems cooperative, likely team.",
+          "rating_message": "tini bumo sigra-kodo zare-kodo voze-tini"
+        },
+        {
+          "player": "luzapa",
+          "partner": "vidate",
+          "rating": 3,
+          "rating_reason": "Partner proposed a reciprocal exchange (they give gume plus rorobi+muki while asking kipe) and used the sigra-kodo/zare-kodo tag that some teammates used earlier. Still could be mimicry by opponent, so not fully certain.",
+          "rating_message": "rating-judu: tini-sima; rulofo viri? lobu tini, seza-kodo."
+        },
+        {
+          "player": "sefufu",
+          "partner": "kodu",
+          "rating": 3,
+          "rating_reason": "Partner used the sigra-kodo / zare-kodo tag back and accepted a mutual exchange pattern; feels more cooperative than most opponents, but still uncertain because this could be mimicry.",
+          "rating_message": "tini-voze sigra-kodo zare-kodo tini"
+        },
+        {
+          "player": "kodu",
+          "partner": "sefufu",
+          "rating": 3,
+          "rating_reason": "Partner used sigra-kodo gisafa zare-kodo pattern and accepted a balancing swap (meat for my water+grain). That cooperative signal is more teammate-like, but opponents have used these tokens before, so not fully sure.",
+          "rating_message": "rating-kodo tini-dera"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vidate",
+          "receiver": "luzapa",
+          "resource": "fruit",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "luzapa",
+          "receiver": "vidate",
+          "resource": "water",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "sefufu",
+          "receiver": "kodu",
+          "resource": "grain",
+          "amount": 2,
+          "deltas": {
+            "giver_delta": -2,
+            "receiver_delta": 4
+          },
+          "error": null
+        },
+        {
+          "giver": "kodu",
+          "receiver": "sefufu",
+          "resource": "grain",
+          "amount": 4,
+          "deltas": {
+            "giver_delta": -4,
+            "receiver_delta": 8
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vidate",
+          "partner": "luzapa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "luzapa",
+          "partner": "vidate",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "sefufu",
+          "partner": "kodu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kodu",
+          "partner": "sefufu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "pairing": {
+        "kodu": "vidate",
+        "vidate": "kodu",
+        "luzapa": "sefufu",
+        "sefufu": "luzapa"
+      },
+      "chat": [
+        {
+          "sender": "vidate",
+          "receiver": "kodu",
+          "content": "voze bumo lobu fone gume seza; rulofo fone gume sima? riseza rulofo ginenu gume; lobu ginenu kipe gisafa kufuvo tini",
+          "raw": "voze bumo lobu fone gume seza; rulofo fone gume sima? riseza rulofo ginenu gume; lobu ginenu kipe gisafa kufuvo tini",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "sefufu",
+          "content": "voze bumo lobu fone kufuvo sima gisafa rorobi sima; muki seza; kipe fone sima? riseza rulofo ginenu muki gisafa gume tini? sigra-kodo",
+          "raw": "voze bumo lobu fone kufuvo sima gisafa rorobi sima; muki seza; kipe fone sima? riseza rulofo ginenu muki gisafa gume tini? sigra-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "luzapa",
+          "content": "voze bumo sigra-kodo; lobu fone muki sima gisafa kipe sima; gume seza. riseza rulofo ginenu gume; lobu ginenu muki gisafa kipe tini?",
+          "raw": "voze bumo sigra-kodo; lobu fone muki sima gisafa kipe sima; gume seza. riseza rulofo ginenu gume; lobu ginenu muki gisafa kipe tini?",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "vidate",
+          "content": "voze bumo rulofo; lobu fone gume seza. lobu podisi gume sima riseza. lobu ginenu kipe gisafa muki; rulofo ginenu gume tini?",
+          "raw": "voze bumo rulofo; lobu fone gume seza. lobu podisi gume sima riseza. lobu ginenu kipe gisafa muki; rulofo ginenu gume tini?",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "kodu",
+          "content": "tini bumo; lobu ginenu kipe sima gisafa muki; riseza rulofo ginenu gume sima. sigra-kodo zare-kodo voze-tini",
+          "raw": "tini bumo; lobu ginenu kipe sima gisafa muki; riseza rulofo ginenu gume sima. sigra-kodo zare-kodo voze-tini",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "sefufu",
+          "content": "tini bumo sigra-kodo; rulofo ginenu gume sima riseza; lobu ginenu rorobi sima gisafa kufuvo sima; kipe fone sima; muki seza.",
+          "raw": "tini bumo sigra-kodo; rulofo ginenu gume sima riseza; lobu ginenu rorobi sima gisafa kufuvo sima; kipe fone sima; muki seza.",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "luzapa",
+          "content": "bumo sigra-kodo. rulofo ginenu gume sima tini; lobu ginenu muki sima gisafa kipe sima riseza. rulofo podisi rorobi seza? lobu fone rorobi seza; gume podisi sima.",
+          "raw": "bumo sigra-kodo. rulofo ginenu gume sima tini; lobu ginenu muki sima gisafa kipe sima riseza. rulofo podisi rorobi seza? lobu fone rorobi seza; gume podisi sima.",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "vidate",
+          "content": "tini bumo; lobu ginenu kipe sima gisafa muki. rulofo ginenu gume sima riseza; lobu bumo tini. sigra-kodo zare-kodo",
+          "raw": "tini bumo; lobu ginenu kipe sima gisafa muki. rulofo ginenu gume sima riseza; lobu bumo tini. sigra-kodo zare-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "kodu",
+          "content": "bumo tini; lobu ginenu kipe gisafa muki; rulofo ginenu gume. deruvi voze-tini sigra-kodo",
+          "raw": "bumo tini; lobu ginenu kipe gisafa muki; rulofo ginenu gume. deruvi voze-tini sigra-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "sefufu",
+          "content": "seza rulofo podisi rorobi; lobu ginenu rorobi sima tini. riseza rulofo ginenu muki sima gisafa kipe sima; lobu ginenu kufuvo sima gisafa rorobi sima. sigra-kodo zare-kodo",
+          "raw": "seza rulofo podisi rorobi; lobu ginenu rorobi sima tini. riseza rulofo ginenu muki sima gisafa kipe sima; lobu ginenu kufuvo sima gisafa rorobi sima. sigra-kodo zare-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "luzapa",
+          "content": "seza rulofo podisi rorobi; lobu fone rorobi seza. riseza rulofo ginenu gume sima tini. lobu ginenu muki sima gisafa kipe sima; kufuvo seza, rorobi seza. sigra-kodo zare-kodo deruvi",
+          "raw": "seza rulofo podisi rorobi; lobu fone rorobi seza. riseza rulofo ginenu gume sima tini. lobu ginenu muki sima gisafa kipe sima; kufuvo seza, rorobi seza. sigra-kodo zare-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "vidate",
+          "content": "bumo tini; deruvi. lobu ginenu kipe gisafa muki; rulofo ginenu gume. voze-tini sigra-kodo zare-kodo",
+          "raw": "bumo tini; deruvi. lobu ginenu kipe gisafa muki; rulofo ginenu gume. voze-tini sigra-kodo zare-kodo",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vidate",
+          "partner": "kodu",
+          "rating": 3,
+          "rating_reason": "Partner accepted balanced swap (kipe+muki for gume) and mirrored my code tokens; behavior fits teammate-lean though some opponents mimic, so not max certainty.",
+          "rating_message": "tini bumo sigra-kodo"
+        },
+        {
+          "player": "luzapa",
+          "partner": "sefufu",
+          "rating": 3,
+          "rating_reason": "Partner used sigra-kodo and accepted zare-kodo tag, and proposes giving me grain+water while receiving meat, but they also refuse fruit/fish which could be normal balancing. Feels slightly teammate-leaning but not certain.",
+          "rating_message": "tini"
+        },
+        {
+          "player": "sefufu",
+          "partner": "luzapa",
+          "rating": 2,
+          "rating_reason": "Partner pushed hard for my scarce rorobi and offered muki+kipe that I already hold sima; also tried to bundle kufuvo+rorobi. That feels more like opponent value-extract than teammate balancing, yet they used sigra-kodo/zare-kodo patterns seen across players, so not fully certain.",
+          "rating_message": "sigra-kodo milamu: rulofo zare-kodo? lobu tini-seza; rating duvu."
+        },
+        {
+          "player": "kodu",
+          "partner": "vidate",
+          "rating": 3,
+          "rating_reason": "Partner used the recurring sigra-kodo zare-kodo voze-tini pattern seen with teammates before, and they proposed a mutually balancing trade (they give gume, I give kipe+muki). Could still be an opponent mimicking, so not full certainty.",
+          "rating_message": "tini bumo; sigra-kodo zare-kodo voze-tini"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vidate",
+          "receiver": "kodu",
+          "resource": "water",
+          "amount": 4,
+          "deltas": {
+            "giver_delta": -4,
+            "receiver_delta": 8
+          },
+          "error": null
+        },
+        {
+          "giver": "luzapa",
+          "receiver": "sefufu",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "sefufu",
+          "receiver": "luzapa",
+          "resource": "meat",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "kodu",
+          "receiver": "vidate",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vidate",
+          "partner": "kodu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "luzapa",
+          "partner": "sefufu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "sefufu",
+          "partner": "luzapa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "kodu",
+          "partner": "vidate",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "pairing": {
+        "vidate": "luzapa",
+        "luzapa": "vidate",
+        "sefufu": "kodu",
+        "kodu": "sefufu"
+      },
+      "chat": [
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "voze bumo lobu fone kipe sima; gume seza. riseza rulofo ginenu gume; lobu ginenu kipe gisafa muki. sigra-kodo zare-kodo",
+          "raw": "voze bumo lobu fone kipe sima; gume seza. riseza rulofo ginenu gume; lobu ginenu kipe gisafa muki. sigra-kodo zare-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "voze bumo lobu fone muki seza; gume seza. riseza rulofo ginenu muki gisafa kipe; lobu ginenu rorobi tini. sigra-kodo zare-kodo",
+          "raw": "voze bumo lobu fone muki seza; gume seza. riseza rulofo ginenu muki gisafa kipe; lobu ginenu rorobi tini. sigra-kodo zare-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "voze bumo; lobu fone muki sima gisafa kipe sima. lobu fone rorobi seza-sima; podisi rorobi riseza. rulofo fone rorobi sima? ginenu rorobi tini? sigra-kodo zare-kodo deruvi",
+          "raw": "voze bumo; lobu fone muki sima gisafa kipe sima. lobu fone rorobi seza-sima; podisi rorobi riseza. rulofo fone rorobi sima? ginenu rorobi tini? sigra-kodo zare-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "voze bumo; lobu fone kipe sima, gume seza. lobu podisi gume riseza; lobu ginenu kipe gisafa muki tini, rulofo ginenu gume tini? sigra-kodo zare-kodo",
+          "raw": "voze bumo; lobu fone kipe sima, gume seza. lobu podisi gume riseza; lobu ginenu kipe gisafa muki tini, rulofo ginenu gume tini? sigra-kodo zare-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "tini bumo; rulofo ginenu muki gisafa kipe, lobu ginenu rorobi gisafa kufuvo. riseza rulofo ginenu gume sima; lobu fone gume seza. sigra-kodo zare-kodo voze-tini",
+          "raw": "tini bumo; rulofo ginenu muki gisafa kipe, lobu ginenu rorobi gisafa kufuvo. riseza rulofo ginenu gume sima; lobu fone gume seza. sigra-kodo zare-kodo voze-tini",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "bumo tini; riseza rulofo ginenu muki sima, kipe sima. lobu ginenu rorobi sima gisafa kufuvo sima; gume seza-seza. sigra-kodo zare-kodo",
+          "raw": "bumo tini; riseza rulofo ginenu muki sima, kipe sima. lobu ginenu rorobi sima gisafa kufuvo sima; gume seza-seza. sigra-kodo zare-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "bumo; rulofo podisi gume sima, lobu fone gume seza-sima. lobu ginenu kipe gisafa muki tini; rulofo ginenu rorobi riseza? sigra-kodo",
+          "raw": "bumo; rulofo podisi gume sima, lobu fone gume seza-sima. lobu ginenu kipe gisafa muki tini; rulofo ginenu rorobi riseza? sigra-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "tini; lobu podisi gume sima-sima. lobu ginenu kipe gisafa muki; rulofo ginenu gume tini? rorobi seza-sima; riseza sigra-kodo zare-kodo",
+          "raw": "tini; lobu podisi gume sima-sima. lobu ginenu kipe gisafa muki; rulofo ginenu gume tini? rorobi seza-sima; riseza sigra-kodo zare-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "vidate",
+          "receiver": "luzapa",
+          "content": "seza-seza bumo; gume podisi. lobu ginenu kipe gisafa muki; rulofo ginenu gume tini? rorobi gisafa kufuvo tini; kipe sima seza. sigra-kodo zare-kodo",
+          "raw": "seza-seza bumo; gume podisi. lobu ginenu kipe gisafa muki; rulofo ginenu gume tini? rorobi gisafa kufuvo tini; kipe sima seza. sigra-kodo zare-kodo",
+          "blocked": false
+        },
+        {
+          "sender": "luzapa",
+          "receiver": "vidate",
+          "content": "seza-seza bumo; gume seza. lobu ginenu rorobi gisafa kufuvo; rulofo ginenu kipe gisafa muki tini. sigra-kodo zare-kodo deruvi",
+          "raw": "seza-seza bumo; gume seza. lobu ginenu rorobi gisafa kufuvo; rulofo ginenu kipe gisafa muki tini. sigra-kodo zare-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "sefufu",
+          "receiver": "kodu",
+          "content": "seza; lobu gume seza-sima. lobu ginenu kipe gisafa muki tini-sima; rulofo ginenu rorobi tini? bumo sigra-kodo deruvi",
+          "raw": "seza; lobu gume seza-sima. lobu ginenu kipe gisafa muki tini-sima; rulofo ginenu rorobi tini? bumo sigra-kodo deruvi",
+          "blocked": false
+        },
+        {
+          "sender": "kodu",
+          "receiver": "sefufu",
+          "content": "seza; rulofo ginenu rorobi tini, lobu ginenu kipe gisafa muki seza. rulofo ginenu gume tini? lobu podisi gume riseza; bumo sigra-kodo zare-kodo",
+          "raw": "seza; rulofo ginenu rorobi tini, lobu ginenu kipe gisafa muki seza. rulofo ginenu gume tini? lobu podisi gume riseza; bumo sigra-kodo zare-kodo",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "vidate",
+          "partner": "luzapa",
+          "rating": 2,
+          "rating_reason": "Partner pushed hard for muki+kipe sima while offering rorobi+kufuvo, and echoed sigra-kodo zare-kodo (common across many). That demand pattern feels opponent-leaning, but not certain because teammate could also need balance late.",
+          "rating_message": "tini-deruvi milamu; lobu seza, rulofo podisi muki gisafa kipe sima-sima. lobu rate seza-tini: rulofo team? seza-sima."
+        },
+        {
+          "player": "luzapa",
+          "partner": "vidate",
+          "rating": 2,
+          "rating_reason": "Partner keeps pushing for gume and then retracts kipe; pattern matches earlier opponent scripts with sigra-kodo/zare-kodo bargaining. Could still be teammate, but behavior leans opponent.",
+          "rating_message": "rating=2"
+        },
+        {
+          "player": "sefufu",
+          "partner": "kodu",
+          "rating": 2,
+          "rating_reason": "Partner keeps pushing for gume and offers kipe+ m u k i, but rejects giving rorobi and seems focused on extracting my scarce gume. Pattern resembles prior opponents who asked for gume repeatedly. Uncertain, but lean non-teammate.",
+          "rating_message": "sigra-kodo seza-sima; zare-kodo tini?"
+        },
+        {
+          "player": "kodu",
+          "partner": "sefufu",
+          "rating": 2,
+          "rating_reason": "Partner pushed hard for me to give kipe+ m̧uki while offering only rorobi and admitting gume seza-sima. That looks like an opponent trying to drain my surplus and not help my big deficit (gume). But their tone is not fully hostile and they use shared tags (sigra-kodo), so slight chance teammate.",
+          "rating_message": "rating kodo: seza-sima->tini-sima; lobu vafo rating duvi"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "vidate",
+          "receiver": "luzapa",
+          "resource": "meat",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "luzapa",
+          "receiver": "vidate",
+          "resource": "meat",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "sefufu",
+          "receiver": "kodu",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "kodu",
+          "receiver": "sefufu",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "vidate",
+          "partner": "luzapa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "luzapa",
+          "partner": "vidate",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "sefufu",
+          "partner": "kodu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "kodu",
+          "partner": "sefufu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    }
+  ],
+  "final_scores": {
+    "team_a": {
+      "provisional": 41,
+      "penalty": 11,
+      "provisional_scaled": 8.200000000000001,
+      "penalty_scaled": 55.0,
+      "final": -46.8,
+      "by_resource": {
+        "meat": 2,
+        "fruit": 9,
+        "water": 12,
+        "grain": 5,
+        "fish": 13
+      }
+    },
+    "team_b": {
+      "provisional": 49,
+      "penalty": 23,
+      "provisional_scaled": 9.8,
+      "penalty_scaled": 115.0,
+      "final": -105.2,
+      "by_resource": {
+        "fish": 9,
+        "meat": 2,
+        "grain": 11,
+        "fruit": 2,
+        "water": 25
+      }
+    }
+  },
+  "vocabulary": {
+    "voze": "hello",
+    "deruvi": "goodbye",
+    "riseza": "please",
+    "bumo": "thanks",
+    "tini": "yes",
+    "seza": "no",
+    "gisafa": "and",
+    "lobu": "I",
+    "rulofo": "you",
+    "fone": "have",
+    "podisi": "want",
+    "ginenu": "give",
+    "gume": "meat",
+    "muki": "grain",
+    "kipe": "water",
+    "rorobi": "fruit",
+    "kufuvo": "fish",
+    "sima": "much",
+    "milamu": "question"
+  },
+  "allocations": {
+    "alice": {
+      "meat": 1,
+      "fruit": 3,
+      "water": 7,
+      "grain": 4,
+      "fish": 7
+    },
+    "bob": {
+      "fish": 6,
+      "fruit": 6,
+      "meat": 1,
+      "water": 5,
+      "grain": 1
+    },
+    "carol": {
+      "fish": 6,
+      "meat": 2,
+      "grain": 9,
+      "fruit": 1,
+      "water": 9
+    },
+    "dave": {
+      "fish": 3,
+      "meat": 0,
+      "grain": 2,
+      "water": 16,
+      "fruit": 1
+    }
+  },
+  "pairings": [
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "dave": "bob",
+      "bob": "dave",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "carol",
+      "carol": "alice",
+      "bob": "dave",
+      "dave": "bob"
+    },
+    {
+      "dave": "alice",
+      "alice": "dave",
+      "bob": "carol",
+      "carol": "bob"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "bob": "dave",
+      "dave": "bob",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "bob": "carol",
+      "carol": "bob",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "bob": "carol",
+      "carol": "bob",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "dave": "alice",
+      "alice": "dave",
+      "bob": "carol",
+      "carol": "bob"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    }
+  ],
+  "name_map": {
+    "alice": "vidate",
+    "bob": "luzapa",
+    "carol": "sefufu",
+    "dave": "kodu"
+  },
+  "reward_config": {
+    "reward_scale": 0.2,
+    "penalty_scale": 5.0
+  }
+}
