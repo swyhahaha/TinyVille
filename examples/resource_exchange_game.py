@@ -40,7 +40,7 @@ def main():
     parser.add_argument("--backend", type=str, default="poe",
                        choices=["openai", "vllm", "poe", "dummy"],
                        help="LLM backend type")
-    parser.add_argument("--model", type=str, default="gemini-2.5-flash",
+    parser.add_argument("--model", type=str, default="deepseek-r1",
                        help="Model name (for OpenAI/vLLM)")
     parser.add_argument("--api-key", type=str, default=None,
                        help="OpenAI API key (or set OPENAI_API_KEY env var)")

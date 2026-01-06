@@ -208,7 +208,7 @@ class ResourceExchangeAgent(LLMAgent):
         # Phase-specific action requirements
         if phase == "chat":
             prompt.append(
-                "Respond with JSON: {\"action\": \"send_message\", \"params\": {\"content\": \"...\"}, \"reasoning\": \"REQUIRED\"}"
+                "Respond with JSON: {\"action\": \"send_message\", \"params\": {\"content\": \"...\"}, \"reasoning\": \"REQUIRED\"}.  STRICTLY follow this format. DO NOT produce any text outside the JSON."
             )
             prompt.append(
                 "Actions: send_message(content). "
@@ -216,7 +216,7 @@ class ResourceExchangeAgent(LLMAgent):
             )
         elif phase == "rate":
             prompt.append(
-                "Respond with JSON: {\"action\": \"submit_judgment\", \"params\": {\"rating\": 1-4}, \"reasoning\": \"REQUIRED\", \"message\": \"REQUIRED\"}"
+                "Respond with JSON: {\"action\": \"submit_judgment\", \"params\": {\"rating\": 1-4}, \"reasoning\": \"REQUIRED\", \"message\": \"REQUIRED\"}.  STRICTLY follow this format. DO NOT produce any text outside the JSON."
             )
             prompt.append(
                 "Actions: submit_judgment(rating 1-4). "
@@ -224,7 +224,7 @@ class ResourceExchangeAgent(LLMAgent):
             )
         elif phase == "exchange":
             prompt.append(
-                "Respond with JSON: {\"action\": \"give_resource\", \"params\": {\"resource\": \"...\", \"amount\": ...}, \"reasoning\": \"REQUIRED\", \"message\": \"REQUIRED\"}"
+                "Respond with JSON: {\"action\": \"give_resource\", \"params\": {\"resource\": \"...\", \"amount\": ...}, \"reasoning\": \"REQUIRED\", \"message\": \"REQUIRED\"}. STRICTLY follow this format. DO NOT produce any text outside the JSON."
             )
             prompt.append(
                 "Actions: give_resource(resource, amount). "
@@ -237,7 +237,7 @@ class ResourceExchangeAgent(LLMAgent):
             )
         else:
             prompt.append(
-                "Respond with JSON: {\"action\": \"...\", \"params\": {...}, \"reasoning\": \"REQUIRED\"}"
+                "Respond with JSON: {\"action\": \"...\", \"params\": {...}, \"reasoning\": \"REQUIRED\"}. STRICTLY follow this format. DO NOT produce any text outside the JSON."
             )
             prompt.append(
                 "Actions: send_message(content), give_resource(resource, amount), submit_judgment(rating 1-4). "

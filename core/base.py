@@ -15,11 +15,11 @@ from dataclasses import dataclass, field
 from typing import Any, Dict, List, Optional, Tuple, Callable, Set
 import random
 import json
+import logging
 from datetime import datetime
 
 from .protocol import Message, Observation, Action
-
-
+from .action_space import ActionParser
 # =============================================================================
 # Game Configuration
 # =============================================================================
@@ -590,7 +590,6 @@ class LLMAgent(BaseAgent):
         # Build prompts
         system_prompt = self._build_system_prompt(env_state)
         user_prompt = self._build_user_prompt(messages, env_state)
-        
         # Call LLM
         chat_messages = [
             {"role": "system", "content": system_prompt},
@@ -606,7 +605,8 @@ class LLMAgent(BaseAgent):
         # Update conversation history
         self.conversation_history.append({"role": "user", "content": user_prompt})
         self.conversation_history.append({"role": "assistant", "content": response})
-        
+
+        print(f"[DEBUG] LLM response: {response}")
         # Parse response and create action/message
         return self._parse_response(response)
     
@@ -620,8 +620,87 @@ class LLMAgent(BaseAgent):
         """Build the user prompt for LLM."""
         pass
     
-    @abstractmethod
     def _parse_response(self, response: str) -> Tuple[Optional[Action], Optional[Message]]:
-        """Parse LLM response into action and message."""
-        pass
+        """
+        Parse LLM response into (Action, Message).
+
+        The LLM is expected to output a JSON object with fields:
+        - action: str
+        - params: dict (optional)
+        - reasoning: str (optional, ignored by executor)
+        
+        Or other formats supported by ActionParser (ACTION: format, function-like format).
+        """
+        if response is None:
+            logging.error("LLM returned None response")
+            return None, None
+
+        action_name = None
+        params: Dict[str, Any] = {}
+        msg_content: Optional[str] = None
+
+        # ---------- 1. 如果 backend 已经返回 dict ----------
+        if isinstance(response, dict):
+            action_name = response.get("action")
+            params = response.get("params", {}) or {}
+            msg_content = response.get("message")
+
+        # ---------- 2. 如果是字符串，先尝试解析 JSON ----------
+        elif isinstance(response, str):
+            try:
+                data = json.loads(response)
+                action_name = data.get("action")
+                params = data.get("params", {}) or {}
+                msg_content = data.get("message")
+            except json.JSONDecodeError:
+                # JSON 解析失败，使用 ActionParser 尝试其他格式
+                func_call = ActionParser.parse(response, self.action_space)
+                if func_call:
+                    action_name = func_call.name
+                    params = func_call.arguments
+                else:
+                    logging.error("Failed to parse LLM response as JSON or ActionParser format")
+                    logging.error(response)
+                    return None, None
+        else:
+            logging.error(f"Unexpected response type: {type(response)}")
+            return None, None
+
+        if not action_name:
+            return None, None
+
+        # 验证 action 是否在 action_space 中
+        action_name = action_name.strip()
+        if self.action_space and action_name not in self.action_space.list_actions():
+            logging.warning(f"Action '{action_name}' not in action space")
+            return None, None
+
+        # 创建 Action 对象
+        target = params.get("target", None)
+        action = Action(
+            agent_id=self.agent_id,
+            action_type=action_name,
+            target=target,
+            params=params
+        )
+
+        # 如果是 send_message 动作，创建 Message 对象
+        message: Optional[Message] = None
+        if action_name == "send_message":
+            content = params.get("content", "")
+            if isinstance(content, list):
+                content = " ".join(str(x) for x in content)
+            else:
+                content = str(content).strip()
+            
+            if content:
+                message = Message(
+                    sender=self.agent_id,
+                    receivers=[target] if target else [],
+                    content=content,
+                    raw_content=msg_content if msg_content else content,
+                    channel="chat",
+                )
+
+        return action, message
 

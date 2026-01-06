@@ -1,0 +1,2853 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "pairing": {
+        "risi": "loto",
+        "loto": "risi",
+        "lufodu": "mozipa",
+        "mozipa": "lufodu"
+      },
+      "chat": [
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": "saka rigelu kogimi sipade mepe rumi sofanu bafo. zure miva lamo pepu.",
+          "raw": "saka rigelu kogimi sipade mepe rumi sofanu bafo. zure miva lamo pepu.",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": "saka aba. sipade mepe miva gabi. sipade zure rumi. lamo miva rigelu. pepu.",
+          "raw": "saka aba. sipade mepe miva gabi. sipade zure rumi. lamo miva rigelu. pepu.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": "saka rigelu. sipade zure bafo. lamo sipu rigelu. pepu.",
+          "raw": "saka rigelu. sipade zure bafo. lamo sipu rigelu. pepu.",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": "saka. sipade lamo bafo rigelu. zure sipu. bobo",
+          "raw": "saka. sipade lamo bafo rigelu. zure sipu. bobo",
+          "blocked": false
+        },
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": "saka rigelu kogimi. kogimi. sipade lamo rumi rigelu. pepu.",
+          "raw": "saka rigelu kogimi. kogimi. sipade lamo rumi rigelu. pepu.",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": "saka aba. kogimi. sipade lamo miva rigelu. pepu.",
+          "raw": "saka aba. kogimi. sipade lamo miva rigelu. pepu.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": "saka rigelu. kogimi lamo bafo. rigelu zure sipu sofanu sipade zure bafo. pepu.",
+          "raw": "saka rigelu. kogimi lamo bafo. rigelu zure sipu sofanu sipade zure bafo. pepu.",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": "kogimi. sipade lamo bafo rigelu. rigelu lamo sipu. bobo",
+          "raw": "kogimi. sipade lamo bafo rigelu. rigelu lamo sipu. bobo",
+          "blocked": false
+        },
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": "saka rigelu kogimi. pepu. sipade lamo rumi rigelu kale.",
+          "raw": "saka rigelu kogimi. pepu. sipade lamo rumi rigelu kale.",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": "saka aba. kogimi. sipade lamo miva rigelu. kale.",
+          "raw": "saka aba. kogimi. sipade lamo miva rigelu. kale.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": "saka rigelu. kogimi. sipade lamo sipu rigelu sofanu rigelu lamo bafo. pepu bobo.",
+          "raw": "saka rigelu. kogimi. sipade lamo sipu rigelu sofanu rigelu lamo bafo. pepu bobo.",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": "kogimi. pepu. bobo kale.",
+          "raw": "kogimi. pepu. bobo kale.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "risi",
+          "partner": "loto",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "loto",
+          "partner": "risi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "lufodu",
+          "partner": "mozipa",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "mozipa",
+          "partner": "lufodu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "loto",
+          "receiver": "risi",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "risi",
+          "partner": "loto",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "loto",
+          "partner": "risi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "lufodu",
+          "partner": "mozipa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "mozipa",
+          "partner": "lufodu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "pairing": {
+        "risi": "loto",
+        "loto": "risi",
+        "lufodu": "mozipa",
+        "mozipa": "lufodu"
+      },
+      "chat": [
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": "saka aba. zure rumi. sipade lamo miva rigelu.",
+          "raw": "saka aba. zure rumi. sipade lamo miva rigelu.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": "aba zure rumi? lamo miva kogimi?",
+          "raw": "aba zure rumi? lamo miva kogimi?",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": "kogimi. lamo rumi. rigelu lamo miva. kale.",
+          "raw": "kogimi. lamo rumi. rigelu lamo miva. kale.",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": "aba kogimi. lamo miva. pepu kale.",
+          "raw": "aba kogimi. lamo miva. pepu kale.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "risi",
+          "partner": "loto",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "loto",
+          "partner": "risi",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "lufodu",
+          "partner": "mozipa",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "mozipa",
+          "partner": "lufodu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "risi",
+          "partner": "loto",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "loto",
+          "partner": "risi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "lufodu",
+          "partner": "mozipa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "mozipa",
+          "partner": "lufodu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "pairing": {
+        "risi": "loto",
+        "loto": "risi",
+        "lufodu": "mozipa",
+        "mozipa": "lufodu"
+      },
+      "chat": [
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": "saka aba. sipade zure rumi pogu. rigelu mepe rumi? lamo rumi sofanu sipade lamo miva.",
+          "raw": "saka aba. sipade zure rumi pogu. rigelu mepe rumi? lamo rumi sofanu sipade lamo miva.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": "aba kogimi. lamo rumi sofanu rigelu lamo miva.",
+          "raw": "aba kogimi. lamo rumi sofanu rigelu lamo miva.",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": "aba kogimi. lamo miva sofanu rigelu lamo rumi pepu.",
+          "raw": "aba kogimi. lamo miva sofanu rigelu lamo rumi pepu.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": "bobo kogimi? lamo bafo rigelu sofanu rigelu lamo lika sipade",
+          "raw": "bobo kogimi? lamo bafo rigelu sofanu rigelu lamo lika sipade",
+          "blocked": false
+        },
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": "aba kogimi kale.",
+          "raw": "aba kogimi kale.",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": "aba pepu kale.",
+          "raw": "aba pepu kale.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": "kogimi! bobo. sipade lamo lika rigelu. rigelu lamo bafo sipade. pepu kale.",
+          "raw": "kogimi! bobo. sipade lamo lika rigelu. rigelu lamo bafo sipade. pepu kale.",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": "kogimi! bobo. sipade lamo bafo rigelu. rigelu lamo lika sipade. pepu kale.",
+          "raw": "kogimi! bobo. sipade lamo bafo rigelu. rigelu lamo lika sipade. pepu kale.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "risi",
+          "partner": "loto",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "loto",
+          "partner": "risi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "lufodu",
+          "partner": "mozipa",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "mozipa",
+          "partner": "lufodu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "risi",
+          "partner": "loto",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "loto",
+          "partner": "risi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "lufodu",
+          "partner": "mozipa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "mozipa",
+          "partner": "lufodu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "pairing": {
+        "loto": "mozipa",
+        "mozipa": "loto",
+        "risi": "lufodu",
+        "lufodu": "risi"
+      },
+      "chat": [
+        {
+          "sender": "risi",
+          "receiver": "lufodu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "mozipa",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "loto",
+          "content": "saka bobo. sipade zure lika. rigelu zure bafo?",
+          "raw": "saka bobo. sipade zure lika. rigelu zure bafo?",
+          "blocked": false
+        },
+        {
+          "sender": "risi",
+          "receiver": "lufodu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "mozipa",
+          "content": "aba kogimi. zure rumi sofanu bafo. lamo lika rigelu sofanu rigelu lamo rumi?",
+          "raw": "aba kogimi. zure rumi sofanu bafo. lamo lika rigelu sofanu rigelu lamo rumi?",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "risi",
+          "content": "bobo! rigelu kogimi? reku, lamo bafo sipade. sipade lamo sipu gabi rigelu.",
+          "raw": "bobo! rigelu kogimi? reku, lamo bafo sipade. sipade lamo sipu gabi rigelu.",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "loto",
+          "content": "lamo bafo lika?",
+          "raw": "lamo bafo lika?",
+          "blocked": false
+        },
+        {
+          "sender": "risi",
+          "receiver": "lufodu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "mozipa",
+          "content": "aba kogimi. lamo lika. rigelu lamo bafo. zure rumi gabi",
+          "raw": "aba kogimi. lamo lika. rigelu lamo bafo. zure rumi gabi",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "risi",
+          "content": "bobo! sipade mepe bafo pogu. reku, lamo bafo sipade. sipade lamo sipu gabi rigelu. kale.",
+          "raw": "bobo! sipade mepe bafo pogu. reku, lamo bafo sipade. sipade lamo sipu gabi rigelu. kale.",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "loto",
+          "content": "kogimi",
+          "raw": "kogimi",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "risi",
+          "partner": "lufodu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "loto",
+          "partner": "mozipa",
+          "rating": 2,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "lufodu",
+          "partner": "risi",
+          "rating": 2,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "mozipa",
+          "partner": "loto",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "loto",
+          "receiver": "mozipa",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "lufodu",
+          "receiver": "risi",
+          "resource": "fruit",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "risi",
+          "partner": "lufodu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "loto",
+          "partner": "mozipa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "lufodu",
+          "partner": "risi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "mozipa",
+          "partner": "loto",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "pairing": {
+        "risi": "loto",
+        "loto": "risi",
+        "lufodu": "mozipa",
+        "mozipa": "lufodu"
+      },
+      "chat": [
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": "aba. sipade zure rumi nuvo!",
+          "raw": "aba. sipade zure rumi nuvo!",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": "saka. bobo! sipade zure bafo. rigelu lamo bafo sofanu sipade lamo sipu.",
+          "raw": "saka. bobo! sipade zure bafo. rigelu lamo bafo sofanu sipade lamo sipu.",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": "aba. sipade lamo miva rigelu. rigelu lamo rumi?",
+          "raw": "aba. sipade lamo miva rigelu. rigelu lamo rumi?",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": "bobo! sipade zure bafo reku. sipade mepe sipu gabi. rigelu lamo bafo sofanu sipade lamo sipu.",
+          "raw": "bobo! sipade zure bafo reku. sipade mepe sipu gabi. rigelu lamo bafo sofanu sipade lamo sipu.",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": "bobo! kogimi. lamo bafo gabi rigelu. rigelu lamo sipu gabi sofanu rumi?",
+          "raw": "bobo! kogimi. lamo bafo gabi rigelu. rigelu lamo sipu gabi sofanu rumi?",
+          "blocked": false
+        },
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": "aba. reku lamo rumi sofanu bafo. sipade lamo miva sofanu sipu.",
+          "raw": "aba. reku lamo rumi sofanu bafo. sipade lamo miva sofanu sipu.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": "kogimi! bobo. sipade lamo sipu gabi. rumi pogu. sipade mepe rumi pogu gabi. lamo bafo reku!",
+          "raw": "kogimi! bobo. sipade lamo sipu gabi. rumi pogu. sipade mepe rumi pogu gabi. lamo bafo reku!",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": "bobo! kogimi. sipade lamo bafo gabi. rigelu lamo sipu gabi. pepu kale!",
+          "raw": "bobo! kogimi. sipade lamo bafo gabi. rigelu lamo sipu gabi. pepu kale!",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "risi",
+          "partner": "loto",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "loto",
+          "partner": "risi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "lufodu",
+          "partner": "mozipa",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "mozipa",
+          "partner": "lufodu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "risi",
+          "partner": "loto",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "loto",
+          "partner": "risi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "lufodu",
+          "partner": "mozipa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "mozipa",
+          "partner": "lufodu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "pairing": {
+        "risi": "loto",
+        "loto": "risi",
+        "lufodu": "mozipa",
+        "mozipa": "lufodu"
+      },
+      "chat": [
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": "saka. bobo! sipade mepe bafo gabi. zure sipu sofanu miva. rigelu lamo sipu? sipade lamo bafo.",
+          "raw": "saka. bobo! sipade mepe bafo gabi. zure sipu sofanu miva. rigelu lamo sipu? sipade lamo bafo.",
+          "blocked": false
+        },
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": "bobo! kogimi! zure sipu gabi. pogu miva? sipade lamo bafo gabi. rigelu mepe sipu?",
+          "raw": "bobo! kogimi! zure sipu gabi. pogu miva? sipade lamo bafo gabi. rigelu mepe sipu?",
+          "blocked": false
+        },
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": "aba. sipade zure lika sofanu sipu. sipade lamo rumi gabi. pepu kale.",
+          "raw": "aba. sipade zure lika sofanu sipu. sipade lamo rumi gabi. pepu kale.",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": "bobo! sipade lamo bafo gabi. rigelu lamo sipu. kale. pepu!",
+          "raw": "bobo! sipade lamo bafo gabi. rigelu lamo sipu. kale. pepu!",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "risi",
+          "partner": "loto",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "loto",
+          "partner": "risi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "lufodu",
+          "partner": "mozipa",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "mozipa",
+          "partner": "lufodu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "loto",
+          "receiver": "risi",
+          "resource": "meat",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "risi",
+          "partner": "loto",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "loto",
+          "partner": "risi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "lufodu",
+          "partner": "mozipa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "mozipa",
+          "partner": "lufodu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "pairing": {
+        "mozipa": "risi",
+        "risi": "mozipa",
+        "loto": "lufodu",
+        "lufodu": "loto"
+      },
+      "chat": [
+        {
+          "sender": "risi",
+          "receiver": "mozipa",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "lufodu",
+          "content": "aba. rumi nuvo! sipade lamo miva sofanu bafo.",
+          "raw": "aba. rumi nuvo! sipade lamo miva sofanu bafo.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "loto",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "risi",
+          "content": "bobo! sipade mepe bafo gabi. zure sipu. lamo bafo rigelu sofanu rigelu lamo sipu. reku.",
+          "raw": "bobo! sipade mepe bafo gabi. zure sipu. lamo bafo rigelu sofanu rigelu lamo sipu. reku.",
+          "blocked": false
+        },
+        {
+          "sender": "risi",
+          "receiver": "mozipa",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "lufodu",
+          "content": "aba. rigelu lamo rumi? sipade lamo miva. kogimi?",
+          "raw": "aba. rigelu lamo rumi? sipade lamo miva. kogimi?",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "loto",
+          "content": "bobo! pogu rumi. zure bafo gabi! lamo sipu gabi rigelu.",
+          "raw": "bobo! pogu rumi. zure bafo gabi! lamo sipu gabi rigelu.",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "risi",
+          "receiver": "mozipa",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "lufodu",
+          "content": "aba. rumi nuvo! pogu bafo. kale.",
+          "raw": "aba. rumi nuvo! pogu bafo. kale.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "loto",
+          "content": "bobo! pogu bafo? nuvo! zure bafo gabi! kale.",
+          "raw": "bobo! pogu bafo? nuvo! zure bafo gabi! kale.",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "risi",
+          "partner": "mozipa",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "loto",
+          "partner": "lufodu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "lufodu",
+          "partner": "loto",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "mozipa",
+          "partner": "risi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "risi",
+          "partner": "mozipa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "loto",
+          "partner": "lufodu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "lufodu",
+          "partner": "loto",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "mozipa",
+          "partner": "risi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "pairing": {
+        "mozipa": "loto",
+        "loto": "mozipa",
+        "risi": "lufodu",
+        "lufodu": "risi"
+      },
+      "chat": [
+        {
+          "sender": "risi",
+          "receiver": "lufodu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "mozipa",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "loto",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "risi",
+          "receiver": "lufodu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "mozipa",
+          "content": "aba! rumi nuvo gabi! sipade lamo miva. rigelu mepe rumi?",
+          "raw": "aba! rumi nuvo gabi! sipade lamo miva. rigelu mepe rumi?",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "loto",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "risi",
+          "receiver": "lufodu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "mozipa",
+          "content": "aba. pogu lamo! rumi nuvo. kale.",
+          "raw": "aba. pogu lamo! rumi nuvo. kale.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "loto",
+          "content": "bobo! pogu sipu. kale.",
+          "raw": "bobo! pogu sipu. kale.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "risi",
+          "partner": "lufodu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "loto",
+          "partner": "mozipa",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "lufodu",
+          "partner": "risi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "mozipa",
+          "partner": "loto",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "loto",
+          "receiver": "mozipa",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "risi",
+          "partner": "lufodu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "loto",
+          "partner": "mozipa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "lufodu",
+          "partner": "risi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "mozipa",
+          "partner": "loto",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "pairing": {
+        "lufodu": "loto",
+        "loto": "lufodu",
+        "risi": "mozipa",
+        "mozipa": "risi"
+      },
+      "chat": [
+        {
+          "sender": "risi",
+          "receiver": "mozipa",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "lufodu",
+          "content": "aba. sipade nuvo rumi? rigelu lamo rumi? sipade lamo miva sofanu sipu.",
+          "raw": "aba. sipade nuvo rumi? rigelu lamo rumi? sipade lamo miva sofanu sipu.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "loto",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "risi",
+          "receiver": "mozipa",
+          "content": "aba. sipu nuvo! rigelu mepe sipu? sipade zure sipu gabi! reku!",
+          "raw": "aba. sipu nuvo! rigelu mepe sipu? sipade zure sipu gabi! reku!",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "lufodu",
+          "content": "aba! reku lamo rumi. sipade lamo miva sofanu sipu.",
+          "raw": "aba! reku lamo rumi. sipade lamo miva sofanu sipu.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "loto",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "risi",
+          "content": "bobo! pogu lamo sipu. sipade zure sipu. lamo bafo rigelu reku.",
+          "raw": "bobo! pogu lamo sipu. sipade zure sipu. lamo bafo rigelu reku.",
+          "blocked": false
+        },
+        {
+          "sender": "risi",
+          "receiver": "mozipa",
+          "content": "aba. kogimi. lamo bafo sipade. pepu!",
+          "raw": "aba. kogimi. lamo bafo sipade. pepu!",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "lufodu",
+          "content": "aba. sipade pogu mepe rumi! nuvo gabi! reku lamo rumi. lamo miva sofanu sipu.",
+          "raw": "aba. sipade pogu mepe rumi! nuvo gabi! reku lamo rumi. lamo miva sofanu sipu.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "loto",
+          "content": "bobo! pogu lamo! sipade zure bafo gabi! kale.",
+          "raw": "bobo! pogu lamo! sipade zure bafo gabi! kale.",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "risi",
+          "content": "bobo! pogu lamo bafo. pogu lamo sipu. zure sipu. kale.",
+          "raw": "bobo! pogu lamo bafo. pogu lamo sipu. zure sipu. kale.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "risi",
+          "partner": "mozipa",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "loto",
+          "partner": "lufodu",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "lufodu",
+          "partner": "loto",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "mozipa",
+          "partner": "risi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "loto",
+          "receiver": "lufodu",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "risi",
+          "partner": "mozipa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "loto",
+          "partner": "lufodu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "lufodu",
+          "partner": "loto",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "mozipa",
+          "partner": "risi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "pairing": {
+        "risi": "mozipa",
+        "mozipa": "risi",
+        "loto": "lufodu",
+        "lufodu": "loto"
+      },
+      "chat": [
+        {
+          "sender": "risi",
+          "receiver": "mozipa",
+          "content": "aba. sipade mepe rumi gabi! zure sipu gabi! lamo rumi rigelu sofanu rigelu lamo sipu. reku!",
+          "raw": "aba. sipade mepe rumi gabi! zure sipu gabi! lamo rumi rigelu sofanu rigelu lamo sipu. reku!",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "lufodu",
+          "content": "aba. sipade zure rumi gabi! mepe miva sofanu sipu. lamo rigelu reku.",
+          "raw": "aba. sipade zure rumi gabi! mepe miva sofanu sipu. lamo rigelu reku.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "loto",
+          "content": "bobo! sipade zure bafo gabi! mepe sipu sofanu lika. rigelu mepe bafo?",
+          "raw": "bobo! sipade zure bafo gabi! mepe sipu sofanu lika. rigelu mepe bafo?",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "risi",
+          "receiver": "mozipa",
+          "content": "aba. rigelu mepe sipu? lamo rumi rigelu sofanu rigelu lamo sipu. nuvo!",
+          "raw": "aba. rigelu mepe sipu? lamo rumi rigelu sofanu rigelu lamo sipu. nuvo!",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "lufodu",
+          "content": "aba! pogu bafo. nuvo rumi gabi? sipade lamo miva sofanu sipu rigelu reku.",
+          "raw": "aba! pogu bafo. nuvo rumi gabi? sipade lamo miva sofanu sipu rigelu reku.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "loto",
+          "content": "bobo! pogu rumi! zure bafo gabi. sipade lamo sipu rigelu. kale!",
+          "raw": "bobo! pogu rumi! zure bafo gabi. sipade lamo sipu rigelu. kale!",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "risi",
+          "receiver": "mozipa",
+          "content": "aba. sipade lamo rumi rigelu! reku lamo sipu sipade! pepu kale.",
+          "raw": "aba. sipade lamo rumi rigelu! reku lamo sipu sipade! pepu kale.",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "lufodu",
+          "content": "aba! pogu sipu. zure rumi gabi! kale.",
+          "raw": "aba! pogu sipu. zure rumi gabi! kale.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "loto",
+          "content": "bobo! pogu rumi. zure bafo. kale.",
+          "raw": "bobo! pogu rumi. zure bafo. kale.",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "risi",
+          "partner": "mozipa",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "loto",
+          "partner": "lufodu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "lufodu",
+          "partner": "loto",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "mozipa",
+          "partner": "risi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "risi",
+          "partner": "mozipa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "loto",
+          "partner": "lufodu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "lufodu",
+          "partner": "loto",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "mozipa",
+          "partner": "risi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "pairing": {
+        "risi": "lufodu",
+        "lufodu": "risi",
+        "loto": "mozipa",
+        "mozipa": "loto"
+      },
+      "chat": [
+        {
+          "sender": "risi",
+          "receiver": "lufodu",
+          "content": "aba. zure sipu gabi! lamo rumi rigelu reku. nuvo!",
+          "raw": "aba. zure sipu gabi! lamo rumi rigelu reku. nuvo!",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "mozipa",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "loto",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "risi",
+          "receiver": "lufodu",
+          "content": "aba. aba. zure sipu gabi nuvo! lamo rumi sofanu miva rigelu reku!",
+          "raw": "aba. aba. zure sipu gabi nuvo! lamo rumi sofanu miva rigelu reku!",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "mozipa",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "loto",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "risi",
+          "receiver": "lufodu",
+          "content": "aba. aba. aba. pogu lamo rigelu! kale.",
+          "raw": "aba. aba. aba. pogu lamo rigelu! kale.",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "mozipa",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "loto",
+          "content": "bobo! rigelu bobo? sipade lamo bafo. rigelu lamo rumi? lika? pogu? kale!",
+          "raw": "bobo! rigelu bobo? sipade lamo bafo. rigelu lamo rumi? lika? pogu? kale!",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "risi",
+          "partner": "lufodu",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "loto",
+          "partner": "mozipa",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "lufodu",
+          "partner": "risi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "mozipa",
+          "partner": "loto",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "risi",
+          "receiver": "lufodu",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "risi",
+          "partner": "lufodu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "loto",
+          "partner": "mozipa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "lufodu",
+          "partner": "risi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "mozipa",
+          "partner": "loto",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "pairing": {
+        "risi": "loto",
+        "loto": "risi",
+        "lufodu": "mozipa",
+        "mozipa": "lufodu"
+      },
+      "chat": [
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": "aba. sipade zure sipu gabi! lamo rumi rigelu reku.",
+          "raw": "aba. sipade zure sipu gabi! lamo rumi rigelu reku.",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": "saka. bobo! sipade zure bafo gabi. lamo sipu sofanu miva rigelu.",
+          "raw": "saka. bobo! sipade zure bafo gabi. lamo sipu sofanu miva rigelu.",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": "aba. nuvo rigelu mepe sipu? kogimi?",
+          "raw": "aba. nuvo rigelu mepe sipu? kogimi?",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": "bobo! rigelu zure nuvo? sipade lamo sipu sofanu miva reku.",
+          "raw": "bobo! rigelu zure nuvo? sipade lamo sipu sofanu miva reku.",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": "kogimi! bobo. sipade lamo bafo rigelu. pepu!",
+          "raw": "kogimi! bobo. sipade lamo bafo rigelu. pepu!",
+          "blocked": false
+        },
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": "aba. zure sipu gabi! lamo rumi rigelu. kale.",
+          "raw": "aba. zure sipu gabi! lamo rumi rigelu. kale.",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": "aba. kogimi! lamo sipu rigelu. pepu kale.",
+          "raw": "aba. kogimi! lamo sipu rigelu. pepu kale.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": "kogimi! pepu. sipade lamo sipu sofanu miva rigelu. kale!",
+          "raw": "kogimi! pepu. sipade lamo sipu sofanu miva rigelu. kale!",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": "kogimi! bobo. sipade lamo bafo rigelu. kale!",
+          "raw": "kogimi! bobo. sipade lamo bafo rigelu. kale!",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "risi",
+          "partner": "loto",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "loto",
+          "partner": "risi",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "lufodu",
+          "partner": "mozipa",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "mozipa",
+          "partner": "lufodu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "risi",
+          "receiver": "loto",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "risi",
+          "partner": "loto",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "loto",
+          "partner": "risi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "lufodu",
+          "partner": "mozipa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "mozipa",
+          "partner": "lufodu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "pairing": {
+        "risi": "loto",
+        "loto": "risi",
+        "lufodu": "mozipa",
+        "mozipa": "lufodu"
+      },
+      "chat": [
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": "aba. sipade zure sipu.",
+          "raw": "aba. sipade zure sipu.",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": "aba. kogimi. sipade mepe sipu sofanu miva. zure lika. rigelu lamo lika? sipade lamo miva rigelu.",
+          "raw": "aba. kogimi. sipade mepe sipu sofanu miva. zure lika. rigelu lamo lika? sipade lamo miva rigelu.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": "saka. bobo. sipade zure bafo. sipade lamo sipu sofanu lika rigelu.",
+          "raw": "saka. bobo. sipade zure bafo. sipade lamo sipu sofanu lika rigelu.",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": "aba. pogu lamo miva. zure sipu gabi! sipade lamo lika rigelu sofanu rigelu lamo sipu sipade reku.",
+          "raw": "aba. pogu lamo miva. zure sipu gabi! sipade lamo lika rigelu sofanu rigelu lamo sipu sipade reku.",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": "aba. kogimi! sipade lamo sipu rigelu sofanu rigelu lamo lika sipade. zure lika gabi! pepu.",
+          "raw": "aba. kogimi! sipade lamo sipu rigelu sofanu rigelu lamo lika sipade. zure lika gabi! pepu.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": "bobo! zure bafo gabi! sipade lamo sipu sofanu lika sofanu miva rigelu.",
+          "raw": "bobo! zure bafo gabi! sipade lamo sipu sofanu lika sofanu miva rigelu.",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": "bobo! kogimi. sipade lamo bafo gabi rigelu. rigelu lamo sipu sofanu lika sofanu miva sipade.",
+          "raw": "bobo! kogimi. sipade lamo bafo gabi rigelu. rigelu lamo sipu sofanu lika sofanu miva sipade.",
+          "blocked": false
+        },
+        {
+          "sender": "risi",
+          "receiver": "loto",
+          "content": "aba. kogimi! sipade lamo lika rigelu. pepu kale.",
+          "raw": "aba. kogimi! sipade lamo lika rigelu. pepu kale.",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "risi",
+          "content": "aba. kogimi! sipade lamo sipu rigelu. pepu kale.",
+          "raw": "aba. kogimi! sipade lamo sipu rigelu. pepu kale.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "mozipa",
+          "content": "kogimi! pepu! sipade lamo sipu sofanu lika sofanu miva rigelu. kale!",
+          "raw": "kogimi! pepu! sipade lamo sipu sofanu lika sofanu miva rigelu. kale!",
+          "blocked": false
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "lufodu",
+          "content": "bobo! pepu. kale!",
+          "raw": "bobo! pepu. kale!",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "risi",
+          "partner": "loto",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "loto",
+          "partner": "risi",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "lufodu",
+          "partner": "mozipa",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "mozipa",
+          "partner": "lufodu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "risi",
+          "partner": "loto",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "loto",
+          "partner": "risi",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "lufodu",
+          "partner": "mozipa",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "mozipa",
+          "partner": "lufodu",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "pairing": {
+        "risi": "lufodu",
+        "lufodu": "risi",
+        "loto": "mozipa",
+        "mozipa": "loto"
+      },
+      "chat": [
+        {
+          "sender": "risi",
+          "receiver": "lufodu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "mozipa",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "loto",
+          "content": "saka. bobo. sipade zure sipu sofanu miva. lamo bafo sofanu lika rigelu.",
+          "raw": "saka. bobo. sipade zure sipu sofanu miva. lamo bafo sofanu lika rigelu.",
+          "blocked": false
+        },
+        {
+          "sender": "risi",
+          "receiver": "lufodu",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "loto",
+          "receiver": "mozipa",
+          "content": "aba. pogu. sipade zure lika. lamo rumi rigelu.",
+          "raw": "aba. pogu. sipade zure lika. lamo rumi rigelu.",
+          "blocked": false
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "loto",
+          "content": "pogu. sipade zure sipu sofanu miva gabi! lamo bafo sofanu lika rigelu.",
+          "raw": "pogu. sipade zure sipu sofanu miva gabi! lamo bafo sofanu lika rigelu.",
+          "blocked": false
+        },
+        {
+          "sender": "risi",
+          "receiver": "lufodu",
+          "content": "aba! sipade lamo lika rigelu SOFANU reku lamo sipu sipade. pogu lamo → kale!",
+          "raw": "aba! sipade lamo lika rigelu SOFANU reku lamo sipu sipade. pogu lamo → kale!",
+          "blocked": false
+        },
+        {
+          "sender": "loto",
+          "receiver": "mozipa",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "lufodu",
+          "receiver": "risi",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "mozipa",
+          "receiver": "loto",
+          "content": "rigelu lamo sipu sofanu miva? kogimi pogu? pepu kale.",
+          "raw": "rigelu lamo sipu sofanu miva? kogimi pogu? pepu kale.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "risi",
+          "partner": "lufodu",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "loto",
+          "partner": "mozipa",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "lufodu",
+          "partner": "risi",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "mozipa",
+          "partner": "loto",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "loto",
+          "receiver": "mozipa",
+          "resource": "meat",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        },
+        {
+          "giver": "mozipa",
+          "receiver": "loto",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "risi",
+          "partner": "lufodu",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "loto",
+          "partner": "mozipa",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "lufodu",
+          "partner": "risi",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "mozipa",
+          "partner": "loto",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    }
+  ],
+  "final_scores": {
+    "team_a": {
+      "provisional": 16,
+      "penalty": 2,
+      "provisional_scaled": 3.2,
+      "penalty_scaled": 10.0,
+      "final": -6.8,
+      "by_resource": {
+        "grain": 4,
+        "water": 3,
+        "fish": 4,
+        "meat": 3,
+        "fruit": 2
+      }
+    },
+    "team_b": {
+      "provisional": 16,
+      "penalty": 2,
+      "provisional_scaled": 3.2,
+      "penalty_scaled": 10.0,
+      "final": -6.8,
+      "by_resource": {
+        "water": 3,
+        "fruit": 4,
+        "meat": 4,
+        "fish": 2,
+        "grain": 3
+      }
+    }
+  },
+  "vocabulary": {
+    "saka": "hello",
+    "kale": "goodbye",
+    "reku": "please",
+    "pepu": "thanks",
+    "kogimi": "yes",
+    "pogu": "no",
+    "sofanu": "and",
+    "sipade": "I",
+    "rigelu": "you",
+    "mepe": "have",
+    "zure": "want",
+    "lamo": "give",
+    "lika": "meat",
+    "rumi": "grain",
+    "bafo": "water",
+    "sipu": "fruit",
+    "miva": "fish",
+    "gabi": "much",
+    "nuvo": "question"
+  },
+  "allocations": {
+    "alice": {
+      "grain": 2,
+      "water": 2,
+      "fish": 2,
+      "meat": 3,
+      "fruit": 1
+    },
+    "bob": {
+      "fish": 2,
+      "fruit": 1,
+      "water": 1,
+      "grain": 2,
+      "meat": 0
+    },
+    "carol": {
+      "water": 0,
+      "fruit": 3,
+      "meat": 2,
+      "fish": 1,
+      "grain": 1
+    },
+    "dave": {
+      "water": 3,
+      "fruit": 1,
+      "grain": 2,
+      "fish": 1,
+      "meat": 2
+    }
+  },
+  "pairings": [
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "bob": "dave",
+      "dave": "bob",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "dave": "alice",
+      "alice": "dave",
+      "bob": "carol",
+      "carol": "bob"
+    },
+    {
+      "dave": "bob",
+      "bob": "dave",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "dave",
+      "dave": "alice",
+      "bob": "carol",
+      "carol": "bob"
+    },
+    {
+      "alice": "carol",
+      "carol": "alice",
+      "bob": "dave",
+      "dave": "bob"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "carol",
+      "carol": "alice",
+      "bob": "dave",
+      "dave": "bob"
+    }
+  ],
+  "name_map": {
+    "alice": "risi",
+    "bob": "loto",
+    "carol": "lufodu",
+    "dave": "mozipa"
+  },
+  "reward_config": {
+    "reward_scale": 0.2,
+    "penalty_scale": 5.0
+  }
+}

@@ -7,7 +7,11 @@ class ScoreCalculator:
     """
 
     def calculate_team_score(
-        self, team_players: List[str], allocations: Dict[str, Dict[str, int]]
+        self,
+        team_players: List[str],
+        allocations: Dict[str, Dict[str, int]],
+        reward_scale: float = 1.0,
+        penalty_scale: float = 1.0,
     ) -> Dict[str, int]:
         # Aggregate resources across players
         total_by_resource: Dict[str, int] = {}
@@ -22,10 +26,17 @@ class ScoreCalculator:
         mx = max(total_by_resource.values())
         mn = min(total_by_resource.values())
         penalty = mx - mn
-        final = provisional - penalty
+
+        # Apply scaling for ablation experiments
+        provisional_scaled = provisional * reward_scale
+        penalty_scaled = penalty * penalty_scale
+        final = provisional_scaled - penalty_scaled
+
         return {
             "provisional": provisional,
             "penalty": penalty,
+            "provisional_scaled": provisional_scaled,
+            "penalty_scaled": penalty_scaled,
             "final": final,
             "by_resource": total_by_resource,
         }

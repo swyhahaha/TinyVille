@@ -9,8 +9,10 @@ Provides:
 
 import os
 import logging
+import time
 from typing import Any, Dict, List, Optional
-from abc import ABC, abstractmethod
+import  requests
+from requests.exceptions import RequestException
 
 from .llm import LLMBackend
 
@@ -18,13 +20,7 @@ from .llm import LLMBackend
 import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-try:
-    from utils.api import api, vllm_api, generate_hash_uid
-    API_AVAILABLE = True
-except ImportError:
-    API_AVAILABLE = False
-    logging.warning("utils.api not available, some backends may not work")
-
+from utils.api import api, vllm_api, generate_hash_uid
 
 class OpenAIBackend(LLMBackend):
     """
@@ -61,9 +57,6 @@ class OpenAIBackend(LLMBackend):
             use_cache: Whether to use caching
             **kwargs: Additional inference config (top_p, frequency_penalty, etc.)
         """
-        if not API_AVAILABLE:
-            raise ImportError("utils.api module required for OpenAIBackend")
-        
         # Ensure api_key has proper format
         if not api_key.startswith("Bearer "):
             api_key = f"Bearer {api_key}"
@@ -185,9 +178,6 @@ class VLLMBackend(LLMBackend):
             use_cache: Whether to use caching
             use_async: Whether to use async requests (faster)
         """
-        if not API_AVAILABLE:
-            raise ImportError("utils.api module required for VLLMBackend")
-        
         self.model = model
         self.api_base = api_base
         self.config = {
@@ -352,6 +342,88 @@ class DeepSeekBackend(LLMBackend):
     def get_stats(self) -> Dict[str, Any]:
         return {'call_count': self.call_count, 'total_tokens': self.total_tokens, 'model': self.model}
 
+
+# --- Poe backend (basic wrapper) ---
+class PoeBackend(LLMBackend):
+    """
+    Simple DeepSeek API backend. Uses HTTP POST to the configured `api_base`.
+
+    Expects an API key in `api_key` kwarg or environment variable `DEEPSEEK_API_KEY`.
+    """
+    def __init__(self,
+                 api_key: Optional[str] = None,
+                 model: str = "gpt-5.2",
+                 api_base: str = "https://api.poe.com/v1",
+                 temperature: float = 0.7,
+                 max_tokens: int = 1024,
+                 cache_dir: str = "./cache/poe",
+                 use_cache: bool = True,
+                 max_retries: int = 3,
+                 **kwargs):
+        if not api_key:
+            api_key = os.environ.get("POE_API_KEY")
+        if not api_key:
+            raise ImportError("POE_API_KEY environment variable or api_key arg required for PoeBackend")
+
+        self.api_key = api_key
+        self.model = model
+        self.api_base = api_base
+        self.config = {
+            'model': model,
+            'cache_dir': cache_dir,
+            'use_cache': use_cache,
+            'infer_cfgs': {
+                'temperature': temperature,
+                'max_tokens': max_tokens,
+                **kwargs
+            }
+        }
+        self.call_count = 0
+        self.total_tokens = 0
+        self.max_retries = max_retries
+
+    def generate(self, prompt: str, **kwargs) -> str:
+        messages = [{"role": "user", "content": prompt}]
+        return self.chat(messages, **kwargs)
+
+    def chat(self, messages: List[Dict[str, str]], **kwargs) -> str:
+        import requests
+        infer = self.config['infer_cfgs'].copy()
+        infer.update(kwargs)
+        payload = {
+            'model': self.model,
+            'messages': messages,
+            **infer
+        }
+        headers = {
+            'Authorization': f"Bearer {self.api_key}",  
+            'Content-Type': 'application/json'
+        }
+        url = f"{self.api_base}/chat/completions"
+        for attempt in range(self.max_retries):
+            try:
+                r = requests.post(url, json=payload, headers=headers, timeout=60)
+                r.raise_for_status()
+                data = r.json()
+                content = data.get('choices', [{}])[0].get('message', {}).get('content', '')
+                self.call_count += 1
+                print(f"Poe API call successful on attempt {attempt+1}")
+                return content if isinstance(content, str) else str(content)
+            except RequestException as e:
+                logging.warning(
+                    f"Poe connection error (attempt {attempt+1}/{self.max_retries}): {e}"
+                )
+                time.sleep(2 ** attempt)
+        print(f"Poe API request failed after {self.max_retries} attempts.")
+        return ""
+
+
+    def batch_chat(self, conversations: List[List[Dict[str, str]]], **kwargs) -> List[str]:
+        return [self.chat(conv, **kwargs) for conv in conversations]
+
+    def get_stats(self) -> Dict[str, Any]:
+        return {'call_count': self.call_count, 'total_tokens': self.total_tokens, 'model': self.model}
+
 class BatchLLMWrapper:
     """
     Wrapper that collects LLM calls and executes them in batches.
@@ -455,7 +527,9 @@ def create_llm_backend(backend_type: str, **kwargs) -> LLMBackend:
         return DummyLLM(**kwargs)
     elif backend_type == "deepseek":
         return DeepSeekBackend(**kwargs)
+    elif backend_type == "poe":
+        return PoeBackend(**kwargs)
     else:
         raise ValueError(f"Unknown backend type: {backend_type}. "
-                        f"Supported: openai, vllm, deepseek, dummy")
+                        f"Supported: openai, vllm, deepseek, poe, dummy")
 

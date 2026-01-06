@@ -144,10 +144,16 @@ class ResourceExchangeGame:
             self.run_round(r)
             print(f"[INFO] Finished round {r}/{self.config.total_rounds}")
 
-        # Compute final scores
+        # Compute final scores (apply reward/penalty scaling from config)
+        rp = getattr(self.config, 'reward_penalty', {"reward_scale": 1.0, "penalty_scale": 1.0})
         team_scores = {}
         for team, members in self.config.teams.items():
-            team_scores[team] = self.score_calculator.calculate_team_score(members, self.allocations)
+            team_scores[team] = self.score_calculator.calculate_team_score(
+                members,
+                self.allocations,
+                reward_scale=rp.get('reward_scale', 1.0),
+                penalty_scale=rp.get('penalty_scale', 1.0),
+            )
 
         summary = {
             "rounds": self.logs,
@@ -156,6 +162,7 @@ class ResourceExchangeGame:
             "allocations": self.allocations,
             "pairings": self.schedule,
             "name_map": self.name_map,
+            "reward_config": rp,
         }
         return summary
 
@@ -333,7 +340,9 @@ class ResourceExchangeGame:
         # Normalise round_number inside agent (LLMAgent increments).
         agent.round_number = env.get("round", 0) - 1
         observations = [Observation(pid, env, "environment")]
+        print(f"[DEBUG] Agent {pid} step with env: {env} and {len(messages)} messages")
         action, message = agent.act(observations, messages, env)
+        print(f"[DEBUG] Agent {pid} produced action: {action} and message: {message}")
         return action, message
 
     def _mask_messages(self, pid: str, messages: List[Message]) -> List[Message]:

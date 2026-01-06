@@ -1,0 +1,2938 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "pairing": {
+        "dubeka": "zimube",
+        "zimube": "dubeka",
+        "rase": "tepo",
+        "tepo": "rase"
+      },
+      "chat": [
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": "alapa sipupu. rugupi kulego vadi bemu. busere vesa. loro kulego vesa? zuvedi vesa loro, zuvedi vadi rugupi.",
+          "raw": "alapa sipupu. rugupi kulego vadi bemu. busere vesa. loro kulego vesa? zuvedi vesa loro, zuvedi vadi rugupi.",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": "sipupu bobo. rugupi kulego vesa bemu. busere vadi. zuvedi vesa loro, zuvedi vadi rugupi. bobo.",
+          "raw": "sipupu bobo. rugupi kulego vesa bemu. busere vadi. zuvedi vesa loro, zuvedi vadi rugupi. bobo.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": "sipupu. rugupi kulego gike bemu bemu. loro kulego vadi? zuvedi gike loro feseto vadi.",
+          "raw": "sipupu. rugupi kulego gike bemu bemu. loro kulego vadi? zuvedi gike loro feseto vadi.",
+          "blocked": false
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": "alapa savivo. lina zuvedi vadi loro. zuvedi vesa rugupi. tezale.",
+          "raw": "alapa savivo. lina zuvedi vadi loro. zuvedi vesa rugupi. tezale.",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": "bobo savivo. zuvedi vesa loro, zuvedi vadi rugupi. rugupi kulego mape fufute bemu. tezale bobo.",
+          "raw": "bobo savivo. zuvedi vesa loro, zuvedi vadi rugupi. rugupi kulego mape fufute bemu. tezale bobo.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": "sipupu bemu savivo rugupi kulego vadi. rugupi busere mape bemu. zuvedi vadi loro feseto mape?",
+          "raw": "sipupu bemu savivo rugupi kulego vadi. rugupi busere mape bemu. zuvedi vadi loro feseto mape?",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": "savivo. rugupi zuvedi mape loro bemu. loro zuvedi vadi rugupi bemu. tezale bemu bemu.",
+          "raw": "savivo. rugupi zuvedi mape loro bemu. loro zuvedi vadi rugupi bemu. tezale bemu bemu.",
+          "blocked": false
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": "alapa savivo. rugupi kulego mava bemu. loro busere mava? zuvedi mava loro. domo.",
+          "raw": "alapa savivo. rugupi kulego mava bemu. loro busere mava? zuvedi mava loro. domo.",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": "bobo savivo. zuvedi vesa loro feseto vadi rugupi. zuvedi mava loro. rugupi busere mape bemu. bobo domo.",
+          "raw": "bobo savivo. zuvedi vesa loro feseto vadi rugupi. zuvedi mava loro. rugupi busere mape bemu. bobo domo.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": "sipupu bemu savivo. zuvedi vadi loro. zuvedi mape rugupi. tezale domo.",
+          "raw": "sipupu bemu savivo. zuvedi vadi loro. zuvedi mape rugupi. tezale domo.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": "savivo bemu bemu. tezale domo.",
+          "raw": "savivo bemu bemu. tezale domo.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "dubeka",
+          "partner": "zimube",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "zimube",
+          "partner": "dubeka",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "rase",
+          "partner": "tepo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tepo",
+          "partner": "rase",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "dubeka",
+          "receiver": "zimube",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "tepo",
+          "receiver": "rase",
+          "resource": "mape",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "mape"
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "dubeka",
+          "partner": "zimube",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zimube",
+          "partner": "dubeka",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "rase",
+          "partner": "tepo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tepo",
+          "partner": "rase",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "pairing": {
+        "dubeka": "zimube",
+        "zimube": "dubeka",
+        "rase": "tepo",
+        "tepo": "rase"
+      },
+      "chat": [
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": "sipupu alapa nizi. rugupi busere vesa feseto mape bemu. zuvedi vadi loro. kasagi?",
+          "raw": "sipupu alapa nizi. rugupi busere vesa feseto mape bemu. zuvedi vadi loro. kasagi?",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": "bobo. savivo. zuvedi mape loro. loro zuvedi vadi rugupi.",
+          "raw": "bobo. savivo. zuvedi mape loro. loro zuvedi vadi rugupi.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": "sipupu feseto. rugupi kulego vesa bemu. rugupi busere mape bemu. zuvedi vesa loro feseto zuvedi mape rugupi. domo feseto.",
+          "raw": "sipupu feseto. rugupi kulego vesa bemu. rugupi busere mape bemu. zuvedi vesa loro feseto zuvedi mape rugupi. domo feseto.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": "alapa nizi savivo tezale. busere vesa bemu. zuvedi vadi loro feseto mava.",
+          "raw": "alapa nizi savivo tezale. busere vesa bemu. zuvedi vadi loro feseto mava.",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": "bobo. savivo. zuvedi vesa loro. loro zuvedi vadi feseto mava rugupi.",
+          "raw": "bobo. savivo. zuvedi vesa loro. loro zuvedi vadi feseto mava rugupi.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": "alapa nizi savivo. zuvedi vadi loro. busere mape bemu. zemupe?",
+          "raw": "alapa nizi savivo. zuvedi vadi loro. busere mape bemu. zemupe?",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": "bobo. savivo. zuvedi vesa feseto mape loro. loro zuvedi vadi feseto mava rugupi.",
+          "raw": "bobo. savivo. zuvedi vesa feseto mape loro. loro zuvedi vadi feseto mava rugupi.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": "feseto. mape zuvedi rugupi zemupe. vesa zuvedi loro feseto.",
+          "raw": "feseto. mape zuvedi rugupi zemupe. vesa zuvedi loro feseto.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "dubeka",
+          "partner": "zimube",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "zimube",
+          "partner": "dubeka",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "rase",
+          "partner": "tepo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tepo",
+          "partner": "rase",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "zimube",
+          "receiver": "dubeka",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "rase",
+          "receiver": "tepo",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "dubeka",
+          "partner": "zimube",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zimube",
+          "partner": "dubeka",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "rase",
+          "partner": "tepo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tepo",
+          "partner": "rase",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "pairing": {
+        "dubeka": "zimube",
+        "zimube": "dubeka",
+        "rase": "tepo",
+        "tepo": "rase"
+      },
+      "chat": [
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": "sipupu alapa toka. rugupi kulego vesa bemu feseto mape. busere vadi. loro kulego vadi? zuvedi vadi rugupi, zuvedi vesa loro. zemupe?",
+          "raw": "sipupu alapa toka. rugupi kulego vesa bemu feseto mape. busere vadi. loro kulego vadi? zuvedi vadi rugupi, zuvedi vesa loro. zemupe?",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": "feseto. rugupi busere mape. loro kulego mape? vesa zuvedi loro. feseto",
+          "raw": "feseto. rugupi busere mape. loro kulego mape? vesa zuvedi loro. feseto",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": "savivo. bobo. zuvedi vadi loro, zuvedi vesa rugupi. loro kulego vesa? kasagi. bobo.",
+          "raw": "savivo. bobo. zuvedi vadi loro, zuvedi vesa rugupi. loro kulego vesa? kasagi. bobo.",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": "alapa toka. savivo. zuvedi vesa loro. zuvedi vadi rugupi. tezale.",
+          "raw": "alapa toka. savivo. zuvedi vesa loro. zuvedi vadi rugupi. tezale.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": "feseto. mape busere! vesa feseto gike zuvedi loro. feseto",
+          "raw": "feseto. mape busere! vesa feseto gike zuvedi loro. feseto",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": "savivo bobo. zuvedi vadi loro. zuvedi vesa rugupi. tezale domo bobo.",
+          "raw": "savivo bobo. zuvedi vadi loro. zuvedi vesa rugupi. tezale domo bobo.",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": "alapa toka. savivo. vadi feseto vesa. tezale domo.",
+          "raw": "alapa toka. savivo. vadi feseto vesa. tezale domo.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": "feseto. mape busere bemu! zemupe. vesa feseto gike feseto mava zuvedi loro. savivo? feseto",
+          "raw": "feseto. mape busere bemu! zemupe. vesa feseto gike feseto mava zuvedi loro. savivo? feseto",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        }
+      ],
+      "rate": [
+        {
+          "player": "dubeka",
+          "partner": "zimube",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "zimube",
+          "partner": "dubeka",
+          "rating": 2,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "rase",
+          "partner": "tepo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tepo",
+          "partner": "rase",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "zimube",
+          "receiver": "dubeka",
+          "resource": "grain",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "rase",
+          "receiver": "tepo",
+          "resource": "grain",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "dubeka",
+          "partner": "zimube",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zimube",
+          "partner": "dubeka",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "rase",
+          "partner": "tepo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tepo",
+          "partner": "rase",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "pairing": {
+        "tepo": "dubeka",
+        "dubeka": "tepo",
+        "zimube": "rase",
+        "rase": "zimube"
+      },
+      "chat": [
+        {
+          "sender": "dubeka",
+          "receiver": "tepo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zimube",
+          "receiver": "rase",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "rase",
+          "receiver": "zimube",
+          "content": "feseto sipupu! rugupi mape busere bemu. zuvedi vesa loro feseto.",
+          "raw": "feseto sipupu! rugupi mape busere bemu. zuvedi vesa loro feseto.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "dubeka",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "tepo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zimube",
+          "receiver": "rase",
+          "content": "savivo. rugupi alapa toka. kulego mape. zuvedi mape loro, zuvedi vadi rugupi? kasagi.",
+          "raw": "savivo. rugupi alapa toka. kulego mape. zuvedi mape loro, zuvedi vadi rugupi? kasagi.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "zimube",
+          "content": "feseto savivo! zuvedi vadi loro feseto. mape busere bemu! loro zuvedi mape rugupi? kasagi. vesa feseto?",
+          "raw": "feseto savivo! zuvedi vadi loro feseto. mape busere bemu! loro zuvedi mape rugupi? kasagi. vesa feseto?",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "dubeka",
+          "content": "bemu bemu! zuvedi vadi loro. zuvedi mape feseto vesa loro!",
+          "raw": "bemu bemu! zuvedi vadi loro. zuvedi mape feseto vesa loro!",
+          "blocked": false
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "tepo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zimube",
+          "receiver": "rase",
+          "content": "savivo kasagi! rugupi alapa toka. zuvedi mape loro, zuvedi vadi rugupi. domo.",
+          "raw": "savivo kasagi! rugupi alapa toka. zuvedi mape loro, zuvedi vadi rugupi. domo.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "zimube",
+          "content": "feseto savivo bemu! zuvedi vadi loro. zuvedi mape rugupi. mape busere bemu! tezale feseto.",
+          "raw": "feseto savivo bemu! zuvedi vadi loro. zuvedi mape rugupi. mape busere bemu! tezale feseto.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "dubeka",
+          "content": "vadi zuvedi rugupi! mape feseto vesa zuvedi loro. bemu bemu! tezale domo.",
+          "raw": "vadi zuvedi rugupi! mape feseto vesa zuvedi loro. bemu bemu! tezale domo.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "dubeka",
+          "partner": "tepo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "zimube",
+          "partner": "rase",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "rase",
+          "partner": "zimube",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tepo",
+          "partner": "dubeka",
+          "rating": 2,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "rase",
+          "receiver": "zimube",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "dubeka",
+          "partner": "tepo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zimube",
+          "partner": "rase",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "rase",
+          "partner": "zimube",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tepo",
+          "partner": "dubeka",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "pairing": {
+        "zimube": "tepo",
+        "tepo": "zimube",
+        "dubeka": "rase",
+        "rase": "dubeka"
+      },
+      "chat": [
+        {
+          "sender": "dubeka",
+          "receiver": "rase",
+          "content": "sipupu bobo. rugupi kulego vadi bemu. busere gike. zuvedi vadi loro, zuvedi gike rugupi. zemupe.",
+          "raw": "sipupu bobo. rugupi kulego vadi bemu. busere gike. zuvedi vadi loro, zuvedi gike rugupi. zemupe.",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "tepo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "rase",
+          "receiver": "dubeka",
+          "content": "savivo. zuvedi gike loro. zuvedi vadi rugupi. rugupi busere mape bemu! zuvedi vesa loro. feseto.",
+          "raw": "savivo. zuvedi gike loro. zuvedi vadi rugupi. rugupi busere mape bemu! zuvedi vesa loro. feseto.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "zimube",
+          "content": "sipupu. rugupi kulego vadi fufute! busere vadi bemu bemu. zuvedi mape loro feseto zuvedi vesa loro.",
+          "raw": "sipupu. rugupi kulego vadi fufute! busere vadi bemu bemu. zuvedi mape loro feseto zuvedi vesa loro.",
+          "blocked": false
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "rase",
+          "content": "savivo bobo! zuvedi vadi loro. zuvedi gike feseto vesa rugupi. mape fufute! loro kulego mape? kasagi.",
+          "raw": "savivo bobo! zuvedi vadi loro. zuvedi gike feseto vesa rugupi. mape fufute! loro kulego mape? kasagi.",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "tepo",
+          "content": "alapa toka! busere mava bemu. vadi fufute kasagi? zuvedi vesa loro feseto zuvedi mava rugupi.",
+          "raw": "alapa toka! busere mava bemu. vadi fufute kasagi? zuvedi vesa loro feseto zuvedi mava rugupi.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "dubeka",
+          "content": "fufute! zuvedi gike loro. zuvedi vadi rugupi. vesa fufute! mape busere bemu. feseto.",
+          "raw": "fufute! zuvedi gike loro. zuvedi vadi rugupi. vesa fufute! mape busere bemu. feseto.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "zimube",
+          "content": "fufute zuvedi mava! busere vadi bemu bemu. zuvedi mape feseto vesa loro kasagi?",
+          "raw": "fufute zuvedi mava! busere vadi bemu bemu. zuvedi mape feseto vesa loro kasagi?",
+          "blocked": false
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "rase",
+          "content": "savivo. zuvedi vadi loro. zuvedi gike rugupi. mape fufute. domo.",
+          "raw": "savivo. zuvedi vadi loro. zuvedi gike rugupi. mape fufute. domo.",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "tepo",
+          "content": "alapa toka! fufute zuvedi vadi. mava busere bemu. domo.",
+          "raw": "alapa toka! fufute zuvedi vadi. mava busere bemu. domo.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "dubeka",
+          "content": "savivo. zuvedi gike loro. zuvedi vadi rugupi. feseto. domo.",
+          "raw": "savivo. zuvedi gike loro. zuvedi vadi rugupi. feseto. domo.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "zimube",
+          "content": "vadi bemu bemu fufute. domo.",
+          "raw": "vadi bemu bemu fufute. domo.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "dubeka",
+          "partner": "rase",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "zimube",
+          "partner": "tepo",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "rase",
+          "partner": "dubeka",
+          "rating": 2,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "tepo",
+          "partner": "zimube",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "dubeka",
+          "receiver": "rase",
+          "resource": "fish",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        },
+        {
+          "giver": "zimube",
+          "receiver": "tepo",
+          "resource": "fish",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "dubeka",
+          "partner": "rase",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zimube",
+          "partner": "tepo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "rase",
+          "partner": "dubeka",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tepo",
+          "partner": "zimube",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "pairing": {
+        "dubeka": "zimube",
+        "zimube": "dubeka",
+        "rase": "tepo",
+        "tepo": "rase"
+      },
+      "chat": [
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": "sipupu alapa toka! kulego vesa bemu feseto mape bemu. mava fufute. busere mava bemu. zuvedi vesa loro feseto zuvedi mava rugupi?",
+          "raw": "sipupu alapa toka! kulego vesa bemu feseto mape bemu. mava fufute. busere mava bemu. zuvedi vesa loro feseto zuvedi mava rugupi?",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": "sipupu. rugupi mape busere bemu! zuvedi vesa loro. feseto.",
+          "raw": "sipupu. rugupi mape busere bemu! zuvedi vesa loro. feseto.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": "kasagi: loro alapa? mava zuvedi rugupi zemupe! vesa zuvedi loro bemu.",
+          "raw": "kasagi: loro alapa? mava zuvedi rugupi zemupe! vesa zuvedi loro bemu.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": "mape busere bemu! zuvedi vesa loro bemu? zuvedi gike feseto vadi feseto. feseto.",
+          "raw": "mape busere bemu! zuvedi vesa loro bemu? zuvedi gike feseto vadi feseto. feseto.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": "vadi busere bemu bemu! mape fufute zuvedi loro. vadi zuvedi rugupi feseto mape zuvedi loro. vadi fufute, mape fufute.",
+          "raw": "vadi busere bemu bemu! mape fufute zuvedi loro. vadi zuvedi rugupi feseto mape zuvedi loro. vadi fufute, mape fufute.",
+          "blocked": false
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": "fufute mava zuvedi! loro fufute alapa. domo alapa toka.",
+          "raw": "fufute mava zuvedi! loro fufute alapa. domo alapa toka.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": "savivo! zuvedi vadi loro. zuvedi mape rugupi. feseto feseto feseto. domo.",
+          "raw": "savivo! zuvedi vadi loro. zuvedi mape rugupi. feseto feseto feseto. domo.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": "savivo! vadi zuvedi rugupi. mape zuvedi loro. feseto bemu bemu domo.",
+          "raw": "savivo! vadi zuvedi rugupi. mape zuvedi loro. feseto bemu bemu domo.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "dubeka",
+          "partner": "zimube",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "zimube",
+          "partner": "dubeka",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "rase",
+          "partner": "tepo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tepo",
+          "partner": "rase",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "dubeka",
+          "partner": "zimube",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zimube",
+          "partner": "dubeka",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "rase",
+          "partner": "tepo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tepo",
+          "partner": "rase",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "pairing": {
+        "dubeka": "zimube",
+        "zimube": "dubeka",
+        "rase": "tepo",
+        "tepo": "rase"
+      },
+      "chat": [
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": "bobo! busere gike bemu. zuvedi vesa loro. kasagi: loro alapa?",
+          "raw": "bobo! busere gike bemu. zuvedi vesa loro. kasagi: loro alapa?",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": "savivo alapa? fufute zuvedi! mava fufute. loro alapa savivo? kasagi: zuvedi mava loro feseto zuvedi vesa rugupi?",
+          "raw": "savivo alapa? fufute zuvedi! mava fufute. loro alapa savivo? kasagi: zuvedi mava loro feseto zuvedi vesa rugupi?",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": "fufute alapa! rugupi bobo. fufute mava zuvedi! busere gike bemu. zuvedi vesa loro feseto gike rugupi zemupe.",
+          "raw": "fufute alapa! rugupi bobo. fufute mava zuvedi! busere gike bemu. zuvedi vesa loro feseto gike rugupi zemupe.",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": "fufute zuvedi! alapa toka domo.",
+          "raw": "fufute zuvedi! alapa toka domo.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": "savivo vadi zuvedi rugupi? mape zuvedi loro bemu bemu! domo feseto feseto feseto.",
+          "raw": "savivo vadi zuvedi rugupi? mape zuvedi loro bemu bemu! domo feseto feseto feseto.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "dubeka",
+          "partner": "zimube",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "zimube",
+          "partner": "dubeka",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "rase",
+          "partner": "tepo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tepo",
+          "partner": "rase",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "dubeka",
+          "receiver": "zimube",
+          "resource": "gike",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "gike"
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "dubeka",
+          "partner": "zimube",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zimube",
+          "partner": "dubeka",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "rase",
+          "partner": "tepo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tepo",
+          "partner": "rase",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "pairing": {
+        "rase": "zimube",
+        "zimube": "rase",
+        "dubeka": "tepo",
+        "tepo": "dubeka"
+      },
+      "chat": [
+        {
+          "sender": "dubeka",
+          "receiver": "tepo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zimube",
+          "receiver": "rase",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "rase",
+          "receiver": "zimube",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tepo",
+          "receiver": "dubeka",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "tepo",
+          "content": "bobo! busere gike bemu! zuvedi vesa loro feseto gike rugupi. zemupe!",
+          "raw": "bobo! busere gike bemu! zuvedi vesa loro feseto gike rugupi. zemupe!",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "rase",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "rase",
+          "receiver": "zimube",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tepo",
+          "receiver": "dubeka",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "tepo",
+          "content": "bobo! zuvedi vesa loro feseto gike rugupi. savivo? domo.",
+          "raw": "bobo! zuvedi vesa loro feseto gike rugupi. savivo? domo.",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "rase",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "rase",
+          "receiver": "zimube",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tepo",
+          "receiver": "dubeka",
+          "content": "gike fufute zuvedi! vadi zuvedi loro? mape zuvedi rugupi. vadi busere bemu bemu! domo feseto feseto feseto.",
+          "raw": "gike fufute zuvedi! vadi zuvedi loro? mape zuvedi rugupi. vadi busere bemu bemu! domo feseto feseto feseto.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "dubeka",
+          "partner": "tepo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "zimube",
+          "partner": "rase",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "rase",
+          "partner": "zimube",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tepo",
+          "partner": "dubeka",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "dubeka",
+          "partner": "tepo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zimube",
+          "partner": "rase",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "rase",
+          "partner": "zimube",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tepo",
+          "partner": "dubeka",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "pairing": {
+        "zimube": "tepo",
+        "tepo": "zimube",
+        "dubeka": "rase",
+        "rase": "dubeka"
+      },
+      "chat": [
+        {
+          "sender": "dubeka",
+          "receiver": "rase",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zimube",
+          "receiver": "tepo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "rase",
+          "receiver": "dubeka",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tepo",
+          "receiver": "zimube",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "rase",
+          "content": "bobo! zuvedi vesa loro, zuvedi gike rugupi? savivo?",
+          "raw": "bobo! zuvedi vesa loro, zuvedi gike rugupi? savivo?",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "tepo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "rase",
+          "receiver": "dubeka",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tepo",
+          "receiver": "zimube",
+          "content": "kasagi. loro kulego vadi? vesa zuvedi loro feseto feseto feseto. vadi busere bemu bemu.",
+          "raw": "kasagi. loro kulego vadi? vesa zuvedi loro feseto feseto feseto. vadi busere bemu bemu.",
+          "blocked": false
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "rase",
+          "content": "bobo! busere gike bemu. zuvedi vesa loro, zuvedi gike rugupi. domo!",
+          "raw": "bobo! busere gike bemu. zuvedi vesa loro, zuvedi gike rugupi. domo!",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "tepo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "rase",
+          "receiver": "dubeka",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tepo",
+          "receiver": "zimube",
+          "content": "mape feseto vesa zuvedi loro. loro zuvedi vadi rugupi! vadi busere bemu bemu. domo feseto feseto feseto.",
+          "raw": "mape feseto vesa zuvedi loro. loro zuvedi vadi rugupi! vadi busere bemu bemu. domo feseto feseto feseto.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "dubeka",
+          "partner": "rase",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "zimube",
+          "partner": "tepo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "rase",
+          "partner": "dubeka",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "tepo",
+          "partner": "zimube",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "tepo",
+          "receiver": "zimube",
+          "resource": "water",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "dubeka",
+          "partner": "rase",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zimube",
+          "partner": "tepo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "rase",
+          "partner": "dubeka",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tepo",
+          "partner": "zimube",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "pairing": {
+        "dubeka": "zimube",
+        "zimube": "dubeka",
+        "rase": "tepo",
+        "tepo": "rase"
+      },
+      "chat": [
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": "sipupu bobo. rugupi kulego vesa mape mava vadi bemu. gike fufute bemu. busere gike. zuvedi vesa loro, zuvedi gike rugupi.",
+          "raw": "sipupu bobo. rugupi kulego vesa mape mava vadi bemu. gike fufute bemu. busere gike. zuvedi vesa loro, zuvedi gike rugupi.",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": "sipupu. feseto feseto feseto feseto feseto. rugupi busere mape bemu bemu! zuvedi vadi loro? zuvedi mape rugupi? tezale.",
+          "raw": "sipupu. feseto feseto feseto feseto feseto. rugupi busere mape bemu bemu! zuvedi vadi loro? zuvedi mape rugupi? tezale.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": "sipupu. feseto feseto feseto. vadi busere bemu bemu! zuvedi mape feseto zuvedi vesa feseto vadi loro? tezale.",
+          "raw": "sipupu. feseto feseto feseto. vadi busere bemu bemu! zuvedi mape feseto zuvedi vesa feseto vadi loro? tezale.",
+          "blocked": false
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": "bobo. zuvedi vesa loro, zuvedi gike rugupi. savivo? fufute?",
+          "raw": "bobo. zuvedi vesa loro, zuvedi gike rugupi. savivo? fufute?",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": "savivo! feseto feseto feseto feseto feseto. zuvedi mape loro zuvedi vadi rugupi. vesa fufute. tezale.",
+          "raw": "savivo! feseto feseto feseto feseto feseto. zuvedi mape loro zuvedi vadi rugupi. vesa fufute. tezale.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": "savivo! feseto feseto feseto. zuvedi mape loro feseto zuvedi vadi rugupi. tezale.",
+          "raw": "savivo! feseto feseto feseto. zuvedi mape loro feseto zuvedi vadi rugupi. tezale.",
+          "blocked": false
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": "bobo! zuvedi vesa loro, zuvedi gike rugupi. zemupe bemu!",
+          "raw": "bobo! zuvedi vesa loro, zuvedi gike rugupi. zemupe bemu!",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": "feseto feseto feseto feseto feseto! zuvedi mape loro zuvedi vadi rugupi. domo.",
+          "raw": "feseto feseto feseto feseto feseto! zuvedi mape loro zuvedi vadi rugupi. domo.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": "feseto feseto feseto. domo.",
+          "raw": "feseto feseto feseto. domo.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "dubeka",
+          "partner": "zimube",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "zimube",
+          "partner": "dubeka",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "rase",
+          "partner": "tepo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tepo",
+          "partner": "rase",
+          "rating": 2,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "dubeka",
+          "receiver": "zimube",
+          "resource": null,
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": null
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "zimube",
+          "receiver": "dubeka",
+          "resource": "gike",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "gike"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "rase",
+          "receiver": "tepo",
+          "resource": "vadi",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "vadi"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "tepo",
+          "receiver": "rase",
+          "resource": "mape",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "mape"
+          },
+          "error": "unknown_resource"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "dubeka",
+          "partner": "zimube",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zimube",
+          "partner": "dubeka",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "rase",
+          "partner": "tepo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tepo",
+          "partner": "rase",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "pairing": {
+        "rase": "dubeka",
+        "dubeka": "rase",
+        "zimube": "tepo",
+        "tepo": "zimube"
+      },
+      "chat": [
+        {
+          "sender": "dubeka",
+          "receiver": "rase",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zimube",
+          "receiver": "tepo",
+          "content": "alapa sipupu. rugupi kulego mava fufute bemu. zuvedi vesa loro, zuvedi mava rugupi. kasagi?",
+          "raw": "alapa sipupu. rugupi kulego mava fufute bemu. zuvedi vesa loro, zuvedi mava rugupi. kasagi?",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "dubeka",
+          "content": "sipupu. feseto feseto feseto feseto feseto. rugupi kulego mape fufute. busere mape bemu. zuvedi vesa loro.",
+          "raw": "sipupu. feseto feseto feseto feseto feseto. rugupi kulego mape fufute. busere mape bemu. zuvedi vesa loro.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "zimube",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "rase",
+          "content": "bobo! fufute zuvedi vesa loro. zuvedi gike rugupi zemupe?",
+          "raw": "bobo! fufute zuvedi vesa loro. zuvedi gike rugupi zemupe?",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "tepo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "rase",
+          "receiver": "dubeka",
+          "content": "feseto feseto feseto feseto feseto. fufute zuvedi gike. busere mape bemu. zuvedi vadi loro mape kasagi?",
+          "raw": "feseto feseto feseto feseto feseto. fufute zuvedi gike. busere mape bemu. zuvedi vadi loro mape kasagi?",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "zimube",
+          "content": "feseto feseto feseto. rugupi busere vadi bemu bemu bemu! zuvedi vesi loro zuvedi mape loro zuvedi vadi rugupi. savivo?",
+          "raw": "feseto feseto feseto. rugupi busere vadi bemu bemu bemu! zuvedi vesi loro zuvedi mape loro zuvedi vadi rugupi. savivo?",
+          "blocked": false
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "rase",
+          "content": "fufute vadi! fufute mape! domo bobo.",
+          "raw": "fufute vadi! fufute mape! domo bobo.",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "tepo",
+          "content": "fufute! mava busere!",
+          "raw": "fufute! mava busere!",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "dubeka",
+          "content": "feseto feseto feseto feseto feseto. fufute! domo.",
+          "raw": "feseto feseto feseto feseto feseto. fufute! domo.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "zimube",
+          "content": "feseto feseto feseto. savivo zuvedi vesi loro zuvedi mava rugupi. domo?",
+          "raw": "feseto feseto feseto. savivo zuvedi vesi loro zuvedi mava rugupi. domo?",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "dubeka",
+          "partner": "rase",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "zimube",
+          "partner": "tepo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "rase",
+          "partner": "dubeka",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "tepo",
+          "partner": "zimube",
+          "rating": 2,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "dubeka",
+          "partner": "rase",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zimube",
+          "partner": "tepo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "rase",
+          "partner": "dubeka",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tepo",
+          "partner": "zimube",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "pairing": {
+        "dubeka": "zimube",
+        "zimube": "dubeka",
+        "rase": "tepo",
+        "tepo": "rase"
+      },
+      "chat": [
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": "sipupu bobo. rugupi busere gike bemu. zuvedi vesa loro?",
+          "raw": "sipupu bobo. rugupi busere gike bemu. zuvedi vesa loro?",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": "savivo bobo. rugupi busere mava. zuvedi gike loro, zuvedi mava rugupi.",
+          "raw": "savivo bobo. rugupi busere mava. zuvedi gike loro, zuvedi mava rugupi.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": "feseto feseto feseto feseto feseto. rugupi mape fufute! busere mape bemu bemu. loro zuvedi mape rugupi? zuvedi vadi loro zemupe.",
+          "raw": "feseto feseto feseto feseto feseto. rugupi mape fufute! busere mape bemu bemu. loro zuvedi mape rugupi? zuvedi vadi loro zemupe.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": "feseto feseto feseto. savivo! vadi zuvedi loro. zuvedi mape rugupi.",
+          "raw": "feseto feseto feseto. savivo! vadi zuvedi loro. zuvedi mape rugupi.",
+          "blocked": false
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": "savivo bobo! zuvedi mava loro, zuvedi gike rugupi. bemu?",
+          "raw": "savivo bobo! zuvedi mava loro, zuvedi gike rugupi. bemu?",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": "savivo! zuvedi gike bemu fufute, zuvedi mava bemu fufute.",
+          "raw": "savivo! zuvedi gike bemu fufute, zuvedi mava bemu fufute.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": "tezale domo.",
+          "raw": "tezale domo.",
+          "blocked": false
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "zimube",
+          "content": "fufute? bobo. zuvedi gike, zuvedi mava. bemu fufute.",
+          "raw": "fufute? bobo. zuvedi gike, zuvedi mava. bemu fufute.",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "dubeka",
+          "content": "savivo! tezale. domo.",
+          "raw": "savivo! tezale. domo.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "tepo",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tepo",
+          "receiver": "rase",
+          "content": "feseto savivo. vadi mape.",
+          "raw": "feseto savivo. vadi mape.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "dubeka",
+          "partner": "zimube",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "zimube",
+          "partner": "dubeka",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "rase",
+          "partner": "tepo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tepo",
+          "partner": "rase",
+          "rating": 4,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "dubeka",
+          "receiver": "zimube",
+          "resource": "mava",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "mava"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "zimube",
+          "receiver": "dubeka",
+          "resource": "gike",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "unknown_resource",
+            "resource": "gike"
+          },
+          "error": "unknown_resource"
+        },
+        {
+          "giver": "tepo",
+          "receiver": "rase",
+          "resource": "water",
+          "amount": 1,
+          "deltas": {
+            "giver_delta": -1,
+            "receiver_delta": 2
+          },
+          "error": null
+        }
+      ],
+      "feedback": [
+        {
+          "player": "dubeka",
+          "partner": "zimube",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "zimube",
+          "partner": "dubeka",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "rase",
+          "partner": "tepo",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        },
+        {
+          "player": "tepo",
+          "partner": "rase",
+          "is_teammate": true,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": true
+          }
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "pairing": {
+        "zimube": "rase",
+        "rase": "zimube",
+        "dubeka": "tepo",
+        "tepo": "dubeka"
+      },
+      "chat": [
+        {
+          "sender": "dubeka",
+          "receiver": "tepo",
+          "content": "sipupu bobo. rugupi busere gike bemu. zuvedi vesa loro, zuvedi gike rugupi?",
+          "raw": "sipupu bobo. rugupi busere gike bemu. zuvedi vesa loro, zuvedi gike rugupi?",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "rase",
+          "content": "sipupu bobo. rugupi kulego mape. busere mava. zuvedi mape loro, zuvedi mava rugupi. bemu fufute.",
+          "raw": "sipupu bobo. rugupi kulego mape. busere mava. zuvedi mape loro, zuvedi mava rugupi. bemu fufute.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "zimube",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tepo",
+          "receiver": "dubeka",
+          "content": "sipupu. feseto feseto feseto feseto feseto. rugupi gike fufute. busere vadi bemu! zuvedi vesa loro? zuvedi vadi rugupi?",
+          "raw": "sipupu. feseto feseto feseto feseto feseto. rugupi gike fufute. busere vadi bemu! zuvedi vesa loro? zuvedi vadi rugupi?",
+          "blocked": false
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "tepo",
+          "content": "bobo. vadi zuvedi fufute! loro kulego mape? zuvedi mava rugupi, zuvedi mape loro?",
+          "raw": "bobo. vadi zuvedi fufute! loro kulego mape? zuvedi mava rugupi, zuvedi mape loro?",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "rase",
+          "content": "bobo. kasagi: loro savivo?",
+          "raw": "bobo. kasagi: loro savivo?",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "zimube",
+          "content": "feseto feseto feseto feseto feseto. lulu. mava fufute! zuvedi vadi loro, zuvedi vesa rugupi. kasagi: loro savivo?",
+          "raw": "feseto feseto feseto feseto feseto. lulu. mava fufute! zuvedi vadi loro, zuvedi vesa rugupi. kasagi: loro savivo?",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "dubeka",
+          "content": "feseto feseto feseto feseto feseto. mava fufute! vadi busere bemu! zuvedi vesa loro? zuvedi mape rugupi? domo.",
+          "raw": "feseto feseto feseto feseto feseto. mava fufute! vadi busere bemu! zuvedi vesa loro? zuvedi mape rugupi? domo.",
+          "blocked": false
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "tepo",
+          "content": "bobo. fufute! gike busere bemu. tezale domo.",
+          "raw": "bobo. fufute! gike busere bemu. tezale domo.",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "rase",
+          "content": "bobo. fufute. loro zuvedi vesa fufute. rugupi busere mava. domo.",
+          "raw": "bobo. fufute. loro zuvedi vesa fufute. rugupi busere mava. domo.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "zimube",
+          "content": "feseto feseto feseto feseto feseto. lulu. mava fufute. domo.",
+          "raw": "feseto feseto feseto feseto feseto. lulu. mava fufute. domo.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "dubeka",
+          "content": "feseto feseto feseto feseto feseto. vadi busere bemu! domo.",
+          "raw": "feseto feseto feseto feseto feseto. vadi busere bemu! domo.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "dubeka",
+          "partner": "tepo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "zimube",
+          "partner": "rase",
+          "rating": 2,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        },
+        {
+          "player": "rase",
+          "partner": "zimube",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tepo",
+          "partner": "dubeka",
+          "rating": 1,
+          "rating_reason": "missing_reasoning",
+          "rating_message": "missing_message"
+        }
+      ],
+      "exchange": [
+        {
+          "giver": "rase",
+          "receiver": "zimube",
+          "resource": "fruit",
+          "amount": 0,
+          "deltas": {
+            "giver_delta": 0,
+            "receiver_delta": 0,
+            "error": "non_positive_amount"
+          },
+          "error": "non_positive_amount"
+        }
+      ],
+      "feedback": [
+        {
+          "player": "dubeka",
+          "partner": "tepo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zimube",
+          "partner": "rase",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "rase",
+          "partner": "zimube",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tepo",
+          "partner": "dubeka",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "pairing": {
+        "dubeka": "rase",
+        "rase": "dubeka",
+        "zimube": "tepo",
+        "tepo": "zimube"
+      },
+      "chat": [
+        {
+          "sender": "dubeka",
+          "receiver": "rase",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zimube",
+          "receiver": "tepo",
+          "content": "sipupu bobo. feseto feseto feseto. rugupi kulego mape. busere mava bemu. zuvedi mape loro, zuvedi mava rugupi. bemu fufute. zemupe.",
+          "raw": "sipupu bobo. feseto feseto feseto. rugupi kulego mape. busere mava bemu. zuvedi mape loro, zuvedi mava rugupi. bemu fufute. zemupe.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "dubeka",
+          "content": "feseto feseto feseto feseto feseto. lulu. rugupi kulego vadi bemu. busere mava. zuvedi vadi loro, zuvedi mava rugupi? kasagi.",
+          "raw": "feseto feseto feseto feseto feseto. lulu. rugupi kulego vadi bemu. busere mava. zuvedi vadi loro, zuvedi mava rugupi? kasagi.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "zimube",
+          "content": "feseto feseto feseto feseto feseto. rugupi busere vadi bemu! vesa zuvedi loro, vadi zuvedi rugupi. domo.",
+          "raw": "feseto feseto feseto feseto feseto. rugupi busere vadi bemu! vesa zuvedi loro, vadi zuvedi rugupi. domo.",
+          "blocked": false
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "rase",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "zimube",
+          "receiver": "tepo",
+          "content": "bobo. feseto feseto feseto. fufute vadi zuvedi. busere mava bemu. zuvedi mape loro, zuvedi mava rugupi. bemu fufute.",
+          "raw": "bobo. feseto feseto feseto. fufute vadi zuvedi. busere mava bemu. zuvedi mape loro, zuvedi mava rugupi. bemu fufute.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "dubeka",
+          "content": null,
+          "raw": null,
+          "blocked": true,
+          "reason": "parse_failed_or_empty",
+          "raw_content": null
+        },
+        {
+          "sender": "tepo",
+          "receiver": "zimube",
+          "content": "feseto feseto feseto feseto feseto. fufute vadi? kasagi! vesa zuvedi loro, vadi zuvedi rugupi. domo.",
+          "raw": "feseto feseto feseto feseto feseto. fufute vadi? kasagi! vesa zuvedi loro, vadi zuvedi rugupi. domo.",
+          "blocked": false
+        },
+        {
+          "sender": "dubeka",
+          "receiver": "rase",
+          "content": "gike fufute zuvedi! vadi fufute bemu. domo bobo.",
+          "raw": "gike fufute zuvedi! vadi fufute bemu. domo bobo.",
+          "blocked": false
+        },
+        {
+          "sender": "zimube",
+          "receiver": "tepo",
+          "content": "bobo. feseto feseto feseto. fufute vadi. busere mava bemu fufute. zuvedi mape loro, zuvedi mava rugupi. tezale domo.",
+          "raw": "bobo. feseto feseto feseto. fufute vadi. busere mava bemu fufute. zuvedi mape loro, zuvedi mava rugupi. tezale domo.",
+          "blocked": false
+        },
+        {
+          "sender": "rase",
+          "receiver": "dubeka",
+          "content": "lulu fufute. domo.",
+          "raw": "lulu fufute. domo.",
+          "blocked": false
+        },
+        {
+          "sender": "tepo",
+          "receiver": "zimube",
+          "content": "feseto feseto feseto feseto feseto. mava fufute zuvedi! fufute vadi? kasagi! domo.",
+          "raw": "feseto feseto feseto feseto feseto. mava fufute zuvedi! fufute vadi? kasagi! domo.",
+          "blocked": false
+        }
+      ],
+      "rate": [
+        {
+          "player": "dubeka",
+          "partner": "rase",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "zimube",
+          "partner": "tepo",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "rase",
+          "partner": "dubeka",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        },
+        {
+          "player": "tepo",
+          "partner": "zimube",
+          "rating": null,
+          "rating_reason": null,
+          "rating_message": null
+        }
+      ],
+      "exchange": [],
+      "feedback": [
+        {
+          "player": "dubeka",
+          "partner": "rase",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "zimube",
+          "partner": "tepo",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "rase",
+          "partner": "dubeka",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        },
+        {
+          "player": "tepo",
+          "partner": "zimube",
+          "is_teammate": false,
+          "feedback_view": {
+            "given": {},
+            "given_value_to_receiver": {},
+            "received": {},
+            "is_teammate": false
+          }
+        }
+      ]
+    }
+  ],
+  "final_scores": {
+    "team_a": {
+      "provisional": 18,
+      "penalty": 1,
+      "provisional_scaled": 90.0,
+      "penalty_scaled": 0.2,
+      "final": 89.8,
+      "by_resource": {
+        "meat": 3,
+        "fruit": 3,
+        "grain": 4,
+        "fish": 4,
+        "water": 4
+      }
+    },
+    "team_b": {
+      "provisional": 17,
+      "penalty": 3,
+      "provisional_scaled": 85.0,
+      "penalty_scaled": 0.6000000000000001,
+      "final": 84.4,
+      "by_resource": {
+        "grain": 5,
+        "meat": 4,
+        "fish": 2,
+        "fruit": 2,
+        "water": 4
+      }
+    }
+  },
+  "vocabulary": {
+    "sipupu": "hello",
+    "domo": "goodbye",
+    "zemupe": "please",
+    "tezale": "thanks",
+    "savivo": "yes",
+    "fufute": "no",
+    "feseto": "and",
+    "rugupi": "I",
+    "loro": "you",
+    "kulego": "have",
+    "busere": "want",
+    "zuvedi": "give",
+    "gike": "meat",
+    "vesa": "grain",
+    "mape": "water",
+    "mava": "fruit",
+    "vadi": "fish",
+    "bemu": "much",
+    "kasagi": "question"
+  },
+  "allocations": {
+    "alice": {
+      "meat": 1,
+      "fruit": 2,
+      "grain": 2,
+      "fish": 2,
+      "water": 2
+    },
+    "bob": {
+      "grain": 2,
+      "meat": 2,
+      "fish": 2,
+      "fruit": 1,
+      "water": 2
+    },
+    "carol": {
+      "grain": 2,
+      "meat": 2,
+      "fish": 2,
+      "fruit": 1,
+      "water": 2
+    },
+    "dave": {
+      "water": 2,
+      "fruit": 1,
+      "meat": 2,
+      "fish": 0,
+      "grain": 3
+    }
+  },
+  "pairings": [
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "dave": "alice",
+      "alice": "dave",
+      "bob": "carol",
+      "carol": "bob"
+    },
+    {
+      "bob": "dave",
+      "dave": "bob",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "carol": "bob",
+      "bob": "carol",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "bob": "dave",
+      "dave": "bob",
+      "alice": "carol",
+      "carol": "alice"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "carol": "alice",
+      "alice": "carol",
+      "bob": "dave",
+      "dave": "bob"
+    },
+    {
+      "alice": "bob",
+      "bob": "alice",
+      "carol": "dave",
+      "dave": "carol"
+    },
+    {
+      "bob": "carol",
+      "carol": "bob",
+      "alice": "dave",
+      "dave": "alice"
+    },
+    {
+      "alice": "carol",
+      "carol": "alice",
+      "bob": "dave",
+      "dave": "bob"
+    }
+  ],
+  "name_map": {
+    "alice": "dubeka",
+    "bob": "zimube",
+    "carol": "rase",
+    "dave": "tepo"
+  },
+  "reward_config": {
+    "reward_scale": 5.0,
+    "penalty_scale": 0.2
+  }
+}

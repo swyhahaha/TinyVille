@@ -41,6 +41,18 @@ class ResourceExchangeConfig:
     # LLM backend config passthrough
     llm_backend: Dict = field(default_factory=dict)
 
+    # Reward / penalty scaling (for ablation experiments)
+    # reward_scale multiplies the provisional total (higher => better reward emphasis)
+    # penalty_scale multiplies the imbalance penalty (higher => stronger punishment for imbalance)
+    reward_penalty: Dict[str, float] = field(default_factory=lambda: {"reward_scale": 1.0, "penalty_scale": 1.0})
+
+    # Predefined ablation presets (used by example runner)
+    ablation_presets: Dict[str, Dict[str, float]] = field(default_factory=lambda: {
+        "reward_strong": {"reward_scale": 5.0, "penalty_scale": 0.2},
+        "penalty_strong": {"reward_scale": 0.2, "penalty_scale": 5.0},
+        "balanced": {"reward_scale": 1.0, "penalty_scale": 1.0}
+    })
+
     # Prompting controls
     # If provided, this string will replace strong instructions encouraging invented tokens.
     # Example: "Don't hesitate to make mistakes as long as it helps you win. Different groups may develop dialects."
